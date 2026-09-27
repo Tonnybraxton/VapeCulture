@@ -1,10 +1,9 @@
 """
 Local Development Server for VapeCulture Kenya Storefront.
-Serves static assets with clean routing, correct MIME types, and fast response times.
+Serves static assets and routes the storefront to the authentic Shopify collections page.
 """
 import http.server
 import os
-import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SITE_DIR = os.path.join(BASE_DIR, "vapeculture.in")
@@ -15,13 +14,16 @@ class VapeCultureHandler(http.server.SimpleHTTPRequestHandler):
         super().__init__(*args, directory=SITE_DIR, **kwargs)
 
     def do_GET(self):
-        # Serve index.html cleanly on root
-        if self.path in ('/', ''):
-            self.path = '/index.html'
+        # Redirect root to authentic Shopify collection storefront
+        if self.path in ('/', '/index.html', ''):
+            self.send_response(302)
+            self.send_header('Location', '/collections/all.html')
+            self.end_headers()
+            return
         return super().do_GET()
 
     def log_message(self, format, *args):
-        # Filter out repetitive external 404 noise to keep logs clean
+        # Suppress 404 logs for external assets to keep terminal output clean
         if args and len(args) > 1 and '404' in str(args[1]):
             return
         super().log_message(format, *args)
@@ -29,10 +31,9 @@ class VapeCultureHandler(http.server.SimpleHTTPRequestHandler):
 def run():
     with http.server.HTTPServer(("", PORT), VapeCultureHandler) as httpd:
         print("=" * 60)
-        print(f"  🌿 VapeCulture Storefront running at: http://localhost:{PORT}")
-        print(f"  📂 Serving from: {SITE_DIR}")
+        print(f"  VapeCulture Storefront running at: http://localhost:{PORT}")
+        print(f"  Serving authentic storefront at: http://localhost:{PORT}/collections/all.html")
         print("=" * 60)
-        print("Press Ctrl+C to stop.")
         try:
             httpd.serve_forever()
         except KeyboardInterrupt:
