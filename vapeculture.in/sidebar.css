@@ -1,0 +1,146 @@
+/* Modern Sidebar Styling */
+:root {
+  --sidebar-bg: rgba(10, 10, 10, 0.95);
+  --sidebar-accent: #ff4757;
+  --sidebar-text: #ffffff;
+  --sidebar-hover-bg: rgba(255, 255, 255, 0.1);
+  --sidebar-transition: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#custom-sidebar {
+  position: fixed;
+  top: 0;
+  left: -320px;
+  width: 320px;
+  height: 100%;
+  background: var(--sidebar-bg);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  z-index: 10000;
+  transition: var(--sidebar-transition);
+  box-shadow: 10px 0 30px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0;
+}
+
+#custom-sidebar.active {
+  left: 0;
+}
+
+#sidebar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  visibility: hidden;
+  z-index: 9999;
+  transition: var(--sidebar-transition);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
+
+#sidebar-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.sidebar-header {
+  padding: 0 30px 30px;
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sidebar-brand {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--sidebar-text);
+  letter-spacing: -1px;
+}
+
+#close-sidebar {
+  background: none;
+  border: none;
+  color: var(--sidebar-text);
+  cursor: pointer;
+  padding: 5px;
+  transition: transform 0.2s;
+}
+
+#close-sidebar:hover {
+  transform: scale(1.1);
+  color: var(--sidebar-accent);
+}
+
+.sidebar-nav {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.sidebar-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-nav li {
+  margin: 0;
+}
+
+.sidebar-nav a {
+  display: block;
+  padding: 15px 30px;
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border-left: 4px solid transparent;
+}
+
+.sidebar-nav a:hover {
+  background: var(--sidebar-hover-bg);
+  color: var(--sidebar-text);
+  border-left-color: var(--sidebar-accent);
+  padding-left: 40px;
+}
+
+/* Hamburger Button */
+#sidebar-toggle {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1001;
+  background: rgba(0, 0, 0, 0.5);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  width: 45px;
+  height: 45px;
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+}
+
+#sidebar-toggle:hover {
+  background: var(--sidebar-accent);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(255, 71, 87, 0.4);
+}
+
+/* Hide default Shopify drawer toggle if necessary */
+/* .header__icon--menu { display: none !important; } */
+

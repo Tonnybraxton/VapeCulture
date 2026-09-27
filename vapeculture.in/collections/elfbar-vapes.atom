@@ -1,0 +1,2438 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/elfbar-vapes.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-04-04T05:06:13+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+    <published>2026-04-04T05:06:13+05:30</published>
+    <updated>2026-04-04T05:06:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekpod-2-us-80000-puffs"/>
+    <title>Geekpod 2 US (80000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/olivebar-geekpod-II-80k-puff-vape.webp?v=1775259373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            3100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Geekpod II US 80K delivers a powerful disposable vape experience with up to 80,000 puffs, fruity flavor design, and dual modes for customizable performance. Enjoy a unique blended mode using the Norm and boost mode, while dual airflow ensures a smooth, satisfying draw every time. Shop <a href="https://[YOUR DOMAIN]" title="disposable vape">disposable vape</a> at best price in Kenya, with free shipping.</p>
+<p>Specifications:</p>
+<ul>
+<li>Nicotine Strength: 5%<br>
+</li>
+<li>Puffs: Up to 80,000<br>
+</li>
+<li>Dual airflow system<br>
+</li>
+<li>Battery &amp; e-liquid display screen<br>
+</li>
+<li>Norm Mode: 15W (up to 80,000 puffs)<br>
+</li>
+<li>Boost Mode: 35W (up to 60,000 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Blueberry Watermelon</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Blueberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Frozen Grape</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Frozen Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Juicy Peach Ice</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Juicy Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Strawberry Kiwi</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Lychee Watermelon</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Lychee Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Blackberry B-Pop</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Blackberry B-Pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Strawberry B-Pop</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Strawberry B-Pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Mexico Mango</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Mexico Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+    <published>2026-02-25T12:13:23+05:30</published>
+    <updated>2026-02-25T12:13:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekpod-us-40000-puffs"/>
+    <title>Geekpod US (40000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/geekpod-vape-us-40000-puffs.webp?v=1772001325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Geekpod US 40K delivers a powerful disposable vape experience with up to 40,000 puffs, fruity flavor design, and dual modes for customizable performance. Enjoy a unique blended mode using the Norm and boost mode, while dual airflow ensures a smooth, satisfying draw every time.</p>
+<p>Specifications:</p>
+<ul>
+<li>Nicotine Strength: 5%<br>
+</li>
+<li>Puffs: Up to 40,000<br>
+</li>
+<li>Dual airflow system<br>
+</li>
+<li>Battery &amp; e-liquid display screen<br>
+</li>
+<li>Norm Mode: 15W (up to 40,000 puffs)<br>
+</li>
+<li>Boost Mode: 35W (up to 20,000 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Strawberry B-pop</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Strawberry B-pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Juicy Peach Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Strawberry Kiwi</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Sakura Grape</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Sakura Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Blueberry Watermelon</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Blueberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Mexico Mango</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Mexico Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+    <published>2026-02-20T08:18:29+05:30</published>
+    <updated>2026-02-20T08:18:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-combo-25000-puffs"/>
+    <title>Elfbar Combo (25000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elf_Bar_COMBO_25000_grape_BLACKCURRANT.webp?v=1771553892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ELF BAR COMBO 25000 delivers a powerful disposable vape experience with up to 25,000 puffs, triple-flavor design, and dual modes for customizable performance. Easily switch between single flavors or enjoy a unique blended mode using the combo switch, while dual airflow ensures a smooth, satisfying draw every time.</p>
+<p>Specifications:</p>
+<ul>
+<li>Battery: 850mAh rechargeable (Type-C)<br>
+</li>
+<li>E-liquid: 22ml pre-filled<br>
+</li>
+<li>Nicotine Strength: 5%<br>
+</li>
+<li>Puffs: Up to 25,000<br>
+</li>
+<li>Dual airflow system<br>
+</li>
+<li>Battery &amp; e-liquid display screen<br>
+</li>
+<li>Lite Mode: 15W (up to 25,000 puffs)<br>
+</li>
+<li>Turbo Mode: 35W (up to 15,000 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Strawberry + Watermelon Bubblegum</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Strawberry + Watermelon Bubblegum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Grape + Blackcurrant</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Grape + Blackcurrant</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Peach Mango + Watermelon</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Peach Mango + Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Peach + Mango</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Peach + Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Cherry + Cola</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Cherry + Cola</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Green Grape + Grape</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Green Grape + Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Soursop + Lychee</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Soursop + Lychee</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Apple + Juicy Peach</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Apple + Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Watermelon + Honeydew</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Watermelon + Honeydew</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+    <published>2026-02-18T06:55:19+05:30</published>
+    <updated>2026-02-18T06:55:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-raya-sobo-40000-puffs"/>
+    <title>Elfbar Raya Sobo (40000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/elfbar-raya-sobo-40000-puffs.webp?v=1771377520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the latest invention - The Elfbar Raya Sobo is here! Experience up to 40,000 smooth puffs powered by 1100mAh battery built for consistency. Featuring Interactive glow, Normal / Turbo Mode, and Dual Mesh technology for richer flavor and stronger performance, and what not. It gives one of the smoothest hit, a must try only at [YOUR DOMAIN]</p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Latest in Elfbar Raya Series</li>
+<li>Puff: 40000 Puffs<br>
+</li>
+<li>Battery: 1100mAh</li>
+<li>Dual Mesh Technology</li>
+<li>2 Different modes</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blackberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blackberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blackberry Mint Strawberry</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blackberry Mint Strawberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Strawberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Lychee Juicy Peach</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Lychee Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Lemon Lime</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Lemon Lime</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Cola Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Cola Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+    <published>2026-01-28T20:05:19+05:30</published>
+    <updated>2026-01-28T20:05:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-trio-40000-puffs"/>
+    <title>Elfbar Trio (40000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/elfbar-trio-vape.webp?v=1769610521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the Elf Bar Trio 40K — a next-gen premium disposable vape built for vapers who want control, flavor, and serious longevity. Delivering up to 40,000 puffs, this device features an exclusive three-mode flavor system that lets you switch between Sweet, Icy, and Sour profiles anytime. One device, three vibes.</p>
+<p>With a simple switch, you can change the intensity and flavor experience in seconds—perfect for all-day use without juggling multiple pods. Whether you’re craving smooth sweetness, an icy kick, or a tangy punch, the Trio 40K adapts to your mood instantly, now shop elfbar at best price in Kenya from [YOUR BRAND]!</p>
+<p>Why Choose <a href="https://[YOUR DOMAIN]/collections/elfbar-vapes" title="Elfbar">Elfbar</a> Trio 40K?</p>
+<ul>
+<li>Up to 40,000 real puffs with consistent output</li>
+<li>3 flavor modes: Sweet, Icy &amp; Sour</li>
+<li>Instant flavor control with easy switching</li>
+<li>Multi-coil technology for even heating</li>
+<li>Powerful 850mAh rechargeable battery</li>
+<li>USB-C fast charging</li>
+<li>Rich vapor &amp; authentic flavor till the last puff</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Blueberry Raspberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Blueberry Raspberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Double Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Mix Berry</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Mix Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Peach Mango</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Peach Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>VCT</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - VCT</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Blueberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Strawberry Mango</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Strawberry Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Strawberry Kiwi</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Strawberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Peach Mango Watermelon</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Peach Mango Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Mango Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Mango Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Pineapple Passion Fruit Guava</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Pineapple Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Sour Apple Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Sour Apple Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Blueberry POM Slushy</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Blueberry POM Slushy</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Peach Twist</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Peach Twist</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Scary Berry</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Scary Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Pineapple Lime</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Pineapple Lime</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Raspberry Watermelon</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Raspberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Watermelon Bubblegum</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Watermelon Bubblegum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7408896114743</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Trio (40K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+    <published>2025-12-09T06:22:43+05:30</published>
+    <updated>2025-12-09T06:22:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfworld-pb45000-45000-puffs"/>
+    <title>Elfworld PB45000 (45000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/elfworld-pb45000-banana-strawberry.webp?v=1765240776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the Elfworld PB45000 — a next-gen disposable vape that puts full control in your hands. This innovative device lets you adjust nicotine strength, ice intensity, and airflow, so your vape hits exactly how you want it, every time.</p>
+<p>Features:</p>
+<ul>
+<li>3 Adjustable Nicotine Levels – Switch your strength whenever your mood changes</li>
+<li>3 Adjustable Ice Levels – Choose from smooth to ultra-icy</li>
+<li>Adjustable Airflow System – Tight MTL draw or airy clouds? You decide</li>
+<li>Massive Puff Capacity – Built for long-lasting satisfaction</li>
+<li>800mAh Rechargeable Battery – Charge via Type-C and keep going</li>
+<li>Smart Digital Display – Always see real-time battery &amp; e-liquid status</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Sour Watermelon Drop</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Sour Watermelon Drop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Banana Strawberry</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Banana Strawberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Cranberry Juice</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Cranberry Juice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Watermelon Frozen</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Watermelon Frozen</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384990580791</id>
+      <title>Peach Mango</title>
+      <s:price currency="KES">2400.00</s:price>
+      <s:sku>E W PB45000 (45K P) - Peach Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+    <published>2025-09-10T04:36:27+05:30</published>
+    <updated>2025-09-10T04:36:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-nic-king-30000-puffs"/>
+    <title>Elfbar Nic King (30000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elfbar-nicking-vape-blackberry-cranberry.webp?v=1757458083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Elf Bar Nic King 30,000 Puffs Disposable Vape, the ultimate long-lasting vape with adjustable nicotine strength—available now at [YOUR DOMAIN] your trusted vape store. Designed for serious vapers who demand both performance and customization, this advanced disposable vape offers up to 30,000 puffs, setting a new standard for longevity and satisfaction.</p>
+<p>Specification:</p>
+<ul>
+<li>Puff: up to 30000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 20ml</li>
+<li>Battery: 850mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Blueberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Watermelon River Mint</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Watermelon River Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Blue Razz</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Blue Razz</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Cola Ice</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Cola Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Key Lime</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Key Lime</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Double Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Peach Berry</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Peach Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Mango Peach Watermelon</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Mango Peach Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Cherry Pomegranate Cranberry</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Cherry Pomegranate Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Lemon Lime Ice Tea</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Lemon Lime Ice Tea</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Mixed Berry</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Mixed Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Strawberry Kiwi</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7337394602039</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>E B Nic K (30K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+    <published>2025-08-27T14:08:13+05:30</published>
+    <updated>2025-08-27T14:08:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-moon-night-40000-puffs"/>
+    <title>Elfbar Moon Night (40000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elfbar-Moonlight-40000-Puffs-Disposable-Pineapple-Mango.webp?v=1756176244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span class="cf0"><!--StartFragment --></span></p>
+<p><span class="cf0">The <a title="Elfbar" href="https://[YOUR DOMAIN]/collections/elfbar-vapes">ELFBAR</a> </span><span class="cf0">MoonNight</span><span class="cf0"> 40K brings next-level convenience, up to 40000 puffs in a single rechargeable device, engineered for long-lasting performance and rich flavour. <!--StartFragment --></span></p>
+<p><span class="cf0">MoonNight’s</span><span class="cf0"> dual mesh coil delivers smoother draws and brighter flavour across fruit, mint and dessert profiles </span><span class="cf1">— from Blue Razz Ice and Blackberry Ice to Dragon </span><span class="cf1">Strawnana</span><span class="cf1"> and Pineapple Mango. The result is a consistent, satisfying inhale that highlights each flavour’s character.</span></p>
+<p><span class="cf0"><!--EndFragment --></span></p>
+<p><span class="cf0"><!--EndFragment --></span></p>
+<ul>
+<li><span class="cf0">Model: Elfbar 40k Moon Light</span></li>
+<li>
+<span class="cf0">Puff Count: </span>
+<ul>
+<li><span class="cf0">40000 Puffs (Eco Mode), </span></li>
+<li><span class="cf0">30000 Puffs (Normal Mode), </span></li>
+<li>
+<span class="cf0">25000 Puffs (Boost Mode).</span><span class="cf0"><!--StartFragment --></span>
+</li>
+</ul>
+</li>
+<li>
+<span class="cf0">Prefilled Capacity: 22ml</span><!--EndFragment -->
+</li>
+<li><span class="cf0">Battery Capacity: 850mAh (Rechargeable)</span></li>
+<li><span class="cf0">Nicotine Strength: 5% (50mg)</span></li>
+<li><span class="cf0">Display: Fully curved screen for puff &amp; battery status</span></li>
+<li><span class="cf0">Charging Port: Type-C fast charging</span></li>
+</ul>
+<p><!--EndFragment --></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Coconut Toasty</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Coconut Toasty</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Sikanji</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Sikanji</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Rose Syrup</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon Night (40K P) - Rose Syrup</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Cola Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Cola Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Kala Khata Syrup</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon Night (40K P) - Kala Khata Syrup</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Grape Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Blackberry Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Blackberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Triple Mango</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Triple Mango</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Blueberry Raspberry Watermelon</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Blueberry Raspberry Watermelon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Peach Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Peach Mango Watermelon</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Peach Mango Watermelon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Strawberry Kiwi Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Blueberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Watermelon Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Pineapple Mango</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Pineapple Mango</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Pomegranate Burst</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Pomegranate Burst</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Strawberry Mango</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Strawberry Mango</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Two Apple</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Two Apple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Strawberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Watermelon Cantaloupe Guava</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Watermelon Cantaloupe Guava</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Blue Razz Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Peach Lychee Blackcurrant</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Peach Lychee Blackcurrant</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Cherry Watermelon</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Cherry Watermelon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Dragon Strawnana</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Dragon Strawnana</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Blackberry Cranberry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Grape Raspberry</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Grape Raspberry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Mango Peach Watermelon</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Mango Peach Watermelon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Miami Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Lychee Juicy Peach</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Lychee Juicy Peach</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Double Mango</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Peach Berry</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Peach Berry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7330472919095</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2650.00</s:price>
+      <s:sku>E B Moon N (40K P) - Strawberry Watermelon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+    <published>2025-08-04T04:49:07+05:30</published>
+    <updated>2025-08-04T04:49:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-pi9000-9000-puffs"/>
+    <title>Elfbar Pi9000 (9000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/elf_bar_pi_9000.webp?v=1754262787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For vapers looking for a beginner vaping device you're at right place, the Elf Bar Pi9000 disposable vape is a fantastic choice. It’s ideal for vaping when on the go due to its pre-filled e-liquid and simple design. It has a really unique shape that resembles a <em>pillow</em>. Since e-liquid’s physical and chemical effects are as soft and gentle as a pillow, you don’t need to worry about the flavour.</p>
+<p>Product Features:</p>
+<ul>
+<li>Coil : Mesh Coil</li>
+<li>Puff : 9000 Puffs</li>
+<li>Volume : 18ML Flavour</li>
+<li>Nicotine Strength : 50mg</li>
+<li>E-Liquid &amp; Battery Indicator</li>
+<li>Charging : Rechargeable with Type C</li>
+</ul>
+<p>You may also have a look at <a href="https://[YOUR DOMAIN]/collections/elfbar-vapes" title="Elfbar latest models">Elfbar's latest models</a> here.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Raspberry Passion Fruit Orange</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Raspberry Passion Fruit Orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Pomegranate Berry</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Pomegranate Berry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Blue Razz Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Berry Raspberry</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Berry Raspberry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Yakult Ice</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Yakult Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Strawberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Strawberry Yakult</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Strawberry Yakult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Raspberry Elfbull</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Raspberry Elfbull</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Refreshing Red</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Refreshing Red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Green Apple</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Green Apple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Cream Tobacco</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Cream Tobacco</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Blueberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322249494583</id>
+      <title>Pink Lemon</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>E B Pi9K (9K P) - Pink Lemon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+    <published>2025-07-02T18:39:35+05:30</published>
+    <updated>2025-07-02T18:39:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-raya-d3-pro"/>
+    <title>Elfbar Raya D3 Pro (30000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ELFBAR-Raya-D3-Pro.png?v=1747913873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elf Bar Raya D3 Pro with 30000 puffs boast an impressive puff capacity, this device delivers a long-lasting and flavorful journey with its innovative technology. Elfbar 30000 ensures a hassle-free and convenient vaping solution. Raya D3 Pro Elf Bar provides a refreshing and enjoyable taste profile. Ideal for users seeking a high-puff disposable option, the Elfbar promises an immersive vaping session with every draw.</p>
+<p>Flavour name tells how and what flavour is! Shop with most variety of flavours only at [YOUR BRAND]!</p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Puff: 30000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 23ml</li>
+<li>Battery: 950mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Peach Lychee Blackcurrent</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Peach Lychee Blackcurrant</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Blueberry Raspberry Watermelon</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Blueberry Raspberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Peach Mango Watermelon</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B Raya D3 Pro (30K P) - Peach Mango Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Double Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Blackberry Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Blackberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Kala Khatta</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Kala Khatta</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Blueberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (13K P) - Strawberry Kiwi Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Coffee</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Coffee</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Grape Bubblegum</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Grape Bubblegum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Lychee Juicy Peach</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Lychee Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Cola Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Cola Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Sikanji</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Sikanji</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Masala Chai</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Masala Chai</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7262984831031</id>
+      <title>Blackberry Melon Ice</title>
+      <s:price currency="KES">2600.00</s:price>
+      <s:sku>E B R D3 Pro (30K P) - Blackberry Melon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+    <published>2025-05-29T21:31:02+05:30</published>
+    <updated>2025-05-29T21:31:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-sweet-king-30000-puffs"/>
+    <title>Elfbar Sweet King (30000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elfbar-Sweet-King-Vape.png?v=1747994700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ELFBAR Sweet King with 30000 Puffs boast an impressive puff capacity, this device delivers a long-lasting and flavorful journey with its innovative technology. Elfbar Sweet King series is all about adding sweet touch to regular flavours making it perfect. ELFBAR Sweet King provides a refreshing and enjoyable sweet taste profile, for vapers how like desserts. Ideal for users seeking a high-puff disposable option, the ELFBAR Sweet King promises an immersive vaping session with every draw.</p>
+<p>Flavour name tells how and what flavour is! Shop with most variety of flavours only at [YOUR BRAND]!</p>
+<p>Specification:</p>
+<ul>
+<li>Puff: up to 30000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 20ml</li>
+<li>Battery: 850mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Blackberry Peach Lemonade</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Blackberry Peach Lemonade</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Kala Khata Syrup</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Kala Khata Syrup</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Grape Honey Dew</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Grape Honey Dew</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Triple Melon</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Triple Melon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Orange Gummy Bear</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Orange Gummy Bear</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Cotton Candy Ice</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Cotton Candy Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Strawberry Mango</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Strawberry Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Strawberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Triple Mango</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Triple Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283223101495</id>
+      <title>Rose Syrup</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B Sweet K (30K P) - Rose Syrup</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+    <published>2025-05-29T21:24:31+05:30</published>
+    <updated>2025-05-29T21:24:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-ice-king-30000-puffs"/>
+    <title>Elfbar Ice King (30000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elf-Bar-Ice-King-30k-Puffs-Best-Disposable.jpg?v=1747653098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ELFBAR Ice King with 30000 puffs boast an impressive puff capacity, this device delivers a long-lasting and flavorful journey with its innovative technology. Elfbar 30000 ensures a hassle-free and convenient vaping solution. Elfbar Ice King provides a refreshing and enjoyable taste profile. Ideal for users seeking a high-puff disposable option, the ELFBAR Ice King promises an immersive vaping session with every draw.</p>
+<p>Flavour name tells how and what flavour is! Shop with most variety of flavours only at [YOUR BRAND]!</p>
+<p>Specification:</p>
+<ul>
+<li>Puff: up to 30000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 20ml</li>
+<li>Battery: 850mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Blueberry Raspberry Watermelon</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Blueberry Raspberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Ribena Lychee</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Ribena Lychee</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Sour Pop</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Sour Pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Mixed Berry</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Mixed Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Blueberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Passion Fruit Mango Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Passion Fruit Mango Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Strawberry Kiwi Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Bubble Gum</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Bubble Gum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Cherry Pomegranate Cranberry</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Cherry Pomegranate Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Cherry Watermelon</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Cherry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Double Apple</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Double Apple</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Double Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Elf Bull</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Elf Bull</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Mango Peach Watermelon</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Mango Peach Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Watermelon Bubble Gum</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Watermelon Bubble Gum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Cola Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Cola Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283201146935</id>
+      <title>Americano Ice</title>
+      <s:price currency="KES">2300.00</s:price>
+      <s:sku>E B Ice K (30K P) - Americano Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+    <published>2025-05-07T21:40:45+05:30</published>
+    <updated>2025-05-07T21:40:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-raya-d3-25000-puffs"/>
+    <title>Elfbar Raya D3 (25000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/RAYA-D3-Pro-All.jpg?v=1747479571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elf Bar Raya D3 with 25000 puffs boast an impressive puff capacity, this device delivers a long-lasting and flavorful journey with its innovative technology. Elfbar 25000 ensures a hassle-free and convenient vaping solution. Raya D3 Elf Bar provides a refreshing and enjoyable taste profile. Ideal for users seeking a high-puff disposable option, the Elfbar D3 Raya promises an immersive vaping session with every draw.</p>
+<p>Flavour name tells how and what flavour is! Shop with most variety of flavours only at [YOUR BRAND]!</p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Puff: 25000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 23ml</li>
+<li>Battery: 850mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Kiwi Passion Fruit Guava</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Kiwi Passion Fruit Guava</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Apple Peach</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Apple Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Pineapple Mango Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25 K) - Pineapple Mango Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Grape Mint</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Grape Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Strawberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Lemon Lime Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Lemon Lime Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Blueberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Blueberry Raspberry</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Blueberry Raspberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Watermelon Bubblegum</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Watermelon Bubblegum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Watermelon Lemon</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Watermelon Lemon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Double Apple</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Double Apple</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Peach Berry</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Peach Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Strawberry Grape</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Strawberry Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Grape Cherry</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B R D3 (25K P) - Grape Cherry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261830840375</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2200.00</s:price>
+      <s:sku>E B Raya D3 (25K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+    <published>2025-05-07T20:37:14+05:30</published>
+    <updated>2025-05-07T20:37:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-raya-d2-blueberry-raspberry-20000-puffs"/>
+    <title>Elfbar Raya D2 (20000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/elf-bar-raya-d2-20000-banner.webp?v=1751458429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elf Bar Raya D2 with 20000 puffs boast an impressive puff capacity, this device delivers a long-lasting and flavorful journey with its innovative technology. Elfbar 20000 ensures a hassle-free and convenient vaping solution. Raya D2 Elf Bar provides a refreshing and enjoyable taste profile. Ideal for users seeking a high-puff disposable option, the Elfbar D2 Raya promises an immersive vaping session with every draw.</p>
+<p>Flavour name tells how and what flavour is! Shop with most variety of flavours only at [YOUR BRAND]!</p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Puff: 20000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 30ml</li>
+<li>Battery: 800mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Lemon Mint</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Lemon Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Mango Peach Watermelon</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Mango Peach Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Double Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Watermelon Bubblegum</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Watermelon Bubblegum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Mango Peach</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Mango Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Blueberry Raspberry</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Blueberry Raspberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7261548937271</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>E B R D2 (20K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+    <published>2025-03-24T03:39:21+05:30</published>
+    <updated>2025-03-24T03:39:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-raya-d1-13000-puffs"/>
+    <title>Elfbar Raya D1 (13000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elf_Bar_Raya_D1_Disposable_Vape_13000_Puffs-min.jpg?v=1747725458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elf Bar Raya D1 with 13000 puffs boast an impressive puff capacity, this device delivers a long-lasting and flavorful journey with its innovative technology. Elfbar 13000 ensures a hassle-free and convenient vaping solution. Raya D1 Elf Bar provides a refreshing and enjoyable taste profile. Ideal for users seeking a high-puff disposable option, the Elfbar D1 Raya promises an immersive vaping session with every draw.</p>
+<p>Flavour name tells how and what flavour is! Shop with most variety of flavours only at [YOUR BRAND]!</p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Puff: 13000 Puffs</li>
+<li>Nicotine: 5%</li>
+<li>Capacity: 18ml</li>
+<li>Battery: 650mAh</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Double Mango</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Double Mango</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Kiwi Guava Grape</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Kiwi Guava Grape</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Ribena Lychee</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Ribena Lychee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Strawberry Guava</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Strawberry Guava</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Blueberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Blackberry Cranberry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Cola</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Cola</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Mango Strawberry Ice Cream</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Mango Strawberry Ice Cream</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Cherry Watermelon</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Cherry Watermelon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Strawberry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Peach Lychee Blackcurrant</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Peach Lychee Blackcurrant</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Blue razz Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Peach Mango</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Peach Mango</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Peach Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Mixed Berry</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Mixed Berry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Miami Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Watermelon Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Peach Apple Orange Bubblegum</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Peach Apple Orange Bubblegum</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Mango Lychee Bubblegum</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Mango Lychee Bubblegum</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Watermelon Honeydew</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Watermelon Honeydew</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Apple Orange Bubblegum</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Apple Orange Bubblegum</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Lychee Juicy Peach</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Lychee Juicy Peach</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Grape Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Blueberry Mint</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Blueberry Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Tobacco</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Tobacco</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Strawberry Banana</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Strawberry Banana</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Strawberry Kiwi Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Masam Bubblegum</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Masam Bubblegum</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7256747737143</id>
+      <title>Lemon Lime</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>E B R D1 (13K P) - Lemon Lime</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+
+

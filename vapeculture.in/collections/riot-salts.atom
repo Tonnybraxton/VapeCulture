@@ -1,0 +1,1136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/riot-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-11-18T05:57:28+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373680508983</id>
+    <published>2025-11-18T05:57:28+05:30</published>
+    <updated>2025-11-18T05:57:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-grape-ice"/>
+    <title>Riot Squad Salts - Grape Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Grape-Ice-Nic-Salt-by-Riot-Squad-Salt.webp?v=1763425477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grape Ice nic salt by Riot Squad, tastes just like rich dark grapes are chilled to perfection to provide an authentically moreish inhale laced with an icy chill.</p>
+<p>Featuring a 50% VG concentration, this nic salt will produce a discreet amount of vapour for an MTL (Mouth To Lung) inhale. It pairs best with a refillable kit that's designed for MTL vaping.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373680508983</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Grape Ice 20 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373680508983</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Grape Ice 48 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373680345143</id>
+    <published>2025-11-18T05:54:01+05:30</published>
+    <updated>2025-11-18T05:54:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-menthol-lemon-cucumber"/>
+    <title>Riot Squad Salts - Menthol Lemon Cucumber</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-squad-hybrid-menthol-lemon-cucumber-nic-salt.webp?v=1763425358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lemon &amp; Cucumber Menthol nic salt by Riot Squad is a fruit blend featuring cooling yet sharp notes. A zesty lemon and subtle cucumber combine on inhale, topped off by a crisp menthol endnote for a layered flavour.</p>
+<p>Featuring a 50% VG concentration, this nic salt will produce a discreet amount of vapour for an MTL (Mouth To Lung) inhale. It pairs best with a refillable kit that's designed for MTL vaping.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373680345143</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Menthol Lemon Cucumber 20 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373680345143</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Menthol Lemon Cucumber 48 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373680181303</id>
+    <published>2025-11-18T05:51:36+05:30</published>
+    <updated>2025-11-18T05:51:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-guava-passion-fruit-pineapple"/>
+    <title>Riot Squad Salts - Guava Passion Fruit Pineapple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/guava-passionfruit-and-pineapple-nic-salt-e-liquid-by-riot-bar.webp?v=1763425197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Guava Passionfruit Pineapple nic salt e-liquid by Riot Bar Edition features a bold medley of tropical fruits. The sweetness of guava and passionfruit is complemented by tangy pineapple.</p>
+<p>Featuring a 50% VG concentration, this nic salt will produce a discreet amount of vapour for an MTL (Mouth To Lung) inhale. It pairs best with a refillable kit that's designed for MTL vaping.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373680181303</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Guava Passion Fruit Pineapple 20 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373680181303</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Guava Passion Fruit Pineapple 48 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373679886391</id>
+    <published>2025-11-18T05:49:04+05:30</published>
+    <updated>2025-11-18T05:49:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-mango-peach-pineapple"/>
+    <title>Riot Squad Salts - Mango Peach Pineapple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/mango-peach-pineapple-nic-salt-e-liquid-by-riot-bar-edition.webp?v=1763425029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Peach Pineapple nic salt e-liquid by Riot Bar Edition sharpens the sweet and fruity flavours of mango and peach with the tangier notes of pineapple, for an exotic vape.</p>
+<p>Featuring a 50% VG concentration, this nic salt will produce a discreet amount of vapour for an MTL (Mouth To Lung) inhale. It pairs best with a refillable kit that's designed for MTL vaping.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373679886391</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Mango Peach Pineapple 20 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373679886391</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Mango Peach Pineapple 48 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7342676639799</id>
+    <published>2025-09-18T13:26:06+05:30</published>
+    <updated>2025-09-18T13:26:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-strawberry-blueberry-ice"/>
+    <title>Riot Squad Salts - Strawberry Blueberry Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Riot_Bar_Salts_Strawberry_Blueberry_Ice.webp?v=1758182062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberry &amp; Blueberry Ice Bar Riot Salts is a bright and bold blueberry flavour, infused with sweet notes of juicy strawberries, finished with cool ice.</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342676639799</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Strawberry Blueberry Ice - 20 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342676639799</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Strawberry Blueberry Ice - 48 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7342649114679</id>
+    <published>2025-09-18T13:23:22+05:30</published>
+    <updated>2025-09-18T13:23:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-sublime"/>
+    <title>Riot Squad Salts - Sublime</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Sub-Lime-Hybrid-by-Riot-Squad-Salts.webp?v=1758180621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sublime S:ALT by Riot Squad - Sub-Lime is a citrus blend featuring berry fruit notes. A combination of zesty lemon and sharp lime is fused with a bitter blackcurrant, for an e-liquid which plays between sweet and sour notes.</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342649114679</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Sublime - 20 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342649114679</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Riot - Sublime - 48 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283424198711</id>
+    <published>2025-05-20T05:51:31+05:30</published>
+    <updated>2025-05-20T05:51:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-pink-grenade"/>
+    <title>Riot Squad Salts - Pink Grenade</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-pink-grenade-vape-juice.jpg?v=1747700493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Grenade S:ALT by Riot Squad - Perhaps the ultimate fruit soda e-liquid, Pink Grenade S:ALT by Riot Squad combines the flavours of lemon and strawberry with a sweet soda base to create a vape juice that you'll crave all day<br><br>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424198711</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e63091d2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424198711</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e6394ced</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283424165943</id>
+    <published>2025-05-20T05:51:29+05:30</published>
+    <updated>2025-05-20T05:51:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-tropical-fury"/>
+    <title>Riot Squad Salts - Tropical Fury</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-tropical-fury-vape-juice.jpg?v=1747700491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tropical Fury S:ALT by Riot Squad - No e-liquid name could possibly be more appropriate than Tropical Fury by Riot Squad.</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424165943</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5fd05db</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424165943</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e6064427</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283424133175</id>
+    <published>2025-05-20T05:51:27+05:30</published>
+    <updated>2025-05-20T05:51:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-pure-minted"/>
+    <title>Riot Squad Salts - Pure Minted</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-pure-minted-vape-juice.jpg?v=1747700489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pure Minted S:ALT by Riot Squad - Riot Squad don't do things half heartedly, this mix of peppermint, menthol and juicy berries is a full on S:ALT hit of pure minty flavour!</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424133175</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5fb4fa8</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424133175</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e604d659</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283424067639</id>
+    <published>2025-05-20T05:51:25+05:30</published>
+    <updated>2025-05-20T05:51:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-bubblegun"/>
+    <title>Riot Squad Salts - BubbleGum</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-bubblegun-vape-juice.jpg?v=1747700487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bubble Gum S:ALT by Riot Squad - Get yourself tongue tied with Riot Squad's chewy blue bubble gum with an after taste of pure minty menthol that goes off like a gun thanks to their S:ALT blend!</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424067639</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5eee88e</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424067639</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5f9e1d2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283424034871</id>
+    <published>2025-05-20T05:51:23+05:30</published>
+    <updated>2025-05-20T05:51:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-sub-lime"/>
+    <title>Riot Squad Salts - Sub Lime</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-sub-lime-vape-juice.jpg?v=1747700484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sub Lime S:ALT by Riot Squad - A subversive flavours of sweet acidic lime and lemon, that will mess up your senses and leave you with a sour aftertaste.</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424034871</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5ee3fbb</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283424034871</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5f88464</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423969335</id>
+    <published>2025-05-20T05:51:20+05:30</published>
+    <updated>2025-05-20T05:51:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-lemon-custard"/>
+    <title>Riot Squad Salts - Lemon Custard</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-lemon-custard-vape-juice.jpg?v=1747700482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Loaded Lemon Custard S:ALT by Riot Squad - Riot Squad don't often do desserts but when they do, they'll knock your socks off! this S:ALT eliquid takes a lavishly thick vanilla custard and loaded that creamy goodness up to the brim with zesty lemon zing.</span></p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423969335</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58e714f</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423969335</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5981914</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423936567</id>
+    <published>2025-05-20T05:51:18+05:30</published>
+    <updated>2025-05-20T05:51:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-blue-burst"/>
+    <title>Riot Squad Salts - Blue Burst</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-blue-burst-vape-juice.jpg?v=1747700480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Burst S:ALT by Riot Squad - Start a flavour Riot with this sub-zero blue raspberry slushie explosion, don't let the icy cold fruit fool you though, this Blue Burst is pure eliquid fire!</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423936567</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58d80ae</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423936567</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e597072d</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423903799</id>
+    <published>2025-05-20T05:51:16+05:30</published>
+    <updated>2025-05-20T05:51:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-exotic-fruit"/>
+    <title>Riot Squad Salts - Exotic Fruit</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-exotic-fruit-vape-juice.jpg?v=1747700477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Exotic Fruit Frenzy S:ALT by Riot Squad - When Riot Squad blend together sweet cantaloupe and juicy passion fruit, it's easy to get caught up in the frenzy.. This S:ALT is so fruity you might as well get hit in the face with a melon!</span></p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423903799</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58dece9</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423903799</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e597bb1b</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423838263</id>
+    <published>2025-05-20T05:51:14+05:30</published>
+    <updated>2025-05-20T05:51:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-fresh-leaf"/>
+    <title>Riot Squad Salts - Fresh Leaf</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-fresh-leaf-vape-juice.jpg?v=1747700475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Leaf S:ALT by Riot Squad - Riot Squad given traditional tobacco a fresh taste for the modern age, blending a rich classic taste with a dark chocolate to keep things smooth...</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423838263</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58b58e9</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423838263</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5973272</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423805495</id>
+    <published>2025-05-20T05:51:12+05:30</published>
+    <updated>2025-05-20T05:51:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-cream-leaf"/>
+    <title>Riot Squad Salts - Cream Leaf</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-cream-leaf-vape-juice.jpg?v=1747700473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cream Leaf S:ALT by Riot Squad - Riot Squad have put together an alternative to sweet tobacco by blending it with a lit vanilla cream, rich tasting and smooth as you like!</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423805495</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58a6da2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423805495</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5956454</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423739959</id>
+    <published>2025-05-20T05:51:10+05:30</published>
+    <updated>2025-05-20T05:51:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-sweet-leaf"/>
+    <title>Riot Squad Salts - Sweet Leaf</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-sweet-leaf-vape-juice.jpg?v=1747700471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Leaf S:ALT by Riot Squad - Looking for that sweet tobacco release? Riot Squad has you covered with with their S:ALT nic blend infused with smooth vanilla!</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423739959</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58ac272</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423739959</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e595c743</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423707191</id>
+    <published>2025-05-20T05:51:07+05:30</published>
+    <updated>2025-05-20T05:51:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-cherry-fizzle"/>
+    <title>Riot Squad Salts - Cherry Fizzle</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-cherry-fizzle-vape-juice.jpg?v=1747700469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Fizzle S:ALT by Riot Squad - This S:ALT eliquid is a cherry bombardment on your senses that will keep you coming back for more, a sweet and sour cherry fruit like no other gets a huge blast of Riot Squad fizz!</p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423707191</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58b148d</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423707191</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e596e9a9</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423674423</id>
+    <published>2025-05-20T05:51:04+05:30</published>
+    <updated>2025-05-20T05:51:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-lemon-mint"/>
+    <title>Riot Squad Salts - Lemon Mint</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-lemon-mint-vape-juice.jpg?v=1747700466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Whether you're looking to cleanse your pallet after a sweet e-liquid or simply enjoy the invigorating combination of citrus and mint, Riot Salts Lemon Mint is the flavour for you. Both elements combine seamlessly when you vape, creating a zesty taste sensation that mellows into a crisp and cool flavour on exhale.</span></p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423674423</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58ac0f1</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423674423</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e595bef2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423608887</id>
+    <published>2025-05-20T05:51:02+05:30</published>
+    <updated>2025-05-20T05:51:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-watermelon-ice"/>
+    <title>Riot Squad Salts - Watermelon Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-watermelon-ice-vape-juice.jpg?v=1747700463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-weight: 400;" data-mce-fragment="1"><span>Riot Squad are taking sweet slices of juicy watermelon and freezing them over with a chilled blast of menthol for the ultimate fruity vape refreshment!</span></p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423608887</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58664a5</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423608887</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e59037d3</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423576119</id>
+    <published>2025-05-20T05:50:59+05:30</published>
+    <updated>2025-05-20T05:50:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-triple-mint"/>
+    <title>Riot Squad Salts - Triple Mint</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-triple-mint-vape-juice.jpg?v=1747700461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-weight: 400;" data-mce-fragment="1"><span>If you like fresh and cool </span><span>e-liquid</span><span>, Triple Mint by Riot Salts is your ticket to frosty satisfaction. A menthol core is layered with vivid peppermint and smooth spearmint extracts, creating a triple-concentrated blast of ice whenever you take a draw.</span></p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423576119</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e582f132</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423576119</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e58c534d</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283423543351</id>
+    <published>2025-05-20T05:50:56+05:30</published>
+    <updated>2025-05-20T05:50:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/riot-squad-salts-rich-black-grape"/>
+    <title>Riot Squad Salts - Rich Black Grape</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Riot Squad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/riot-salt-rich-black-grape-vape-juice.jpg?v=1747700458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Riot Squad<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font-weight: 400;" data-mce-fragment="1"><span>The chaos of divine black grapes with an understated dash of mint.</span></p>
+<p>Nic Salts are extracted directly from the natural tobacco leaf versus traditionally being made using a form of artificial nicotine called 'free base'. This range from Riot Squad is a hybrid version, using 50% freebase nicotine and 50% salt nicotine.</p>
+<ul>
+<li>Brand Name: Riot Squad</li>
+<li>VG/PG: 50%/50%</li>
+<li>Size: 30 ml</li>
+<li>Made In UK</li>
+<li>Nicotine Strength: 20MG &amp; 48MG</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423543351</id>
+      <title>20mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e5422543</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283423543351</id>
+      <title>48mg</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e54bad53</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vape-tanks.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-11-18T08:28:08+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373704724535</id>
+    <published>2025-11-18T08:28:08+05:30</published>
+    <updated>2025-11-18T08:28:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/ijoy-diamond-baby-tank"/>
+    <title>iJoy Diamond Baby Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>iJOY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ijoy-diamond-baby-tank.webp?v=1763434689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iJOY<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IJOY DIAMOND BABY Vape tank is a good flavor atomizer with RDA flavor. It produces large airflow, great vapor. Features 510 unique resin drip tip, stylish diamond design, a variety of processes and 180° fast screw-cap filling.</p>
+<p>Equipped with DM- MESH mesh coil and DM-DM diamond-like coil with uniform heating characteristics. Using Organic fiber Cotton, full of ejuice, soft and delicate taste, high degree of reduction, lasts longer!</p>
+<p><strong>Product Features</strong>:</p>
+<ul>
+<li>Diameter: 22.5mm</li>
+<li>Capacity: 4ml</li>
+<li>Colored Bubble tank</li>
+<li>2ml Tank optional</li>
+<li>Large airflow, great vapor, good flavor</li>
+<li>DMB-MESH Mesh coil with uniform heating characteristics, Made by 70% Flax fiber + 30% Wood pulp</li>
+<li>DMB-DM diamond-like coil with uniform heating characteristics, made by Organic fiber cotton</li>
+</ul>
+<p><strong>Product Includes:</strong></p>
+<ul>
+<li>1x DIAMOND BABY TANK</li>
+<li>1x DMB-Mesh Coil 0.18ohm (40-80W Pre-installed)</li>
+<li>1x DMB-DM Coil 0.15ohm (40-80W)</li>
+<li>1x Replacement Glass</li>
+<li>1x Tool pack</li>
+<li>1x Manual</li>
+<li>1x Warranty Card</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373704724535</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>iJoy Diamond Baby Tank</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322291208247</id>
+    <published>2025-08-04T06:23:46+05:30</published>
+    <updated>2025-08-04T06:23:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekvape-ammit-22mm-mtl-rda-tank"/>
+    <title>GeekVape Ammit 22mm MTL RDA Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>Geekvape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/geek_vape_ammit_mtl_rda_leaning.webp?v=1754269045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geekvape<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            2100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy Geek Vape Ammit MTL RDA, which is the mouth-to-lung reincarnation of the popular Ammit RTA, featuring a horizontally-oriented single coil dual post build deck with a dynamic 3D Airflow System with 12 different airflow options.</p>
+<p>A precise 3D surround airflow combined with a dual layer chamber design allows intake air to be concentrated to the three outlets that are located directly beneath the coil, providing ample flavor delivery. Dotted along the top cap are the adjustable air holes, giving way to 12 airflow options between using the single or multiple air inlets. Centered in the middle is an optional BF squonker pin that accommodates on-the-go eJuice.</p>
+<p>A gold-plated 510 stainless steel connection pin ensures seamless connectivity while included is 2 separate drip tips for specific user preference in <a title="Vape tank" href="https://[YOUR DOMAIN]/collections/vape-tanks">vape tank</a>.</p>
+<p><strong>Geek Vape Ammit MTL RDA Features:</strong></p>
+<ul>
+<li>22mm Diameter</li>
+<li>Superior Stainless Steel Construction</li>
+<li>Dual Spacious Juice Wells</li>
+<li>Dual-Layered Chamber Structure</li>
+<li>Two-Post, Single Terminal Build Deck</li>
+<li>Top Secured via Flathead Screws</li>
+<li>Single Coil Configuration</li>
+<li>Precise 3D AirFlow Structure</li>
+<li>12 Airflow Adjustment Options</li>
+<li>Top to Bottom Air Flow</li>
+<li>3 Airflows go Direct-to-Coil for Max Flavor</li>
+<li>3mm Opening Stainless Steel Drip Tip</li>
+<li>3mm Opening Delrin Sloped Drip Tip</li>
+<li>2mm Opening Delrin Sloped Drip Tip</li>
+<li>510 Drip Tip Connection</li>
+<li>Gold-Plated 510 Connection</li>
+<li>Squonk-Ready Bottom-Feeding 510 Pin<br>
+</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Ammit MTL RDA</li>
+<li>1 0.7ohm Prebuilt Clapton Coil</li>
+<li>1 Stainless Steel MTL Drip Tip</li>
+<li>2 Delrin MTL Drip Tip</li>
+<li>1 Flathead Screwdriver</li>
+<li>1 Allen Key</li>
+<li>1 Spare Parts Pack</li>
+<li>1 MicroUSB Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322291208247</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>GeekV Ammit 22mm MTL RDA Tank</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315796164663</id>
+    <published>2025-07-14T22:31:57+05:30</published>
+    <updated>2025-07-14T22:31:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/wismec-amor-mini-tank"/>
+    <title>Wismec Amor Mini Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>Wismec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/wismec_amor_mini-min.jpg?v=1752512522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wismec<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Amor Mini tank features a top fill design and bottom airflow for optimal sub ohm . By rotating the airflow control valve of the atomizer base, one can easily adjust the airflow of the Amor. The more the slot is exposed, the larger the airflow. The Amor Mini has a 2ml tank capacity.</span></p>
+<ul>
+<li><span><span class="pro-13">Stainless Steel Material &amp; Detachable Structure : </span>Amor Mini is made of stainless steel, and appears to be high-grade. All the parts are easy to disassemble and clean.</span></li>
+<li><span><span class="pro-13">Top E-liquid Filling : </span>By unscrewing the top cap, you can complete the e-juice refilling quickly and easily.</span></li>
+<li><span><span class="pro-13">Bottom Airflow Control : </span>Through the hidden the airflow control ring, you can adjust the air inlet quickly and get different vaping experiences.</span></li>
+</ul>
+<p><strong>Content:</strong></p>
+<p><span>1 * Amor Mini<br>2 * Atomizer Head<br>2 * Mouthpiece<br>2 * Pin Screw<br>1 * User Manual</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796164663</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1700.00</s:price>
+      <s:sku>Wismec Amor Mini Tank</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315796033591</id>
+    <published>2025-07-14T22:31:36+05:30</published>
+    <updated>2025-07-14T22:31:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekvape-baron-24mm-bf-rda"/>
+    <title>GeekVape Baron 24mm BF RDA Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>Geekvape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/geek_vape_baron_24mm_bf_rda.jpg?v=1752512503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geekvape<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            2100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Geek Vape BARON 24mm RDA is a performance dripper implementing a large expansive two-post build deck and multifunctional airflow system for a dynamic range of vapor production output unlike any other. The Geek Vape BARON hosts a dual post build deck, top secured via flathead screws arranged in a single or dual coil layout. Airflow for the BARON RDA is drawn through the slotted top cap, past the selected airflow option of the fixed inner cap and vents directly to the coil configuration through either a slotted or drilled 3x4 hole pattern.</p>
+<p>At the base of the Baron sits a stainless steel 510 connector that can accept a gold-plated BF squonk pin to allow for squonking of eJuice onto the coil configuration with the gentle pump from today's best squonk mods. In addition, the Baron is lightly knurled at the top cap to provide a better grip for those trying to adjust the airflow. Catering to cloud chasers, the BARON RDA comes with multiple drip tip options, such as a large PMMA widebore and a beautiful Resin widebore drip tip with the option of 510 drip tip adapter.<br><br><strong>Geek Vape BARON 24mm RDA Features:</strong><br></p>
+<ul>
+<li>24mm Diameter</li>
+<li>Deep Juice Wells</li>
+<li>Superior Stainless Steel Construction</li>
+<li>Two Post Build Deck - Large Terminals</li>
+<li>Top Secured via Flathead Screws</li>
+<li>PEEK Insulator</li>
+<li>Single or Dual Coil Configuration</li>
+<li>Fixed Position Multifunctional Airflow Inner Cap - Various Airflow Designs</li>
+<li>Knurled Top Cap for Easy Airflow Adjustment</li>
+<li>810 Widebore Resin Drip Tip</li>
+<li>810 Widebore PMMA Drip Tip</li>
+<li>Gold-Plated 510 Squonk BF Pin</li>
+<li>Gold-Plated 510 Connection</li>
+<li>Detachable Structure</li>
+<li>Available in Stainless Steel, Gunmetal, Black, Gold, Rainbow, Violet, Blue</li>
+</ul>
+<p><strong>Includes:</strong><br></p>
+<ul>
+<li>1 BARON 24mm RDA</li>
+<li>1 PMMA Drip Tip</li>
+<li>1 510 Drip Tip Adapter</li>
+<li>1 Feather Cotton</li>
+<li>2 Pre-Built Coils</li>
+<li>1 Geek Vape Flathead Screwdriver</li>
+<li>1 Hex Wrench</li>
+<li>1 Spare Parts Pack</li>
+<li>1 Promotion Card</li>
+<li>1 Warranty Card</li>
+<li>1 User Manual</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796033591</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2100.00</s:price>
+      <s:sku>GeekV Baron 24mm BF RDA Tank</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315794886711</id>
+    <published>2025-07-14T22:27:19+05:30</published>
+    <updated>2025-07-14T22:27:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-itank"/>
+    <title>Vaporesso iTank Subohm Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso-itank-min.jpg?v=1752512243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Vaporesso iTank is an ideal option for anyone that's looking for increased vapour production and a genuine sub ohm vape. Thanks to being compatible with the whole range of Vaporesso GTi coils, this tank delivers a DTL (Direct To Lung) inhale. As well as the tank itself, you’ll also find a 0.2 Ohm and a 0.4 Ohm GTi mesh coil in the box, so you’re able to connect to your mod and vape right away.</p>
+<p>Quick Links:</p>
+<p><a href="https://[YOUR DOMAIN]/products/vaporesso-gti-replacement-coil-series" title="Vaporesso GTi coils">Vaporesso GTi Coil Series</a><br><br><strong>Features:</strong><br></p>
+<ul>
+<li>2ml Sub Ohm Tank</li>
+<li>DTL Vaping</li>
+<li>Adjustable Airflow</li>
+<li>Top Filling</li>
+<li>Compatible With High VG E-Liquids</li>
+<li>Mesh <a href="https://[YOUR DOMAIN]/collections/replacement-vape-coils" title="Vape Coils">Vape Coils</a> Included</li>
+</ul>
+<p>With its standard 510 connection, you can pair the iTank with most mods on the market. Beyond that, the range of compatible coils are all sub ohm, which means your tank is specifically designed to create a larger amount of vapour for DTL vaping. Plus, it features an adjustable airflow which allows you to set the feel of the inhale to be tighter or looser.<br><br>As it's a top filling vape tank, you don’t even have to detach it from your mod to refill. Simply unscrew the top cap to reveal the inlet and fill with up to 2ml of your chosen e-liquid. For best results with either of the included coils, we’d suggest that your e-liquid has a 70% VG concentration or higher. Also, when vaped, the mesh design of the coils produce an improved flavour due to heating up the e-liquid faster.<br><br><strong>Box Contains:</strong><br></p>
+<ul>
+<li>Vaporesso 2ml iTank</li>
+<li>0.2 Ohm Vaporesso GTi Mesh Coil</li>
+<li>0.4 Ohm Vaporesso GTi Mesh Coil</li>
+<li>3 x O-Ring</li>
+<li>Spare Glass</li>
+<li>User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794886711</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V iTank Subohm Tank</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315792625719</id>
+    <published>2025-07-14T22:17:59+05:30</published>
+    <updated>2025-07-14T22:17:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-itank-m"/>
+    <title>Vaporesso iTank M</title>
+    <s:type>Tank</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso-itank-m-box-min.jpg?v=1752511684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Vaporesso iTank M is a compact 3ml vape tank is easy to maintain and uses coils that are push-fit, meaning there's less mess. The adjustable airflow allows you to set how tight or loose you want the inhale to feel. The 1.2 Ohm MTX coil that's included with the tank will create an MTL (Mouth To Lung) inhale with a discreet amount of vapour. The iTank M is compatible with any mod that use a 510 connection.<br><br><strong>Features:</strong><br></p>
+<ul>
+<li>3ml Capacity</li>
+<li>MTL Inhale</li>
+<li>Top Filling Tank</li>
+<li>Adjustable Airflow</li>
+<li>Compatible With MTX Coils</li>
+<li>Pair With 50% Or Higher PG <a title="E Liquids Kenya" href="https://[YOUR DOMAIN]/collections/vape-liquid">E-Liquids</a>
+</li>
+</ul>
+<p>This tank is top filling, so you don't even have to take it off the mod to refill when it's empty, just push and twist the top cap to reveal the e-liquid inlet. The MTX 1.2 Ohm coil is best used between 8 - 12W, which creates an inhale that feels similar to a cigarette. As an MTL tank, the iTank M works well with e-liquids that are have a 50% PG concentration or a high PG blend.<br><br><strong>Contains:</strong><br></p>
+<ul>
+<li>Vaporesso iTank M <a title="Vape Tank" href="https://[YOUR DOMAIN]/collections/vape-tanks">Vape Tank</a>
+</li>
+<li>1.2 Ohm Vaporesso MTX Coil</li>
+<li>User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792625719</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>V iTank M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

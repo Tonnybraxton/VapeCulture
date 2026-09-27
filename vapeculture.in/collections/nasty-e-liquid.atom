@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/nasty-e-liquid.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-05-07T23:18:06+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279519039543</id>
+    <published>2025-05-07T23:18:06+05:30</published>
+    <updated>2025-05-07T23:18:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/nasty-juice-cushman-mango-banana"/>
+    <title>Nasty Juice Cushman Mango Banana E Liquid</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Nasty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/nasty-e-liquid-cushman-mango-banana-juice.jpg?v=1746640089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nasty<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What’s more refreshing than a blend of tropical fruits and cool mint? Mango Banana Low Mint by Nasty Cush Man 60ml Freebase is a fruity and minty ejuice that exhilarates your palate in every way. Made by the same guys who brought us Nasty Juice, this flavor really hits the spot when you’re feeling thirsty.</p>
+<p>If you’re devoted to tropical fruit flavors, Mango Banana Low Mint e liquid needs to be in your collection.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>
+<strong>Brand Name :</strong><span> </span>Nasty Juice</li>
+<li>
+<strong>Series:<span> </span></strong>Cushman Low Mint</li>
+<li>
+<strong>Flavor :<span> </span></strong>Mango, Grape, Mint</li>
+<li>
+<strong>VG/PG: </strong>70VG/30PG</li>
+<li>
+<strong>Nicotine</strong><strong> Strength: </strong>0mg, 3mg &amp; 6mg</li>
+<li>
+<strong>Content:</strong><strong> </strong>60 ml</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279519039543</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Banana 3 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279519039543</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Banana 6 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279519039543</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Banana 0 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279519006775</id>
+    <published>2025-05-07T23:18:02+05:30</published>
+    <updated>2025-05-07T23:18:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/nasty-juice-cushman-mango-strawberry"/>
+    <title>Nasty Juice Cushman Mango Strawberry E Liquid</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Nasty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/nasty-cushman-mango-strawberry-eliquid-juice.jpg?v=1746640085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nasty<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Strawberry Low Mint by Nasty Cush Man 60ml Freebase combines mango and strawberry juices with the Nasty Juice’s signature low mint. It’ll rejuvenate you with fruity goodness before delivering a cool stream of mint that isn’t as intense as pure menthol. Like a gentle summer breeze, this e liquid will leave you feeling refreshed and mellow.<br><br>Every puff douses your tongue in succulent fruity flavors before cooling you off with some chilly mint. You’ll taste the freshness of each flavor component as the vapor glides over your palate.<br><br>As you inhale Mango Strawberry Low Mint ejuice, the sharp and bright strawberry flavor teases your tongue with sweetness and tang. Then, the tropical mango juice bathes every taste bud. On the exhale, mint invigorates your senses.<br></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>
+<strong>Brand Name :</strong><span> </span>Nasty Juice</li>
+<li>
+<strong>Series:<span> </span></strong>Cushman Low Mint</li>
+<li>
+<strong>Flavor :<span> </span></strong>Mango, Grape, Mint</li>
+<li>
+<strong>VG/PG: </strong>70VG/30PG</li>
+<li>
+<strong>Nicotine</strong><strong> Strength: </strong>0mg, 3mg &amp; 6mg</li>
+<li>
+<strong>Content:</strong><strong> </strong>60 ml </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279519006775</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Strawberry 3 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279519006775</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Strawberry 6 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279519006775</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Strawberry 0 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279518908471</id>
+    <published>2025-05-07T23:17:58+05:30</published>
+    <updated>2025-05-07T23:17:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/nasty-juice-cushman-mango-grape"/>
+    <title>Nasty Juice Cushman Mango Grape E Liquid</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Nasty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/nasty-juice-cushman-mango-grape-60ml.jpg?v=1746640081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nasty<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Grape Low Mint by Nasty Cush Man 60ml is a remarkably refreshing freebase e liquid flavor. The two fruits join forces to rejuvenate your palate and obliterate your thirst. The mild menthol finish cools you off when you’re feeling the heat. If you’re looking for a cool and satisfying ejuice for the scorching days of summer.</p>
+<p>As you inhale, exquisite tang from the grape and mango juices travels across the tongue, revitalizing every taste bud. When you exhale, the sweetness of the fruits comes through as a breeze of mild menthol cools your palate.</p>
+<p>This is a must-have flavor for fruit fanatics who are in need of something that’s profoundly refreshing.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>
+<strong>Brand Name :</strong><span> </span>Nasty Juice</li>
+<li>
+<strong>Series:<span> </span></strong>Cushman Low Mint</li>
+<li>
+<strong>Flavor :<span> </span></strong>Mango, Grape, Mint</li>
+<li>
+<strong>VG/PG: </strong>70VG/30PG</li>
+<li>
+<strong>Nicotine</strong><strong> Strength: </strong>0mg, 3mg &amp; 6mg</li>
+<li>
+<strong>Content:</strong><strong> </strong>60 ml</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279518908471</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Grape 3 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279518908471</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Grape 6 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279518908471</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Cushman Mango Grape 0 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279517663287</id>
+    <published>2025-05-07T23:14:28+05:30</published>
+    <updated>2025-05-07T23:14:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/nasty-juice-wicked-haze-e-liquid"/>
+    <title>Nasty Juice Wicked Haze E Liquid</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Nasty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/nasty-juice-wicked-haze-eliquid-shortfill-bottle-with-box.jpg?v=1746639871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nasty<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Wicked Haze shortfill e-liquid is inspired by a popular beverage; with ripe notes of blackcurrants and a zesty lemonade flavour, you'll find a tangy and tart fruit taste throughout. This is finished off with a low mint, to give you a cooling menthol taste that ties everything together.</p>
+<p data-mce-fragment="1">Wicked Haze 50ml e-liquid is available as a 70% VG, 50ml shortfill, ideal for sub ohm vaping. Should you wish to vape with nicotine, we'd recommend you add a 10ml nic shot of your choice.</p>
+<p data-mce-fragment="1">Brought to you by Nasty Juice; a Malaysian based e-liquid brand passionate about creating high-end, authentic tasting flavours at affordable prices. Their shortfill range features fresh, fruity and clean flavour notes in a high VG mix, so you can be sure to create big clouds with an even bigger flavour!</p>
+<ul>
+<li>50ml of E-liquid in a 60ml Shortfill Bottle</li>
+<li>Low Mint Series by Nasty Juice</li>
+<li>Double Fruity Series by Nasty Juice</li>
+<li>Space For a 10ml Nic Shot</li>
+<li>70% VG / 30% PG</li>
+<li>Designed for Sub Ohm Vaping</li>
+<li>Made in Malaysia</li>
+<li>Childproof Cap</li>
+<li>Tamper Evident Seal</li>
+<li>Recyclable Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279517663287</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Wicked Haze 3 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279517663287</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Nasty Juice Wicked Haze 6 mg</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

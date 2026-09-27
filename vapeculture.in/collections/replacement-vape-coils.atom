@@ -1,0 +1,1374 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/replacement-vape-coils.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-12-23T05:55:17+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389613391927</id>
+    <published>2025-12-23T05:55:17+05:30</published>
+    <updated>2025-12-23T05:55:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-vape-pen-replacement-coils"/>
+    <title>SMOK Vape Pen Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_vape_pen_coils_-_packaging.webp?v=1766449333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SMOK Vape Pen 22 Replacement Coils utilizes the new Vape Pen Coil System that features an elongated design, catering specifically for the Vape Pen Starter Kit.</p>
+<p>Compatibility:</p>
+<p>SMOK Vape Pen 22<br>SMOK Vape Pen 22 LIGHT<br>SMOK Vape Pen PLUS</p>
+<p>SMOK Vape Pen 22 Replacement Coil Features:</p>
+<ul>
+<li>0.3ohm Dual Core</li>
+<li>0.4ohm X4 Quad Core - rated for 20-50W</li>
+<li>0.15ohm Vape Pen Mesh Core</li>
+<li>0.15ohm Vape Pen Strip Core</li>
+<li>Four Wicking Ports</li>
+<li>100% Organic Cotton</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>Pack of 5 Replacement Coils</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389613391927</id>
+      <title>0.15ohm Meshed</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>Smok V Pen Replace Coils - 0.15 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389613391927</id>
+      <title>0.6ohm DC</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>Smok V Pen Replace Coils - 0.6 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389608935479</id>
+    <published>2025-12-23T05:15:44+05:30</published>
+    <updated>2025-12-23T05:15:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-acro-replacement-coils"/>
+    <title>SMOK Acro Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_acro_pods_-_cartridge_-_0.8_ohm.webp?v=1766446978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK ACRO Pods (3-Pack), featuring a 2mL capacity, an integrated 0.8ohm Meshed Coil, and is side filled behind a silicone stopper.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/smok-acro-25w-pod-system-kit" title="SMOK Acro">SMOK Acro</a></p>
+<p>SMOK ACRO Replacement Pods Features:</p>
+<ul>
+<li>2mL ACRO Pod</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>Integrated 0.8ohm Meshed Coil - rated for 12-15W</li>
+<li>Magnetic Pod Connection</li>
+<li>Comes in a pack of three (3).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389608935479</id>
+      <title>0.8ohm Meshed</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Smok Acro Replace Coils - 0.8 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389608935479</id>
+      <title>0.6ohm DC MTL</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Smok Acro Replace Coils - 0.6 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683261495</id>
+    <published>2025-11-18T06:07:47+05:30</published>
+    <updated>2025-11-18T06:07:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smoant-baby-replacement-coils"/>
+    <title>Smoant Baby Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Smoant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smoant_battlestar_baby_replacement_coils_-_0.6ohm_mesh_coils.jpg?v=1763426269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smoant<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Smoant Battlestar Baby Replacement Coils, a set of mesh and nichrome coil options presented by Smoant, offering a 0.6ohm Mesh or 1.2ohm Ni80 Coil option to help vaporize delicious eJuice or nicotine salts with ease.<br><br>Smoant Battlestar Baby Replacement Coils Features:<br></p>
+<ul>
+<li>Smoant Battlestar Baby Coil Series</li>
+<li>0.6ohm Mesh Coil - rated for 15W</li>
+<li>1.4ohm Ni-80 Coil - rated for 10W</li>
+<li>Plug 'n' Play Coil Installation</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683261495</id>
+      <title>0.6ohm Mesh Coils - DTL</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Smoant Baby Replace Coils - 0.6 ohm - DTL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683261495</id>
+      <title>1.4ohm Ni80 Coils - MTL</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Smoant Baby Replace Coils - 1.4 ohm - MTL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683195959</id>
+    <published>2025-11-18T06:07:46+05:30</published>
+    <updated>2025-11-18T06:07:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-euc-universal-ceramic-coil"/>
+    <title>Vaporesso EUC Universal Coil (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vaporesso-EUC-Universal-Ceramic-Coil.jpg?v=1763426268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Vaporesso EUC Replacement Coils (EUC - Eco Universal Coil) is an innovative performance atomizer created with affordability in mind. It is intuitive created, changing the way users typically replacement the atomizer coils. Instead of changing the entire coils, the EUC Replacement Coils only requires the changing of the core instead of the entire metal sleeve. The result is a more cost-effective design, while providing ample performance capability. There are two types of version, a Ceramic type that pays homage to the original cCell structures and a Traditional performance coil, with Kanthal, Nickel, or Stainless Steel heating elements.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<p data-mce-fragment="1">These coils are smaller than others, this is through design and they help reduce waste - while still conducting heat and absorbing eliquid efficiently, the ceramic wick also increases the lifespan of your coils. For best results, tthese coils should be paired with high VG e-liquids that are 60% VG or higher.<br data-mce-fragment="1"><br data-mce-fragment="1">Compatibility:<br data-mce-fragment="1">Attitude Tank - part of Attitude Kit<br data-mce-fragment="1">Veco Tank - part of Tarot Nano Kit<br data-mce-fragment="1">Estoc Tank</p>
+<p data-mce-fragment="1">Vaporesso EUC Ceramic Coils are for use with the Veco Vape Tank and Estoc Vape Tank. EUC Ceramic Coils are available in 0.5 Ohm. With ceramic wicks rather than the traditional cotton, they are similar in design to the Vaporesso CCELL Coils.<strong data-mce-fragment="1"></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Contains:</strong><br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">5 x Vaporesso EUC Replacement Coils</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683195959</id>
+      <title>EUC - Ceramic 0.5ohm</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>V EUC Universal Ceramic Coil (5-Pack)-2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683195959</id>
+      <title>EUC - Traditional 0.4ohm</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>V EUC Universal Ceramic Coil (5-Pack)-1</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683163191</id>
+    <published>2025-11-18T06:07:45+05:30</published>
+    <updated>2025-11-18T06:07:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-nexus-nx-replacement-coil-5-pack"/>
+    <title>Vaporesso Nexus NX Replacement Coil (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_nexus_nx_replacement_coils.jpg?v=1763426267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Vaporesso Nexus Replacement Coils is specially designed for the Nexus AIO Kit, featuring the NX CCELL Coil with ceramic technology as well as a traditional cotton of the NX Coil. The utilization of ceramic heating elements delivers tremendous aroma of flavors, with reduction in spit-back and dry hit for longer longevity. Each package comes in a pack of five replacement coils.</p>
+<p><strong>Vaporesso Nexus Replacement Coil Features:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>1.0ohm NX Coil - rated for 7-12W (Traditional Cotton)</li>
+<li>Organic Cotton</li>
+<li>Stainless Steel Structure</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683163191</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>V Nexus NX Replace Coil (5-Pack)</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334775554103</id>
+    <published>2025-09-06T19:36:43+05:30</published>
+    <updated>2025-09-06T19:36:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vape-rechargeable-battery"/>
+    <title>Vape Rechargeable Battery</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/battery-18650-li-ion-rechargeable-2200mah-lithium.webp?v=1757167447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            500.00 - 600.00
+            <a href="https://[YOUR DOMAIN]/products/vape-rechargeable-battery">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is Lithium-Ion Vape Battery is high quality 3C rated cell. It comes with a rated voltage of 3.7 volts and a capacity of 2200 and 2600mAh. It is a single cell, compact and powerful battery cell. It is very convenient to install in your project to fulfill the 3.7 Volt requirement with high capacity.</p>
+<p>The battery terminals can use in any compatible battery adapter/holder or they can be permanently soldered to your application’s power source wires.</p>
+<ul>
+<li>Model: ICR-18650</li>
+<li>Battery Shape: Cylindrical</li>
+<li>Capacity (mAh): 2200mAh &amp; 2600mAh</li>
+<li>Output Voltage: 3.7V</li>
+<li>Long cycle life- 1500cycle</li>
+<li>Weight: 45gram</li>
+<li>High energy density</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334775554103</id>
+      <title>2200mAh</title>
+      <s:price currency="KES">500.00</s:price>
+      <s:sku>V Battery - 2200 MAH</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334775554103</id>
+      <title>2600mAh</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>V Battery - 2600 MAH</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+    <published>2025-09-05T15:54:01+05:30</published>
+    <updated>2025-09-05T15:54:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-gti-replacement-coil-series"/>
+    <title>Vaporesso GTi Replacement Coil Series (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_-_gti_mesh_coils_-_accessories_-_all_types.webp?v=1757067631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1740.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Vaporesso GTi Replacement Coils, featuring a 0.2ohm and 0.4ohm Mesh Coil for delivering delicious flavor and vapor from your favorite eJuice.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/vaporesso-itank" title="Vaporesso iTank">Vaporesso iTank</a></p>
+<p>Vaporesso GTi Replacement Coils Features:</p>
+<ul>
+<li>Vaporesso GTi Coil Series
+<ul>
+<li>0.15ohm GTI Mesh Coils</li>
+<li>0.2ohm GTi Mesh Coils - rated for 60-75W</li>
+<li>0.4ohm GTi Mesh Coils - rated for 50-60W</li>
+<li>0.5ohm GTi Mesh Coils</li>
+</ul>
+</li>
+<li>Press Fit Coil Installation</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.15 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.15 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.2 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.2 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.4 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.4 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.5 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.5 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+    <published>2025-07-14T22:27:07+05:30</published>
+    <updated>2025-07-14T22:27:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-gt-core-coils-3-coils"/>
+    <title>Vaporesso GT Core Coils (3 Coils)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_nrg_gt_replacement_coils_-_gt_4_coil.jpg?v=1752512237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">The Vaporesso  GT <a href="https://[YOUR DOMAIN]/collections/replacement-vape-coils" title="Vape Replacement Coils">Vape Replacement Coils </a>presents a dynamic coil option for the <em>NRG Sub-Ohm Tank and the Cascade Tank series</em>, deploying traditional cotton and signature cCelll Ceramic with it's innovative structure. The flagship coil head is the 0.15ohm GT 8 Core, with a quad-cylinder structure and wattage range of 50 to 110W. Comes in a pack of three (3).</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Compatibility:</strong><br data-mce-fragment="1"><em>Vaporesso NRG Tank (Includes all of the Revenger Kit series, SWAG Kit, and Switcher Kit)</em><br data-mce-fragment="1"><em>Vaporesso Cascade Tank (requires adapter)</em><br data-mce-fragment="1"><em>Vaporesso Cascade Baby Tank (Includes the Polar 220W Kit and Armour Pro Kit)</em><br data-mce-fragment="1"><em>Vaporesso Cascade Mini Tank</em><br data-mce-fragment="1"><em>Vaporesso Cascade One / One Plus Kit</em></span></p>
+<p data-mce-fragment="1"><span data-sheets-userformat='{"2":4993,"3":[null,0],"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Vaporesso NRG GT Replacement Coils Features:\nGT Cores Structure\n0.3ohm GT cCell Core - rated for 25-40W\n0.4ohm GT 2 Core - rated for 40-80W\n0.15ohm GT 4 Core - rated for 30-70W\n0.2ohm GT 6 Core - rated for 40-130W\n0.15ohm GT 8 Core - rated for 50-110W"}' data-mce-fragment="1"><strong data-mce-fragment="1">Vaporesso NRG GT Replacement Coils Features:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><em>Comes in a pack of three (3).</em></strong></li>
+<li data-mce-fragment="1">GT Cores Structure</li>
+<li data-mce-fragment="1"><em>0.5ohm GT cCell Core - rated for 15-40W</em></li>
+<li data-mce-fragment="1"><em>0.3ohm GT cCell2 Core - rated for 35-40W</em></li>
+<li data-mce-fragment="1"><em>0.4ohm GT 2 Core - rated for 40-80W</em></li>
+<li data-mce-fragment="1"><em>0.15ohm GT 4 Core - rated for 30-70W</em></li>
+<li>
+<em>0.15ohm GT 4 Mesh Core - rated for 30-90W</em><em></em>
+</li>
+<li data-mce-fragment="1"><em>0.2ohm GT 6 Core - rated for 40-130W</em></li>
+<li data-mce-fragment="1"><em>0.15ohm GT 8 Core - rated for 50-110W</em></li>
+<li data-mce-fragment="1"><em>0.18ohm GT Mesh Core - rated for 50-90W</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.18ohm GT Mesh Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.18ohm GT Mesh Coil</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.15ohm GT 8 Core Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.15ohm GT 8 Core Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.15ohm GT 4 Mesh Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.15 ohm GT 4 Mesh Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.5ohm GT cCELL Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) 0.5 ohm GT cCell Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.15ohm GT 4 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.15ohm GT 4 Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.4ohm GT 2 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.4ohm GT 2 Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.2ohm GT 6 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.2ohm GT 6 Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.3ohm GT cCELL2 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.3ohm GT cCell2 coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315792822327</id>
+    <published>2025-07-14T22:18:53+05:30</published>
+    <updated>2025-07-14T22:18:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/voopoo-tpp-dm1-dm2-replacement-coils"/>
+    <title>VooPoo TPP-DM Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Voopoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/voopoo-tpp-dm1-coils.jpg?v=1752511736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voopoo<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Voopoo TPP Replacement Coils, featuring a mesh heating element to deliver rapid heating, unlocking true flavor from your favorite eJuice.<br><strong></strong></p>
+<p><strong>Compatibility:</strong><br data-mce-fragment="1">VOOPOO DRAG 3 Starter Kit<br data-mce-fragment="1">VOOPOO DRAG X Plus Kit<br data-mce-fragment="1">VOOPOO DRAG X Pro Kit<br data-mce-fragment="1">VOOPOO DRAG X Plus Pro Kit<br data-mce-fragment="1">VOOPOO Argus XT Kit (MAAT Edition Only)<br data-mce-fragment="1">VOOPOO Argus MT Kit (MAAT Edition Only)<br data-mce-fragment="1">VOOPOO TPP-X Pod Tank<br data-mce-fragment="1">VOOPOO TPP Pod Tank<br data-mce-fragment="1">VOOPOO TPP Pod Tank 2</p>
+<p><strong>Voopoo TPP Replacement Coils Features:</strong><br></p>
+<ul>
+<li>Voopoo TPP Coil Series</li>
+<li>0.15ohm TPP-DM1 Coils - rated for 60-80W</li>
+<li>0.2ohm TPP-DM2 Coils - rated for 40-60W</li>
+<li>0.15ohm TPP-DM3 Coils - rated for 80-100W</li>
+<li>0.3ohm TPP-DM4 Coils - rated for 32-40W</li>
+<li>Press Fit Coil Installation</li>
+<li>Comes in a pack of three (3).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792822327</id>
+      <title>0.15ohm TPP-DM1 Coils</title>
+      <s:price currency="KES">1600.00</s:price>
+      <s:sku>Voopoo TPP-DM Replace Coils - 0.15 ohm DM1 Coils</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792822327</id>
+      <title>0.2ohm TPP-DM2 Coils</title>
+      <s:price currency="KES">1600.00</s:price>
+      <s:sku>Voopoo TPP-DM Replace Coils - 0.2 ohm DM2 Coils</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792822327</id>
+      <title>0.15ohm TPP-DM3 Coils</title>
+      <s:price currency="KES">1600.00</s:price>
+      <s:sku>Voopoo TPP-DM Replace Coils - 0.15 ohm DM3 Coils</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792822327</id>
+      <title>0.3ohm TPP-DM4 Coils</title>
+      <s:price currency="KES">1600.00</s:price>
+      <s:sku>Voopoo TPP-DM Replace Coils - 0.3 ohm DM4 Coils</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+    <published>2025-07-14T22:17:41+05:30</published>
+    <updated>2025-07-14T22:17:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-v12-price-replacement-coils-all-resistance"/>
+    <title>SMOK V12 Price/RBA Replacement Coils ( All Resistance )</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/SMOK-V12-Prince-MESH-Coils.jpg?v=1752511677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1940.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Smok TFV12 Prince Replacement Coils are unrivaled performance atomizer cores introduced with the amazing TFV12 Cloud Beast Prince Tank. Designed for mid-wattage configurations, it offers phenomenal flavor recreation and excellent vapor production. The TFV12 Prince introduces a variety of exotic configurations, such as V12 Prince Max Mesh, V12 Prince Dual Mesh, V12 Prince Triple Mesh, and Prince X2 Clapton.</p>
+<p><strong>Coil packs comes in a pack of (3) three replacement coils</strong>.</p>
+<p>It is offered in a variety of different sub-ohm coils: V12 Prince-T10, V12 Prince-X6, V12 Prince-Q4, and V12 Prince-M4. The V12 Prince-T10 is the flagship atomizer technology, featuring a 0.12ohm within a Decuple coil cylinder to provide unsurpassed amount of vapor capability, with a wattage range of 60 to 120W.</p>
+<p>For building enthusiasts, SMOKTech introduces a dynamic V12 Prince-RBA with pre-installed clapton coils. It features a two-post, dual terminal build deck for user-friendly configurations that accommodates a wide range of coil structures for users to match the sophisticated power of the Smok TFV12 Prince tank.</p>
+<p>SMOK TFV12 Prince Replacement Coils Features:</p>
+<p>Performance Enhanced Coil Structure<br data-mce-fragment="1"></p>
+<ul>
+<li>V12-T10 Decuple coil Design</li>
+<ul>
+<li>0.12 ohm rated for 60-120W, recommended 80-110W</li>
+</ul>
+<li>V12-T6 Sextuple Coil Design</li>
+<ul>
+<li>0.17ohm rated for 90-320W, recommended 120-180W</li>
+</ul>
+<li>V12 RBA Rebuildable Head</li>
+<ul>
+<li>Two-Post, Dual Terminal Design</li>
+<li>Dual Coil Configurations</li>
+</ul>
+<li>V12 Prince Dual Mesh Coil</li>
+<ul>
+<li>0.2ohm</li>
+<li>Rated for 70-120W</li>
+<li>Recommended 85-105W</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 Prince Mesh</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 Prince Mesh</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 Prince - X6</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 Prince - X6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 Prince - T10</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 Prince - T10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 Prince Max Mesh</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 Prince Max Mesh</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 RBA</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 RBA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 RBA-T</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 RBA-T</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 - X4</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 - X4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 - Q4</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 Q4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792560183</id>
+      <title>V12 - T6</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>S V12 Price/RBA Replace Coils V12 T6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315792330807</id>
+    <published>2025-07-14T22:17:12+05:30</published>
+    <updated>2025-07-14T22:17:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-ofrf-nexmesh-replacement-coils"/>
+    <title>SMOK OFRF NexMESH Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_ofrf_nexmesh_pod_replacement_coils_-_blister_pack_and_box_-_0.4ohm_dc_mtl_coils.jpg?v=1752511634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK OFRF NexMesh Pod Coils (5-Pack), offering a 0.4ohm stainless steel or DC MTL option, bottom press-fit connection, and can be used in a MTL or DTL option.<br><br>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/smok-ofrf-nexmesh-30w-pod-system" title="SMOK OFRF NexMesh Pod System">SMOK OFRF NexMesh Pod Kit</a></p>
+<p><strong>SMOK OFRF NexMesh Replacement Coils Features:</strong><br></p>
+<ul>
+<li>NexMesh Coil Series</li>
+<li>0.4ohm SS316 Coil</li>
+<li>0.4ohm DC MTL Coil</li>
+<li>PressFit Coil Installation</li>
+<li>Comes in a pack of five (5).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792330807</id>
+      <title>0.4ohm DT MTL Coils</title>
+      <s:price currency="KES">1899.00</s:price>
+      <s:sku>S OFRF NexMESH Replace Coils - 0.4 ohm DT MTL Coils</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792330807</id>
+      <title>0.4ohm SS316L Coils</title>
+      <s:price currency="KES">1899.00</s:price>
+      <s:sku>S OFRF NexMESH Replace Coils - 0.4 ohm SS316L Coils</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315788431415</id>
+    <published>2025-07-14T22:04:33+05:30</published>
+    <updated>2025-07-14T22:04:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-lp2-replacement-coils"/>
+    <title>SMOK LP2 Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_lp2_coil_coils_default.png?v=1752510878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK LP2 Replacement Coils, featuring a 0.23ohm and 0.6ohm in Meshed and Dual Coil options, to deliver delicious vapor in MTL or DL fashion.</p>
+<p><strong>Compatibility</strong>:<br data-mce-fragment="1"><a href="https://[YOUR DOMAIN]/products/smok-rpm-4-60w-pod-system" title="RPM 4 Kit">RPM 4 Kit</a></p>
+<p><strong>SMOK LP2 Replacement Coils Features:</strong><br></p>
+<ul>
+<li>SMOK LP2 Coil Series</li>
+<li>0.23ohm LP2 Meshed Coils - rated for 20-45W</li>
+<li>0.6ohm LP2 DC Coils - rated for 15-25W</li>
+<li>Press Fit Coil Installation</li>
+<li>Comes in a pack of five (5).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315788431415</id>
+      <title>Meshed 0.23ohm DL</title>
+      <s:price currency="KES">1960.00</s:price>
+      <s:sku>S LP2 Replace Coils - Meshed 0.23 Ohm DL</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315788431415</id>
+      <title>DC 0.6ohm MTL</title>
+      <s:price currency="KES">1960.00</s:price>
+      <s:sku>S LP2 Replace Coils - DC 0.6ohm MTL</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284146667575</id>
+    <published>2025-05-22T06:29:19+05:30</published>
+    <updated>2025-05-22T06:29:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-nord-replacement-coils"/>
+    <title>SMOK Nord Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Smok_Nord_Coils.jpg?v=1747875560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1940.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 1.4ohm regular coil is designed for MTL vaping, which can help you enjoy throat hit with it. While the Ceramic 1.4ohm coil is perfectly compatible with CBD oil. Ceramic is a material with great stability and strong high-temperature resistance. When the ceramic is applied into the coil, the coil can be extremely durable and works well even in a higher wattage status.</p>
+<p><strong>SMOK NORD Replacement Coils, Features :</strong></p>
+<ul>
+<li>5 pieces each pack.</li>
+<li>1.4-ohm regular coil designed for MTL vaping.</li>
+<li>Ceramic 1.4-ohm coil is perfectly compatible with CBD oil.</li>
+<li>Works well even in a higher wattage status.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146667575</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>SMOK Nord Replacement Coils</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+    <published>2025-05-22T06:28:44+05:30</published>
+    <updated>2025-05-22T06:28:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-gtx-replacement-coil-series"/>
+    <title>Vaporesso GTX Replacement Coil Series (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso-gtx-coils-series-boxes.png?v=1747875529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The GTX Mesh and GTX-2 coils from Vaporesso are original replacement coils designed for even better flavor and vapor, they come in a huge range of resistances to suit a multitude of vaping styles.<br data-mce-fragment="1"><br data-mce-fragment="1">The GTX &amp; GTX-2 coils are compatible with the following Vaporesso devices: Swag PX80, Luxe PM40 (0.6ohm, 0.8ohm, 1.2ohm Mesh &amp; Regular Coils ONLY), Gen Nano 80W, Xiron, GTX One, GTX Tank (18 &amp; 22) Target PM80, Target PM80 SE and Target PM30.<br data-mce-fragment="1"></p>
+<ul>
+<li><strong>The Vaporesso GTX 0.2 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>0.2 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>45-60W Resistance Range</li>
+<li>Compatible with pre-mixed 10ml vape juice.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX 0.3 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>0.3 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>32-45W Resistance Range</li>
+<li>Compatible with pre-mixed vape juice.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX 0.6 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>0.6 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>20-30W Resistance Range</li>
+<li>Compatible with pre-mixed vape juice.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX 0.8 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>0.8 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>12-20W Resistance Range</li>
+<li>Compatible with pre-mixed vape juice with higher nicotine content and nic salts.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX 1.2 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>1.2 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>7-11W Resistance Range</li>
+<li>Compatible with nic salts.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX 1.2 Ohm Regular Coil:</strong></li>
+<ul>
+<li>1.2 Ohm Resistance</li>
+<li>Wire Heating Element</li>
+<li>8-12W Resistance Range</li>
+<li>Compatible with nic salts.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX RBA Coil:</strong></li>
+<ul>
+<li>FeCrAI</li>
+<li>0.7 Ohm</li>
+<li>DIY Heating Element</li>
+<li>Restricted Direct Lung</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX-2 0.6 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>0.6 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>20-30W Resistance Range</li>
+<li>28W Best</li>
+<li>Compatible with pre-mixed vape juice.</li>
+</ul>
+</ul>
+<ul>
+<li><strong>The Vaporesso GTX-2 0.8 Ohm Mesh Coil:</strong></li>
+<ul>
+<li>0.8 Ohm Resistance</li>
+<li>Mesh Heating Element</li>
+<li>12-20W Resistance Range</li>
+<li>18W Best</li>
+<li>Compatible with pre-mixed vape juice with higher nicotine content and nic salts.</li>
+</ul>
+</ul>
+<p><strong>Each pack includes 5 coils.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 0.2 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f6f07e2a</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 0.3 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f6f90e5b</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 0.4 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f70245f3</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 0.6 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f70ba318</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 1.2 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f72102ed</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 0.8 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f7156caf</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX 1.2 Ohm Regular Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f729f9d6</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX RBA Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f73844de</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX-2 0.6 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f742adf9</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146602039</id>
+      <title>GTX-2 0.8 Ohm Mesh Coil</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>69d25f74bd5c6</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+    <published>2025-05-22T06:28:16+05:30</published>
+    <updated>2025-05-22T06:28:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm-series-replacement-coils"/>
+    <title>SMOK RPM Series Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok-rpm-replacement-coils-5pcs.jpg?v=1747875507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SMOK RPM Replacement Coils features five coils designed for the SMOK RPM40 40W Pod System. The coils are also compatible with the extensive Nord Coil Series by SMOK. Boasting 1.2ohm of coil resistance for robust and luscious vapor, each unit is designed for maximum flavor and long-lasting vaping life. The threaded coil design allows for quick and easy installation.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>SMOK RPM <a href="https://[YOUR DOMAIN]/collections/replacement-vape-coils" title="vape coils">Replacement Coils</a> Features &amp; Specifications:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>SMOK RPM &amp; Nord Coil Series</li>
+<li>0.3ohm RPM MTL Mesh Coil</li>
+<li>0.4ohm RPM Mesh Coil</li>
+<li>0.8ohm RPM DC MTL</li>
+<li>0.6ohm RPM Triple Coil</li>
+<li>1.0ohm RPM SC Coil</li>
+<li>1.2ohm RPM Quartz Coil</li>
+<li>RPM and Nord Pod Compatibility Options</li>
+<li>Threaded Coil Installation</li>
+</ul>
+<p><strong>SMOK RPM RBA Coil Features &amp; Specification:</strong></p>
+<ul>
+<li>SMOK RPM RBA Head (Rebuildable Atomizer Head)</li>
+<li>Features and Specs:</li>
+<ul>
+<li>Designed for the SMOK RPM40 Pod System</li>
+<li>Includes (1) Single Coil 0.6ohm (Pre-installed)</li>
+<li>Includes Carrying Case, Screwdriver and Spare Parts</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>0.3ohm RPM MTL Mesh Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6b7af77</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>0.4ohm RPM Mesh Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6c9e76f</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>0.6ohm RPM Triple Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6dc26f6</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>0.8ohm RPM DC MTL</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6e61fb2</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>1.0ohm RPM SC Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6ee4126</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>1.2ohm RPM Quartz Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6f882c3</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146536503</id>
+      <title>0.6ohm RPM RBA Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6d3b2d7</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284146503735</id>
+    <published>2025-05-22T06:28:05+05:30</published>
+    <updated>2025-05-22T06:28:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm-2-series-replacement-coils"/>
+    <title>SMOK RPM 2 Series Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_rpm_2_replacement_coils_-_0.16ohm_mesh_coil_-_box.jpg?v=1747875495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the SMOK RPM 2 <a href="https://[YOUR DOMAIN]/collections/replacement-vape-coils" title="vape replacement coils">Vape Replacement Coils</a>, featuring a 0.6ohm DC MTL Coil, 0.16ohm Mesh Coil, and is installed in a press fit manner, with MTL or DTL options.<br><br>SMOK RPM 2 Replacement Coils Features:<br></p>
+<ul>
+<li>SMOK RPM 2 Coil Series</li>
+<li>0.6ohm DC MTL Coil - rated for 12-25W</li>
+<li>0.16ohm Mesh Coil - rated for 25-50W</li>
+<li>Press Fit Coil Installation</li>
+<li>Comes in a pack of five (5).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146503735</id>
+      <title>0.6ohm DC MTL Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6bb4770</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146503735</id>
+      <title>0.16ohm Mesh Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6a82cc0</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146503735</id>
+      <title>0.25ohm DC MTL Coil</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6b1d69f</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284146438199</id>
+    <published>2025-05-22T06:27:59+05:30</published>
+    <updated>2025-05-22T06:27:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm-3-series-replacement-coils"/>
+    <title>SMOK RPM 3 Series Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_rpm_3_replacement_coils_-_accessories_-_all_types.png?v=1747875484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the SMOK RPM 3 Replacement Coils, the latest revision of the RPM coils delivering delicious flavor and vapor from your favorite eJuice. You can shop <a href="https://[YOUR DOMAIN]/collections/vape-kenya" title="refillable vape">refillable vapes</a> from vapekenya now!</p>
+<p><strong>SMOK RPM 3 Replacement Coils Features:</strong><br></p>
+<ul>
+<li>SMOK RPM 3 Coil Series</li>
+<li>0.15ohm RPM 3 Mesh Coils</li>
+<li>0.23ohm RPM 3 Mesh Coils</li>
+<li>Press-Fit Coil Installation</li>
+<li><span data-mce-fragment="1">Comes in a pack of five (5)</span></li>
+</ul>
+<p>Make sure to properly prime each coils and pods before use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146438199</id>
+      <title>0.15ohm RPM 3 Mesh Coils</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6a6e3d8</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284146438199</id>
+      <title>0.23ohm RPM 3 Mesh Coils</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>69d25f6b0bb69</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279506554935</id>
+    <published>2025-05-07T21:38:50+05:30</published>
+    <updated>2025-05-07T21:38:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils"/>
+    <title>Uwell Caliburn G Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g_coils.jpg?v=1746634131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn G Replacement Coils, featuring a 0.8ohm mesh coil resistance, press fit installation, and is replaceable to grant users superior flavor.</p>
+<p>Buy <em><a title="Caliburn vape" href="https://[YOUR DOMAIN]/collections/uwell">Uwell Caliburn Vape</a></em> at best price online at <em><a title="[YOUR BRAND]" href="https://[YOUR DOMAIN]/">[YOUR BRAND]</a></em><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Uwell Caliburn G Replacement Coils Features:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Uwell Caliburn G Coil Series</li>
+<li>0.8ohm Mesh Caliburn G Coil</li>
+<li>Press Fit Coil Installation</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279506554935</id>
+      <title>1.0ohm MTL Coils</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>U Cali G Replace Coils 1.0 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279506554935</id>
+      <title>0.8ohm UN2 Mesh Coils</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>U Cali G Replace Coils 0.8 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279506522167</id>
+    <published>2025-05-07T21:38:46+05:30</published>
+    <updated>2025-05-07T21:38:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-replacement-coils"/>
+    <title>Uwell Caliburn G2 Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_-_caliburn_g2_coil_-_accessories_-_1.2_ohm.png?v=1746634129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn G2 Replacement Coils, featuring a 0.8ohm and 1.2ohm mesh coil for delivering delicious vapor and flavor from your favourite e Juice.</p>
+<p>Quick Links:<br data-mce-fragment="1"><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-18w-pod-system" title="Buy Caliburn G2 Pod System">Uwell Caliburn G2 Pod System</a><br data-mce-fragment="1"><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Buy Caliburn G Replacement Coils">Uwell Caliburn G Coils</a><br data-mce-fragment="1"><br data-mce-fragment="1">Uwell Caliburn G2 Replacement Coils Features:<br data-mce-fragment="1"></p>
+<ul>
+<li>Uwell Caliburn G2 Coil Series</li>
+<li>0.8ohm Meshed-H Coils</li>
+<li>1.2ohm Meshed-H Coils</li>
+<li>Press Fit Coil Installation</li>
+</ul>
+<p>Make sure to properly prime each coils and pods before use.<br data-mce-fragment="1"><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279506522167</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>U Cali G2 Replace Coils</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7239523663927</id>
+    <published>2025-03-11T21:50:26+05:30</published>
+    <updated>2025-03-11T21:50:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-lp1-replacement-coils"/>
+    <title>SMOK LP1 Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_lp1_coils_-_all_types.png?v=1741710030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK LP1 Coils (5-Pack), featuring a 0.8ohm for delivering outstanding flavor and vapor from your favorite nicotine salt or eJuice.</p>
+<p>Quick Links:<br data-mce-fragment="1"><a title="SMOK Novo 4 Pod System" href="https://[YOUR DOMAIN]/products/smok-novo-4-25w-pod-kit">SMOK NOVO 4 Pod System</a><br data-mce-fragment="1"><span data-mce-fragment="1"><a href="https://[YOUR DOMAIN]/products/smok-novo-4-empty-pods" title="SMOK Novo Pods">SMOK NOVO 4 Pods</a><br data-mce-fragment="1"></span><a href="https://[YOUR DOMAIN]/products/smok-nfix-pro-replacement-pods" title="SMOK Nfix pro replacement pods">SMOK NFIX Pro Replacement Pods</a><br data-mce-fragment="1"><a href="https://[YOUR DOMAIN]/products/smok-nfix-pro-25w-pod-system" title="Nfix pro 25w pod system"><span>SMOK NFIX Pro 25W Pod System</span></a></p>
+<p><span><strong>SMOK LP1 Replacement Coils Features:</strong><br></span></p>
+<ul>
+<li><span>SMOK LP1 Coil Series</span></li>
+<li><span>0.8ohm LP1 Meshed Coil</span></li>
+<li>
+<span>0.8ohm LP1 DC MTL Coil</span><span></span>
+</li>
+<li><span>1.0ohm LP1 DC MTL Coil</span></li>
+<li><span>1.2ohm LP1 Coil</span></li>
+<li><span>Press Fit Coil Installation</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7239523663927</id>
+      <title>0.8ohm Meshed Coil</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>69d25d4f61231</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7239523663927</id>
+      <title>0.8ohm DC MTL Coil</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>69d25d4ebd931</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7239523663927</id>
+      <title>1.2ohm Coil</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>69d25d50704d8</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

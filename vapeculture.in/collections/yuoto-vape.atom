@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/yuoto-vape.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-04-03T06:27:55+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+    <published>2026-04-03T06:27:55+05:30</published>
+    <updated>2026-04-03T06:27:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-lens-50000-puffs"/>
+    <title>Yuoto Lens (50000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/yuoto-lens-peach-ice-50k.webp?v=1775177876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into the future of vaping with the Yuoto Lens 50000, a powerhouse disposable designed for users who want extreme longevity, premium performance, and next-level convenience. Built for heavy users and serious enthusiasts, this device delivers an unmatched vaping experience that keeps going… and going.</p>
+<p>Key Features:</p>
+<ul>
+<li>Premium Build &amp; Futuristic Design</li>
+<li>Up to 50,000 Puffs<br>
+</li>
+<li>High E-Liquid Capacity (~25ml)<br>
+</li>
+<li>5% (50mg) Nicotine Salt<br>
+</li>
+<li>Rechargeable Battery (Type-C)<br>
+</li>
+<li>Advanced Mesh Coil Technology<br>
+</li>
+<li>Smart Display Screen<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Peach Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Coke Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Coke Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Energy Drink</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Energy Drink</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Mixed Berries</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Mixed Berries</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Peach Mango Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Peach Mango Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Watermelon Bubblegum</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Watermelon Bubblegum</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Mango Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Mango Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Double Apple</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Double Apple</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+    <published>2026-04-03T05:59:49+05:30</published>
+    <updated>2026-04-03T05:59:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-thanos-vape-5000-puffs"/>
+    <title>Yuoto Thanos Vape (5000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Yuoto-Thanos-5000-Puffs-Disposable-Vape.webp?v=1775176190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            1550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience power, performance, and premium flavor in one compact device with the Yuoto Thanos Disposable Vape. Designed for modern vapers who want convenience without compromising on quality, this high capacity disposable delivers a smooth and satisfying experience from the first puff to the last.</p>
+<ul>
+<li>Up to 5000 Puffs<br>
+</li>
+<li>14ml Pre-Filled E-Liquid<br>
+</li>
+<li>5% (50mg) Nicotine Salt Strength<br>
+</li>
+<li>Rechargeable 650mAh Battery (Type-C)<br>
+</li>
+<li>Advanced Mesh Coil Technology<br>
+</li>
+<li>Draw-Activated Mechanism<br>
+</li>
+<li>Sleek &amp; Portable Design</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Coke Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Coke Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Antonovka Apple</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Antonovka Apple</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Energy Drink Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Energy Drink Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Milk Coffee</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Milk Coffee</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Strawberry Peach Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Strawberry Peach Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Passion Fruit</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Passion Fruit</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Strawberry Kiwi Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+    <published>2025-08-22T07:59:26+05:30</published>
+    <updated>2025-08-22T07:59:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-thanos-2-vape-10000-puffs"/>
+    <title>Yuoto Thanos 2 Vape (10000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Yuoto-Thanos-2-10000-Puffs.webp?v=1755829023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            1790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span class="cf0">Experience vaping at its finest with the </span><span class="cf0">Yuoto</span><span class="cf0"> Thanos Vape-2 10000 Puffs, a sleek and high-performing disposable vape designed for long-lasting enjoyment. Boasting an impressive 10k puff capacity, this device features an 18ml e-liquid tank and 5% salt nicotine, delivering rich flavors and smooth hits in every puff.</span></p>
+<p><span class="cf0">Available in irresistible flavors, including Watermelon Ice, Blueberry Lime, and Double Apple, the </span><span class="cf0">Yuoto</span><span class="cf0"> vape Thanos-2 caters to every preference. Whether you’re a beginner or a seasoned vaper, this device is perfect for enjoying extended vaping without the hassle of refilling or frequent recharges.</span></p>
+<p><span class="cf0">Yuoto</span><span class="cf0"> Thanos Vape- 2 10000 Puffs Specifications:</span></p>
+<ul>
+<li><span class="cf0">Puff Capacity: +10,000 puffs</span></li>
+<li><span class="cf0">Battery: 500mAh rechargeable</span></li>
+<li><span class="cf0">E-liquid Volume: 18ml</span></li>
+<li><span class="cf0">Nicotine Content: 5% salt nicotine</span></li>
+<li><span class="cf0">Charging Time: 2 hours</span></li>
+</ul>
+<p><!--EndFragment --></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Energy Drink</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Energy Drink</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Strawberry Grape Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Strawberry Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Coke Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Coke Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Passion Fruit</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Passion Fruit</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Blue Raspberry</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Blue Raspberry</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Lemon Mint</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Lemon Mint</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Blueberry Lime</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Blueberry Lime</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Cigar</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Cigar</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Double Apple</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Double Apple</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328582828087</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">1790.00</s:price>
+      <s:sku>Y Thano2 V (10K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+    <published>2025-06-17T09:11:44+05:30</published>
+    <updated>2025-06-17T09:11:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-xxl-max"/>
+    <title>Yuoto XXL MAX Vape (3500 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Yuoto-XXL-MAX-vape-flavour-list.jpg?v=1750132149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Features:</strong><br data-mce-fragment="1">1. Lightweight and portable<br data-mce-fragment="1">2. The battery pack has more than 50% higher durability than similar products, reaching an amazing 3500 puffs.<br data-mce-fragment="1">3. No button, automatic smoking<br data-mce-fragment="1">4. Natural plant and fruit extracts reduce taste<br data-mce-fragment="1">5. More protection system(Low voltage cut off mode, Short circuit protection, Overheat protection, Over time vaping protection), all designed in the chips.</p>
+<p>Specifications:<br data-mce-fragment="1"></p>
+<ul>
+<li>Salt Nicotine: 5%</li>
+<li>Battery Capacity: 1200mah</li>
+<li>E-liquid Capacity: 9.0ml</li>
+<li>Puffs: ˜3500 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Energy Drink Ice</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Energy Drink Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Berry Bubble Ice</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Berry Bubble Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Strawberry Watermelon</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291357560887</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">995.00</s:price>
+      <s:sku>Y XXL Max V (3.5K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+    <published>2025-06-17T08:55:29+05:30</published>
+    <updated>2025-06-17T08:55:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-xxl"/>
+    <title>Yuoto XXL Vape (2500 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/yuoto-xxl-disposable-vape-2500puffs.jpg?v=1750131413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yuoto Disposable device is made of high-quality metal materials, lightweight and portable, and durable. All Yuoto XXL <a href="https://[YOUR DOMAIN]/collections/disposable-vapes" title="Disposable vapes">disposable vapes</a> devices require no maintenance, charging, or refilling; once it has been used, just throw away. Yuoto XXL Disposable device is designed with master craft precision and the devices also offer large e-juice capacity with high-quality salt nicotine combined with delectable flavors in every disposable. As for the pods, the capacity is 7ml, which can meet your daily use. Choose from a wide variety of delicious e-juice flavors that include favorites for many.</p>
+<p>Main Features:<br data-mce-fragment="1">1. Lightweight and portable<br data-mce-fragment="1">2. The battery pack has more than 50% higher durability than similar products, reaching an amazing 2500 puffs.<br data-mce-fragment="1">3. No button, automatic smoking<br data-mce-fragment="1">4. Natural plant and fruit extracts reduce taste<br data-mce-fragment="1">5. More protection system(Low voltage cut off mode, Short circuit protection, Overheat protection, Over time vaping protection), all designed in the chips.</p>
+<p>Specifications:<br data-mce-fragment="1"></p>
+<ul>
+<li>Salt Nicotine: 5%</li>
+<li>Battery Capacity: 1200mah</li>
+<li>E-liquid Capacity: 5.0ml</li>
+<li>Puffs: ˜2500 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UNDER 1000</s:tag>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Energy Drink Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Energy Drink Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Passion Fruit</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Passion Fruit</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Popcorn</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Popcorn</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Mango Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Mango Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Coke Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Coke Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291347992631</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">700.00</s:price>
+      <s:sku>Y XXL V (2.5K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

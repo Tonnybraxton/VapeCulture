@@ -1,0 +1,1343 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/i-love-salts-e-juice.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-06-16T06:35:36+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290978107447</id>
+    <published>2025-06-16T06:35:36+05:30</published>
+    <updated>2025-06-16T06:35:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/peach-mango-by-i-love-salts"/>
+    <title>Peach Mango by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/i-love-salts-peach-mango.jpg?v=1750035851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<p data-mce-fragment="1">Check out Peach Mango by I Love Salts, capturing a blend of luscious peaches, and tropical mango that dazzles the taste buds. From the makers of Mad Hatter Juice.<br></p>
+<ul>
+<li>Not for use in sub-ohm devices</li>
+<li>30mL of liquid</li>
+<li>Available in 25mg and 50mg nicotine concentration</li>
+<li>Salt nicotine is more efficient and less harsh to vape</li>
+<li>Contains nicotine, vegetable glycerin, and propylene glycol</li>
+</ul>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salt" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salt</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts in Kenya" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nicotine salts</a> in Kenya </em><span>collection with more than +150 salts option.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290978107447</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25fd3b1cf2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290978107447</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25fd311ce6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426197559</id>
+    <published>2025-05-20T05:54:56+05:30</published>
+    <updated>2025-05-20T05:54:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/spearmint-by-i-love-salts"/>
+    <title>Spearmint by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/i-love-salts-spearmint-30ml-nic-salt-juice.jpg?v=1747700697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>I Love Salts - Spearmint is part of the nic salt collection by Mad Hatter Juice, distilling a blast of refreshment with a chilly essence of Spearmint that is truly fresh and simple.</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nic salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426197559</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25ebde2cab</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426197559</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25ebd5920d</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426164791</id>
+    <published>2025-05-20T05:54:52+05:30</published>
+    <updated>2025-05-20T05:54:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pink-lemonade-by-i-love-salts"/>
+    <title>Pink Lemonade By I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/i-love-salts-pink-lemonade.jpg?v=1747700695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<p>I Love Salts Pink Lemonade (formerly Luau Lemonade) vape juice is a remarkably refreshing lemonade flavor that’s infused with the fresh tropical and seasonal juices of crisp pineapples and mouthwatering watermelons. </p>
+<p>Wanna try more flavours? Choose your favourite <em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts">I Love Salts</a></em> from our collection. Else, shop from our <em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nicotine liquids">nicotine liquids</a></em> collection with more than +150 salts option.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426164791</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25ebd90893</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426164791</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25ebd0836f</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426132023</id>
+    <published>2025-05-20T05:54:50+05:30</published>
+    <updated>2025-05-20T05:54:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/strawberry-guava-i-love-salts"/>
+    <title>Strawberry Guava by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/mad-hatter-i-love-salts-strawberry-guava.jpg?v=1747700691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Love Salts E Liquid makes vape juices that are produced with salt nicotine to make some of the most delicious flavors imaginable that not only deliver on taste but with that nicotine that you crave at the same time. With more impact per inhale, using blends that are made with salt nicotine is the way to go if you are trying to kick the habit.</p>
+<p>I Love Salts Strawberry Guava <a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nicotine vape juice">nicotine vape juice</a> allows you to escape, even if it’s just for a moment, to your own tropical vape paradise. It will transport you to an island filled with outrageously juicy kiwis, dazzlingly sweet strawberries and exotic guavas, all joining forces to soothe you with intense fruity splendor.</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts Kenya" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salt Kenya</a></em><span> from our collection. Else, shop from our </span><em>nicotine e-liquids</em><span> collection with more than +150 salts option.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426132023</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e63d189a</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426132023</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e6340e66</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426099255</id>
+    <published>2025-05-20T05:54:48+05:30</published>
+    <updated>2025-05-20T05:54:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/island-squeeze-i-love-salts"/>
+    <title>Island Squeeze by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_islandsqueeze.jpg?v=1747700689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Mad Hatter Vapes has concocted its own line of nicotine salt e-liquids and, unsurprisingly, they’re seriously delicious. Island Squeeze is a standout e-juice from this recent line because it tricks you into thinking you’re vaping gummy strawberries. According to the vaping facts listed on the bottle. The sweet kiwi, strawberry, and more flavor stays full and consistent from inhale to exhale, making this an easy all-day vape.</p>
+<p data-mce-fragment="1">Savor I Love Salts <span data-mce-fragment="1">Island Squeeze</span> today!</p>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nic salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426099255</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>ISLAND SQUEEZE BY I LOVE SALTS 5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426099255</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>ISLAND SQUEEZE BY I LOVE SALTS 3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426066487</id>
+    <published>2025-05-20T05:54:44+05:30</published>
+    <updated>2025-05-20T05:54:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/strawberry-candy-i-love-salts"/>
+    <title>Sweet Strawberry By I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/sweetstrawberry-50.jpg?v=1747700687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">I Love Salts - Sweet Strawberry (Formerly Strawberry Candy) is part of the nic salt collection by Mad Hatter Juice, delivering a sweet-tooth fruity experience with vibrant strawberry notes in a perfect candy form for the ultimate treat.</p>
+<p data-mce-fragment="1">Since Strawberry Candy is a nic salt e-liquid, it’s only intended for use in pod systems. Like the other I Love Salts vape juices, Strawberry Candy is made with 50% VG and 50% PG and is available in 25 mg and 50 mg nicotine strengths.</p>
+<p data-mce-fragment="1">Savor I Love Salts Strawberry Candy today!</p>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426066487</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>Sweet Strawberry By I Love S - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426066487</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>Sweet Strawberry By I Love S - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426033719</id>
+    <published>2025-05-20T05:54:42+05:30</published>
+    <updated>2025-05-20T05:54:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juicy-apples-i-love-salts"/>
+    <title>Juicy Apples by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_juicyapples.jpg?v=1747700683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Juicy Apples Nic Salt e-Liquid is a slice of fresh, invigorating sweetness that comes to you via I Love Salts, the newest juice like from Mad Hatter Vapes. This mouthwatering e-liquid is infused with pure apple goodness that’s as crisp and sweet as taking a big bite of an apple plucked right from the tree! As you inhale, you can taste the essence of sliced apple or apple juice, which heightens at the top of the inhale. The exhale leaves a pleasantly sweet aftertaste too.</p>
+<p>Juicy Apples is available in 25 mg or 50 mg nicotine levels to give you that extra oomph you need sometimes. This juice is made with 50% VG and 50% PG, so balances flavor and vapor well, but still gives a noticeable throat hit. Like other nicotine salt vape liquids, Juicy Apples is only intended for use in pod systems.</p>
+<p>Dig into a bottle of Juicy Apples by I Love Salts today!</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="e liquid online Kenya" href="https://www.[YOUR DOMAIN]/collections/nic-salts">e liquid online Kenya</a></em><span> collection with more than +150 salts option.</span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426033719</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>Juicy Apples by I Love S - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426033719</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>Juicy Apples by I Love S - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283426000951</id>
+    <published>2025-05-20T05:54:39+05:30</published>
+    <updated>2025-05-20T05:54:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/luau-lemonade-i-love-salts"/>
+    <title>Luau Lemonade by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_luaulemonade.jpg?v=1747700681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>Celebrate summer year-round and jetset to a faroff island with this delicious new nic salt flavor from I Love Salts. Luau Lemonade will send your tastebuds on a tropical getaway with its potent mix of lemonade, watermelon, and pineapple.</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426000951</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>LUAU LEMONADE BY I LOVE SALTS</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283426000951</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>LUAU LEMONADE BY I LOVE SALTS</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425968183</id>
+    <published>2025-05-20T05:54:37+05:30</published>
+    <updated>2025-05-20T05:54:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/fruity-cereal-i-love-salts"/>
+    <title>Fruit Cereal by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_fruitcereal.jpg?v=1747700678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>Nom. Nom. Nom. Wow. This juice is delicious. Oh, sorry for that minor interruption. That’s what happens when you vape I Heart Salts Fruity Cereal E-Juice. It kind of takes you to another place. A spectrum of sweet and fruity cereal flavors is swept in by the taste of pure whole milk and plenty of sugar as you inhale this nicotine salt juice. Each vape of I Heart Salts Fruit Cereal tastes like slurping an overfull spoonful of your favorite crunchy fruit cereal.</p>
+<p>Fruity Cereal is part of Mad Hatter Vapes’ I Love Salts juice line, which is made up strictly of nicotine salt e-liquids. This means you’ll get a more powerful nic hit when you inhale. The I Love Salts e-juices are available in either 25 mg or 50 mg nicotine strength, so you have control over your desired nicotine level. Like all nic salts, Fruit Cereal is not to be used with sub-ohm devices.</p>
+<p>Get the scoop on Fruity Cereal E-Juice by buying a bottle now!</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425968183</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>FRUITY CEREAL BY I LOVE SALTS 5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425968183</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>FRUITY CEREAL BY I LOVE SALTS 2.5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425935415</id>
+    <published>2025-05-20T05:54:34+05:30</published>
+    <updated>2025-05-20T05:54:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/classic-tobacco-i-love-salts"/>
+    <title>Classic Tobacco by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_classictobacco.jpg?v=1747700676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="product attribute overview">
+<div data-mce-fragment="1" class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>Classic Tobacco by I Love Salts is a true tobacco flavor that is ideal for smokers that are making the transition to vaping a seamless process. This rich tobacco flavor is available in 2.5% and 5.0% nicotine strengths, so it is only to be used with low-power vape pod devices. Not to be used in sub-ohm tanks.</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts Kenya">I Love Salt Kenya</a></em><span> from our collection. Else, shop from our </span><em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="nicotine e-liquids">nicotine e-liquids</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425935415</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Classic Tobacco by I Love S - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425935415</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Classic Tobacco by I Love S - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425902647</id>
+    <published>2025-05-20T05:54:32+05:30</published>
+    <updated>2025-05-20T05:54:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/classic-menthol-i-love-salts"/>
+    <title>Classic Menthol by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_classicmenthol.jpg?v=1747700673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>A smooth and cool menthol, I Love Salts Classic Menthol has bold spearmint tones that make this an easy flavor for heavy smokers and former prefilled vape pod users to enjoy. A great Juul Mint alternative, the cooling and mild sweetness make this an all-day vape. Available in 2.5 and 5 percent nic strength. Perfect for a prefilled vape pod kit, I Love Salts nic salts are sold in 30ml bottles.</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425902647</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Classic Menthol by I Love - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425902647</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Classic Menthol by I Love - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425869879</id>
+    <published>2025-05-20T05:54:30+05:30</published>
+    <updated>2025-05-20T05:54:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/tropic-mango-i-love-salts"/>
+    <title>Tropic Mango by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_tropicmango.jpg?v=1747700671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>Tropic Mango Nic Salt Juice is a sweet, fruity nicotine salt juice in the I Love Salts line of nicotine salt liquids. Get a grip on I Love Salts tropic mango ASAP!</p>
+<p><span data-mce-fragment="1">Wanna try more flavours? Choose your favourite </span><em data-mce-fragment="1"><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" data-mce-fragment="1">I Love Salts</a></em><span data-mce-fragment="1"> from our collection. Else, shop from our </span><em data-mce-fragment="1"><a title="nicotine liquid kenya" href="https://www.[YOUR DOMAIN]/collections/nic-salts" data-mce-fragment="1">nicotine liquid Kenya</a></em><span data-mce-fragment="1"> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425869879</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>TROPIC MANGO BY I LOVE SALTS 5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425869879</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>TROPIC MANGO BY I LOVE SALTS 3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425837111</id>
+    <published>2025-05-20T05:54:27+05:30</published>
+    <updated>2025-05-20T05:54:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/grappleberry-i-love-salts"/>
+    <title>Grappleberry by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_grappleberry.jpg?v=1747700669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="product attribute overview">
+<div data-mce-fragment="1" class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>I Love Salts Grappleberry is a potent mashup of some of the most delicious fruit flavors you can think of. Plump purple grapes, shiny red apples, and tart handfuls of blueberries mingle to make a one-of-a-kind nicotine salt e-juice flavor that’s hard to stop vaping. The intense fruit flavors in I Love Salts Grappleberry stay well-balanced throughout each inhale, allowing your tastebuds to savor the sweet essence of crisp apples, freshly picked grapes and ripe blueberries.</p>
+<p>This Grappleberry E-Juice is part of Mad Hatter Vapes’ new I Love Salts line, which is made up of nicotine salt e-liquids infused with inventive flavors. You can get a bottle in 25 mg or 50 mg, depending on the nicotine strength you prefer. I Love Salts juices are best used with a vape pod system and should never be used with a sub-ohm system.</p>
+<p>Get a grip on I Love Salts Grappleberry ASAP!</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425837111</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Grappleberry by I Love S - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425837111</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Grappleberry by I Love S - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425771575</id>
+    <published>2025-05-20T05:54:25+05:30</published>
+    <updated>2025-05-20T05:54:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/strawberry-ice-i-love-salts"/>
+    <title>Strawberry Ice by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_strawberryice.jpg?v=1747700666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>The bold flavor of strawberry makes for a grand nic salt but it is even better when coated in a smooth menthol chill. An icy gust of menthol balances the exhale while the tartness of strawberry counteracts the sugary fruit flavors. The crispness of the mint draws out all of the complex elements in Strawberry Ice I Love Salts, which is sold in 30ml and has two nic strength options: 2.5 and 5 percent.</p>
+<p><span data-mce-fragment="1">Wanna try more flavours? Choose your favourite </span><em data-mce-fragment="1"><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts" data-mce-fragment="1">I Love Salts</a></em><span data-mce-fragment="1"> from our collection. Else, shop from our </span><em data-mce-fragment="1"><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nic salts" data-mce-fragment="1">nic salts</a></em><span data-mce-fragment="1"> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425771575</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>STRAWBERRY ICE BY I LOVE SALTS 5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425771575</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>STRAWBERRY ICE BY I LOVE SALTS 3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425738807</id>
+    <published>2025-05-20T05:54:23+05:30</published>
+    <updated>2025-05-20T05:54:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blue-raspberry-ice-i-love-salts"/>
+    <title>Blue Raspberry Ice by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_bluerapsberryice.jpg?v=1747700664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blueberry Raspberry I Love Salts is a fruit and ice blend that competes with the best disposable vape flavors but is sold in an economical 30ml bottle. Perfect for a Vapor Titan or prefilled vape pod kit, the candied goodness of blueberry raspberry never gets too sweet. The tartness balances out the hard candy exterior and the cool finish blends perfectly on exhale. The dose of menthol is light, so fruit vape fans will enjoy this flavor as much as menthol lovers. I Love Salts are available in 2.5 and 5 percent nic strength.</p>
+<p><span>Wanna try more flavours? Choose your favourite<em> </em></span><em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nic salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425738807</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Blue Raspberry Ice by I Love S - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425738807</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Blue Raspberry Ice by I Love S - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425673271</id>
+    <published>2025-05-20T05:54:20+05:30</published>
+    <updated>2025-05-20T05:54:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/spearmint-gum-i-love-salts"/>
+    <title>Spearmint Gum by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_spearmintgum_1.jpg?v=1747700662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="product attribute overview">
+<div data-mce-fragment="1" class="value">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>Few things are as good of a wakeup call as an invigorating whiff of fresh spearmint. With I Love Salts Spearmint Gum, you can get an invigorating wave of minty fresh spearmint gum with every single vape. Made by Mad Hatter Vapes, this nicotine salt e-juice is infused with intensely mega-mint flavor from start to finish and leaves a refreshing taste in your mouth long after you exhale. On the side of the I Love Salts Spearmint Gum bottle, the vaping facts note that the flavor is 100% ice cold, 100% mouth-tingling spearmint, and 100% refreshing mint. If you’re a fan of menthol or mint flavors, this juice is a must-try.</p>
+<p><span>Wanna try more flavours? Choose your favourite </span><em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nic salts">nic salts</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425673271</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>SPEARMINT GUM BY I LOVE SALTS 5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425673271</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>SPEARMINT GUM BY I LOVE SALTS 3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425640503</id>
+    <published>2025-05-20T05:54:18+05:30</published>
+    <updated>2025-05-20T05:54:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/sweet-tobacco-i-love-salts"/>
+    <title>Sweet Tobacco by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_sweettobacco_1.jpg?v=1747700660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<div class="product attribute overview">
+<div class="value">
+<p>Sweet Cavendish tobacco naturally mimics the flavor of vanilla when barrel aged. The rough and earthy edge of tobacco has never been smoothed over so seamlessly. Sweet Tobacco I Love Salts manages to capture the essence of creamy Cavendish tobacco and the nic salt inhale is positively silken. If you are looking for a sophisticated tobacco nic salt, this is the flavor for you. I Love Salts are sold in 30ml bottles and come in 2.5 and 5.0 percent nic strength.</p>
+<p><span data-mce-fragment="1">Wanna try more flavours? Choose your favourite </span><em data-mce-fragment="1"><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts" data-mce-fragment="1">I Love Salts</a></em><span data-mce-fragment="1"> from our collection. Else, shop from our </span><em data-mce-fragment="1"><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="nicotine liquid Kenya" data-mce-fragment="1">nicotine liquid Kenya</a></em><span data-mce-fragment="1"> collection with more than +150 salts option.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425640503</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>SWEET TOBACCO BY I LOVE SALTS 5</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425640503</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>SWEET TOBACCO BY I LOVE SALTS 3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425607735</id>
+    <published>2025-05-20T05:54:16+05:30</published>
+    <updated>2025-05-20T05:54:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blue-raspberry-i-love-salts"/>
+    <title>Blue Raspberry By I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/ilovesalt_blueraspberry.jpg?v=1747700657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<div class="product attribute overview">
+<div class="value">
+<p>This sweet blueberry and raspberry nic salt juice blend is a perfect all day vape for nicotine salt lovers. Refill your favorite vape pod with this new nic salt from I Love Salts e Juice. </p>
+<p>Wanna try more flavours? Choose your favourite <em><a href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice" title="I love salts">I Love Salts</a></em> from our collection. Else, shop from our <em><a href="https://www.[YOUR DOMAIN]/collections/nic-salts" title="Nic salts">nic salts</a></em> collection with more than +150 salts option.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425607735</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Blue Raspberry By I Love S - 50 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425607735</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Blue Raspberry By I Love S - 25 mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425574967</id>
+    <published>2025-05-20T05:54:12+05:30</published>
+    <updated>2025-05-20T05:54:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pacific-passion-i-love-salts"/>
+    <title>Blue Strawberry by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blue-strawberry-i-love-salts.jpg?v=1747700655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="product attribute overview">
+<div data-mce-fragment="1" class="value">
+<p data-mce-fragment="1">I Love Salts Blue Strawberry vape juice is an exquisite blend of fresh tropical fruits from the Pacific region that will have you feeling like you’re on a island beach with a cocktail made from silky coconut milk, freshly squeezed pineapple juice, and ripe strawberries.<br></p>
+<p data-mce-fragment="1">I love Salts Pacific Passion is a confluence of creamy coconut, strawberry and pineapple. Currents of flavor flow together smoothly and you will ride a wave of sweetness through exhale. Coconut gives this flavor added buoyancy this but does not stop the fruitiness from reaching flood tide. Sold in 30ml bottles, I Love Salts Pacific Passion is available in 2.5 and 5 percent nic strength.</p>
+<p data-mce-fragment="1"><em><strong>Blue Strawberry was formerly Pacific Passion by I Love Salts.</strong></em></p>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salts" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salts</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nicotine liquid Kenya</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425574967</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425574967</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425542199</id>
+    <published>2025-05-20T05:54:09+05:30</published>
+    <updated>2025-05-20T05:54:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/wild-watermelon-by-i-love-salts"/>
+    <title>Wild Watermelon by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/I_love_Salts_Wild_Watermelon.jpg?v=1747700651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<p data-mce-fragment="1">Bombarding your airways with a mouth full of watermelon flavor, Wild Watermelon by I Love Salts is certainly the go-to vape for those looking for loads of potent mouthwatering taste. This extremely satisfying flavor is sure to become a favorite, as you’ll experience an intense watermelon flavor that never grows old.</p>
+<ul>
+<li>Not for use in sub-ohm devices</li>
+<li>30mL of liquid</li>
+<li>Available in 25mg and 50mg nicotine concentration</li>
+<li>Salt nicotine is more efficient and less harsh to vape</li>
+<li>Contains nicotine, vegetable glycerin, and propylene glycol</li>
+</ul>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salt" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salt</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts in Kenya" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nicotine salts in Kenya</a></em><span> collection with more than +150 salts option.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425542199</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>69d25e63bbbd3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425542199</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>69d25e6335060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425509431</id>
+    <published>2025-05-20T05:54:05+05:30</published>
+    <updated>2025-05-20T05:54:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/orange-pineapple-crush-by-i-love-salts"/>
+    <title>Orange Pineapple Crush by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/I-LOVE-SALTS-ORANGE-PINEAPPLE-CRUSH-30ml.jpg?v=1747700648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<p data-mce-fragment="1">Discover Orange Pineapple Crush by I Love Salts, capturing a blend of delicious pink lemonade accented by vibrant splashes of oranges and pineapples.<br></p>
+<ul>
+<li>Not for use in sub-ohm devices</li>
+<li>30mL of liquid</li>
+<li>Available in 25mg and 50mg nicotine concentration</li>
+<li>Salt nicotine is more efficient and less harsh to vape</li>
+<li>Contains nicotine, vegetable glycerin, and propylene glycol</li>
+</ul>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salt" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salt</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts in Kenya" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nicotine salts</a> in Kenya </em><span>collection with more than +150 salts option.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425509431</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e63b0a32</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425509431</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e631f850</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425476663</id>
+    <published>2025-05-20T05:54:03+05:30</published>
+    <updated>2025-05-20T05:54:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/peach-mango-ice-by-i-love-salts"/>
+    <title>Peach Mango Ice by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/i-love-salts-peach-mango-ice.jpg?v=1747700644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview" data-mce-fragment="1">
+<div class="value" data-mce-fragment="1">
+<p data-mce-fragment="1">Check out Peach Mango Ice by I Love Salts, capturing a blend of uplifting menthol, luscious peaches, and tropical mango that dazzles the taste buds. From the makers of Mad Hatter Juice.<br></p>
+<ul>
+<li>Not for use in sub-ohm devices</li>
+<li>30mL of liquid</li>
+<li>Available in 25mg and 50mg nicotine concentration</li>
+<li>Salt nicotine is more efficient and less harsh to vape</li>
+<li>Contains nicotine, vegetable glycerin, and propylene glycol</li>
+</ul>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em><a title="I love salt" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I Love Salt</a></em><span> from our collection. Else, shop from our </span><em><a title="Nic salts in Kenya" href="https://www.[YOUR DOMAIN]/collections/nic-salts">nicotine salts</a> in Kenya </em><span>collection with more than +150 salts option.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425476663</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e63a5693</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425476663</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e6316e81</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283425411127</id>
+    <published>2025-05-20T05:54:00+05:30</published>
+    <updated>2025-05-20T05:54:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blue-raspberry-lemonade-by-i-love-salts"/>
+    <title>Blue Raspberry Lemonade by I Love Salts</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>I LOVE SALTS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Blue-Raspberry-Lemonade-By-I-Love-Salts.jpg?v=1747700642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>I LOVE SALTS<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="product attribute overview">
+<div data-mce-fragment="1" class="value">
+<p data-mce-fragment="1">Shop Blue Raspberry Lemonade by I Love Salts, taking synthetic nicotine salts accented with blue raspberries and tangy lemonade to delight the tongue.<br data-mce-fragment="1">Creating a remarkable experience that brings a pairing of delicious flavors together, it’s easy to see why this vape juice is one you should consider. It combines a mixture of blue raspberries and lemonade into one, creating a blue raspberry lemonade <a title="I LOVE SALTS" href="https://www.[YOUR DOMAIN]/collections/i-love-salts-e-juice">I LOVE SALTS</a> that gets better and better with each puff.<br></p>
+<ul>
+<li>Not for use in sub-ohm devices</li>
+<li>30mL of liquid</li>
+<li>Available in 25mg and 50mg nicotine concentration</li>
+<li>Salt nicotine is more efficient and less harsh to vape</li>
+<li>Contains nicotine, vegetable glycerin, and propylene glycol</li>
+</ul>
+<p data-mce-fragment="1"><span>Wanna try more flavours? Choose your favourite </span><em>I Love Salt</em><span> from our collection. Else, shop from our </span><em><a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nic salts in Kenya">nicotine salts</a> in Kenya </em><span>collection with more than +150 salts option.</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425411127</id>
+      <title>5.0% (50mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e6391ed2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283425411127</id>
+      <title>2.5% (25mg)</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>69d25e6309462</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

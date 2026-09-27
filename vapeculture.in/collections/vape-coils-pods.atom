@@ -1,0 +1,1391 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vape-coils-pods.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-01-14T22:46:07+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399876427831</id>
+    <published>2026-01-14T22:46:07+05:30</published>
+    <updated>2026-01-14T22:46:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-replacement-pods"/>
+    <title>Uwell Caliburn Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_replacement_pods_-_package_contents.jpg?v=1768410968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell CALIBURN Pods (4-Pack) are a set of food-grade replacement pods featuring a 2.0mL refillable pod, 1.2ohm and 1.4ohm Pod Coil Resistance, and possesses a top fill system, stoppered by the top cap drip tip mouthpiece.</p>
+<p>The 1.2ohm and 1.4ohm Coils are fully cross-compatible with the Uwell Caliburn KOKO and the original Uwell Caliburn Pod System.</p>
+<p>Compatibility:<br>Uwell CALIBURN<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-koko-pod-system" title="Caliburn Koko system">Uwell CALIBURN KOKO</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399876427831</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>U Cali Replacement Pods</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389614473271</id>
+    <published>2025-12-23T06:10:15+05:30</published>
+    <updated>2025-12-23T06:10:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm80-replacement-pods"/>
+    <title>SMOK RPM80 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_rpm80_replacement_pods_-_rpm_pod_box.webp?v=1766450416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the new SMOK RPM80 Pods (3-Pack), engineered for the new SMOK RPM80 and RPM80 Pro, offering a large 5mL refillable eJuice capacity, silicone stoppered side fill system.</p>
+<p>Compatibility:</p>
+<p><a href="https://[YOUR DOMAIN]/products/smok-rpm-series-replacement-coils" title="SMOK RPM Coils">RPM Coils</a>, and <br>RGC Coils.<br>Coils are sold separately. Be sure to select your version accordingly in the dropdown menu.</p>
+<p>SMOK RPM80 Replacement Pods Features:</p>
+<ul>
+<li>Side Refill System - Silicone Stoppered<br>
+</li>
+<li>5mL Refillable RPM80 Pod<br>
+</li>
+<li>0.4ohm RPM Mesh Coil<br>
+</li>
+<li>5mL RPM80 RGC Pod<br>
+</li>
+<li>0.17ohm RGC Conical Mesh Coil - rated for<br>
+</li>
+<li>0.5-1.0ohm RGC RBA Coil - Coming Soon<br>
+</li>
+<li>Plug 'n' Play Coil Installation<br>
+</li>
+<li>Dual Slotted Adjustable Airflow Control - RGC Pod Only</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389614473271</id>
+      <title>RPM Version</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>Smok RPM80 Replace Pods - RPM Version</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389614473271</id>
+      <title>RGC Version</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>Smok RPM80 Replace Pods - RGC Version</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389613391927</id>
+    <published>2025-12-23T05:55:17+05:30</published>
+    <updated>2025-12-23T05:55:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-vape-pen-replacement-coils"/>
+    <title>SMOK Vape Pen Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_vape_pen_coils_-_packaging.webp?v=1766449333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SMOK Vape Pen 22 Replacement Coils utilizes the new Vape Pen Coil System that features an elongated design, catering specifically for the Vape Pen Starter Kit.</p>
+<p>Compatibility:</p>
+<p>SMOK Vape Pen 22<br>SMOK Vape Pen 22 LIGHT<br>SMOK Vape Pen PLUS</p>
+<p>SMOK Vape Pen 22 Replacement Coil Features:</p>
+<ul>
+<li>0.3ohm Dual Core</li>
+<li>0.4ohm X4 Quad Core - rated for 20-50W</li>
+<li>0.15ohm Vape Pen Mesh Core</li>
+<li>0.15ohm Vape Pen Strip Core</li>
+<li>Four Wicking Ports</li>
+<li>100% Organic Cotton</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>Pack of 5 Replacement Coils</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389613391927</id>
+      <title>0.15ohm Meshed</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>Smok V Pen Replace Coils - 0.15 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389613391927</id>
+      <title>0.6ohm DC</title>
+      <s:price currency="KES">1800.00</s:price>
+      <s:sku>Smok V Pen Replace Coils - 0.6 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389612015671</id>
+    <published>2025-12-23T05:47:21+05:30</published>
+    <updated>2025-12-23T05:47:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm-85-100-replacement-pods"/>
+    <title>SMOK RPM 85/100 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_rpm_85_100_empty_pod_-_packaging_22aa55bb-757b-4ae3-a8b5-9fd679d45506.jpg?v=1766448680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the SMOK RPM 85/100 Pods (3-Packs), featuring a 6mL pod capacity, RPM 2 &amp; 3 Coil Series Support, and is top filled behind a sliding top cap.</p>
+<p>Compatibility:<br>RPM 100 Kit<br>RPM 85 Kit<br><a href="https://[YOUR DOMAIN]/products/smok-rpm-2-series-replacement-coils" title="RPM 2 Coils">RPM 2 Coils</a><br><a href="https://[YOUR DOMAIN]/products/smok-rpm-3-series-replacement-coils" title="RPM 3 Coils">RPM 3 Coils</a></p>
+<p>Note: RPM 85/100 Pods are available with RPM 3 Coils.<br></p>
+<p>SMOK RPM 85/100 Replacement Pods Features:</p>
+<ul>
+<li>Capacity: 6mL</li>
+<li>Fill: Top Fill</li>
+<li>Coil Support: RPM 2 &amp; RPM 3 Coils - Pod Dependent</li>
+<li>Coil Installation: Locking</li>
+<li>Pod Connection: Magnetic</li>
+<li>Comes in a pack of three (3)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389612015671</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Smok RPM 85/100 Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389610508343</id>
+    <published>2025-12-23T05:35:10+05:30</published>
+    <updated>2025-12-23T05:35:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-solus-2-replacement-pods"/>
+    <title>SMOK Solus 2 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_solus_2_-_pod_system_-_cartridge_front.webp?v=1766448166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the SMOK Solus 2 Pods (3-Pack), featuring a 2.5mL capacity, silicone stoppered bottom fill system, and is compatible with Solus 1 Replacement Pods.</p>
+<p>Please note: When ordering Solus 2 Pods, you may receive Solus Replacement Pods, they are the same and will work in both Solus 1 AND 2 Pod Systems.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/smok-solus-2-17w-pod-kit" title="SMOK Solus 2 Kit">Solus 2 Kit</a><br><a href="https://[YOUR DOMAIN]/products/smok-solus-g-box-pod-kit" title="SMOK Solus G Box Kit">Solus G-Box Kit</a><br></p>
+<p>SMOK Solus 2 Replacement Pods Features:</p>
+<ul>
+<li>2.5mL Pod Capacity</li>
+<li>Bottom Fill System - Silicone Stoppered</li>
+<li>Integrated 0.9ohm Meshed Coil</li>
+<li>Magnetic Pod Connection</li>
+<li>Compatible with Solus V1 Pod System</li>
+<li>Comes in a pack of three (3)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389610508343</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1760.00</s:price>
+      <s:sku>Smok Solus 2 Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389609754679</id>
+    <published>2025-12-23T05:24:18+05:30</published>
+    <updated>2025-12-23T05:24:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-nord-x-replacement-pods"/>
+    <title>SMOK Nord X Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_nord_x_60w_pod_system_-_cartridge_front_view_1.webp?v=1766447570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1940.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the NORD X Pods (3-Pack), Empty Pod, featuring a 6mL capacity, bottom press fit coil installation, and offers compatibility with SMOK RPM &amp; RPM 2 Coils.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/smok-rpm-2-series-replacement-coils" title="RPM 2 Coils">RPM 2 Coils</a><br><a href="https://[YOUR DOMAIN]/products/smok-rpm-series-replacement-coils" title="RPM Coils">RPM Coils</a></p>
+<p>SMOK NORD X Replacement Pods Features:</p>
+<ul>
+<li>6mL Nord X RPM &amp; RPM 2 Pod Capacity</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>0.16ohm RPM 2 Mesh Coil - rated for 25-50W</li>
+<li>0.4ohm RPM Mesh Coil - rated for 25W</li>
+<li>Magnetic Pod Connection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389609754679</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1940.00</s:price>
+      <s:sku>Smok Nord X Replace Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389608935479</id>
+    <published>2025-12-23T05:15:44+05:30</published>
+    <updated>2025-12-23T05:15:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-acro-replacement-coils"/>
+    <title>SMOK Acro Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_acro_pods_-_cartridge_-_0.8_ohm.webp?v=1766446978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK ACRO Pods (3-Pack), featuring a 2mL capacity, an integrated 0.8ohm Meshed Coil, and is side filled behind a silicone stopper.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/smok-acro-25w-pod-system-kit" title="SMOK Acro">SMOK Acro</a></p>
+<p>SMOK ACRO Replacement Pods Features:</p>
+<ul>
+<li>2mL ACRO Pod</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>Integrated 0.8ohm Meshed Coil - rated for 12-15W</li>
+<li>Magnetic Pod Connection</li>
+<li>Comes in a pack of three (3).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389608935479</id>
+      <title>0.8ohm Meshed</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Smok Acro Replace Coils - 0.8 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389608935479</id>
+      <title>0.6ohm DC MTL</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Smok Acro Replace Coils - 0.6 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683261495</id>
+    <published>2025-11-18T06:07:47+05:30</published>
+    <updated>2025-11-18T06:07:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smoant-baby-replacement-coils"/>
+    <title>Smoant Baby Replacement Coils</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Smoant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smoant_battlestar_baby_replacement_coils_-_0.6ohm_mesh_coils.jpg?v=1763426269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smoant<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Smoant Battlestar Baby Replacement Coils, a set of mesh and nichrome coil options presented by Smoant, offering a 0.6ohm Mesh or 1.2ohm Ni80 Coil option to help vaporize delicious eJuice or nicotine salts with ease.<br><br>Smoant Battlestar Baby Replacement Coils Features:<br></p>
+<ul>
+<li>Smoant Battlestar Baby Coil Series</li>
+<li>0.6ohm Mesh Coil - rated for 15W</li>
+<li>1.4ohm Ni-80 Coil - rated for 10W</li>
+<li>Plug 'n' Play Coil Installation</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683261495</id>
+      <title>0.6ohm Mesh Coils - DTL</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Smoant Baby Replace Coils - 0.6 ohm - DTL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683261495</id>
+      <title>1.4ohm Ni80 Coils - MTL</title>
+      <s:price currency="KES">1400.00</s:price>
+      <s:sku>Smoant Baby Replace Coils - 1.4 ohm - MTL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683228727</id>
+    <published>2025-11-18T06:07:46+05:30</published>
+    <updated>2025-11-18T06:07:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-nord-replacement-pods-cartridges"/>
+    <title>Smok Nord Replacement Pods Cartridges</title>
+    <s:type>Pods</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_nord_replacement_pod_cartridges_2-min.jpg?v=1763426269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the SMOK NORD Pods (1-Pack w/ 2 Coils or 3-Pack), a nifty design cartridge with a 3mL juice capacity, cleverly built with simple filling method to accommodate a wide range flavorful nic salt e-juice. Compatible with the SMOK NORD. Includes one empty SMOK NORD Pod cartridge with one (1) 0.6ohm Mesh Coil and one (1) 1.4ohm Regular Coil.<br><br>SMOK NORD Refillable Pod Cartridge Features:<br></p>
+<ul>
+<li>Fillable Pod System - Replaceable Cartridge</li>
+<li>3mL Juice Capacity</li>
+<li>Organic Cotton</li>
+<li>Propreitary Magnetized Gold-Plated Connection</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683228727</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1700.00</s:price>
+      <s:sku>Smok Nord Replace Pods Cartridges</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683195959</id>
+    <published>2025-11-18T06:07:46+05:30</published>
+    <updated>2025-11-18T06:07:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-euc-universal-ceramic-coil"/>
+    <title>Vaporesso EUC Universal Coil (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vaporesso-EUC-Universal-Ceramic-Coil.jpg?v=1763426268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Vaporesso EUC Replacement Coils (EUC - Eco Universal Coil) is an innovative performance atomizer created with affordability in mind. It is intuitive created, changing the way users typically replacement the atomizer coils. Instead of changing the entire coils, the EUC Replacement Coils only requires the changing of the core instead of the entire metal sleeve. The result is a more cost-effective design, while providing ample performance capability. There are two types of version, a Ceramic type that pays homage to the original cCell structures and a Traditional performance coil, with Kanthal, Nickel, or Stainless Steel heating elements.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<p data-mce-fragment="1">These coils are smaller than others, this is through design and they help reduce waste - while still conducting heat and absorbing eliquid efficiently, the ceramic wick also increases the lifespan of your coils. For best results, tthese coils should be paired with high VG e-liquids that are 60% VG or higher.<br data-mce-fragment="1"><br data-mce-fragment="1">Compatibility:<br data-mce-fragment="1">Attitude Tank - part of Attitude Kit<br data-mce-fragment="1">Veco Tank - part of Tarot Nano Kit<br data-mce-fragment="1">Estoc Tank</p>
+<p data-mce-fragment="1">Vaporesso EUC Ceramic Coils are for use with the Veco Vape Tank and Estoc Vape Tank. EUC Ceramic Coils are available in 0.5 Ohm. With ceramic wicks rather than the traditional cotton, they are similar in design to the Vaporesso CCELL Coils.<strong data-mce-fragment="1"></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Contains:</strong><br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">5 x Vaporesso EUC Replacement Coils</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683195959</id>
+      <title>EUC - Ceramic 0.5ohm</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>V EUC Universal Ceramic Coil (5-Pack)-2</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683195959</id>
+      <title>EUC - Traditional 0.4ohm</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>V EUC Universal Ceramic Coil (5-Pack)-1</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683163191</id>
+    <published>2025-11-18T06:07:45+05:30</published>
+    <updated>2025-11-18T06:07:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-nexus-nx-replacement-coil-5-pack"/>
+    <title>Vaporesso Nexus NX Replacement Coil (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_nexus_nx_replacement_coils.jpg?v=1763426267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Vaporesso Nexus Replacement Coils is specially designed for the Nexus AIO Kit, featuring the NX CCELL Coil with ceramic technology as well as a traditional cotton of the NX Coil. The utilization of ceramic heating elements delivers tremendous aroma of flavors, with reduction in spit-back and dry hit for longer longevity. Each package comes in a pack of five replacement coils.</p>
+<p><strong>Vaporesso Nexus Replacement Coil Features:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>1.0ohm NX Coil - rated for 7-12W (Traditional Cotton)</li>
+<li>Organic Cotton</li>
+<li>Stainless Steel Structure</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683163191</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>V Nexus NX Replace Coil (5-Pack)</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+    <published>2025-09-15T06:35:11+05:30</published>
+    <updated>2025-09-15T06:35:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods"/>
+    <title>Caliburn GPP Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_gpp_replacement_pods_-_default.webp?v=1757898312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn GPP Pods, featuring a 0.4-1.2ohm resistance, 3mL pod capacity, and shares cross-compatibility with the Caliburn G3 series and G3 Pods.</p>
+<p>Quick Links:<br>Uwell Caliburn G4 PRO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-35w-pod-system" title="Uwell Caliburn G4">Uwell Caliburn G4</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-mini-35w-pod-system" title="Uwell caliburn g4 mini">Uwell Caliburn G4 Mini</a><br>Uwell Caliburn G3 Lite KOKO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-pro-koko-35w-pod-system" title="Uwell g3 pro koko">Uwell Caliburn G3 Pro KOKO</a><br>Uwell Caliburn G4 Pro KOKO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-pro-35w-pod-system" title="Uwell caliburn g3 pro">Uwell Caliburn G3 Pro</a><br>Uwell Caliburn G3<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-gk3-pod-system" title="Uwell caliburn gk3">Uwell Caliburn GK3</a><br>Uwell Caliburn GK3 Tenet<br>Uwell Caliburn G3 ECO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-lite-25w-pod-system" title="Uwell caliburn g3 lite">Uwell Caliburn G3 Lite</a></p>
+<p>Uwell Caliburn GPP Replacement Pods Features:</p>
+<ul>
+<li>RESISTANCE RANGE: 0.4ohm | 0.6ohm | 0.9ohm | 1.2ohm</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side Fill</li>
+<li>COIL INSTALLATION: Integrated Coil</li>
+<li style="font-style: italic;"><em>Comes in a pack of three (3)</em></li>
+<li>Compatible with Caliburn G3/G4</li>
+<li>Cross-Compatible with G3 Pods</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn GPP Replacement Pods</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>0.4ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 0.4 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>0.6ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 0.6 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>0.9ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 0.9 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>1.2ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 1.2 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334775554103</id>
+    <published>2025-09-06T19:36:43+05:30</published>
+    <updated>2025-09-06T19:36:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vape-rechargeable-battery"/>
+    <title>Vape Rechargeable Battery</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Generic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/battery-18650-li-ion-rechargeable-2200mah-lithium.webp?v=1757167447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Generic<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            500.00 - 600.00
+            <a href="https://[YOUR DOMAIN]/products/vape-rechargeable-battery">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is Lithium-Ion Vape Battery is high quality 3C rated cell. It comes with a rated voltage of 3.7 volts and a capacity of 2200 and 2600mAh. It is a single cell, compact and powerful battery cell. It is very convenient to install in your project to fulfill the 3.7 Volt requirement with high capacity.</p>
+<p>The battery terminals can use in any compatible battery adapter/holder or they can be permanently soldered to your application’s power source wires.</p>
+<ul>
+<li>Model: ICR-18650</li>
+<li>Battery Shape: Cylindrical</li>
+<li>Capacity (mAh): 2200mAh &amp; 2600mAh</li>
+<li>Output Voltage: 3.7V</li>
+<li>Long cycle life- 1500cycle</li>
+<li>Weight: 45gram</li>
+<li>High energy density</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334775554103</id>
+      <title>2200mAh</title>
+      <s:price currency="KES">500.00</s:price>
+      <s:sku>V Battery - 2200 MAH</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334775554103</id>
+      <title>2600mAh</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>V Battery - 2600 MAH</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334530383927</id>
+    <published>2025-09-05T17:32:37+05:30</published>
+    <updated>2025-09-05T17:32:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/lost-vape-ursa-replacement-pods"/>
+    <title>Lost Vape URSA Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Lost Vape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/lost_vape_ursa_replacement_pods_-_0.6_ohm.webp?v=1757088331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lost Vape<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Lost Vape URSA Pods (3-Pack), featuring a 2.5mL pod capacity, side fill system, and 0.8ohm integrated pod to deliver delicious vapor.</p>
+<p>Please Note: The all Empty Pod Option comes in a pack of three (3). Sold as a single unit.</p>
+<p>Compatibility:<br>Lost Vape URSA Baby 3<br>Lost Vape URSA Nano 3<br>Lost Vape URSA Nano S II<br>Lost Vape URSA Cap<br>Lost Vape URSA Baby 2<br>Lost Vape URSA Baby Pro<br><a href="https://[YOUR DOMAIN]/products/lost-vape-ursa-baby-pod-kit" title="LostVape Ursa Baby">Lost Vape URSA Baby</a><br>Lost Vape URSA Nano Art<br><a title="Lost Vape Ursa Nano Pod Kit" href="https://[YOUR DOMAIN]/products/lost-vape-ursa-nano-pod-kit">Lost Vape URSA Nano</a><br>Lost Vape URSA Pro<br>Lost Vape URSA S<br>Lost Vape UB Mini Coils</p>
+<p>Lost Vape URSA Replacement Pods Features:</p>
+<ul>
+<li>2.5mL Pod Capacity</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>Magnetic Pod Connection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334530383927</id>
+      <title>0.6ohm Mesh Pod - Cartridge</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>L V URSA Replace Pods - 0.6 ohm</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334530383927</id>
+      <title>1.2ohm Mesh Pod - MTL Cartridge</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>L V URSA Replace Pods - 1.2 ohm MTL</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334528942135</id>
+    <published>2025-09-05T17:10:02+05:30</published>
+    <updated>2025-09-05T17:10:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/voopoo-argus-pod-replacement-pods"/>
+    <title>VooPoo Argus POD Replacement Pods (3-Pack)</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Voopoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/voopoo_-_argus_pod_cartridge_-_accessories_-_packaging.webp?v=1757072055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voopoo<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the VooPoo Argus POD Replacement Pods <em>(3-Pack)</em>, encapsulating an integrated pod cartridge with refillable capacity and magnetic pod connection.</p>
+<p>VooPoo Argus POD Replacement Pods Features:</p>
+<ul>
+<li>Refillable Capacity</li>
+<li>Leak-Resistant Fill System</li>
+<li>Magnetic Pod Connection</li>
+</ul>
+<p>Available Options:</p>
+<ul>
+<li>0.4ohm Pods</li>
+<li>0.7ohm Pods</li>
+<li>1.2ohm Pods</li>
+<li>1.0ohm Pods</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334528942135</id>
+      <title>0.4ohm</title>
+      <s:price currency="KES">1700.00</s:price>
+      <s:sku>V Argus POD Replace Pods (3-Pack) - 0.4 ohm</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334528942135</id>
+      <title>0.7ohm</title>
+      <s:price currency="KES">1700.00</s:price>
+      <s:sku>V Argus POD Replace Pods (3-Pack) - 0.7 ohm</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334528942135</id>
+      <title>1.2ohm</title>
+      <s:price currency="KES">1700.00</s:price>
+      <s:sku>V Argus POD Replace Pods (3-Pack) - 1.2 ohm</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334528942135</id>
+      <title>1.0ohm</title>
+      <s:price currency="KES">1700.00</s:price>
+      <s:sku>V Argus POD Replace Pods (3-Pack) - 1.0 ohm</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+    <published>2025-09-05T15:54:01+05:30</published>
+    <updated>2025-09-05T15:54:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-gti-replacement-coil-series"/>
+    <title>Vaporesso GTi Replacement Coil Series (5-Pack)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_-_gti_mesh_coils_-_accessories_-_all_types.webp?v=1757067631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1740.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Vaporesso GTi Replacement Coils, featuring a 0.2ohm and 0.4ohm Mesh Coil for delivering delicious flavor and vapor from your favorite eJuice.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/vaporesso-itank" title="Vaporesso iTank">Vaporesso iTank</a></p>
+<p>Vaporesso GTi Replacement Coils Features:</p>
+<ul>
+<li>Vaporesso GTi Coil Series
+<ul>
+<li>0.15ohm GTI Mesh Coils</li>
+<li>0.2ohm GTi Mesh Coils - rated for 60-75W</li>
+<li>0.4ohm GTi Mesh Coils - rated for 50-60W</li>
+<li>0.5ohm GTi Mesh Coils</li>
+</ul>
+</li>
+<li>Press Fit Coil Installation</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.15 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.15 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.2 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.2 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.4 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.4 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334523568183</id>
+      <title>GTi 0.5 Ohm Mesh Coil</title>
+      <s:price currency="KES">1740.00</s:price>
+      <s:sku>V GTi Replace Coil Series (5-Pack) - 0.5 ohm</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334521765943</id>
+    <published>2025-09-05T15:24:08+05:30</published>
+    <updated>2025-09-05T15:24:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-xtank-replacement-pods"/>
+    <title>Vaporesso XTank Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_-_xtank_pod_-_accessories_-_packaging.png?v=1757066049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Vaporesso XTank Pods (2-Pack), featuring a 4.5mL Tank Capacity, Quarter Turn Side Fill System, and is compatible with the GTX Coil Series.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/vaporesso-gtx-replacement-coil-series" title="Vaporesso Gtx coils">Vaporesso GTX Coil Series</a></p>
+<p>Vaporesso XTank Replacement Pods Features:</p>
+<ul>
+<li>4.5mL Tank Capacity</li>
+<li>Side Fill System - Quarter Turn</li>
+<li>SSS 2.0 Leak Resistant Tech</li>
+<li>Liquid Self Circulating System</li>
+<li>Compatible with GTX Coil Series</li>
+<li>Magnetic Pod Connection</li>
+<li>Comes in a pack of two (2).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334521765943</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>V xTank Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334512001079</id>
+    <published>2025-09-05T15:15:24+05:30</published>
+    <updated>2025-09-05T15:15:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-luxe-xr-replacement-pod"/>
+    <title>Vaporesso LUXE XR Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_luxe_xr_replacement_pods_packaging_contents_inside.png?v=1757065525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Vaporesso LUXE XR Pods <em>(2-Pack)</em>, featuring a 5mL capacity, GTX Coil Compatibility, and filled from the bottom behind a silicone stopper.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/vaporesso-luxe-xr-pod-kit" title="Vaporesso Luxw XR Pod Kit">Vaporesso Luxe XR Pod System</a><br><a href="https://[YOUR DOMAIN]/products/vaporesso-luxe-x-kit" title="Vaporesso Luxe X Kit">Vaporesso Luxe X Pod System</a><br>Vaporesso LUXE X Pods (Integrated Coil)<br><a href="https://[YOUR DOMAIN]/products/vaporesso-gtx-replacement-coil-series" title="Vaporesso GTX Coils">Vaporesso GTX Coils</a></p>
+<p> Vaporesso LUXE XR Replacement Pods Features:</p>
+<ul>
+<li>Pod Capacity: 5mL</li>
+<li>Construction: PCTG</li>
+<li>Fill-System: Bottom Fill - Silicone Stoppered</li>
+<li>Coil Support: GTX Mesh Coils</li>
+<li>Coil Installation: Press Fit</li>
+<li>Pod Connection: Magnetic</li>
+</ul>
+<p>The empty Luxe XR pods can be used with Vaporesso GTX coils. You can pair the DTL pod with either the 0.2 Ohm or 0.3 Ohm coil, while the RDTL pod can be used with the 0.4 Ohm or 0.6 Ohm GTX coils. For a more restricted inhale, select the MTL pod and insert a 0.8 Ohm or 1.2 Ohm coil. The DTL pod works best with e-liquid which is at least 70% VG, while the RDTL and MTL versions work best with 50% VG e-liquid.</p>
+<p>One pack contains 2 replacement pods. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334512001079</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V Luxe XR Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315796197431</id>
+    <published>2025-07-14T22:32:03+05:30</published>
+    <updated>2025-07-14T22:32:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/caliburn-explorer-replacement-pods"/>
+    <title>Caliburn Explorer Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell-caliburn-explorer-replacement-pod-min.jpg?v=1752512527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn Explorer pods are designed for use with the Caliburn Explorer kit only. Featuring a unique split-pod design, these pods can hold two different e-liquids and coils at once, which can be vaped separately or together. Compatible with Caliburn G &amp; G2 coils, these pods will deliver your choice of MTL (Mouth To Lung) or RDTL (Restricted Direct To Lung) inhale.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Refillable Pods For Caliburn Explorer<br>
+</li>
+<li>2ml E-Liquid Capacity – 1ml Per Side<br>
+</li>
+<li>Side-Filling Design<br>
+</li>
+<li>
+<a href="https://[YOUR DOMAIN]/collections/uwell" title="Uwell Kenya">Compatible With Caliburn G &amp; G2 Coils</a><br>
+</li>
+<li>Suited To 50/50 And High PG E-Liquids</li>
+</ul>
+<p>Each half of a Caliburn Explorer pod requires its own coil and e-liquid. This allows you to swap between two different flavours and coil resistances, or even vape both at once. To refill, simply open up the rubber stoppers on each side of the pod. The compatible coils from the Caliburn G and G2 series (sold separately) work best when paired with 50% VG or high PG e-liquid.</p>
+<p><strong>Contains:</strong></p>
+<ul>
+<li>2 x Caliburn Explorer Pods</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796197431</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali Explorer Replace Pods</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315796131895</id>
+    <published>2025-07-14T22:31:51+05:30</published>
+    <updated>2025-07-14T22:31:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-luxe-x-xr-replacement-pod"/>
+    <title>Vaporesso LUXE X Replacement Pod</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso-luxe-x-replacement-pods-0.8ohm-min.jpg?v=1752512516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The Vaporesso Luxe X replacement pods are compatible with the <a href="https://[YOUR DOMAIN]/products/vaporesso-luxe-x-kit" title="Vaporesso Luxe X Kit">Vaporesso Luxe X,</a> Luxe X Pro, <a href="https://[YOUR DOMAIN]/products/vaporesso-luxe-xr-pod-kit" title="Vaporesso Luxe XR Pod Kit">Luxe XR</a> and Luxe XR Max vape kits. There are several different options to choose from, so no matter whether you prefer a discreet MTL (Mouth To Lung), balanced RDTL (Restricted Direct To Lung) or loose DTL (Direct To Lung) inhale, Vaporesso has you covered. The built-in coil pods offer more convenience as they require less maintenance, while the empty versions provide more flexibility as they can be paired with the full range of <a href="https://[YOUR DOMAIN]/products/vaporesso-gtx-replacement-coil-series" title="Vaporesso Gtx Coils">Vaporesso GTX coils.</a><br><br><strong>Features:</strong><br>
+<ul>
+<li>Refillable 2ml Pods</li>
+<li>Built-In Mesh Or Replaceable GTX Coils</li>
+<li>Designed For MTL, RDTL And DTL Vaping</li>
+<li>SSS Leak-Resistant Technology</li>
+<li>Bottom-Filling</li>
+<li>Adjustable Airflow</li>
+</ul>
+The coils built into the Luxe pods feature a mesh build, so they’ll heat e-liquid quickly and evenly for improved flavour. The 0.4 Ohm Luxe X pod will deliver a DTL inhale and works best at 32W – pair it with 70% VG e-liquid for large amounts of vapour. Or, select the 0.8 Ohm Luxe X pod for an MTL vape as this pod works best at 16W and is ideal for 50% VG e-liquid.<br>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796131895</id>
+      <title>0.4 Ohm Mesh - Two Pack</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V Luxe X Replace Pod - 0.4 ohm - Two Pack</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796131895</id>
+      <title>0.6 Ohm Mesh - Two Pack</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V Luxe X Replace Pod - 0.6 ohm - Two Pack</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796131895</id>
+      <title>0.8 Ohm Mesh - Two Pack</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V Luxe X Replace Pod - 0.8 ohm - Two Pack</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315795017783</id>
+    <published>2025-07-14T22:27:27+05:30</published>
+    <updated>2025-07-14T22:27:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-luxe-pm40-replacement-pods"/>
+    <title>Vaporesso LUXE PM40 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vaporesso-Luxe-PM40-Replacement-Pod-min.jpg?v=1752512250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="richContent-root-CMO">
+<p>The Vaporesso LUXE PM40 replacement Pods (2-Pack), featuring a 4.0mL refillable capacity, top-fill system, and is compatible with the GTX Coil Series. <em></em></p>
+</div>
+<div class="">
+<div class="richContent-root-CMO">
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>
+<span>4.0mL Pod Capacity</span><br><span></span>
+</li>
+<li>
+<span>Top Fill System</span><span></span>
+</li>
+<li>
+<span>Press Fit Coil Installation</span><br><span></span>
+</li>
+<li><span>Magnetic Pod Connection</span></li>
+</ul>
+<p><strong>Includes:</strong></p>
+<ul>
+<li><span>2x Replacement Pods</span></li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315795017783</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V Luxe PM40 Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315794952247</id>
+    <published>2025-07-14T22:27:24+05:30</published>
+    <updated>2025-07-14T22:27:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-swag-px80-replacement-pods"/>
+    <title>Vaporesso Swag PX80 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso-swag-pod-min.jpg?v=1752512247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Vaporesso Swag PX80 pod is compatible with Swag PX80 kit and packed with great features, c<span data-mce-fragment="1">artridge is compatible with GTX coils for ultra-smooth flavour. Vaporesso SWAG PX80 Pod can replace coil without emptying pod and adjust air inlets by rotating pod. What's more, SWAG PX80 Pod adopts quad leakage protection with a triple-silicon structure and e-juice self-circulating system.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Refillable 4ml Pods</li>
+<li data-mce-fragment="1">Leakproof Design</li>
+<li data-mce-fragment="1">Bottom Filling</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Adjustable rotating airflow</span></li>
+<li data-mce-fragment="1">Supports Sub Ohm Vaping</li>
+<li data-mce-fragment="1"><a href="https://[YOUR DOMAIN]/products/vaporesso-gtx-replacement-coil-series" title="Vaporesso GTX Coils">Compatible With GTX Coils</a></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794952247</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>V Swag PX80 Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+    <published>2025-07-14T22:27:07+05:30</published>
+    <updated>2025-07-14T22:27:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-gt-core-coils-3-coils"/>
+    <title>Vaporesso GT Core Coils (3 Coils)</title>
+    <s:type>Coils</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_nrg_gt_replacement_coils_-_gt_4_coil.jpg?v=1752512237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Coils<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">The Vaporesso  GT <a href="https://[YOUR DOMAIN]/collections/replacement-vape-coils" title="Vape Replacement Coils">Vape Replacement Coils </a>presents a dynamic coil option for the <em>NRG Sub-Ohm Tank and the Cascade Tank series</em>, deploying traditional cotton and signature cCelll Ceramic with it's innovative structure. The flagship coil head is the 0.15ohm GT 8 Core, with a quad-cylinder structure and wattage range of 50 to 110W. Comes in a pack of three (3).</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>Compatibility:</strong><br data-mce-fragment="1"><em>Vaporesso NRG Tank (Includes all of the Revenger Kit series, SWAG Kit, and Switcher Kit)</em><br data-mce-fragment="1"><em>Vaporesso Cascade Tank (requires adapter)</em><br data-mce-fragment="1"><em>Vaporesso Cascade Baby Tank (Includes the Polar 220W Kit and Armour Pro Kit)</em><br data-mce-fragment="1"><em>Vaporesso Cascade Mini Tank</em><br data-mce-fragment="1"><em>Vaporesso Cascade One / One Plus Kit</em></span></p>
+<p data-mce-fragment="1"><span data-sheets-userformat='{"2":4993,"3":[null,0],"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Vaporesso NRG GT Replacement Coils Features:\nGT Cores Structure\n0.3ohm GT cCell Core - rated for 25-40W\n0.4ohm GT 2 Core - rated for 40-80W\n0.15ohm GT 4 Core - rated for 30-70W\n0.2ohm GT 6 Core - rated for 40-130W\n0.15ohm GT 8 Core - rated for 50-110W"}' data-mce-fragment="1"><strong data-mce-fragment="1">Vaporesso NRG GT Replacement Coils Features:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><em>Comes in a pack of three (3).</em></strong></li>
+<li data-mce-fragment="1">GT Cores Structure</li>
+<li data-mce-fragment="1"><em>0.5ohm GT cCell Core - rated for 15-40W</em></li>
+<li data-mce-fragment="1"><em>0.3ohm GT cCell2 Core - rated for 35-40W</em></li>
+<li data-mce-fragment="1"><em>0.4ohm GT 2 Core - rated for 40-80W</em></li>
+<li data-mce-fragment="1"><em>0.15ohm GT 4 Core - rated for 30-70W</em></li>
+<li>
+<em>0.15ohm GT 4 Mesh Core - rated for 30-90W</em><em></em>
+</li>
+<li data-mce-fragment="1"><em>0.2ohm GT 6 Core - rated for 40-130W</em></li>
+<li data-mce-fragment="1"><em>0.15ohm GT 8 Core - rated for 50-110W</em></li>
+<li data-mce-fragment="1"><em>0.18ohm GT Mesh Core - rated for 50-90W</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.18ohm GT Mesh Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.18ohm GT Mesh Coil</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.15ohm GT 8 Core Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.15ohm GT 8 Core Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.15ohm GT 4 Mesh Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.15 ohm GT 4 Mesh Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.5ohm GT cCELL Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) 0.5 ohm GT cCell Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.15ohm GT 4 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.15ohm GT 4 Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.4ohm GT 2 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.4ohm GT 2 Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.2ohm GT 6 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.2ohm GT 6 Coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315794788407</id>
+      <title>0.3ohm GT cCELL2 Coils</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>V GT Core Coils (3 Coils) o.3ohm GT cCell2 coils</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315793018935</id>
+    <published>2025-07-14T22:19:11+05:30</published>
+    <updated>2025-07-14T22:19:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/caliburn-a3s-pods"/>
+    <title>Caliburn A3S Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell-caliburn-a3s-replacement-pod-min_e7e1acd5-cb3d-4e8a-917c-80889a5670ec.jpg?v=1752511754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience enhanced vaping convenience with the Uwell Caliburn A3S Replacement Pods. Each pod boasts a 2mL refillable capacity, allowing you to enjoy your favorite eJuices without frequent refills. Crafted from durable PCTG material, these pods are built to last. The user-friendly side fill system makes refilling a breeze. These pods come with integrated 0.8ohm or 1.0ohm coils for exceptional flavor delivery. Thanks to the magnetic connection, swapping out these pods is quick and hassle-free.</p>
+<p>Features:</p>
+<ul>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Construction: PCTG<br>
+</li>
+<li>Fill-System: Side Fill System<br>
+</li>
+<li>Coil Support: Integrated Coil<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Comes in a pack of four (4)</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315793018935</id>
+      <title>0.8 OHM MESHED</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali A3S Replace Pods - 0.8 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315793018935</id>
+      <title>1.0 OHM MESHED</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali A3S Replace Pods - 1.0 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315792953399</id>
+    <published>2025-07-14T22:19:05+05:30</published>
+    <updated>2025-07-14T22:19:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/voopoo-drag-nano-replacement-pods"/>
+    <title>VooPoo S1 Drag Nano Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Voopoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/voopoo_drag_nano_pod-s1_replacement_pods.jpg?v=1752511750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voopoo<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VOOPOO POD-S1 Replacement Pods are a set of food-grade 1.0mL plastic pods, top filled, with an integrated coil resistance of 1.8ohms to vaporize complex nicotine salt juices. Designed specifically for the Voopoo Drag Nano Vape and VOOPOO ALPHA ZIP Pod Kit.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>VOOPOO DRAG Nano Replacement Pod Features:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>1.8ohm POD-S1 Cartridge - 1.0mL</li>
+<li>1.5ohm DRAG NANO P1 Cartridge - 1.6mL</li>
+<li>Pod Coil Resistance: 1.8ohm</li>
+<li>Food-Grade Plastic Pod Construction</li>
+<li>Top Fill System - Silicone Plug</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315792953399</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1600.00</s:price>
+      <s:sku>VooPoo S1 Drag Nano Replacement Pods</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

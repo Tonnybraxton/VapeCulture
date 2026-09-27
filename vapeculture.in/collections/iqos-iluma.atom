@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/iqos-iluma.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-02-20T08:34:00+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418241318967</id>
+    <published>2026-02-20T08:34:00+05:30</published>
+    <updated>2026-02-20T08:34:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-i-one-kit"/>
+    <title>IQOS Iluma i One Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Buy-iQOS-iLUMA-i-ONE-Breeze-Blue.png?v=1771556474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            16500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>IQOS ILUMA</strong> i is the newest generation of tobacco heating devices in the IQOS ILUMA lineup — no ash, no smoke, and no lingering cigarette smell.</p>
+<p>The <strong>IQOS ILUMA i ONE</strong> features a compact, user-friendly design with a sleek aluminum finish that feels smooth and comfortable in hand.</p>
+<p>With intelligent functions like Auto-Start and FlexPuff, it offers an intuitive and effortless tobacco heating experience.</p>
+<p>Enjoy an easier draw*, blade-free technology, and no cleaning needed — consistent with all devices in the IQOS ILUMA series.</p>
+<p>ILUMA i ONE device<br>Power Adapter &amp; Charging Cable</p>
+<p>*TEREA tobacco sticks are not included.</p>
+<p>Suitable for TEREA and DELIA sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418241318967</id>
+      <title>Default Title</title>
+      <s:price currency="KES">16500.00</s:price>
+      <s:sku>Iluma i One Kit</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7379753566263</id>
+    <published>2025-12-02T04:35:10+05:30</published>
+    <updated>2025-12-02T04:35:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-prime-i"/>
+    <title>IQOS Iluma i Prime</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Iqos-Iluma-i-Prime.webp?v=1764630311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            19999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS Iluma i Series - Up to three experiences instead of two on each charge, better battery management, pause function.<br>Philip Morris International has launched IQOS Iluma i, the latest and most innovative addition to its growing portfolio of smoke-free products, in Kenya. IQOS Iluma disrupted the category by introducing induction-heating technology that heats tobacco from within, to provide a consistent taste experience, no tobacco residue, and no need to clean the device.</p>
+<p>Now, IQOS to new heights, with the launch of IQOS Iluma i—the latest innovation in our smoke-free portfolio, offering a range of advanced features for a clean, seamless, and more flexible experience. The new touch screen on the device’s holder allows users to see experience-relevant information quickly and easily.</p>
+<p>The new IQOS Iluma i also includes smart features that help prolong the lifespan of the holder’s battery.</p>
+<p>Buy IQOS Iluma i Prime Series online at best price in Kenya.<br><br><strong>Note: All orders for this product will be accepted on partial payment basis only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7379753566263</id>
+      <title>Default Title</title>
+      <s:price currency="KES">19999.00</s:price>
+      <s:sku>Iluma i Prime</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322276233271</id>
+    <published>2025-08-04T05:39:20+05:30</published>
+    <updated>2025-08-04T05:39:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-lil-solid-2-0"/>
+    <title>IQOS Lil Solid 2.0</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/lil-solid-20-stone-grey-super-shipping-2.webp?v=1754265999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            7999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy to use all-in-one device, with 25 sessions on one full charge, and the time of each session is increased to about 5 minutes.</p>
+<p>IQOS introduces Lil Solid 2.0 to bring a smoke-free future even closer.</p>
+<p>Imagine a world where everything is simple, easy and convenient. A world where there is nothing superfluous, but the most important thing remains. A world of enjoying the taste of real tobacco, but without smoke and ash.</p>
+<p>The tobacco in <a title="Iqos devices" href="https://[YOUR DOMAIN]/collections/iqos-iluma">IQOS device</a> Lil Solid 2.0 heats up rather than burns, so there is no fire or ash during use. This means that there is no risk of burning your clothes or furniture, and you do not risk damaging the carpet or upholstery in the car by falling ash.</p>
+<p>Also when using Lil Solid 2.0, tobacco vapor (aerosol) is emitted, so there is no smell of cigarette smoke.</p>
+<p><strong>Specifications:-</strong></p>
+<ul>
+<li>Released: 2021</li>
+<li>Device type: All-in-one</li>
+<li>Manufacturer: KT&amp;G, introduced by PMI</li>
+<li>Charging port type: USB-C</li>
+<li>Dimensions: 106 ? 31 ? 22 mm / 4.17 x 1.22 x 0.87 in</li>
+<li>Weight: 99 g / 3.5 oz</li>
+<li>Battery capacity: 2950 mAh</li>
+<li>Consecutive uses: 3</li>
+<li>Uses per full charge: 25</li>
+<li>Charging time: 2 h</li>
+<li>Heating temperature: 350 °C (660 °F)</li>
+<li>Heating method: Heating pin</li>
+<li>Heating time: 25 sec</li>
+<li>Compatible Sticks type: <a title="Fiit cigarettes" href="https://[YOUR DOMAIN]/collections/iqos-fiit">Fiit cigarettes</a>, &amp; <a title="Heets cigarettes" href="https://[YOUR DOMAIN]/collections/heets-cigarette">Heets cigarettes</a>
+</li>
+<li>Session length: 5 minutes or 14 puff</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322276233271</id>
+      <title>Default Title</title>
+      <s:price currency="KES">7999.00</s:price>
+      <s:sku>Lil Solid 2.0</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7291330986039</id>
+    <published>2025-06-17T07:50:20+05:30</published>
+    <updated>2025-06-17T07:50:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-one-kit"/>
+    <title>IQOS Iluma One Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-iluma-one-pebble-beige.jpg?v=1750126480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            15000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The IQOS ILUMA ONE takes tobacco heating to the next level. A stylish, compact and portable device using the beloved IQOS technology that has 20 consecutive uses per charge. Its convenient all in one design requires no cleaning and is excellent for everyday usage, no matter where you are.</p>
+<p>All-in-one design, offering up to 20 consecutive uses with a single charge. Next level tobacco experience without blades.</p>
+<p>This IQOS device is ONLY compatible with IQOS Terea Sticks</p>
+<ul>
+<li>Compact all in one device.</li>
+<li>Includes SMARTCORE INDUCTION SYSTEM™ technology</li>
+<li>Up to 20 consecutive uses with a single charge</li>
+<li>Easy insertion and extraction of the stick</li>
+<li>Rapid charging</li>
+<li>No cleaning ever</li>
+<li>Customisation options with accessories</li>
+</ul>
+<p>Why switch to IQOS ILUMA ONE?</p>
+<p>Real Tobacco taste: IQOS ILUMA is specially designed to be used with real tobacco sticks. TEREA sticks provide real tobacco taste &amp; satisfaction.</p>
+<p>Harm Reduction: Switching completely to IQOS presents less risk to your health than continuing to smoke. IQOS emits 95% lower levels of harmful chemicals compared to cigarettes.</p>
+<p><strong>Note: Compatible only with Terea Sticks.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7291330986039</id>
+      <title>Default Title</title>
+      <s:price currency="KES">15000.00</s:price>
+      <s:sku>Iluma One Kit</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290983350327</id>
+    <published>2025-06-16T07:33:42+05:30</published>
+    <updated>2025-06-16T07:33:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-i-standard-blue-breeze"/>
+    <title>IQOS Iluma i Standard - Blue Breeze</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-Iluma-i-Standard-Blue-Breeze.jpg?v=1750039282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            19000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS Iluma I Standard Breeze Blue tobacco heater has a familiar design and functionality and has been brought to perfection. In addition to induction contactless heating of tobacco and cleanliness when smoking, this device has several improvements. It makes it a bestseller in the ash-free smoking market. </p>
+<p>IQOS Iluma I Standard Breeze Blue has a touch screen with clear indications. This makes the device look stylish and perform a practical role. With one light push, the e-cigarette goes into pause mode. You can return to the session in a couple of minutes. On the screen, you can see how many sessions you can smoke in a row at the moment — 1 or 2. </p>
+<p>The indication also displays the state of tobacco heating. Select the economical consumption mode to charge the battery less often or the maximum performance mode to smoke two sessions in a row and make the most puffs.</p>
+<p>IQOS Iluma I Standard (Breeze Blue) Specifications:</p>
+<ul>
+<li>The heater body is made of aluminum.</li>
+<li>Color: Breeze blue.</li>
+<li>The heating temperature is 350 degrees.</li>
+<li>Heating type: induction.</li>
+<li>Dimensions: 5.9 x 8.8 x 15.4 cm; 0.1 g.</li>
+<li>The battery capacity of the device is 2900 mAh.</li>
+<li>Full charge time of the case is 135 minutes.</li>
+<li>Display with indication and control.</li>
+<li>Pause during the session.</li>
+<li>Mode that adds more puffs.</li>
+<li>Economy mode.</li>
+<li><strong>Compatibility with sticks: Terea Iluma.</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290983350327</id>
+      <title>Default Title</title>
+      <s:price currency="KES">19000.00</s:price>
+      <s:sku>Iluma i Standard - Blue Breeze</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290980401207</id>
+    <published>2025-06-16T07:19:33+05:30</published>
+    <updated>2025-06-16T07:19:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-oasis-limited-edition"/>
+    <title>IQOS Iluma - Oasis Limited Edition</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-iluma-oasis-limited-edition.jpg?v=1750038453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            19990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the exclusive IQOS LUMA OASIS, a stylish and unique addition to the IQOS family. This sleek gadget will be the perfect choice for those who want to quit conventional cigarettes and switch to a healthier alternative. Thanks to the advanced SMARTCORE INDUCTION SYSTEM tobacco heating technology, you will get the most comfortable and clean use without ash and odor. The amount of contamination is minimized, so you no longer have to spend time cleaning the device.</p>
+<p>The design of OASIS is simply stunning. It is made in bright and saturated colors that will take you to a world of amazing landscapes and adventures. This limited edition will be a great addition to your look and will make you stand out from the crowd.</p>
+<p>Join the millions of IQOS users around the world and start enjoying all the benefits of heated tobacco. Despite the limited edition, you still have the opportunity to own this stylish and functional device. Don't miss your chance!</p>
+<p>Specifications</p>
+<ul>
+<li>Device Colour: OASIS</li>
+<li>Number of sessions with one full charge: 20 sessions</li>
+<li>Charging Time: 135 min</li>
+<li>Holder dimension &amp; weight:
+<ul>
+<li>Height - 101.mm, Diameter - 14.5 mm, Weight - 30.5grm</li>
+</ul>
+</li>
+<li>Pocket charger dimension and weight:
+<ul>
+<li>Height - 117.2mm, Width — 44.7mm, Weight - 141grm</li>
+</ul>
+</li>
+<li>Charging port: USB-C</li>
+<li>Battery capacity: 2380mAh</li>
+<li>Operating temperature: 0°C ~ 40°C</li>
+<li>Bluetooth Connectivity: Yes</li>
+<li><strong>Device Compatible with: TEREA sticks</strong></li>
+<li>Charging time: 2h 15m</li>
+<li>Heating temperature: 350 °C (660 °F)</li>
+<li>Heating method: Smartcore induction</li>
+<li>Heating time: 15 sec</li>
+<li>Session length: up to 6 minutes / 14 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290980401207</id>
+      <title>Default Title</title>
+      <s:price currency="KES">19990.00</s:price>
+      <s:sku>Iluma - Oasis Ltd Edition</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126679095</id>
+    <published>2025-05-22T05:31:43+05:30</published>
+    <updated>2025-05-22T05:31:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-4-0-iluma-starter-kit"/>
+    <title>IQOS 4.0 Iluma Starter Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-iluma-starter-kit.jpg?v=1747872110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS ILUMA line is the so-called Iqos 4.0 - the fourth generation of the most popular heat-not-burn devices in the world.</p>
+<p>IQOS Iluma, takes the appeal of heat-not-burn tobacco to a new level with the new technology Smart Core Induction System™, maintaining the original IQOS technology that heats tobacco leaves directly from the inside.</p>
+<p>IQOS Iluma has familiar design, which can be said to be a standard model of IQOS, but has been evolved. We have achieved a simple feel that fits comfortably in your lifestyle.</p>
+<p>Device can be used two times continuously. It also has an auto start function that automatically starts heating.</p>
+<p><em><strong>IMPORTANT NOTE:</strong> IQOS ILUMA is designed to be used only with TEREA heating tobacco units. Do not use IQOS ILUMA and TEREA heating tobacco units with older generations of IQOS, as you may damage your device.</em></p>
+<p>IQOS Iluma is designed for use with Smart Core Stick™ only. Do not use IQOS Iluma and Smart Core Stick™ with traditional IQOS devices (IQOS 3 Duo and earlier models) and their dedicated tobacco sticks. This can damage the device. Shop Iqos </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126679095</id>
+      <title>Default Title</title>
+      <s:price currency="KES">18000.00</s:price>
+      <s:sku>Iluma 4.0 Starter Kit</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279514484791</id>
+    <published>2025-05-07T22:54:08+05:30</published>
+    <updated>2025-05-07T22:54:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-3-starter-kit"/>
+    <title>IQOS 3 Duo Starter Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-3-Starter-Kit.jpg?v=1756885548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            9950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS 3 Starter Kit uses the latest technology – a heating element made of gold and platinum and coated with ceramics to control the heating temperature. Introducing IQOS Kenya Marlboro Cigarette in Kenya. Buy <a title="Iqos kenya" href="https://[YOUR DOMAIN]/collections/iqos-heets">IQOS</a> in Kenya at best prices.<br><br>IQOS 3 Duo kit is compatible with Heets Classic, Heets Fiit and Heets Dimensions. </p>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-3-DUO-infographic.jpg?v=1756885422" alt="iqos 3 duo infographic" style="float: none;"></div>
+<p><strong>Please Note: IQOS 3 Duo starter kit doesn't include heets in box. You have to purchase heets separately, <em><a title="Iqos heets Kenya" href="https://[YOUR DOMAIN]/collections/iqos-heets">click here</a> <a title="heets" href="https://[YOUR DOMAIN]/collections/iqos-heets">to</a> <a title="heets Kenya" href="https://[YOUR DOMAIN]/collections/iqos-heets">buy heets</a></em>.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279514484791</id>
+      <title>Default Title</title>
+      <s:price currency="KES">9950.00</s:price>
+      <s:sku>IQOS 3 Starter Kit</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7260183003191</id>
+    <published>2025-03-28T05:40:02+05:30</published>
+    <updated>2025-03-28T05:40:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-2-4-plus-starter-kit"/>
+    <title>IQOS 2.4 Plus Starter Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-2.4-plus-group-with-4-new-heets-WHITE.jpg?v=1743120604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            8500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS 2.4 Plus Kit, which includes an IQOS Holder and all the tools you need to clean and charge your IQOS. Introducing IQOS Kenya Marlboro Cigarette in Kenya. Buy <a href="https://[YOUR DOMAIN]/collections/iqos-heets" title="Iqos kenya">IQOS</a> in Kenya at best prices.</p>
+<p><strong>Please Note: IQOS 2.4 plus starter kit doesn't include heets in box. You have to purchase heets separately, <em><a href="https://[YOUR DOMAIN]/collections/iqos-heets" title="Iqos heets Kenya">click here</a> <a href="https://[YOUR DOMAIN]/collections/iqos-heets" title="heets">to</a> <a href="https://[YOUR DOMAIN]/collections/iqos-heets" title="heets Kenya">buy heets</a></em>.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7260183003191</id>
+      <title>Default Title</title>
+      <s:price currency="KES">8500.00</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

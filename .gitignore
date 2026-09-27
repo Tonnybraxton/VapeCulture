@@ -1,0 +1,16 @@
+# Editor & IDE metadata
+.kilo/
+.kilocode/
+node_modules/
+
+# HTTrack temporary cache & crawler logs
+hts-cache/
+hts-log.txt
+cookies.txt
+doit.log
+*.tmp
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc

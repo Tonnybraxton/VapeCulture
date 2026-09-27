@@ -1,0 +1,1646 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/uwell.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-02-16T07:29:59+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416661147703</id>
+    <published>2026-02-16T07:29:59+05:30</published>
+    <updated>2026-02-16T07:29:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-lite-se-35w-pod-vape"/>
+    <title>Uwell Caliburn G5 Lite SE 35W Pod Vape</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Uwell-Caliburn-G5-Lite-SE-Pod-Kit-back-view.webp?v=1771206684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uwell Caliburn G5 Lite SE Pod System Kit is crafted from premium PC and Leather materials, which offer a comfortable grip and easy portability. The G5 Lite SE kit is compatible with the latest GPP Pods and holds up to 3ml of e-juice.</p>
+<p>A new 4-segment gradient LED indicator flashes in sync with each vape pull and displays the battery level in real-time. With a large 1600mAh battery, the device can last up to 6 days on a single charge. Equipped with advanced PRO-FOCS 4.0 flavor technology, it delivers a maximum output of 35W. Choose the Uwell Caliburn G5 Lite SE and start a new experience.<br></p>
+<p>Quick Links:<br><a title="Caliburn G3 Pods" href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods">Uwell Caliburn G3 Pods</a><br><a title="Caliburn GPP Pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a></p>
+<p>Features:<br></p>
+<ul>
+<li>Dimensions: 29.4*17*113.8 mm</li>
+<li>Rechargeable 1600mAh Integrated Battery</li>
+<li>3ml E-juice Capacity</li>
+<li>35W Max Output Power with PRO-FOCS 4.0 Flavor Optimization</li>
+<li>4-Bar Gradient LED indicators for real-time battery status</li>
+<li>Reversible Cartridge Airflow: Big/Small Airflow</li>
+<li>Premium PC and Leather Body</li>
+<li>Type-C Fast Recharging</li>
+</ul>
+<p>Uwell Caliburn G5 Lite SE Pod Kit Packaging Content:</p>
+<ul>
+<li>1 x Uwell Caliburn G5 Lite SE Pod Kit</li>
+<li>1 x Uwell Caliburn GPP Pod Cartridge (3ml Side Fill, 0.6ohm)</li>
+<li>1 x User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416661147703</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Lite SE Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416660492343</id>
+    <published>2026-02-16T07:09:25+05:30</published>
+    <updated>2026-02-16T07:09:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-koko-lite-35w-pod-system"/>
+    <title>Uwell Caliburn G5 Koko Lite 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Uwell-Caliburn-G5-Lite-KOKO-Pod-Kit.webp?v=1771205966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn G5 Lite KOKO Pod Kit is a stylish and portable pod system of Caliburn G5 series. Working with the new GPP pod cartridges for exceptional flavor, the Caliburn G5 Lite KOKO is constructed of lightweight PC materials, features a frosted shell and signature square KOKO design, adopts a 1600mAh long-lasting battery and draw activated firing system to deliver a max output of 35W.</p>
+<p>Quick Links:<br><a title="Caliburn GPP Pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a></p>
+<p>Uwell Caliburn G5 Lite KOKO Pod Kit Features:<br></p>
+<ul>
+<li>Dimensions: 86 x 45 x 18mm<br>
+</li>
+<li>Wattage Output: Max 35W<br>
+</li>
+<li>Battery Capacity: 1600mAh<br>
+</li>
+<li>Firing System: Draw Activated<br>
+</li>
+<li>Chassis Construction: PC<br>
+</li>
+<li>Charging Port: Type-C<br>
+</li>
+<li>Pod Compatibility: Caliburn GPP Pods, Caliburn G3 Pods<br>
+</li>
+<li>Pod Capacity: 3.0ml<br>
+</li>
+<li>Filling System: Side Fill<br>
+</li>
+<li>Airflow System: Adjustable<br>
+</li>
+<li>Pod Construction: PCTG<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>PRO-FOCS 4.0 Flavor Technology</li>
+</ul>
+<p>Package Includes:<br></p>
+<ul>
+<li>1 x Caliburn G5 Lite KOKO Device<br>
+</li>
+<li>1 x 0.6ohm Caliburn GPP Pod<br>
+</li>
+<li>1 x User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416660492343</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Koko Lite Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416659378231</id>
+    <published>2026-02-16T06:53:08+05:30</published>
+    <updated>2026-02-16T06:53:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-koko-35w-pod-system"/>
+    <title>Uwell Caliburn G5 Koko 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Uwell-Caliburn-G5-KOKO-Pod-Kit.webp?v=1771204722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn G5 KOKO Pod Kit is a new compact and stylish pod system utilizing the latest Caliburn GPP Pods. Integrated with a 1600mAh rechargeable battery for long-lasting vaping, the Caliburn G5 KOKO is constructed of durable zinc alloy and premium leather, adopt a draw or button activated firing system with dual output modes to deliver up to 35W, is also equipped with a starlit ocean display screen.</p>
+<p>Quick Links:<br><a title="Caliburn GPP Pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a></p>
+<p>Uwell Caliburn G5 KOKO Pod Kit Features:</p>
+<ul>
+<li>Dimensions: 84 x 49 x 21mm<br>
+</li>
+<li>Wattage Output: Max 35W<br>
+</li>
+<li>Battery Capacity: 1600mAh<br>
+</li>
+<li>Output Mode: Storm / Waves<br>
+</li>
+<li>Firing System: Draw Activated<br>
+</li>
+<li>Chassis Construction: Zinc Alloy, Leather<br>
+</li>
+<li>Charging Port: Type-C<br>
+</li>
+<li>Pod Compatibility: Caliburn GPP Pods, Caliburn G3 Pods<br>
+</li>
+<li>Pod Capacity: 3.0ml<br>
+</li>
+<li>Filling System: Side Fill<br>
+</li>
+<li>Airflow System: Adjustable Top Airflow</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Pod Material: PCTG<br>
+</li>
+<li>Pro-FOCS 4.0 Flavor Technology<br>
+</li>
+<li>Lanyard Attachment Point</li>
+</ul>
+<p>Package Includes:</p>
+<ul>
+<li>1 x Caliburn G5 KOKO Device<br>
+</li>
+<li>1 x 0.6ohm Caliburn GPP Pod (Side Fill)<br>
+</li>
+<li>1 x User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416659378231</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416637718583</id>
+    <published>2026-02-16T05:53:50+05:30</published>
+    <updated>2026-02-16T05:53:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-lite-35w-pod-system"/>
+    <title>Uwell Caliburn G5 Lite 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g5_lite_pod_system_starry_grey.webp?v=1771201431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn G5 Lite 35W Pod System, featuring a 1600mAh battery, 35W max output, and pairs with the refillable Caliburn G3 and GPP Pods.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn G3 Pods">Uwell Caliburn G3 Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Caliburn GPP Pods">Uwell Caliburn GPP Pods</a></p>
+<p>UWELL CALIBURN G5 LITE 35W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 115.4mm by 30.2mm by 18mm<br>
+</li>
+<li>BATTERY CAPACITY: 1600mAh<br>
+</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable<br>
+</li>
+<li>WATTAGE RANGE: 35W<br>
+</li>
+<li>CHASSIS MATERIAL: PC + ABS<br>
+</li>
+<li>OPERATION: Draw-Activated<br>
+</li>
+<li>OUTPUT: Constant Voltage<br>
+</li>
+<li>CHARGING: USB-C Port<br>
+</li>
+<li>POD CONNECTION: Magnetic<br>
+</li>
+<li>POD CAPACITY: 3mL<br>
+</li>
+<li>POD MATERIAL: PCTG<br>
+</li>
+<li>POD SUPPORT: Caliburn G3 | Caliburn GPP Pods<br>
+</li>
+<li>FILL SYSTEM: Side Fill<br>
+</li>
+<li>AIRFLOW: Adjustable Switch<br>
+</li>
+<li>LED Indicator Light</li>
+</ul>
+<p>INCLUDES:</p>
+<ul>
+<li>1 Uwell Caliburn G5 Lite 35W Pod System<br>
+</li>
+<li>1 0.6ohm Caliburn GPP Pods<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416637718583</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Lite Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399876427831</id>
+    <published>2026-01-14T22:46:07+05:30</published>
+    <updated>2026-01-14T22:46:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-replacement-pods"/>
+    <title>Uwell Caliburn Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_replacement_pods_-_package_contents.jpg?v=1768410968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell CALIBURN Pods (4-Pack) are a set of food-grade replacement pods featuring a 2.0mL refillable pod, 1.2ohm and 1.4ohm Pod Coil Resistance, and possesses a top fill system, stoppered by the top cap drip tip mouthpiece.</p>
+<p>The 1.2ohm and 1.4ohm Coils are fully cross-compatible with the Uwell Caliburn KOKO and the original Uwell Caliburn Pod System.</p>
+<p>Compatibility:<br>Uwell CALIBURN<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-koko-pod-system" title="Caliburn Koko system">Uwell CALIBURN KOKO</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399876427831</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>U Cali Replacement Pods</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399860600887</id>
+    <published>2026-01-14T22:26:58+05:30</published>
+    <updated>2026-01-14T22:26:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-ak2-15w-pod-system"/>
+    <title>Uwell Caliburn AK2 15W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_-_caliburn_ak2_-_pod_system_-_classic_black_1.webp?v=1768409819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop Uwell Caliburn AK2 15W Pod System, featuring an integrated 520mAh rechargeable battery, 15W maximum output, and utilizes 2mL 0.9ohm UN2 Meshed Pods. Compatible with the Caliburn A2 Pods.</p>
+<p>Quick Links<br><a title="Caliburn A2 Pods" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a2-replacement-pods">Uwell Caliburn A2 Pods</a><br><a title="Caliburn A2s pods" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a2s-replacement-pods">Uwell Caliburn A2S Pods</a></p>
+<p>Constructed from durable aluminum alloy, the chassis of the Caliburn AK2 Pod System possesses a thin and portable profile that is perfect for those that are on-the-go, and are looking for a dependable vaping system. Utilizing a fast Type-C charging system, the Caliburn A2 Pod System can deliver vaping in as little as 35 minutes to charge the battery up to 95%. Equipped with a 2mL refillable pod, the <a href="https://[YOUR DOMAIN]/collections/uwell" title="Caliburn">Caliburn</a> AK2 utilizes 0.9ohm UN2 Meshed-H Coil Pods that deliver delicious flavor and vapor.</p>
+<p>Uwell CALIBURN AK2 15W Pod System Features:</p>
+<ul>
+<li>Dimensions - 67.9mm by 43.5mm by 11.8mm<br>
+</li>
+<li>Integrated 520mAh Rechargeable Battery<br>
+</li>
+<li>Max. Wattage Output: 15W<br>
+</li>
+<li>Aluminum-Alloy Chassis Construction<br>
+</li>
+<li>Draw-Activated Firing Mechanism<br>
+</li>
+<li>Zinc-Alloy Chassis Construction<br>
+</li>
+<li>Pro-FOCS Technology<br>
+</li>
+<li>E-Liquid Viewing Window<br>
+</li>
+<li>Lanyard Attachment Point<br>
+</li>
+<li>LED Battery Indicator Light</li>
+<li>2mL Pod Capacity<br>
+</li>
+<li>Top Fill System - Mouthpiece Cover<br>
+</li>
+<li>Integrated 0.9ohm UN2 Meshed-H Coil</li>
+<li>Magnetic Pod Connection<br>
+</li>
+<li>Short-Circuit Protection<br>
+</li>
+<li>Low Voltage Protection<br>
+</li>
+<li>8S Overtime Protection<br>
+</li>
+<li>Open Circuit Protection<br>
+</li>
+<li>Low Power Protection<br>
+</li>
+<li>Type-C USB Port<br>
+</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn AK2 Pod System<br>
+</li>
+<li>2 0.9ohm UN2 Meshed-H Pods<br>
+</li>
+<li>1 User Manual<br>
+</li>
+<li>1 Lanyard</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399860600887</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5150.00</s:price>
+      <s:sku>U Cali AK2 Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399383957559</id>
+    <published>2026-01-13T04:25:14+05:30</published>
+    <updated>2026-01-13T04:25:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-pro-koko-35w-pod-system"/>
+    <title>Uwell Caliburn G4 Pro Koko 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_pro_koko_35w_pod_system_-_coral_pink.webp?v=1768258514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Uwell Caliburn G4 PRO KOKO Pod System in Kenya, featuring up to 35W of power, a 2000mAh battery, smart touchscreen, and customizable output mode.</p>
+<p>Quick Links:<br><a title="Caliburn GPP replacement pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a><br><a title="Uwell Caliburn G3 replacement pods" href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods">Uwell Caliburn G3 Pods</a></p>
+<p>Alongside the Storm Mode for throat hits and Waves Mode for smoother flavor, the Customize Mode lets you tailor your hits and flavor to your liking. The first-ever KOKO touchscreen provides instant feedback, allowing you to switch output modes, adjust wattage, and more with a single tap, while featuring 5 Blind Draw UI themes to collect. Compatible with both Caliburn GPP and G3 pods, the G4 PRO KOKO gives you options.</p>
+<p>UWELL CALIBURN G4 PRO KOKO 35W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 85.8mm x 50mm x 23mm<br>
+</li>
+<li>BATTERY CAPACITY: 2000mAh<br>
+</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable<br>
+</li>
+<li>WATTAGE RANGE: 35W<br>
+</li>
+<li>DISPLAY SCREEN: 2" Touchscreen<br>
+</li>
+<li>OPERATION: Draw-Activated<br>
+</li>
+<li>CHARGING: USB Type-C<br>
+</li>
+<li>POD CAPACITY: 3mL<br>
+</li>
+<li>POD SUPPORT: Caliburn GPP / G3 Pods<br>
+</li>
+<li>FILL SYSTEM: Side-Fill<br>
+</li>
+<li>COIL INSTALLATION: Pre-Installed<br>
+</li>
+<li>AIRFLOW: Adjustable<br>
+</li>
+<li>Storm Mode | Waves Mode | Customize Mode</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G4 PRO KOKO Device<br>
+</li>
+<li>1 0.4ohm Caliburn GPP Pod (3mL)<br>
+</li>
+<li>1 0.6ohm Caliburn GPP Pod (3mL)<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399383957559</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G4 Pro Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399380385847</id>
+    <published>2026-01-13T03:54:59+05:30</published>
+    <updated>2026-01-13T03:54:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-lite-koko-25w-pod-system"/>
+    <title>Uwell Caliburn G3 Lite Koko 25W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g3_lite_koko_25w_pod_system_-_basalt_grey.webp?v=1768256421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Uwell Caliburn G3 Lite KOKO 25W Pod System, featuring a 1200mAh battery, active resistance detection, and holds up to 2.5mL within the pod. </p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn G3 Pods">Uwell Caliburn G3 Pods</a></p>
+<p>Crafted from ultra-low weight materials, the Caliburn G3 Lite KOKO is a slimmed-down version, without sacrificing any performance. Eliminating any screens, the Caliburn G3 Lite KOKO preserves precious battery life for vaporizing your favorite eJuice or nicotine salts.</p>
+<p>UWELL CALIBURN G3 LITE KOKO 25W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 76mm by 49.6mm by 17.9mm<br>
+</li>
+<li>BATTERY CAPACITY: 1200mAh<br>
+</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable<br>
+</li>
+<li>WATTAGE RANGE: 5-25W<br>
+</li>
+<li>CHASSIS MATERIAL: PC + ABS<br>
+</li>
+<li>OPERATION: Draw-Activated<br>
+</li>
+<li>OUTPUT: Intelligent Resistance Detection<br>
+</li>
+<li>CHARGING: USB Type-C<br>
+</li>
+<li>POD CONNECTION: Magnetic<br>
+</li>
+<li>POD CAPACITY: 2.5mL</li>
+<li>POD MATERIAL: PCTG<br>
+</li>
+<li>FILL SYSTEM: Top Fill<br>
+</li>
+<li>COIL SUPPORT: ALL G3 Cartridges<br>
+</li>
+<li>Lanyard Attachment Point</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G3 Lite KOKO<br>
+</li>
+<li>1 0.6ohm Caliburn G3 Pods<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399380385847</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3999.00</s:price>
+      <s:sku>U Cali G3 Lite Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7387138752567</id>
+    <published>2025-12-17T08:06:07+05:30</published>
+    <updated>2025-12-17T08:06:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-pro-35w-pod-system"/>
+    <title>Uwell Caliburn G4 Pro 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_pro_35w_pod_system_-_iron_grey.webp?v=1765938843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out Uwell Caliburn G4 Pro 35W Pod System, offering an 1800mAh battery, 35W maximum output, and compatibility with the GPP and G3 Replacement Pods.<br></p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Uwell Caliburn GPP replacement pods">Uwell Caliburn GPP Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn g3 replacement pods">Uwell Caliburn G3 Pods</a></p>
+<p>UWELL CALIBURN G4 PRO 35W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 120.7mm by 30mm by 18.5mm</li>
+<li>BATTERY CAPACITY: 1800mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: 35W</li>
+<li>CHASSIS MATERIAL: Aluminum | ABS | IML | PCTG</li>
+<li>DISPLAY SCREEN: 2.51" Shatterproof Screen</li>
+<li>OPERATION: Touchscreen</li>
+<li>OUTPUT: Variable Wattage</li>
+<li>CHARGING: USB-C Port</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>AIRFLOW: Stepless Airflow Control</li>
+<li>Droplet Shaped E-Liquid Window</li>
+<li>Compatible with GPP and G3 Pods</li>
+</ul>
+<p>INCLUDES:</p>
+<ul>
+<li>1 Uwell Caliburn G4 PRO 35W Pod System</li>
+<li>1 0.4ohm GPP Pods</li>
+<li>1 0.6ohm GPP Pods</li>
+<li>1 User Manuals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7387138752567</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5699.00</s:price>
+      <s:sku>U Cali G4 Pro Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384979243063</id>
+    <published>2025-12-09T05:47:15+05:30</published>
+    <updated>2025-12-09T05:47:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-tenet-16w-pod-system"/>
+    <title>Uwell Caliburn Tenet 16W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_tenet_pod_system_-_olive_green.webp?v=1765239336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Uwell Caliburn TENET 16W Pod System, featuring a 750mAh battery, rugged exterior design, and is compatible with Caliburn G/G2 Coils and Pods.</p>
+<p>Quick Links:<br><a title="Uwell Caliburn G2 Pods" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-empty-cartridge">Uwell Caliburn G2 Pods</a></p>
+<p><a title="Uwell Caliburn G2 Coils" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-replacement-coils">Uwell Caliburn G2 Coils</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p>Constructed from durable aluminum alloy, the Caliburn Tenet Pod System delivers a strong and impervious chassis, updating the sleek metal unibody design with a new rugged exterior. In addition, Uwell has introduced haptic feedback to make the Caliburn Tenet much more intuitive. Operating off dual firing modes, like its predecessors, the Caliburn TENET can be button or draw-activated, making vaping a breeze. Furthermore, the TENET can call upon the Caliburn G or G2 Pods and Coils to deliver outstanding flavor and vapor from your favorite eJuice or nicotine salts and can adjust the airflow via pod based rotating dial.</p>
+<p>Uwell Caliburn TENET 16W Pod System Features:<br></p>
+<ul>
+<li>Dimensions: 110.9mm by 25.1mm by 16.3mm<br>
+</li>
+<li>Battery Capacity: 750mAh<br>
+</li>
+<li>Max Wattage Output: 16W<br>
+</li>
+<li>Chassis Material: Aluminum-Alloy<br>
+</li>
+<li>Charging: Type-C Port<br>
+</li>
+<li>Operation: Button / Draw Activated Firing<br>
+</li>
+<li>Pod Series: Uwell Caliburn G2 Pods<br>
+</li>
+<li>Fill System: Top Fill<br>
+</li>
+<li>Pod Material: PCTG<br>
+</li>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Coil Installation: Press Fit<br>
+</li>
+<li>Coil Support: Uwell Caliburn G/G2 Coils<br>
+</li>
+<li>Haptic Feedback<br>
+</li>
+<li>PRO-FOCS Technology<br>
+</li>
+<li>Juice Level Viewing Window</li>
+</ul>
+<p>Includes:<br></p>
+<ul>
+<li>1 Caliburn TENET<br>
+</li>
+<li>1 Caliburn G2 Pods<br>
+</li>
+<li>1 0.8ohm Caliburn G Coil<br>
+</li>
+<li>1 1.2ohm Caliburn G2 Coil<br>
+</li>
+<li>1 User Manual<br>
+</li>
+<li>1 Type-C Cable<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384979243063</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4650.00</s:price>
+      <s:sku>U Cali Tenet Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384975638583</id>
+    <published>2025-12-09T05:12:51+05:30</published>
+    <updated>2025-12-09T05:12:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-explorer-32w-pod-system"/>
+    <title>Uwell Caliburn Explorer 32W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_explorer_pod_system_-_black.webp?v=1765237187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn Explorer Pod System, offering an innovative dual sided cartridge, 32W max output, and integrated 1000mAh rechargeable battery.</p>
+<p>Quick Links:<br><a title="Uwell Caliburn Explorer Pods" href="https://[YOUR DOMAIN]/products/caliburn-explorer-replacement-pods">Uwell Caliburn Explorer Pods</a><br></p>
+<p><a title="Uwell Caliburn G2 Coils" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-replacement-coils">Uwell Caliburn G2 Coils</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p>Constructed from durable aluminum alloy, the Uwell Caliburn Explorer delivers outstanding flavor and performance, while ensuring a lightweight and portable form factor. Outfitted with a dual-sided cartridge, the Caliburn Explorer can hold 2mL on each side, accommodating those who love a variety of flavors without needing to change out the cartridge. Powered by an integrated 1000mAh battery, the Uwell Caliburn Explorer Pod System can last throughout the day without needing a recharge, but facilitates recharging via Type-C Port.</p>
+<p>Uwell CALIBURN Explorer 32W Pod System Features:</p>
+<ul>
+<li>Dimensions: 128.1mm x 26mm x 14.6mm</li>
+<li>Chassis Material: Aluminum-Alloy</li>
+<li>Max Wattage: 32W</li>
+<li>Resistance Range: 0.8-1.2ohm</li>
+<li>Battery Capacity: 1000mAh</li>
+<li>Charging Port: USB Type-C</li>
+<li>Output: Variable Voltage</li>
+<li>Operation: Directional Firing-Button Activation / Draw-Activation</li>
+<li>Fill System: Dual Side-Fill - Silicone Stoppers</li>
+<li>Pod Material: PCTG</li>
+<li>Pod Capacity: Dual Sided 4mL (2mL per Side)</li>
+<li>Pod Connection: Plug 'n' Play</li>
+<li>Coil Installation: Press-Fit</li>
+<li>Coil Support: G / G2 Series</li>
+<li>2-Sided Pod</li>
+<li>Supports 2 Coils Simultaneously</li>
+<li>Dual-Flavor Immersion</li>
+<li>4-Leaf Clover Menu Button</li>
+<li>Super Wide ClearView Juice Window</li>
+<li>2A Type-C Charging</li>
+<li>Pro-FOCS Flavor Technology</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell CALIBURN Explorer Pod System</li>
+<li>1 Uwell CAIBURN Explorer Pod (Preinstalled)</li>
+<li>1 0.8ohm Meshed CALIBURN G Coil (Preinstalled)</li>
+<li>1 1.2ohm CALIBURN G2 Coil (Preinstalled)</li>
+<li>1 0.8ohm Meshed CALIBURN G Coil (Spare)</li>
+<li>1 1.2ohm CALIBURN G2 Coil (Spare)</li>
+<li>1 USB Type-C Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384975638583</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4150.00</s:price>
+      <s:sku>U Cali Explorer Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384970461239</id>
+    <published>2025-12-09T04:57:47+05:30</published>
+    <updated>2025-12-09T04:57:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-gz2-pod-system"/>
+    <title>Uwell Caliburn GZ2 Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_gz2_pod_system_-_black.webp?v=1765236468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn GZ2 17W Pod System, offering an 850mAh battery, 17W max output, and utilizes the Caliburn G2 Pods with Caliburn G Coils.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-empty-cartridge" title="Uwell Caliburn G2 Pods">Uwell Caliburn G2 Pods</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p>Uwell Caliburn GZ2 17W Pod System Features:<br></p>
+<ul>
+<li>Dimensions: 68.9mm by 23.8mm by 23.6mm<br>
+</li>
+<li>Battery Capacity: 850mAh<br>
+</li>
+<li>Max Wattage: 17W<br>
+</li>
+<li>Voltage Range: 0.8-1.0ohm<br>
+</li>
+<li>Chassis Material: Aluminum-Alloy<br>
+</li>
+<li>Charging: Type-C Port<br>
+</li>
+<li>Operation: Draw-Activated<br>
+</li>
+<li>Pod Series: Caliburn G2 Pods<br>
+</li>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Construction: PCTG<br>
+</li>
+<li>Fill-System: Top Fill System<br>
+</li>
+<li>Coil Support: Caliburn G Coils</li>
+<li>LED Indicator Light</li>
+</ul>
+<p>Includes:<br></p>
+<ul>
+<li>1 GZ2 Device<br>
+</li>
+<li>2 Caliburn G2 Pods<br>
+</li>
+<li>1 0.8ohm Caliburn Coils<br>
+</li>
+<li>1 1.2ohm Caliburn G2 Coils<br>
+</li>
+<li>1 USB-C Cable<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384970461239</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4500.00</s:price>
+      <s:sku>U Cali GZ2 Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341420380215</id>
+    <published>2025-09-15T07:48:14+05:30</published>
+    <updated>2025-09-15T07:48:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-mini-35w-pod-system"/>
+    <title>Uwell Caliburn G4 Mini 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_mini_pod_system_-_slate_grey.webp?v=1757902695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn G4 Mini Pod System, offering an 1100mAh battery, 5-35W range, and a dual airflow system via pod orientation and adjustment slider. Featuring the new Caliburn GPP Pods and cross-compatible with the Caliburn G3 Pods.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Uwell Caliburn GPP replacement pods">Uwell Caliburn GPP Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn g3 replacement pods">Uwell Caliburn G3 Pods</a></p>
+<p>Uwell Caliburn G4 Mini 35W Pod System Features:</p>
+<ul>
+<li>DIMENSIONS: 112.7mm by 24.1mm by 14mm</li>
+<li>BATTERY CAPACITY: 1100mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: 5-35W</li>
+<li>CHASSIS MATERIAL: PC + PCTG</li>
+<li>OPERATION: Draw-Activated</li>
+<li>OUTPUT: Variable Voltage</li>
+<li>CHARGING: USB Type-C</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>COIL INSTALLATION: Integrated</li>
+<li>AIRFLOW: Side + Cartridge Orientation</li>
+</ul>
+<p>INCLUDES:</p>
+<ul>
+<li>1 Caliburn G4 Mini</li>
+<li>1 0.6ohm Caliburn GPP Pods</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341420380215</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4500.00</s:price>
+      <s:sku>U Cali G4 Mini Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341417791543</id>
+    <published>2025-09-15T07:35:08+05:30</published>
+    <updated>2025-09-15T07:35:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-35w-pod-system"/>
+    <title>Uwell Caliburn G4 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_pod_system_-_glacier_blue.webp?v=1757901909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the UWELL Caliburn G4 Pod System, boasting a 1300mAh battery, adjustable 5–35W output, animated display, and versatile Storm and Wave Modes for an elevated vape experience. Cross-compatible with the Caliburn G3 Pods.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Uwell Caliburn GPP replacement pods">Uwell Caliburn GPP Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn g3 replacement pods">Uwell Caliburn G3 Pods</a></p>
+<p>This sleek device is crafted from durable aluminum-alloy and supports a resistance range of 0.4–0.9ohm, optimized for smooth flavor and cloud production. Its magnetic 3mL pod system uses Caliburn GPP Series pods and a convenient side-fill design, ensuring both ease of use and secure handling. With an adjustable airflow switch and intuitive draw-activation, users can fine-tune every puff. Whether in Storm Mode for powerful clouds or Wave Mode for consistent output, the G4 balances cutting-edge features with compact portability, making it a top-tier choice for everyday vaping.</p>
+<p>Uwell <a href="https://[YOUR DOMAIN]/collections/uwell" title="Caliburn">Caliburn</a> G4 35W Pod System Features:</p>
+<ul>
+<li>DIMENSIONS: 26mm x 15.65mm x 114.98mm</li>
+<li>BATTERY CAPACITY: 1300mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: 5-35W</li>
+<li>RESISTANCE RANGE: 0.4-0.9ohm</li>
+<li>CHASSIS MATERIAL: Aluminum-Alloy</li>
+<li>DISPLAY SCREEN: Animated Display</li>
+<li>OPERATION: Draw-Activated</li>
+<li>OUTPUT: Adjustable Wattage</li>
+<li>CHARGING: USB Type-C</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>POD SUPPORT: Caliburn GPP Series</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>AIRFLOW: Adjustable Switch</li>
+<li>Storm Mode</li>
+<li>Wave Mode</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G4 Pod System</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341417791543</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5100.00</s:price>
+      <s:sku>U Cali G4 Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341417562167</id>
+    <published>2025-09-15T07:12:52+05:30</published>
+    <updated>2025-09-15T07:12:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-lite-25w-pod-system"/>
+    <title>Uwell Caliburn G3 Lite 25W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g3_lite_pod_system_-_space_black.webp?v=1757900573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn G3 Lite 25W Pod System, featuring an integrated 1200mAh battery, 25W maximum output, and delivering exceptional flavor from the compatible G3 Pods. </p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Uwell Caliburn G3 Pods">Uwell Caliburn G3 Pods</a><br><a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Shop Nicotine Salts">Shop Nicotine Salts</a></p>
+<p>Constructed from lightweight materials, the Caliburn G3 Lite offers exceptional portability while remaining reliable and sturdy. Encapsulating a 1200mAh battery, <em>the Uwell Caliburn G3 Lite can operate for 3 days before needing a recharge, based on internal tests by Uwell's Lab</em>. Forgoing a screen or any buttons, Uwell has relegated the full battery capacity to outputting delicious flavor and vapor from your favorite eJuice or nicotine salts.</p>
+<p>Uwell <a href="https://[YOUR DOMAIN]/collections/uwell" title="Caliburn">Caliburn Vape</a> G3 Lite 25W Pod System Features:</p>
+<ul>
+<li>DIMENSIONS: 111.4mm by 28.8mm by 16.3mm</li>
+<li>BATTERY CAPACITY: 1200mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: MAXIMUM WATTAGE: 25W</li>
+<li>CHASSIS MATERIAL: Lightweight Materials</li>
+<li>OPERATION: Draw-Activated</li>
+<li>OUTPUT: Continuous Voltage</li>
+<li>CHARGING: USB Type-C</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 2.5mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side Fill</li>
+<li>COIL SUPPORT: Integrated Coil</li>
+<li>AIRFLOW: Pod Based (Rotate Pod to Switch)</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G3 Lite</li>
+<li>1 0.6ohm Caliburn G3 Pod</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341417562167</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3800.00</s:price>
+      <s:sku>U Cali G3 Lite Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341416906807</id>
+    <published>2025-09-15T07:00:51+05:30</published>
+    <updated>2025-09-15T07:00:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-pro-koko-35w-pod-system"/>
+    <title>Uwell Caliburn G3 Pro Koko 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g3_pro_koko_35w_pod_system_-_screen.webp?v=1757899501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5590.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn G3 Pro KOKO Pod System, featuring a 1250mAh battery, 35W output maximum, adjustable airflow control, and delivers exceptional flavor from the Caliburn G3 Pods. </p>
+<p>Quick Links:<br><a title="Uwell Valiburn vape g3 pods" href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods">Uwell Caliburn G3 Pods</a></p>
+<p>Constructed from durable zinc-alloy, the chassis of the Caliburn G3 Pro KOKO is lightweight and portable, fitting neatly into the pocket, purse, or bookbag. Offering a restricted direct lung vaping style, the Caliburn G3 Pro KOKO is the next evolution of the legendary Caliburn line.</p>
+<p>Uwell <a title="Caliburn vape" href="https://[YOUR DOMAIN]/collections/uwell">Caliburn Vape</a> G3 Pro Koko 35W Pod System Features:</p>
+<ul>
+<li>DIMENSIONS: 85.15mm by 49.5mm by 19.5mm</li>
+<li>BATTERY CAPACITY: 1250mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: 35W</li>
+<li>CHASSIS MATERIAL: Zinc-Alloy</li>
+<li>DISPLAY SCREEN: 1.8" TFT Display</li>
+<li>OPERATION: Dual Firing | Button or Draw-Activated</li>
+<li>OUTPUT: Adjustable Wattage</li>
+<li>CHARGING: USB Type-C</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>AIRFLOW: Adjustable</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Caliburn G3 Pro KOKO</li>
+<li>1 0.4ohm Caliburn G3 Pods</li>
+<li>1 0.9ohm Caliburn G3 Pods</li>
+<li>1 Type-C Charging Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416906807</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5590.00</s:price>
+      <s:sku>U Cali G3 Pro Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+    <published>2025-09-15T06:35:11+05:30</published>
+    <updated>2025-09-15T06:35:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods"/>
+    <title>Caliburn GPP Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_gpp_replacement_pods_-_default.webp?v=1757898312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn GPP Pods, featuring a 0.4-1.2ohm resistance, 3mL pod capacity, and shares cross-compatibility with the Caliburn G3 series and G3 Pods.</p>
+<p>Quick Links:<br>Uwell Caliburn G4 PRO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-35w-pod-system" title="Uwell Caliburn G4">Uwell Caliburn G4</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-mini-35w-pod-system" title="Uwell caliburn g4 mini">Uwell Caliburn G4 Mini</a><br>Uwell Caliburn G3 Lite KOKO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-pro-koko-35w-pod-system" title="Uwell g3 pro koko">Uwell Caliburn G3 Pro KOKO</a><br>Uwell Caliburn G4 Pro KOKO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-pro-35w-pod-system" title="Uwell caliburn g3 pro">Uwell Caliburn G3 Pro</a><br>Uwell Caliburn G3<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-gk3-pod-system" title="Uwell caliburn gk3">Uwell Caliburn GK3</a><br>Uwell Caliburn GK3 Tenet<br>Uwell Caliburn G3 ECO<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-lite-25w-pod-system" title="Uwell caliburn g3 lite">Uwell Caliburn G3 Lite</a></p>
+<p>Uwell Caliburn GPP Replacement Pods Features:</p>
+<ul>
+<li>RESISTANCE RANGE: 0.4ohm | 0.6ohm | 0.9ohm | 1.2ohm</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side Fill</li>
+<li>COIL INSTALLATION: Integrated Coil</li>
+<li style="font-style: italic;"><em>Comes in a pack of three (3)</em></li>
+<li>Compatible with Caliburn G3/G4</li>
+<li>Cross-Compatible with G3 Pods</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn GPP Replacement Pods</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>0.4ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 0.4 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>0.6ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 0.6 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>0.9ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 0.9 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341416054839</id>
+      <title>1.2ohm GPP Pods</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali GPP Replace Pods - 1.2 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341415792695</id>
+    <published>2025-09-15T06:14:38+05:30</published>
+    <updated>2025-09-15T06:14:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-pro-35w-pod-system"/>
+    <title>Uwell Caliburn G3 Pro 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g3_pro_pod_system_-_screen.webp?v=1757897079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Uwell Caliburn G3 Pro 35W Pod System, featuring a dynamic full-screen display, 3mL magnetic pods, adjustable airflow, 35W MAX output, and Pro-FOCS Flavor Tech for an unparalleled vaping experience.</p>
+<p>Quick Links:<br><a title="Caliburn G3 Replacement Pods" href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods">Caliburn G3 Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Uwell caliburn gpp pods">Uwell Caliburn GPP Pods</a></p>
+<p>Experience the perfect blend of precision, performance, and style with the Uwell Caliburn G3 Pro 35W Pod System, featuring a full screen display with dynamic UI, a first for the Caliburn product line. Crafted from durable zinc-alloy, this sleek device offers a max wattage of 35W and supports a resistance range of 0.4-0.9ohm. Its integrated rechargeable battery and USB Type-C charging ensure reliable power, while the 3mL magnetic pods with side-fill system and adjustable airflow switch provide convenience and customization. Featuring Pro-FOCS Flavor Tech for exceptional flavor and a clearview juice window for easy e-liquid monitoring, the kit includes two Caliburn G3 pods (0.4ohm and 0.9ohm) for versatile vaping. The Uwell Caliburn G3 Pro is the ultimate pod system for vapers seeking both functionality and aesthetics.</p>
+<p>Uwell <a title="Caliburn Vape" href="https://[YOUR DOMAIN]/collections/uwell">Caliburn Vape</a> G3 Pro 35W Pod System Features:</p>
+<ul>
+<li>DIMENSIONS: 123.5mm x 27.8mm x 16.8mm</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: MAX 35W</li>
+<li>RESISTANCE RANGE: 0.4-0.9ohm</li>
+<li>CHASSIS MATERIAL: Zinc-Alloy</li>
+<li>CHARGING: USB Type-C</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>AIRFLOW: Adjustable Switch</li>
+<li>Pro-FOCS Flavor Tech</li>
+<li>Clearview Juice Window</li>
+<li>POD SUPPORT: Caliburn G3 Series</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G3 Pro 35W Pod System</li>
+<li>1 0.4ohm Caliburn G3 Pod</li>
+<li>1 0.9ohm Caliburn G3 Pod</li>
+<li>1 USB Type-C Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341415792695</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5400.00</s:price>
+      <s:sku>U Cali G3 Pro Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341175308343</id>
+    <published>2025-09-13T05:26:47+05:30</published>
+    <updated>2025-09-13T05:26:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-az3-pod-kit"/>
+    <title>Uwell Caliburn AZ3 Pod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/caliburn-az3-kit-min.jpg?v=1757721409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn AZ3 vape kit is a pocket-friendly pod that’s ideal for on-the-go vaping and is designed with ease of use in mind. It’s powered by a built-in 750mAh battery and delivers up to 17W of power. The AZ3 is an ideal option for beginners or more experienced vapers who are simply looking for a discreet vape. Each kit comes complete with two refillable Caliburn A3 pods to help you get started.</p>
+<p><strong>Features:</strong><br></p>
+<ul>
+<li>Compact Refillable Pod Kit</li>
+<li>750mAh Battery</li>
+<li>USB-C Fast Charging</li>
+<li>Inhale Activated</li>
+<li>MTL Vaping</li>
+<li>2ml Refillable Pods</li>
+<li>Built-In Mesh Coils</li>
+</ul>
+<p>Thanks to inhale activation, there’s no need to deal with any buttons or menus, instead, you can just puff on the mouthpiece. Your device will then create a small amount of vapour for an MTL (Mouth To Lung) vape that feels like a cigarette. The built-in chipset recognises which pod you’ve selected and will automatically adjust the wattage, this means no guesswork and the perfect power level every time.</p>
+<p>The Caliburn A3 pods can each hold up to 2ml of your favourite e-liquid and refilling them is very easy – take off the mouthpiece to reveal the filling port, you don’t even have to remove the pod from your kit. The built-in mesh coils will heat up your e-liquid faster for improved flavour and you won’t need to worry about messy coil changes either, as you can just replace the entire pod instead. We suggest pairing the pods with 50/50 e-liquid or higher PG options.</p>
+<p>Please note: The Uwell Caliburn AZ3 kit does not include a USB-C charging cable, but you can buy a USB-C Cable separately.</p>
+<p><strong>Contains:</strong><br></p>
+<ul>
+<li>Uwell Caliburn AZ3 Device</li>
+<li>
+<a title="Uwell Caliburn A3 Replacement Pods" href="https://www.[YOUR DOMAIN]/products/uwell-caliburn-a3-replacement-pods">0.8 Ohm Caliburn A3 Refillable Pod</a> (Pre-Installed)</li>
+<li>1.0 Ohm Caliburn A3 Refillable Pod (Spare)</li>
+<li>User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341175308343</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4550.00</s:price>
+      <s:sku>U Cali AZ3 Pod Kit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315796197431</id>
+    <published>2025-07-14T22:32:03+05:30</published>
+    <updated>2025-07-14T22:32:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/caliburn-explorer-replacement-pods"/>
+    <title>Caliburn Explorer Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell-caliburn-explorer-replacement-pod-min.jpg?v=1752512527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn Explorer pods are designed for use with the Caliburn Explorer kit only. Featuring a unique split-pod design, these pods can hold two different e-liquids and coils at once, which can be vaped separately or together. Compatible with Caliburn G &amp; G2 coils, these pods will deliver your choice of MTL (Mouth To Lung) or RDTL (Restricted Direct To Lung) inhale.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Refillable Pods For Caliburn Explorer<br>
+</li>
+<li>2ml E-Liquid Capacity – 1ml Per Side<br>
+</li>
+<li>Side-Filling Design<br>
+</li>
+<li>
+<a href="https://[YOUR DOMAIN]/collections/uwell" title="Uwell Kenya">Compatible With Caliburn G &amp; G2 Coils</a><br>
+</li>
+<li>Suited To 50/50 And High PG E-Liquids</li>
+</ul>
+<p>Each half of a Caliburn Explorer pod requires its own coil and e-liquid. This allows you to swap between two different flavours and coil resistances, or even vape both at once. To refill, simply open up the rubber stoppers on each side of the pod. The compatible coils from the Caliburn G and G2 series (sold separately) work best when paired with 50% VG or high PG e-liquid.</p>
+<p><strong>Contains:</strong></p>
+<ul>
+<li>2 x Caliburn Explorer Pods</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315796197431</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali Explorer Replace Pods</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315793018935</id>
+    <published>2025-07-14T22:19:11+05:30</published>
+    <updated>2025-07-14T22:19:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/caliburn-a3s-pods"/>
+    <title>Caliburn A3S Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell-caliburn-a3s-replacement-pod-min_e7e1acd5-cb3d-4e8a-917c-80889a5670ec.jpg?v=1752511754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience enhanced vaping convenience with the Uwell Caliburn A3S Replacement Pods. Each pod boasts a 2mL refillable capacity, allowing you to enjoy your favorite eJuices without frequent refills. Crafted from durable PCTG material, these pods are built to last. The user-friendly side fill system makes refilling a breeze. These pods come with integrated 0.8ohm or 1.0ohm coils for exceptional flavor delivery. Thanks to the magnetic connection, swapping out these pods is quick and hassle-free.</p>
+<p>Features:</p>
+<ul>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Construction: PCTG<br>
+</li>
+<li>Fill-System: Side Fill System<br>
+</li>
+<li>Coil Support: Integrated Coil<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Comes in a pack of four (4)</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315793018935</id>
+      <title>0.8 OHM MESHED</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali A3S Replace Pods - 0.8 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315793018935</id>
+      <title>1.0 OHM MESHED</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>Cali A3S Replace Pods - 1.0 ohm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315791216695</id>
+    <published>2025-07-14T22:12:58+05:30</published>
+    <updated>2025-07-14T22:12:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-pod-system"/>
+    <title>Uwell Caliburn G Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g_packaging.png?v=1752511386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the new Uwell CALIBURN G 15W Pod System, featuring a 690mAh battery, adjustable airflow system, and holds up to 2mL of eJuice or nicotine salts. Constructed from durable zinc-alloy, the chassis of the Caliburn G is resistant to light falls and drops. Encasing a long-lasting integrated 690mAh battery, the CALIBURN G can deliver an all-day vape, outputting up to 18W of power. At the top is a magnetically attached 2mL refillable pod equipped with a leakproof top fill system, accommodating either nicotine salts or freebase eJuice. Operating off a dual firing system, the Uwell Caliburn G can fire using the single intuitive firing button or a useful draw-activated firing system, offering users more flexibility. In addition, the quick charge bottom Type-C USB Port will reduce the time spent charging, for plenty of full bodied vapor and flavor.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0480/2061/9416/files/Uwell_Caliburn_G_Infographic.jpg?v=1633045207" alt="uwell caliburn g pod system infographic" data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Uwell CALIBURN G 18W Pod System Features:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Dimensions - 108.3mm by 22.5mm by 12.6mm</li>
+<li>Integrated 690mAh Rechargeable Battery</li>
+<li>Max. Wattage Output: 18W</li>
+<li>2 Different Airflow - MTL &amp; DTL</li>
+<li>Zinc-Alloy Chassis Construction</li>
+<li>Intuitive Firing Button - Dual Firing System</li>
+<li>Draw-Activated Firing Mechanism</li>
+<li>2mL Pod Capacity</li>
+<li>Top Fill System - Mouthpiece Fill Cap</li>
+<li>Uwell Caliburn G Coil Series</li>
+<li>0.8ohm UN2-Meshed-H Coil</li>
+<li>Press Fit Coil Installation</li>
+<li>Magnetic Pod Connection</li>
+<li>Type-C Port</li>
+<li>Available in Rosy Brown, Green, Grey, Red, Black, Blue</li>
+</ul>
+<p><strong>Includes:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>1 Uwell Caliburn G Kit</li>
+<li>1 Uwell Caliburn Pod Cartridge</li>
+<li>2 0.8ohm UN2-Meshed-H Coil</li>
+<li>1 USB Type-C Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315791216695</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3300.00</s:price>
+      <s:sku>U Cali G Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284129071159</id>
+    <published>2025-05-22T05:43:54+05:30</published>
+    <updated>2025-05-22T05:43:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-empty-cartridge"/>
+    <title>Uwell Caliburn G2 Empty Pod (2 pcs)</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g_pods_-_packaging_dc778e9c-783e-4510-8c87-b48895a5547e.png?v=1747872836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the <a href="https://[YOUR DOMAIN]/collections/uwell" title="uwell caliburn">Uwell Caliburn</a> G Replacement Pods, a leakproof 2mL capacity refillable pod, delivering delicious flavor and vapor from your favorite eJuice.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-pod-system" title="Uwell Caliburn G Pod System">Uwell Caliburn G 15W Pod System</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Buy Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p><strong>Uwell CALIBURN G Replacement Pods Features:</strong><br></p>
+<ul>
+<li>Uwell Caliburn G Pod Series</li>
+<li>2mL Pod Capacity</li>
+<li>Top Fill System - Mouthpiece Fill Cap</li>
+<li>Uwell Caliburn G Coil Series</li>
+<li>1.0ohm Caliburn G Coil</li>
+<li>Press Fit Coil Installation</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284129071159</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>U Cali G2 Empty Pod (2 pcs)</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284128972855</id>
+    <published>2025-05-22T05:43:48+05:30</published>
+    <updated>2025-05-22T05:43:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a2-replacement-pods"/>
+    <title>Uwell Caliburn A2 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_-_caliburn_a2_-_refillable_pods_-_accessories_-_box-min.png?v=1747872833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn A2 Replacement Pods, featuring a 2mL pod capacity, 0.9ohm meshed coil, and is equipped Pro FOCS technology.<br><br><strong>Uwell Caliburn A2 Replacement Pods Features:</strong><br></p>
+<ul>
+<li>
+<a href="https://[YOUR DOMAIN]/collections/replacement-pods" title="Caliburn pod">Uwell Caliburn Pod</a> Series</li>
+<li>2mL Pod Capacity</li>
+<li>Top Fill System</li>
+<li>0.9ohm UN2 Meshed Coil Pod</li>
+<li>Pro-FOCS Technology</li>
+<li>Magnetic Pod Connection</li>
+</ul>
+<p>Make sure to properly prime each coils and pods before use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128972855</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1600.00</s:price>
+      <s:sku>U Cali A2 Replace Pods</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284128874551</id>
+    <published>2025-05-22T05:43:42+05:30</published>
+    <updated>2025-05-22T05:43:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a3-replacement-pods"/>
+    <title>Uwell Caliburn A3 Replacement Pods</title>
+    <s:type>Pods</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_-_caliburn_a3_refillable_pod_-_accessories_-_packaging.png?v=1747872827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pods<br>
+        <strong>Price: </strong>
+            1850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the <a title="Caliburn vape" href="https://[YOUR DOMAIN]/collections/uwell">CALIBURN vape </a>A3 Pods (2-Pack), featuring 2mL capacity, magnetic pod connection, and a top-fill system with a removeable mouthpiece.</p>
+<p><strong>Quick Link:</strong><br><a title="Uwell Caliburn A3 Pod System" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a3-15w-pod-system">Uwell CALIBURN A3 Pod System</a></p>
+<p><strong>Uwell CALIBURN A3 Replacement Pods Features:</strong><br></p>
+<ul>
+<li>Pod Capacity: 2mL</li>
+<li>Construction: PCTG</li>
+<li>Fill-System: Top-Fill - Removeable Mouthpiece</li>
+<li>Pod Connection: Magnetic</li>
+</ul>
+<p><strong>Includes:</strong><br></p>
+<ul>
+<li>2 Uwell CALIBURN A3 Pods</li>
+</ul>
+<p><strong>Available Options:</strong><br></p>
+<ul>
+<li>1.0ohm CALIBURN A3 Pods (2-Pack)</li>
+<li>0.8ohm CALIBURN A3 Pods (2-Pack)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128874551</id>
+      <title>1.0ohm</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>U Cali A3 Replace Pods - 1.0 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128874551</id>
+      <title>0.8ohm</title>
+      <s:price currency="KES">1850.00</s:price>
+      <s:sku>U Cali A3 Replace Pods - 0.8 ohm</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

@@ -1,0 +1,1357 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vape-liquid.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-11-18T09:25:30+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373717536823</id>
+    <published>2025-11-18T09:25:30+05:30</published>
+    <updated>2025-11-18T09:25:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-red-apple-ice"/>
+    <title>Pod Salt Freebase - Red Apple Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-red-apple-ice.webp?v=1763437944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Core Freebase Red Apple Ice offers a delightfully classic and fresh vaping experience, with crisp red apples delivering signature sweetness in every puff. Enhanced by a cooling ice breeze, this blend is perfected with our award-winning freebase, providing a smooth and satisfying finish. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures leak-free refilling and a smooth, flavorful vape with every puff.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Red Apple with a Cool Breeze</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Cooling Effect: Light menthol icy finish<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717536823</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Red Apple Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717536823</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Red Apple Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373717241911</id>
+    <published>2025-11-18T09:20:52+05:30</published>
+    <updated>2025-11-18T09:20:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-blue-razapple-ice"/>
+    <title>Pod Salt Freebase - Blue Razapple Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-blue-raz-apple-ice.webp?v=1763437629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Razzapple Ice freebase vape juice is the cool take on the classic ice slushy flavour. Blending a sweet mix of juicy berries and Red’s famous, crisp apples, with refreshing ice. Blended with our award-winning Nicotine Salts for a truly satisfying vape and the smoothest experience available. Available in 3mg and 6mg nicotine strengths, it ensures a satisfying throat hit in a durable Gorilla bottle for all-day vaping enjoyment.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Berries &amp; Red Apples with Ice</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Rich flavor with a smooth throat hit<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717241911</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Blue Razapple Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717241911</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Blue Razapple Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373717012535</id>
+    <published>2025-11-18T09:14:27+05:30</published>
+    <updated>2025-11-18T09:14:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-cuban-creme"/>
+    <title>Pod Salt Freebase - Cuban Creme</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-cuban-creme.webp?v=1763437347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Cuban Creme 60ml is a premium blend that captures the bold essence of Cuban tobacco infused with a velvety cream finish. Designed for vapers who crave a smooth yet robust tobacco profile, this e-liquid delivers deep flavor and satisfying nicotine hits. Available in 3mg and 6mg, it comes in a Gorilla bottle, ensuring freshness and long-lasting performance.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Cuban Tobacco with Creamy Notes</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Strong flavor, smooth throat hit</li>
+<li>Experience: Rich, creamy, and satisfying tobacco blend</li>
+<li>Ideal For: Tobacco lovers looking for a premium creamy twist</li>
+<li>Aroma: Warm, smooth, and full-bodied</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717012535</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Cuban Creme - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717012535</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Cuban Creme - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373716750391</id>
+    <published>2025-11-18T09:11:23+05:30</published>
+    <updated>2025-11-18T09:11:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-coffee"/>
+    <title>Pod Salt Freebase - Coffee</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-coffee.webp?v=1763437239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Coffee 60ml captures the authentic taste of rich, roasted coffee beans for an invigorating vape experience. Designed for coffee enthusiasts, this smooth freebase e-liquid delivers deep flavor with a satisfying throat hit. Available in 3mg and 6mg nicotine strengths, it provides consistent vapor production and an aromatic finish in a high-quality Gorilla bottle.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Freshly Brewed Coffee</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Intense flavor with smooth inhale</li>
+<li>Aroma: Strong coffee essence</li>
+<li>Experience: Perfect for coffee lovers seeking rich flavor satisfaction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716750391</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Coffee - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716750391</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Coffee - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373716521015</id>
+    <published>2025-11-18T09:09:37+05:30</published>
+    <updated>2025-11-18T09:09:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-caramel-tobacco"/>
+    <title>Pod Salt Freebase - Caramel Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-caramel-tobacco.webp?v=1763437134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the indulgent taste of Pod Salt Freebase Caramel Tobacco. This premium 60ml e-liquid combines the rich, earthy notes of classic tobacco with a silky caramel finish. Available in 3mg and 6mg nicotine strengths, it provides a smooth inhale and satisfying exhale, making it ideal for both transitioning smokers and dessert-tobacco flavor enthusiasts.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Classic Tobacco with Sweet Caramel</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg Available</li>
+<li>Freebase Formula: Strong flavor &amp; smooth inhale</li>
+<li>Taste Experience: Tobacco richness with creamy caramel sweetness</li>
+<li>Premium Quality: Consistent and satisfying hit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716521015</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Caramel Tobacco - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716521015</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Caramel Tobacco - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715996727</id>
+    <published>2025-11-18T09:07:43+05:30</published>
+    <updated>2025-11-18T09:07:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-virginia-tobacco"/>
+    <title>Pod Salt Freebase - Virginia Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-virginia-tobacco.webp?v=1763436983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the authentic and refined taste of traditional Virginia tobacco with Pod Salt Freebase Virginia Tobacco. This premium 60ml e-liquid offers earthy, slightly sweet tobacco notes with a smooth exhale. Available in 3mg and 6mg nicotine strengths, it delivers a satisfying throat hit and consistent flavor, packaged in a leak-proof Gorilla bottle for easy refilling.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Classic Virginia Tobacco with earthy sweetness</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg available</li>
+<li>Freebase Formula: Smooth throat hit with rich vapor production</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715996727</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Virginia Tobacco - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715996727</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Virginia Tobacco - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715865655</id>
+    <published>2025-11-18T09:05:37+05:30</published>
+    <updated>2025-11-18T09:05:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-smooth-tobacco"/>
+    <title>Pod Salt Freebase - Smooth Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-smooth-tobacco.webp?v=1763436877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Smooth Tobacco delivers the classic taste of premium tobacco with a smooth, mellow finish for an authentic vaping experience. This 60ml e-liquid is available in 3mg and 6mg nicotine strengths, perfectly crafted for those who enjoy a rich tobacco flavor without harshness. Packaged in a Gorilla bottle, it ensures easy refilling and consistent performance.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Smooth and Rich Tobacco</li>
+<li>Bottle Size: 60ml Gorilla Bottle (leak-proof design)</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Designed for realistic tobacco satisfaction</li>
+<li>Vaping Style: Ideal for DTL and restricted DTL vaping</li>
+<li>Premium Quality: Authentic taste, perfect for smokers switching to vaping</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715865655</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Smooth Tobacco - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715865655</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Smooth Tobacco - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715734583</id>
+    <published>2025-11-18T09:03:16+05:30</published>
+    <updated>2025-11-18T09:03:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-watermelon-breeze"/>
+    <title>Pod Salt Freebase - Watermelon Breeze</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-watermelon-breeze.webp?v=1763436729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the crisp and juicy taste of ripe watermelon with a cool menthol twist in Pod Salt Freebase Watermelon Breeze. This refreshing 60ml e-liquid offers a perfect balance of fruity sweetness and breezy coolness. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures leak-free refilling and a smooth, flavorful vape with every puff.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Sweet Watermelon with a Cool Breeze</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Cooling Effect: Light menthol icy finish</li>
+<li>Freebase Formula: Ideal for rich flavor and dense clouds</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715734583</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Watermelon Breeze - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715734583</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Watermelon Breeze - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715537975</id>
+    <published>2025-11-18T09:00:59+05:30</published>
+    <updated>2025-11-18T09:00:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-spearmint"/>
+    <title>Pod Salt Freebase - Spearmint</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-spearmint.webp?v=1763436560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the perfect balance of freshness and smoothness with Pod Salt Freebase Spearmint. This premium 60ml e-liquid delivers a clean, minty flavor that refreshes your senses with every puff. Available in 3mg and 6mg nicotine strengths, it provides a silky inhale and cool exhale. The Gorilla bottle ensures easy handling and a leak-proof vaping experience.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Refreshing Spearmint</li>
+<li>Bottle Size: 60ml Gorilla Bottle (leak-resistant)</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg options</li>
+<li>Freebase Formula: Smooth throat hit with rich vapor<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715537975</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Spearmint - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715537975</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Spearmint - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373714718775</id>
+    <published>2025-11-18T08:58:24+05:30</published>
+    <updated>2025-11-18T08:58:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-grape"/>
+    <title>Pod Salt Freebase - Grape</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-grape.webp?v=1763436416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the bold, juicy taste of ripe grapes with Pod Salt Freebase Grape. This premium 60ml e-liquid offers a naturally sweet grape flavor with smooth throat hit and dense vapor production. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures easy refilling and a mess-free vaping experience, perfect for everyday use.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Sweet and juicy grape</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Designed for rich flavor and cloud production</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714718775</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Grape - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714718775</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Grape - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373714620471</id>
+    <published>2025-11-18T08:55:45+05:30</published>
+    <updated>2025-11-18T08:55:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-strawberry-kiwi-ice"/>
+    <title>Pod Salt Freebase - Strawberry Kiwi Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-strawberry-kiwi-ice.webp?v=1763436285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the refreshing blend of ripe strawberries and tangy kiwi with Pod Salt Freebase Strawberry Kiwi Ice. This 60ml e-liquid delivers a fruity burst followed by a cool icy exhale, perfect for vapers who enjoy balanced sweetness with menthol freshness. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures easy refilling and leak-free vaping for all-day enjoyment.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Strawberry &amp; Kiwi with Ice</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Perfect for cloud production and smooth hit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714620471</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Strawberry Kiwi Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714620471</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Strawberry Kiwi Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373712130103</id>
+    <published>2025-11-18T08:52:02+05:30</published>
+    <updated>2025-11-18T08:52:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-mango-ice"/>
+    <title>Pod Salt Freebase - Mango Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-mango-ice.webp?v=1763436015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Mango Ice Cream 60ml offers a luxurious blend of juicy mangoes and creamy ice cream with a refreshing icy twist. This premium freebase e-liquid delivers smooth vapor, rich dessert flavor, and a cool finish. Available in 3mg and 6mg nicotine strengths, it ensures a satisfying throat hit in a durable Gorilla bottle for all-day vaping enjoyment.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Tropical Mango with Creamy Ice Cream &amp; Ice</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Rich flavor with a smooth throat hit</li>
+<li>Experience: Dessert-style vape with icy refreshment</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373712130103</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Mango Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373712130103</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Mango Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+    <published>2025-11-03T23:25:25+05:30</published>
+    <updated>2025-11-03T23:25:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-sweet-fusion"/>
+    <title>Dinner Lady E Liquid - Sweet Fusion</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-e-liquid-sweet-fusion.webp?v=1762192443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Fusion Ice e-liquid by Dinner Lady is a complex candy blend with underlying fruity notes. Mixed to taste like the classic tutti frutti candy, it has sweet and sharp notes.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+    <published>2025-10-08T03:42:32+05:30</published>
+    <updated>2025-10-08T03:42:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-bubble-trouble"/>
+    <title>Dinner Lady E Liquid - Bubble Trouble Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-eliquid-bubble-trouble-min.jpg?v=1759875154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This delightful blend captures the essence of classic bubblegum flavor, offering a sweet and fruity taste that's both familiar and exciting. As you exhale, the flavor intensifies, leaving a lingering bubblegum taste on your palate. Bubble Trouble is perfect for vapers who enjoy fun and flavorful e-liquids that evoke memories of carefree days.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Trouble Ice - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Trouble Ice - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Trouble Ice - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+    <published>2025-10-08T03:42:31+05:30</published>
+    <updated>2025-10-08T03:42:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-grape-star"/>
+    <title>Dinner Lady E Liquid - Grape Star</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-eliquid-grape-star-min.jpg?v=1759875153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Grape Star <a href="https://www.[YOUR DOMAIN]/collections/vape-liquid" title="Vape liquid">vape liquid </a>is a delightful blend that captures the essence of plump, juicy grapes freshly picked from the vineyard. The addition of a subtle hint of candy adds a playful sweetness to the overall flavor profile, making Grape Star a truly irresistible choice for grape enthusiasts.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Grape Star - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Grape Star - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Grape Star - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+    <published>2025-10-08T03:42:30+05:30</published>
+    <updated>2025-10-08T03:42:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-purple-rain"/>
+    <title>Dinner Lady E Liquid - Purple Rain</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-e-liquid-purple-rain.jpg?v=1759875152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple Rain shortfill e-liquid by Dinner Lady never meant to cause you any sorrow, with a fusion of rich, dark flavours. A tangy blueberry is complemented by a sweet raspberry and zesty lemon on exhale for a balanced vape.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Purple Rain - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Purple Rain - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Purple Rain - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+    <published>2025-10-08T03:42:30+05:30</published>
+    <updated>2025-10-08T03:42:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-flip-flop-lychee"/>
+    <title>Dinner Lady E Liquid - Flip Flop Lychee Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-vape-liquid-flip-flop-lychee.jpg?v=1759875152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Flip Flop Lychee e-liquid by Summer Holidays features a combination of sweet and tart notes throughout. A delicate lychee flavour gets things started, countered on exhale by a combination of citrus and ice for a sharp endnote.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Flip Flop Lychee Ice - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady -  Flip Flop Lychee Ice - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady -  Flip Flop Lychee Ice - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+    <published>2025-10-08T03:42:29+05:30</published>
+    <updated>2025-10-08T03:42:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-berry-blast"/>
+    <title>Dinner Lady E Liquid - Berry Blast</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-berry-blast-e-liquid.jpg?v=1759875151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Try out Berry Blast by <a href="https://www.[YOUR DOMAIN]/" title="Vape">Vape </a>Dinner Lady, capturing a sweet blend of tangy raspberries accented with a splash of cherry juice for a decadent vape juice.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Berry Blast - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Berry Blast - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Berry Blast - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+    <published>2025-10-08T03:42:28+05:30</published>
+    <updated>2025-10-08T03:42:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-pink-berry"/>
+    <title>Dinner Lady E Liquid - Pink Berry</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pinkberry_-_vape_dinner_lady_e-liquid_-_60ml_bottle.jpg?v=1759875150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the flavors of Pinkberry by Vape Dinner Lady <a href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" title="E-liquid">E-Liquid</a>, presenting a sweet citrus blend enhanced with the tangy overtone of mixed berries to create a delectable eJuice that will dazzle the senses.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Pink Berry - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Pink Berry - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Pink Berry - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+    <published>2025-10-08T03:42:27+05:30</published>
+    <updated>2025-10-08T03:42:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-strawberry-bikini"/>
+    <title>Dinner Lady E Liquid - Strawberry Bikini</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Strawberry-Bikini-Ice-by-Dinner-Lady.jpg?v=1759875150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberries smashed with ice and dropped into a cloudy lemonade, bursting at the seams with sharp lemony goodness</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Strawberry Bikini - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Strawberry Bikini - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Strawberry Bikini - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+    <published>2025-10-08T03:42:27+05:30</published>
+    <updated>2025-10-08T03:42:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-apple-sours"/>
+    <title>Dinner Lady E Liquid - Apple Sours</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Apple-Sours-Ice.jpg?v=1759875149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sour blend of apples with icy cool koolada for a fresh intake. Dinner Lady Apple Sours Ice contains 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Apple Sours - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Apple Sours - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Apple Sours - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+    <published>2025-10-08T03:42:26+05:30</published>
+    <updated>2025-10-08T03:42:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-razz-blues"/>
+    <title>Dinner Lady Ice Moments E Liquid - Razz Blues</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-longfill-razz-blues-ice-aroma.png?v=1759875148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dinner Lady’s Razz Blues combines bursts of mixed blueberries, ripened raspberries and ice to create what we would call a ‘perfect berry vape’ flavour. T</span>his Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady vape juices" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady vape juices</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Ice Moments - Razz Blues - 0mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Ice Moments - Razz Blues - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Ice Moments - Razz Blues - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+    <published>2025-10-08T03:42:25+05:30</published>
+    <updated>2025-10-08T03:42:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-blue-mint"/>
+    <title>Dinner Lady Ice Moments E Liquid - Bubble Mint</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-moments-aroma-bubble-mint-ice.jpg?v=1759875147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bubble Mint e-liquid by Dinner Lady is a classic candy shop flavour that pairs a sugary bubblegum base note with a burst of fresh-tasting mint for an all-day vape. T</span>his Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady juices" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady juices</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Mint - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Mint - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Mint - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+    <published>2025-10-08T03:42:24+05:30</published>
+    <updated>2025-10-08T03:42:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-peach-bubble"/>
+    <title>Dinner Lady Ice Moments E Liquid - Peach Bubble</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-longfill-peach-bubble-ice-aroma.png?v=1759875147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dinner Lady’s Peach Bubble combines ripe peaches fused with a taste of sweet bubble gum and ice. T</span>his Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady juices" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady juices</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Bubble - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Bubble - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Bubble - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+    <published>2025-10-08T03:42:24+05:30</published>
+    <updated>2025-10-08T03:42:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-fruit-splash"/>
+    <title>Dinner Lady Ice Moments E Liquid - Fruit Splash</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-longfill-fruit-splash-ice-aroma.png?v=1759875146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinner Lady’s Fruit Splash combines a mixed medley of summer fruits; mainly vocalised by notes of currants, mixed berries, and citric notes with ice, this Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady liquids" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady liquids</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Fruit Splash - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Fruit Splash - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Fruit Splash - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

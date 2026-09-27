@@ -1,0 +1,1133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-02-18T06:18:02+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417213354039</id>
+    <published>2026-02-18T06:18:02+05:30</published>
+    <updated>2026-02-18T06:18:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pablo-passion-fruit-15mg"/>
+    <title>Pablo - Passion Fruit 50 Mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Pablo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pablo-passionfruit-nicotine-pouches.webp?v=1771374258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pablo Passionfruit nicotine pouches combines the extremely strong 50mg/g (30mg per pouch) hit with a sweet-tart passionfruit flavour. Fruity, vibrant and refreshing — perfect for tropical flavour lovers.</p>
+<p>Why Choose Pablo Passionfruit?</p>
+<ul>
+<li>Flavour: Sweet, tangy passionfruit.<br>
+</li>
+<li>Nicotine Strength: 50mg/g ultra-strong.<br>
+</li>
+<li>Slim &amp; Discreet: All-white and comfortable.<br>
+</li>
+<li>Long-Lasting Enjoyment: Up to 30 minutes.<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417213354039</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>Pablo - Passion Fruit 15mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417212960823</id>
+    <published>2026-02-18T05:53:09+05:30</published>
+    <updated>2026-02-18T05:53:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/white-fox-black-edition-15mg"/>
+    <title>White Fox - Black Edition 15mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>White Fox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/gn-tobacco-black-edition-white-fox-nicotine-pouches.webp?v=1771374019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>White Fox<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Fox Black Edition is produced by GN Tobacco and represents the most refined and premium expression within the White Fox range. Designed for users who want a sharper mint flavour and a more pronounced nicotine experience, this all-white pouch balances strength with a clean, polished delivery.</p>
+<p>Why Choose White Fox?</p>
+<ul>
+<li>Double-layered mint flavour profile.<br>
+</li>
+<li>15mg nicotine per pouch<br>
+</li>
+<li>Slim all-white pouch format.<br>
+</li>
+<li>Tobacco-free and stain-free use.<br>
+</li>
+<li>Smooth, balanced nicotine delivery.<br>
+</li>
+<li>Fast Kenya dispatch from vapekenya</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417212960823</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1100.00</s:price>
+      <s:sku>White Fox - Black Edition 15mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417212665911</id>
+    <published>2026-02-18T05:47:37+05:30</published>
+    <updated>2026-02-18T05:47:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/white-fox-peppered-mint-15mg"/>
+    <title>White Fox - Peppered Mint 15mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>White Fox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/peppered-mint-white-fox-nicotine-pouches.webp?v=1771373718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>White Fox<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Fox Peppered Mint brings together cooling peppermint and a touch of black pepper spice, giving this pouch a unique edge. At 15mg per pouch, it offers a satisfying balance of strength and flavour in a slim, tobacco-free format.</p>
+<p>Why Choose White Fox Double Mint?</p>
+<ul>
+<li>Double-layered mint flavour profile.<br>
+</li>
+<li>15mg nicotine per pouch<br>
+</li>
+<li>Slim all-white pouch format.<br>
+</li>
+<li>Tobacco-free and stain-free use.<br>
+</li>
+<li>Smooth, balanced nicotine delivery.<br>
+</li>
+<li>Fast Kenya dispatch from vapekenya</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417212665911</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>White Fox - Peppered Mint 15mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417210994743</id>
+    <published>2026-02-18T05:43:35+05:30</published>
+    <updated>2026-02-18T05:43:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/white-fox-double-mint-15mg"/>
+    <title>White Fox - Double Mint 15mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>White Fox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/double-mint-white-fox-nicotine-pouches.webp?v=1771372982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>White Fox<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Fox Double Mint nicotine pouches are produced by GN Tobacco and offer a sharper, more layered mint experience compared to the Original. This tobacco-free, all-white pouch delivers a clean double-mint flavour with a controlled 15mg nicotine release.</p>
+<p>Why Choose White Fox Double Mint?</p>
+<ul>
+<li>Double-layered mint flavour profile.<br>
+</li>
+<li>15mg nicotine per pouch<br>
+</li>
+<li>Slim all-white pouch format.<br>
+</li>
+<li>Tobacco-free and stain-free use.<br>
+</li>
+<li>Smooth, balanced nicotine delivery.<br>
+</li>
+<li>Fast Kenya dispatch from vapekenya</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417210994743</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>White Fox - Double Mint 15mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416620941367</id>
+    <published>2026-02-16T00:22:19+05:30</published>
+    <updated>2026-02-16T00:22:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-ice-mango-3mg"/>
+    <title>VITO - Ice Mango 3mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-Ice-mango.webp?v=1771181426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Escape to a tropical paradise with VITO Ice Mango nicotine pouches — a luscious sweet mango flavor kissed by a crisp cooling sensation. A smooth, exotic nicotine experience anytime, anywhere.</p>
+<p>Features:</p>
+<ul>
+<li>3mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Sweet tropical mango flavor with ice-cool freshness<br>
+</li>
+<li class="" data-end="2849" data-start="2825">
+<p class="" data-end="2849" data-start="2827">20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416620941367</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Ice Mango 3mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416618942519</id>
+    <published>2026-02-16T00:19:51+05:30</published>
+    <updated>2026-02-16T00:19:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-green-apple-3mg"/>
+    <title>VITO - Green Apple 3mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-Green-apple-3mg.webp?v=1771181385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delight your senses with the tangy, crisp taste of green apple combined with a subtle refreshing finish. VITO Green Apple nicotine pouches 3mg offer a vibrant, juicy flavor, crafted to deliver a smooth, tobacco-free nicotine experience anytime, anywhere.</p>
+<p>Features:</p>
+<ul>
+<li>3mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Tart, juicy green apple flavor<br>
+</li>
+<li class="" data-end="2849" data-start="2825">
+<p class="" data-end="2849" data-start="2827">20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416618942519</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Green Apple 3mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416617140279</id>
+    <published>2026-02-16T00:11:07+05:30</published>
+    <updated>2026-02-16T00:11:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-polar-mint-3mg"/>
+    <title>VITO - Polar Mint 3mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-Polar-mint.webp?v=1771180647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dive into an arctic chill with VITO Polar Mint nicotine pouches— an extra-fresh mint experience designed for those who love bold, exhilarating flavors.<br></p>
+<p>Features:</p>
+<ul>
+<li>3mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Ultra-cool polar mint flavor</li>
+<li class="" data-end="2849" data-start="2825">
+<p class="" data-end="2849" data-start="2827">20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416617140279</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Polar Mint 3mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416616583223</id>
+    <published>2026-02-15T23:57:20+05:30</published>
+    <updated>2026-02-15T23:57:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-ice-cool-6mg"/>
+    <title>VITO - Ice Cool 6mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-ice-cool-6mg.webp?v=1771179903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feel the rush of pure coolness with VITO Ice Cool — a crystal-clear icy mint experience designed to refresh and revive you with every pouch. Shop now with doorstep delivery in Kenya with Kenya's most trusted <a href="https://[YOUR DOMAIN]/" title="Vape store">vape store</a> - vapekenya!</p>
+<p>Features:</p>
+<ul>
+<li>6mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Clean, icy mint flavour</li>
+<li data-start="2825" data-end="2849" class="">
+<p data-start="2827" data-end="2849" class="">20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416616583223</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Ice Cool 6mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416616484919</id>
+    <published>2026-02-15T23:53:21+05:30</published>
+    <updated>2026-02-15T23:53:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-ice-cool-10mg"/>
+    <title>VITO - Ice Cool 10mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-ice-cool-10mg.webp?v=1771179591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feel the rush of pure coolness with VITO Ice Cool — a crystal-clear icy mint experience designed to refresh and revive you with every pouch. Shop now with doorstep delivery in Kenya with Kenya's most trusted <a href="https://[YOUR DOMAIN]/" title="Vape shop">vape shop</a> - vapekenya!</p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Clean, icy mint flavour</li>
+<li data-start="2825" data-end="2849" class="">
+<p data-start="2827" data-end="2849" class="">20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416616484919</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Ice Cool 10mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416616452151</id>
+    <published>2026-02-15T23:48:54+05:30</published>
+    <updated>2026-02-15T23:48:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-berry-frost-3mg"/>
+    <title>VITO - Berry Frost 3mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-berry-frost-3mg.webp?v=1771179405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in the sweet, icy blend of mixed berries with VITO Berry Frost <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="nicotine pouches">nicotine pouches</a>. This flavor combines juicy berry notes with a refreshing frosty finish, offering a perfectly balanced nicotine experience. Ideal for those who want a fruity escape with a cool edge. Shop  now at best price in Kenya with doorstep delivery in your city!</p>
+<p>Features:</p>
+<ul>
+<li>3mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Smooth, authentic flavor</li>
+<li>
+<p>20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416616452151</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Berry Frost 3mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416616321079</id>
+    <published>2026-02-15T23:45:09+05:30</published>
+    <updated>2026-02-15T23:45:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-grape-ice-10mg"/>
+    <title>VITO - Grape Ice 10mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-grape-ice-10mg.webp?v=1771179246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your nicotine experience with VITO Grape Ice nicotine pouches — a perfectly balanced blend of juicy, ripe grape flavor infused with a crisp, icy finish. Crafted for adult users seeking a bold yet refreshing sensation, these tobacco-free nicotine pouches deliver a smooth and satisfying hit with every use. Shop now with doorstep delivery in Kenya!</p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Smooth, authentic flavor</li>
+<li>
+<p>20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416616321079</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Grape Ice 10mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416615960631</id>
+    <published>2026-02-15T23:37:51+05:30</published>
+    <updated>2026-02-15T23:37:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-berry-frost-10mg"/>
+    <title>VITO - Berry Frost 10mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-berry-frost.webp?v=1771178414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in the sweet, icy blend of mixed berries with VITO Berry Frost <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="nicotine pouches">nicotine pouches</a>. This flavor combines juicy berry notes with a refreshing frosty finish, offering a perfectly balanced nicotine experience. Ideal for those who want a fruity escape with a cool edge. Shop  now at best price in Kenya with doorstep delivery in your city!</p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Smooth, authentic flavor</li>
+<li>
+<p>20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416615960631</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Berry Frost 10mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416613273655</id>
+    <published>2026-02-15T23:28:54+05:30</published>
+    <updated>2026-02-15T23:28:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-classic-tobacco-14mg"/>
+    <title>VITO - Classic Tobacco 14mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-classic-tobacco.webp?v=1771178118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VITO Classic Tobacco 14mg nicotine pouches offers the rich, smooth flavor of traditional tobacco — without the smoke, tar, or ash. A perfect choice for those who enjoy a classic taste in a clean, tobacco-free format. vapekenya offers doorstep delivery across Kenya for all the products.</p>
+<p>Features:</p>
+<ul>
+<li>14mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Smooth, authentic tobacco flavor</li>
+<li>
+<p>20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416613273655</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Classic Tobacco 14 mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416613175351</id>
+    <published>2026-02-15T23:24:02+05:30</published>
+    <updated>2026-02-15T23:24:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-freeze-mint-14mg"/>
+    <title>VITO - Freeze Mint 14mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vito-nicotine-pouches-Freeze-mint-14mg.webp?v=1771177985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VITO Freeze Mint 14mg nic pouches delivers an ultra-cooling mint flavor that awakens your senses. Perfect for mint lovers who crave an extra-icy, energizing nicotine experience. These nicotine pouches are 100% tobacco-free, slim and discreet, shop now at best price in Kenya with free shipping. </p>
+<p>Features:</p>
+<ul>
+<li>14mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Bold mint flavor with extreme coolness</li>
+<li>
+<p>20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416613175351</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Freeze Mint 14mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416611569719</id>
+    <published>2026-02-15T23:22:06+05:30</published>
+    <updated>2026-02-15T23:22:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-freeze-mint-17mg"/>
+    <title>VITO - Freeze Mint 17mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-freeze-mint.webp?v=1771177317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VITO Freeze Mint 17mg nic pouches delivers an ultra-cooling mint flavor that awakens your senses. Perfect for mint lovers who crave an extra-icy, energizing nicotine experience. These nicotine pouches are 100% tobacco-free, slim and discreet, shop now at best price in Kenya with free shipping. </p>
+<p>Features:</p>
+<ul>
+<li>17mg Strength</li>
+<li>Tobacco-Free</li>
+<li>Bold mint flavor with extreme coolness</li>
+<li>
+<p>20 Pouches Per Pack</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416611569719</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Freeze Mint 17mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416611242039</id>
+    <published>2026-02-15T23:11:12+05:30</published>
+    <updated>2026-02-15T23:11:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-coffee-17mg"/>
+    <title>VITO - Coffee 17mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-coffee.webp?v=1771176938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vito Nicotine Pouches 17 MG are now available across the Kenya with free delivery, offering a robust and smoke-free nicotine solution for seasoned users. Each slim, discreet pouch delivers 10 mg of nicotine in a clean, odorless format. Designed and manufactured locally, these pouches come in popular flavors like Tropical Ice, Ice Cool, Cherry Ice, Grape Ice, and Watermelon. Encased in slim, comfortable pouches, they provide up to 45 minutes of discreet satisfaction per use- shop now at best price in Kenya.</p>
+<p>Features:</p>
+<ul>
+<li>17mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416611242039</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Coffee 17mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416605179959</id>
+    <published>2026-02-15T21:23:17+05:30</published>
+    <updated>2026-02-15T21:23:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-original-unflavoured-14mg"/>
+    <title>VITO - Original Unflavoured 14mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-original-unflavoured.webp?v=1771170173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Original offers a pure and refined nicotine experience without any added flavors. Designed for those who appreciate simplicity and a clean finish, this unflavored pouch is crafted to perfection for your satisfaction now available in Kenya, only at vapekenya. Shop at best price with doorstep delivery near you.</p>
+<p>Features:</p>
+<ul>
+<li>14mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416605179959</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Original Unflavoured 14mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416605114423</id>
+    <published>2026-02-15T21:17:58+05:30</published>
+    <updated>2026-02-15T21:17:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-original-unflavoured-17mg"/>
+    <title>VITO - Original Unflavoured 17mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-original-unflavoured.webp?v=1771170173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Original offers a pure and refined nicotine experience without any added flavors. Designed for those who appreciate simplicity and a clean finish, this unflavored pouch is crafted to perfection for your satisfaction now available in Kenya, only at vapekenya. Shop at best price with doorstep delivery near you.</p>
+<p>Features:</p>
+<ul>
+<li>17mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416605114423</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Original Unflavoured 17mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416604917815</id>
+    <published>2026-02-15T21:11:43+05:30</published>
+    <updated>2026-02-15T21:11:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-lush-lychee-10mg"/>
+    <title>VITO - Lush Lychee 10mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-lush-lychee.webp?v=1771167793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vito 10 MG Nicotine Pouches are now available across the Kenya, offering a robust and smoke-free nicotine solution for seasoned users. Each slim, discreet pouch delivers 10 mg of nicotine in a clean, odorless format. These pouches come in popular flavors like Tropical Ice, Ice Cool, Cherry Ice, Grape Ice, and Lush Lychee. Encased in slim, comfortable pouches, they provide up to 45 minutes of discreet satisfaction per use.</p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416604917815</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Lush Lychee 10mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416604721207</id>
+    <published>2026-02-15T21:05:35+05:30</published>
+    <updated>2026-02-15T21:05:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-watermelon-6mg"/>
+    <title>VITO - Watermelon 6mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-watermelon.webp?v=1771167965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Savor the juicy, sweet taste of summer with VITO nicotine pouches Watermelon. These nicotine pouches deliver the essence of fresh watermelon in every pouch, offering a smooth and satisfying way to enjoy nicotine. Perfect for anyone looking for a light, refreshing flavor. </p>
+<p>Features:</p>
+<ul>
+<li>6mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416604721207</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Watermelon 6mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416603902007</id>
+    <published>2026-02-15T20:57:56+05:30</published>
+    <updated>2026-02-15T20:57:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-watermelon-10mg"/>
+    <title>VITO - Watermelon 10mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-watermelon.webp?v=1771167965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Savor the juicy, sweet taste of summer with VITO nicotine pouches Watermelon. These nicotine pouches deliver the essence of fresh watermelon in every pouch, offering a smooth and satisfying way to enjoy nicotine. Perfect for anyone looking for a light, refreshing flavor. </p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416603902007</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Watermelon 10mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416603574327</id>
+    <published>2026-02-15T20:37:12+05:30</published>
+    <updated>2026-02-15T20:37:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vito-watermelon-17mg"/>
+    <title>VITO - Watermelon 17mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VITO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vito-nicotine-pouches-watermelon.webp?v=1771167965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VITO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal">Savor the juicy, sweet taste of summer with VITO nicotine pouches Watermelon. These nicotine pouches deliver the essence of fresh watermelon in every pouch, offering a smooth and satisfying way to enjoy nicotine. Perfect for anyone looking for a light, refreshing flavor. </p>
+<p>Features:</p>
+<ul>
+<li>17mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416603574327</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VITO - Watermelon 17mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399878885431</id>
+    <published>2026-01-14T22:52:11+05:30</published>
+    <updated>2026-01-14T22:52:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/velo-nicotine-pouches-max-freeze"/>
+    <title>VELO Nicotine Pouches - Max Freeze</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/velo-freeze-max.webp?v=1768411048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VELO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velo - Freeze MAX is a top product with a really great flavour combination of icy menthol and fresh peppermint. You could say this won't leave anyone cold, but I won't, because these pouches really do leave your mouth feeling freezy and icy for a long time. Shop <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Nicotine pouches Kenya">nicotine pouches Kenya</a> at best price with [YOUR BRAND].</p>
+<p>Features:</p>
+<ul>
+<li>17mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul>
+<p><strong>Please note:</strong> Do not chew, suck or swallow these pouches – they’re only designed to be placed behind your top lip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399878885431</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VELO - Max Freeze</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7397925224503</id>
+    <published>2026-01-10T22:33:02+05:30</published>
+    <updated>2026-01-10T22:33:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/velo-nicotine-pouches-tangled-berry"/>
+    <title>VELO Nicotine Pouches - Tangled Berry</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/velo-tangled-berry-nicotine-pouch_5a93510a-b6ed-4735-baeb-696d026a358e.webp?v=1768064579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VELO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velo nicotine pouches are great for satisfying cravings in places where you can’t smoke or vape, such as on public transport, at an airport or even in a restaurant. Available in a 10mg strength per pouch, they’re perfect if you have some experience with using pouches and are looking for something in a medium level.</p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul>
+<p><strong>Please note:</strong> Do not chew, suck or swallow these pouches – they’re only designed to be placed behind your top lip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7397925224503</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VELO Pouches - Tangled Berry</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7397898879031</id>
+    <published>2026-01-10T22:29:59+05:30</published>
+    <updated>2026-01-10T22:29:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/velo-nicotine-pouches-ice-cool"/>
+    <title>VELO Nicotine Pouches - Ice Cool</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>VELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/velo-ice-cool-10mg-nicotine-pouch.webp?v=1768063989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VELO<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velo nicotine pouches are great for satisfying cravings in places where you can’t smoke or vape, such as on public transport, at an airport or even in a restaurant. Available in a 10mg strength per pouch, they’re perfect if you have some experience with using pouches and are looking for something in a medium level.</p>
+<p>Features:</p>
+<ul>
+<li>10mg Strength</li>
+<li>Tobacco-Free</li>
+<li>20 Pouches Per Pack</li>
+</ul>
+<p><strong>Please note:</strong> Do not chew, suck or swallow these pouches – they’re only designed to be placed behind your top lip.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7397898879031</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>VELO Pouches - Ice Cool</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+
+

@@ -1,0 +1,1848 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vape-kenya.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-04-04T06:24:28+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436859768887</id>
+    <published>2026-04-04T06:24:28+05:30</published>
+    <updated>2026-04-04T06:24:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/lost-vape-quest-orion-pod-kit"/>
+    <title>Lost Vape Quest Orion Pod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Lost Vape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Lost-Vape-Orion.webp?v=1775264069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lost Vape<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            2700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lost Vape Orion is where cutting-edge technology meets premium craftsmanship. Designed for vapers who demand performance and style, this iconic pod system delivers a powerful, customizable, and ultra-smooth vaping experience in a compact, luxury build.</p>
+<p>Powered by the advanced DNA chipset (in select variants), the Orion ensures precise power control, consistent output, and enhanced flavour delivery—making every puff feel refined and satisfying.</p>
+<p>Lost Vape Orion Q Specs:</p>
+<ul>
+<li>Size: 93 mm x 37 mm x 13.5 mm<br>
+</li>
+<li>Internal Rechargeable Battery: 950mAh<br>
+</li>
+<li>Maximum Wattage Output: 40W – out of the box set to 17w<br>
+</li>
+<li>Pod Capacity: 2ml / 1ohm<br>
+</li>
+<li>Dual Adjustable Airflow<br>
+</li>
+<li>Short-Circuit Protection<br>
+</li>
+<li>Weak Battery Protection<br>
+</li>
+<li>Temperature Protection<br>
+</li>
+<li>Low/High Resistance Protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436859768887</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2700.00</s:price>
+      <s:sku>L V Quest Orion Pod Kit</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416661147703</id>
+    <published>2026-02-16T07:29:59+05:30</published>
+    <updated>2026-02-16T07:29:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-lite-se-35w-pod-vape"/>
+    <title>Uwell Caliburn G5 Lite SE 35W Pod Vape</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Uwell-Caliburn-G5-Lite-SE-Pod-Kit-back-view.webp?v=1771206684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uwell Caliburn G5 Lite SE Pod System Kit is crafted from premium PC and Leather materials, which offer a comfortable grip and easy portability. The G5 Lite SE kit is compatible with the latest GPP Pods and holds up to 3ml of e-juice.</p>
+<p>A new 4-segment gradient LED indicator flashes in sync with each vape pull and displays the battery level in real-time. With a large 1600mAh battery, the device can last up to 6 days on a single charge. Equipped with advanced PRO-FOCS 4.0 flavor technology, it delivers a maximum output of 35W. Choose the Uwell Caliburn G5 Lite SE and start a new experience.<br></p>
+<p>Quick Links:<br><a title="Caliburn G3 Pods" href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods">Uwell Caliburn G3 Pods</a><br><a title="Caliburn GPP Pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a></p>
+<p>Features:<br></p>
+<ul>
+<li>Dimensions: 29.4*17*113.8 mm</li>
+<li>Rechargeable 1600mAh Integrated Battery</li>
+<li>3ml E-juice Capacity</li>
+<li>35W Max Output Power with PRO-FOCS 4.0 Flavor Optimization</li>
+<li>4-Bar Gradient LED indicators for real-time battery status</li>
+<li>Reversible Cartridge Airflow: Big/Small Airflow</li>
+<li>Premium PC and Leather Body</li>
+<li>Type-C Fast Recharging</li>
+</ul>
+<p>Uwell Caliburn G5 Lite SE Pod Kit Packaging Content:</p>
+<ul>
+<li>1 x Uwell Caliburn G5 Lite SE Pod Kit</li>
+<li>1 x Uwell Caliburn GPP Pod Cartridge (3ml Side Fill, 0.6ohm)</li>
+<li>1 x User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416661147703</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Lite SE Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416660492343</id>
+    <published>2026-02-16T07:09:25+05:30</published>
+    <updated>2026-02-16T07:09:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-koko-lite-35w-pod-system"/>
+    <title>Uwell Caliburn G5 Koko Lite 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Uwell-Caliburn-G5-Lite-KOKO-Pod-Kit.webp?v=1771205966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn G5 Lite KOKO Pod Kit is a stylish and portable pod system of Caliburn G5 series. Working with the new GPP pod cartridges for exceptional flavor, the Caliburn G5 Lite KOKO is constructed of lightweight PC materials, features a frosted shell and signature square KOKO design, adopts a 1600mAh long-lasting battery and draw activated firing system to deliver a max output of 35W.</p>
+<p>Quick Links:<br><a title="Caliburn GPP Pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a></p>
+<p>Uwell Caliburn G5 Lite KOKO Pod Kit Features:<br></p>
+<ul>
+<li>Dimensions: 86 x 45 x 18mm<br>
+</li>
+<li>Wattage Output: Max 35W<br>
+</li>
+<li>Battery Capacity: 1600mAh<br>
+</li>
+<li>Firing System: Draw Activated<br>
+</li>
+<li>Chassis Construction: PC<br>
+</li>
+<li>Charging Port: Type-C<br>
+</li>
+<li>Pod Compatibility: Caliburn GPP Pods, Caliburn G3 Pods<br>
+</li>
+<li>Pod Capacity: 3.0ml<br>
+</li>
+<li>Filling System: Side Fill<br>
+</li>
+<li>Airflow System: Adjustable<br>
+</li>
+<li>Pod Construction: PCTG<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>PRO-FOCS 4.0 Flavor Technology</li>
+</ul>
+<p>Package Includes:<br></p>
+<ul>
+<li>1 x Caliburn G5 Lite KOKO Device<br>
+</li>
+<li>1 x 0.6ohm Caliburn GPP Pod<br>
+</li>
+<li>1 x User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416660492343</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Koko Lite Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416659378231</id>
+    <published>2026-02-16T06:53:08+05:30</published>
+    <updated>2026-02-16T06:53:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-koko-35w-pod-system"/>
+    <title>Uwell Caliburn G5 Koko 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Uwell-Caliburn-G5-KOKO-Pod-Kit.webp?v=1771204722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Uwell Caliburn G5 KOKO Pod Kit is a new compact and stylish pod system utilizing the latest Caliburn GPP Pods. Integrated with a 1600mAh rechargeable battery for long-lasting vaping, the Caliburn G5 KOKO is constructed of durable zinc alloy and premium leather, adopt a draw or button activated firing system with dual output modes to deliver up to 35W, is also equipped with a starlit ocean display screen.</p>
+<p>Quick Links:<br><a title="Caliburn GPP Pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a></p>
+<p>Uwell Caliburn G5 KOKO Pod Kit Features:</p>
+<ul>
+<li>Dimensions: 84 x 49 x 21mm<br>
+</li>
+<li>Wattage Output: Max 35W<br>
+</li>
+<li>Battery Capacity: 1600mAh<br>
+</li>
+<li>Output Mode: Storm / Waves<br>
+</li>
+<li>Firing System: Draw Activated<br>
+</li>
+<li>Chassis Construction: Zinc Alloy, Leather<br>
+</li>
+<li>Charging Port: Type-C<br>
+</li>
+<li>Pod Compatibility: Caliburn GPP Pods, Caliburn G3 Pods<br>
+</li>
+<li>Pod Capacity: 3.0ml<br>
+</li>
+<li>Filling System: Side Fill<br>
+</li>
+<li>Airflow System: Adjustable Top Airflow</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Pod Material: PCTG<br>
+</li>
+<li>Pro-FOCS 4.0 Flavor Technology<br>
+</li>
+<li>Lanyard Attachment Point</li>
+</ul>
+<p>Package Includes:</p>
+<ul>
+<li>1 x Caliburn G5 KOKO Device<br>
+</li>
+<li>1 x 0.6ohm Caliburn GPP Pod (Side Fill)<br>
+</li>
+<li>1 x User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416659378231</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416637718583</id>
+    <published>2026-02-16T05:53:50+05:30</published>
+    <updated>2026-02-16T05:53:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g5-lite-35w-pod-system"/>
+    <title>Uwell Caliburn G5 Lite 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g5_lite_pod_system_starry_grey.webp?v=1771201431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn G5 Lite 35W Pod System, featuring a 1600mAh battery, 35W max output, and pairs with the refillable Caliburn G3 and GPP Pods.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn G3 Pods">Uwell Caliburn G3 Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Caliburn GPP Pods">Uwell Caliburn GPP Pods</a></p>
+<p>UWELL CALIBURN G5 LITE 35W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 115.4mm by 30.2mm by 18mm<br>
+</li>
+<li>BATTERY CAPACITY: 1600mAh<br>
+</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable<br>
+</li>
+<li>WATTAGE RANGE: 35W<br>
+</li>
+<li>CHASSIS MATERIAL: PC + ABS<br>
+</li>
+<li>OPERATION: Draw-Activated<br>
+</li>
+<li>OUTPUT: Constant Voltage<br>
+</li>
+<li>CHARGING: USB-C Port<br>
+</li>
+<li>POD CONNECTION: Magnetic<br>
+</li>
+<li>POD CAPACITY: 3mL<br>
+</li>
+<li>POD MATERIAL: PCTG<br>
+</li>
+<li>POD SUPPORT: Caliburn G3 | Caliburn GPP Pods<br>
+</li>
+<li>FILL SYSTEM: Side Fill<br>
+</li>
+<li>AIRFLOW: Adjustable Switch<br>
+</li>
+<li>LED Indicator Light</li>
+</ul>
+<p>INCLUDES:</p>
+<ul>
+<li>1 Uwell Caliburn G5 Lite 35W Pod System<br>
+</li>
+<li>1 0.6ohm Caliburn GPP Pods<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416637718583</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G5 Lite Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399860600887</id>
+    <published>2026-01-14T22:26:58+05:30</published>
+    <updated>2026-01-14T22:26:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-ak2-15w-pod-system"/>
+    <title>Uwell Caliburn AK2 15W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_-_caliburn_ak2_-_pod_system_-_classic_black_1.webp?v=1768409819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop Uwell Caliburn AK2 15W Pod System, featuring an integrated 520mAh rechargeable battery, 15W maximum output, and utilizes 2mL 0.9ohm UN2 Meshed Pods. Compatible with the Caliburn A2 Pods.</p>
+<p>Quick Links<br><a title="Caliburn A2 Pods" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a2-replacement-pods">Uwell Caliburn A2 Pods</a><br><a title="Caliburn A2s pods" href="https://[YOUR DOMAIN]/products/uwell-caliburn-a2s-replacement-pods">Uwell Caliburn A2S Pods</a></p>
+<p>Constructed from durable aluminum alloy, the chassis of the Caliburn AK2 Pod System possesses a thin and portable profile that is perfect for those that are on-the-go, and are looking for a dependable vaping system. Utilizing a fast Type-C charging system, the Caliburn A2 Pod System can deliver vaping in as little as 35 minutes to charge the battery up to 95%. Equipped with a 2mL refillable pod, the <a href="https://[YOUR DOMAIN]/collections/uwell" title="Caliburn">Caliburn</a> AK2 utilizes 0.9ohm UN2 Meshed-H Coil Pods that deliver delicious flavor and vapor.</p>
+<p>Uwell CALIBURN AK2 15W Pod System Features:</p>
+<ul>
+<li>Dimensions - 67.9mm by 43.5mm by 11.8mm<br>
+</li>
+<li>Integrated 520mAh Rechargeable Battery<br>
+</li>
+<li>Max. Wattage Output: 15W<br>
+</li>
+<li>Aluminum-Alloy Chassis Construction<br>
+</li>
+<li>Draw-Activated Firing Mechanism<br>
+</li>
+<li>Zinc-Alloy Chassis Construction<br>
+</li>
+<li>Pro-FOCS Technology<br>
+</li>
+<li>E-Liquid Viewing Window<br>
+</li>
+<li>Lanyard Attachment Point<br>
+</li>
+<li>LED Battery Indicator Light</li>
+<li>2mL Pod Capacity<br>
+</li>
+<li>Top Fill System - Mouthpiece Cover<br>
+</li>
+<li>Integrated 0.9ohm UN2 Meshed-H Coil</li>
+<li>Magnetic Pod Connection<br>
+</li>
+<li>Short-Circuit Protection<br>
+</li>
+<li>Low Voltage Protection<br>
+</li>
+<li>8S Overtime Protection<br>
+</li>
+<li>Open Circuit Protection<br>
+</li>
+<li>Low Power Protection<br>
+</li>
+<li>Type-C USB Port<br>
+</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn AK2 Pod System<br>
+</li>
+<li>2 0.9ohm UN2 Meshed-H Pods<br>
+</li>
+<li>1 User Manual<br>
+</li>
+<li>1 Lanyard</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399860600887</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5150.00</s:price>
+      <s:sku>U Cali AK2 Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399383957559</id>
+    <published>2026-01-13T04:25:14+05:30</published>
+    <updated>2026-01-13T04:25:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-pro-koko-35w-pod-system"/>
+    <title>Uwell Caliburn G4 Pro Koko 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_pro_koko_35w_pod_system_-_coral_pink.webp?v=1768258514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Uwell Caliburn G4 PRO KOKO Pod System in Kenya, featuring up to 35W of power, a 2000mAh battery, smart touchscreen, and customizable output mode.</p>
+<p>Quick Links:<br><a title="Caliburn GPP replacement pods" href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods">Uwell Caliburn GPP Pods</a><br><a title="Uwell Caliburn G3 replacement pods" href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods">Uwell Caliburn G3 Pods</a></p>
+<p>Alongside the Storm Mode for throat hits and Waves Mode for smoother flavor, the Customize Mode lets you tailor your hits and flavor to your liking. The first-ever KOKO touchscreen provides instant feedback, allowing you to switch output modes, adjust wattage, and more with a single tap, while featuring 5 Blind Draw UI themes to collect. Compatible with both Caliburn GPP and G3 pods, the G4 PRO KOKO gives you options.</p>
+<p>UWELL CALIBURN G4 PRO KOKO 35W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 85.8mm x 50mm x 23mm<br>
+</li>
+<li>BATTERY CAPACITY: 2000mAh<br>
+</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable<br>
+</li>
+<li>WATTAGE RANGE: 35W<br>
+</li>
+<li>DISPLAY SCREEN: 2" Touchscreen<br>
+</li>
+<li>OPERATION: Draw-Activated<br>
+</li>
+<li>CHARGING: USB Type-C<br>
+</li>
+<li>POD CAPACITY: 3mL<br>
+</li>
+<li>POD SUPPORT: Caliburn GPP / G3 Pods<br>
+</li>
+<li>FILL SYSTEM: Side-Fill<br>
+</li>
+<li>COIL INSTALLATION: Pre-Installed<br>
+</li>
+<li>AIRFLOW: Adjustable<br>
+</li>
+<li>Storm Mode | Waves Mode | Customize Mode</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G4 PRO KOKO Device<br>
+</li>
+<li>1 0.4ohm Caliburn GPP Pod (3mL)<br>
+</li>
+<li>1 0.6ohm Caliburn GPP Pod (3mL)<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399383957559</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>U Cali G4 Pro Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399380385847</id>
+    <published>2026-01-13T03:54:59+05:30</published>
+    <updated>2026-01-13T03:54:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g3-lite-koko-25w-pod-system"/>
+    <title>Uwell Caliburn G3 Lite Koko 25W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g3_lite_koko_25w_pod_system_-_basalt_grey.webp?v=1768256421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Uwell Caliburn G3 Lite KOKO 25W Pod System, featuring a 1200mAh battery, active resistance detection, and holds up to 2.5mL within the pod. </p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn G3 Pods">Uwell Caliburn G3 Pods</a></p>
+<p>Crafted from ultra-low weight materials, the Caliburn G3 Lite KOKO is a slimmed-down version, without sacrificing any performance. Eliminating any screens, the Caliburn G3 Lite KOKO preserves precious battery life for vaporizing your favorite eJuice or nicotine salts.</p>
+<p>UWELL CALIBURN G3 LITE KOKO 25W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 76mm by 49.6mm by 17.9mm<br>
+</li>
+<li>BATTERY CAPACITY: 1200mAh<br>
+</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable<br>
+</li>
+<li>WATTAGE RANGE: 5-25W<br>
+</li>
+<li>CHASSIS MATERIAL: PC + ABS<br>
+</li>
+<li>OPERATION: Draw-Activated<br>
+</li>
+<li>OUTPUT: Intelligent Resistance Detection<br>
+</li>
+<li>CHARGING: USB Type-C<br>
+</li>
+<li>POD CONNECTION: Magnetic<br>
+</li>
+<li>POD CAPACITY: 2.5mL</li>
+<li>POD MATERIAL: PCTG<br>
+</li>
+<li>FILL SYSTEM: Top Fill<br>
+</li>
+<li>COIL SUPPORT: ALL G3 Cartridges<br>
+</li>
+<li>Lanyard Attachment Point</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell Caliburn G3 Lite KOKO<br>
+</li>
+<li>1 0.6ohm Caliburn G3 Pods<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399380385847</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3999.00</s:price>
+      <s:sku>U Cali G3 Lite Koko Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399366131767</id>
+    <published>2026-01-13T03:24:14+05:30</published>
+    <updated>2026-01-13T03:24:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm-40w-pod-mod-kit"/>
+    <title>SMOK RPM 40W Pod Mod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_rpm_40_pod_mod_kit_-_nano_gunmetal.webp?v=1768254549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Real Pod Mod, featuring the SMOK RPM40 40W Pod Mod Kit is the first of its kind in Kenya, introducing a pod system with box mod resemblance that integrates a 1500mAh battery, advanced intelligence IQ-R Chipset, and 4mL maximum capacity with RPM Coils &amp; NORD Coil compatibility.</p>
+<p>Compatibility:<br><a title="Nord Coils" href="https://[YOUR DOMAIN]/products/smok-nord-replacement-coils">Nord Coils</a><br><a title="RPM Coils" href="https://[YOUR DOMAIN]/products/smok-rpm-series-replacement-coils">RPM Coils</a><br>RPM40 Pods</p>
+<p>Constructed from durable zinc-alloy, the chassis of the SMOK RPM40 pod system is crafted from lightweight materials to create a vaping pod system that will not weigh you down, instead, presenting a neat handheld vaping pod system in a squared cuboid shape. The intelligent chipset within provides an ultra-rapid heating time, cutting the firing speed to an ultra-low 0.0015s. In addition, the SMOK RPM 40 Pod System is geared for alternative oils and aromatherapy, providing a myriad of coil options for vaporizing the loaded contents with ease and efficiency. The SMOK RPM40 Pod System features refillable pods with replaceable coils.</p>
+<p>Please Note: The RPM's Nord Pod and RPM Pod utilize Nord and RPM Coils, respectively. </p>
+<p>SMOK RPM40 40W Pod Mod Kit Features:</p>
+<ul>
+<li>IQ-R Chipset<br>
+</li>
+<li>Dimensions - 99mm by 25mm by 25mm<br>
+</li>
+<li>Integrated 1500mAh Rechargeable Battery<br>
+</li>
+<li>Wattage Output Range: 1-40W<br>
+</li>
+<li>Voltage Output Range: 0.5 - 4.1V<br>
+</li>
+<li>Resistance Range: 0.2-2.5ohm<br>
+</li>
+<li>Firing Speed - 0.0015s<br>
+</li>
+<li>Zinc-Alloy Chassis Construction<br>
+</li>
+<li>Intuitive Firing Button<br>
+</li>
+<li>Two Adjustment Buttons<br>
+</li>
+<li>0.96"" TFT Display Screen<br>
+</li>
+<li>Refillable Pod - Replaceable Cartridge<br>
+</li>
+<li>4.3mL RPM Coil Pod Capacity</li>
+<li>4.5mL Nord Coil Pod Capacity<br>
+</li>
+<li>Side Fill System - Silicone Stoppered<br>
+</li>
+<li>0.4ohm RPM Mesh Coil<br>
+</li>
+<li>0.6ohm Nord DC Coil<br>
+</li>
+<li>Bottom Coil Installation Method<br>
+</li>
+<li>Low Voltage Protection<br>
+</li>
+<li>Short-Circuit Protection<br>
+</li>
+<li>8S Cut-Off Protection<br>
+</li>
+<li>High-Temperature Protection<br>
+</li>
+<li>MicroUSB<br>
+</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 RPM40 Device<br>
+</li>
+<li>1 RPM Standard Pod<br>
+</li>
+<li>1 RPM Nord Pod<br>
+</li>
+<li>1 0.4ohm RPM Mesh Coil<br>
+</li>
+<li>1 0.6ohm Nord DC Coil<br>
+</li>
+<li>1 MicroUSB Charging Cable<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399366131767</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4450.00</s:price>
+      <s:sku>Smok RPM Pod Mod Kit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399356465207</id>
+    <published>2026-01-13T02:21:24+05:30</published>
+    <updated>2026-01-13T02:21:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-propod-22w-pod-kit"/>
+    <title>SMOK Propod 22W Pod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_propod_22w_pod_kit_-_black.webp?v=1768250705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the SMOK Propod 22W <a href="https://[YOUR DOMAIN]/collections/vape-kenya" title="Pod vape">Pod Vape</a> Kit, featuring an integrated 800mAh battery, 22W maximum output, and is paired natively with the exemplary NOVO 2X Pods. Formerly the SMOK Prisma.</p>
+<p>Compatibility:<br>Novo Pods<br>Novo 2 Pods<br>Novo 2X Pods<br>Novo 3 Pods</p>
+<p>Constructed from durable zinc-alloy, the chassis of the Propod Pod Kit is impervious to light falls and drops, protecting the 800mAh battery within. Operating off a draw and button-activated firing mechanism, the Propod is great for those that are on-the-go or traveling. In addition, the top fill nature of the Novo 2X pods prevent leaking, with the Propod Pod Kit accepting Novo and Novo 2 Pods as well.</p>
+<p>SMOK Propod 22W Pod Kit Features:</p>
+<ul>
+<li>Dimensions: 107mm by 24.5mm by 15mm<br>
+</li>
+<li>Battery Capacity: 800mAh<br>
+</li>
+<li>Max Wattage Output: 22W<br>
+</li>
+<li>Max Voltage Output: 3.6V<br>
+</li>
+<li>Resistance Range: 0.6-2.5ohm<br>
+</li>
+<li>Chassis Material: Zinc-Alloy</li>
+<li>Charging: Type-C Port<br>
+</li>
+<li>Operation: Button &amp; Draw-Activated<br>
+</li>
+<li>Pod Series: Novo 2X<br>
+</li>
+<li>Fill System: Top Fill</li>
+<li>Pod Material: PCTG<br>
+</li>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Coil Support: Novo &amp; Novo 2 Pod Compatbility</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Propod Device<br>
+</li>
+<li>2 0.8ohm Novo 2X Pods<br>
+</li>
+<li>1 User Manual<br>
+</li>
+<li>1 Type-C Cable</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399356465207</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4500.00</s:price>
+      <s:sku>Smok Propod Pod Kit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389617422391</id>
+    <published>2025-12-23T06:44:05+05:30</published>
+    <updated>2025-12-23T06:44:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-vape-pen-v2-60w-kit"/>
+    <title>SMOK Vape Pen V2 60W Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_vape_pen_v2_kit_-_black_1.webp?v=1766452352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK Vape Pen V2 60W Kit, featuring an all-in-one design, integrated 1600mAh battery, and utilizes the Vape Pen Mesh Coil Series.</p>
+<p>Compatibility:<br><a title="Vape Pen Coils" href="https://[YOUR DOMAIN]/products/smok-vape-pen-replacement-coils">Vape Pen Coils</a></p>
+<p>The all-in-one design of the chassis encases an integrated 1600mAh battery. Holding up to 3mL within the tank section, the Vape Pen V2 delivers delicious vapor from your favorite <a href="https://[YOUR DOMAIN]/collections/vape-liquid" title="Vape Liquid flavour">vape liquid flavour</a> or nicotine salt. The Vape Pen V2 utilizes less power for better heating, meaning long efficient usage of the integrated battery for more vaping. Rechargeable via microUSB Port, the Vape Pen V2 Kit is great for those on-the-go or are looking for a portable vape kit.</p>
+<p>SMOK Vape Pen V2 Kit Features:</p>
+<ul>
+<li>Dimensions - 117.7mm x 22mm<br>
+</li>
+<li>Integrated 1600mAh Battery<br>
+</li>
+<li>Max. Wattage Output: 60W<br>
+</li>
+<li>Resistance Range: 0.14-3.0ohm<br>
+</li>
+<li>Single Firing Button<br>
+</li>
+<li>3 LED Indicator Lights<br>
+</li>
+<li>Threaded Top Fill Cap<br>
+</li>
+<li>0.15ohm Vape Pen Meshed Coil<br>
+</li>
+<li>Dual Slotted Airflow Control Ring<br>
+</li>
+<li>Lithium Battery Protection<br>
+</li>
+<li>8S Cut-Off Protection<br>
+</li>
+<li>MicroUSB Port</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Vape Pen V2 Device<br>
+</li>
+<li>2 0.15ohm Vape Pen Meshed Coils<br>
+</li>
+<li>1 USB Cable<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389617422391</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3700.00</s:price>
+      <s:sku>Smok V Pen V2 Kit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389616635959</id>
+    <published>2025-12-23T06:32:35+05:30</published>
+    <updated>2025-12-23T06:32:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-rpm-5-80w-pod-system"/>
+    <title>SMOK RPM 5 80W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_rpm_5_-_pod_kit_-_black.webp?v=1766451576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the SMOK RPM 5 80W Pod System, featuring an integrated 2000mAh battery, 5-80W output, and can hold up to 6.5mL of your favorite <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nic salt">nic salt</a>.</p>
+<p>Compatibility:<br><a title="RPM 3 Coils" href="https://[YOUR DOMAIN]/products/smok-rpm-3-series-replacement-coils">RPM 3 Coils</a><br>RPM 5 Pods</p>
+<p>SMOK RPM 5 80W Pod System Features:</p>
+<ul>
+<li>Dimensions - 122.5mm x 31.2mm x 29.5mm<br>
+</li>
+<li>Integrated 2000mAh Rechargeable Battery<br>
+</li>
+<li>Wattage Output Range: 5-80W<br>
+</li>
+<li>Resistance Range: 0.15-2.0ohm<br>
+</li>
+<li>Zinc-Alloy Chassis Construction<br>
+</li>
+<li>Intuitive Firing Button<br>
+</li>
+<li>0.96" TFT Display Screen<br>
+</li>
+<li>Two Adjustment Buttons<br>
+</li>
+<li>Adjustment Airflow Control System<br>
+</li>
+<li>6.5mL Refillable Pod<br>
+</li>
+<li>Sliding Top Fill System<br>
+</li>
+<li>SMOK RPM 3 Coil Series</li>
+<li>Press-Fit Coil Installation<br>
+</li>
+<li>Magnetic Pod Connection<br>
+</li>
+<li>Short-Circuit Protection<br>
+</li>
+<li>8 Second Cut Off Protection<br>
+</li>
+<li>Low Voltage Protection<br>
+</li>
+<li>Pod Detection<br>
+</li>
+<li>Type-C USB Port<br>
+</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 RPM 5 Device</li>
+<li>1 RPM 5 Pod</li>
+<li>1 0.15ohm RPM 3 Mesh Coil</li>
+<li>1 0.23ohm RPM 3 Mesh Coil</li>
+<li>1 Type-C USB Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389616635959</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5700.00</s:price>
+      <s:sku>Smok RPM 5 Pod System</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7389615783991</id>
+    <published>2025-12-23T06:22:35+05:30</published>
+    <updated>2025-12-23T06:22:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-novo-5-30w-pod-kit"/>
+    <title>SMOK Novo 5 30W Pod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_novo_5_pod_system_-_fluid_black_grey.webp?v=1766451070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the SMOK Novo 5 30W Pod System, featuring a 5-30W output range, dual firing mechanism, and utilizes 2mL pods with integrated 0.7ohm mesh coils.</p>
+<p>Compatibility:<br>Novo 5 Pods</p>
+<p>SMOK NOVO 5 30W Pod System Features:</p>
+<ul>
+<li>Dimensions: 96mm by 29mm by 18.9mm<br>
+</li>
+<li>Battery Capacity: 900mAh<br>
+</li>
+<li>Wattage Range: 5-30W<br>
+</li>
+<li>Voltage Range: 1.5-4.0V<br>
+</li>
+<li>Resistance Range: 0.5-2.5ohm<br>
+</li>
+<li>Chassis Material: Zinc-Alloy<br>
+</li>
+<li>Charging: Type-C Port<br>
+</li>
+<li>Operation: Dual Activation - Draw/Button<br>
+</li>
+<li>Pod Series: Novo 5 Mesh Pods<br>
+</li>
+<li>Fill System: Top Fill Design<br>
+</li>
+<li>Pod Material: PCTG<br>
+</li>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Coil Installation: Integrated 0.7ohm<br>
+</li>
+<li>Display Screen<br>
+</li>
+<li>Air-Inlet Ring</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Novo 5 Device<br>
+</li>
+<li>2 0.7ohm novo 5 Pods<br>
+</li>
+<li>1 Type-C Cable<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7389615783991</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4490.00</s:price>
+      <s:sku>Smok Novo 5 Pod Kit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7387138752567</id>
+    <published>2025-12-17T08:06:07+05:30</published>
+    <updated>2025-12-17T08:06:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-pro-35w-pod-system"/>
+    <title>Uwell Caliburn G4 Pro 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_pro_35w_pod_system_-_iron_grey.webp?v=1765938843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            5699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out Uwell Caliburn G4 Pro 35W Pod System, offering an 1800mAh battery, 35W maximum output, and compatibility with the GPP and G3 Replacement Pods.<br></p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Uwell Caliburn GPP replacement pods">Uwell Caliburn GPP Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn g3 replacement pods">Uwell Caliburn G3 Pods</a></p>
+<p>UWELL CALIBURN G4 PRO 35W POD SYSTEM FEATURES:</p>
+<ul>
+<li>DIMENSIONS: 120.7mm by 30mm by 18.5mm</li>
+<li>BATTERY CAPACITY: 1800mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: 35W</li>
+<li>CHASSIS MATERIAL: Aluminum | ABS | IML | PCTG</li>
+<li>DISPLAY SCREEN: 2.51" Shatterproof Screen</li>
+<li>OPERATION: Touchscreen</li>
+<li>OUTPUT: Variable Wattage</li>
+<li>CHARGING: USB-C Port</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>AIRFLOW: Stepless Airflow Control</li>
+<li>Droplet Shaped E-Liquid Window</li>
+<li>Compatible with GPP and G3 Pods</li>
+</ul>
+<p>INCLUDES:</p>
+<ul>
+<li>1 Uwell Caliburn G4 PRO 35W Pod System</li>
+<li>1 0.4ohm GPP Pods</li>
+<li>1 0.6ohm GPP Pods</li>
+<li>1 User Manuals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7387138752567</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5699.00</s:price>
+      <s:sku>U Cali G4 Pro Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385643417655</id>
+    <published>2025-12-12T06:53:14+05:30</published>
+    <updated>2025-12-12T06:53:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-nfix-pro-25w-pod-system"/>
+    <title>SMOK NFIX Pro 25W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_-_nfix_pro_-_pod_system_-_all_colors.png?v=1765502597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the SMOK NFIX Pro Pod System, featuring an integrated 700mAh battery, 5-25W output range, and uses a 2mL pod with the LP1 Coil Series.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/smok-nfix-pro-replacement-pods" title="SMOK NFix Pro Replacement Pods">SMOK NFIX Pro Replacement Pods</a><br><a href="https://[YOUR DOMAIN]/products/smok-lp1-replacement-coils" title="Buy SMOK LP1 Coils">SMOK LP1 Coil Series</a><br></p>
+<p><img alt="nfix pro kit infographic" src="https://cdn.shopify.com/s/files/1/0656/8630/7047/files/SMOK_NFIX_PRO_Infographic.jpg?v=1662475531"></p>
+<p>Constructed from durable zinc-alloy, the NFIX Pro Pod System adopts a pen style form factor, making it a great travel pod system that fits neatly into the pocket, purse, or bookbag. Integrating a 700mAh battery within the chassis, the NFIX Pro Pod System can deliver all day vaping abilities with a refillable 2mL pod capacity. Utilizing the LP1 Coil Series, the coils are installed in a press-fit manner, while the SMOK NFIX Pro can operate via draw-activated firing mechanisms to deliver exquisite vapor and flavor that will delight the taste buds.</p>
+<p><strong>SMOK NFIX Pro Pod System Features:</strong><br></p>
+<ul>
+<li>Dimensions - 110.45mm by 22mm by 13.2mm</li>
+<li>Integrated 700mAh Battery</li>
+<li>Wattage Output Range: 5-25W</li>
+<li>Voltage Output Range: 2.0-4.0V</li>
+<li>Resistance Range: 0.6-3.0ohm</li>
+<li>Zinc-Alloy Chassis Construction</li>
+<li>Draw-Activated Firing Mechanism</li>
+<li>0.69" OLED Display Screen</li>
+<li>Adjustable Airflow Control Switch</li>
+<li>2mL Refillable Pod</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>LP1 Mesh Coil Series</li>
+<li>0.9ohm LP1 Mesh Coils</li>
+<li>1.2ohm LP1 Mesh Coils</li>
+<li>Press-Fit Coil Installation</li>
+<li>Magnetic Pod Connenction</li>
+<li>Type-C USB Port</li>
+</ul>
+<p><strong>Includes:</strong><br></p>
+<ul>
+<li>1 NFIX Pro Device</li>
+<li>1 NFIX Pro Pod</li>
+<li>1 0.9ohm LP1 Meshed MTL Coil</li>
+<li>1 1.2ohm LP1 Meshed MTL Coil</li>
+<li>1 Type-C Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385643417655</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3700.00</s:price>
+      <s:sku>S NFIX Pro Pod System</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385643384887</id>
+    <published>2025-12-12T06:53:13+05:30</published>
+    <updated>2025-12-12T06:53:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-acro-25w-pod-system-kit"/>
+    <title>SMOK ACRO 25W Pod System Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_acro_all_colors.png?v=1765502596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            3749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the <em>SMOK ACRO 25W Pod System</em>, featuring a 5-25W output range, integrated 1000mAh battery, and uses two firing systems to produce vapor. Constructed from zinc-alloy, the chassis is durable and is resistant to light falls and drops. Offering a dual firing system, the <em>SMOK ACRO</em> can be activated off a draw or button firing operation, producing exquisite vapor from your favorite eJuice or nicotine salt stored in the 2mL integrated coil pod. Displaying information on an 0.69" OLED display screen, the wattage is adjustable between 5-25W. Equipped with a 1000mAh rechargeable battery, the ACRO is rechargeable via bottom Type-C USB Port, rapidly restoring the battery for use.</p>
+<p>Quick Links:</p>
+<p><a href="https://[YOUR DOMAIN]/products/smok-acro-replacement-pods" title="SMOK ACRO Replacement Pods">SMOK ACRO Replacement Pods</a><br></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0480/2061/9416/files/SMOK_Acro_infographic.jpg?v=1633046545" alt="smok acro pod system infographic" data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1"><strong>SMOK ACRO 25W Pod System Features:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Dimensions - 103mm by 30.2mm by 11.2mm</li>
+<li>Integrated 1000mAh Rechargeable Battery</li>
+<li>Wattage Output Range: 5-25W</li>
+<li>Voltage Output Range: 1.5-4.0V</li>
+<li>Resistance Range: 0.6-2.5ohm</li>
+<li>Zinc-Alloy Chassis Construction</li>
+<li>Dual Firing System</li>
+<li>Intuitive Firing Button</li>
+<li>Draw-Activated Firing Mechanism</li>
+<li>0.69" OLED Display Screen</li>
+<li>Two Adjustment Buttons</li>
+<li>Adjustable Airflow Inlet</li>
+<li>2mL ACRO Pod</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>Integrated 0.8ohm Meshed Coil - rated for 12-15W</li>
+<li>Magnetic Pod Connection</li>
+<li>Type-C USB Port<br>
+</li>
+</ul>
+<p><strong>Includes:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>1 ACRO Device</li>
+<li>2 0.8ohm ACRO Meshed Pod</li>
+<li>1 Type-C Cable</li>
+<li>1 User Manual</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385643384887</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3749.00</s:price>
+      <s:sku>S ACRO Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384979243063</id>
+    <published>2025-12-09T05:47:15+05:30</published>
+    <updated>2025-12-09T05:47:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-tenet-16w-pod-system"/>
+    <title>Uwell Caliburn Tenet 16W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_tenet_pod_system_-_olive_green.webp?v=1765239336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the Uwell Caliburn TENET 16W Pod System, featuring a 750mAh battery, rugged exterior design, and is compatible with Caliburn G/G2 Coils and Pods.</p>
+<p>Quick Links:<br><a title="Uwell Caliburn G2 Pods" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-empty-cartridge">Uwell Caliburn G2 Pods</a></p>
+<p><a title="Uwell Caliburn G2 Coils" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-replacement-coils">Uwell Caliburn G2 Coils</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p>Constructed from durable aluminum alloy, the Caliburn Tenet Pod System delivers a strong and impervious chassis, updating the sleek metal unibody design with a new rugged exterior. In addition, Uwell has introduced haptic feedback to make the Caliburn Tenet much more intuitive. Operating off dual firing modes, like its predecessors, the Caliburn TENET can be button or draw-activated, making vaping a breeze. Furthermore, the TENET can call upon the Caliburn G or G2 Pods and Coils to deliver outstanding flavor and vapor from your favorite eJuice or nicotine salts and can adjust the airflow via pod based rotating dial.</p>
+<p>Uwell Caliburn TENET 16W Pod System Features:<br></p>
+<ul>
+<li>Dimensions: 110.9mm by 25.1mm by 16.3mm<br>
+</li>
+<li>Battery Capacity: 750mAh<br>
+</li>
+<li>Max Wattage Output: 16W<br>
+</li>
+<li>Chassis Material: Aluminum-Alloy<br>
+</li>
+<li>Charging: Type-C Port<br>
+</li>
+<li>Operation: Button / Draw Activated Firing<br>
+</li>
+<li>Pod Series: Uwell Caliburn G2 Pods<br>
+</li>
+<li>Fill System: Top Fill<br>
+</li>
+<li>Pod Material: PCTG<br>
+</li>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Pod Connection: Magnetic<br>
+</li>
+<li>Coil Installation: Press Fit<br>
+</li>
+<li>Coil Support: Uwell Caliburn G/G2 Coils<br>
+</li>
+<li>Haptic Feedback<br>
+</li>
+<li>PRO-FOCS Technology<br>
+</li>
+<li>Juice Level Viewing Window</li>
+</ul>
+<p>Includes:<br></p>
+<ul>
+<li>1 Caliburn TENET<br>
+</li>
+<li>1 Caliburn G2 Pods<br>
+</li>
+<li>1 0.8ohm Caliburn G Coil<br>
+</li>
+<li>1 1.2ohm Caliburn G2 Coil<br>
+</li>
+<li>1 User Manual<br>
+</li>
+<li>1 Type-C Cable<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384979243063</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4650.00</s:price>
+      <s:sku>U Cali Tenet Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384975638583</id>
+    <published>2025-12-09T05:12:51+05:30</published>
+    <updated>2025-12-09T05:12:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-explorer-32w-pod-system"/>
+    <title>Uwell Caliburn Explorer 32W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_explorer_pod_system_-_black.webp?v=1765237187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn Explorer Pod System, offering an innovative dual sided cartridge, 32W max output, and integrated 1000mAh rechargeable battery.</p>
+<p>Quick Links:<br><a title="Uwell Caliburn Explorer Pods" href="https://[YOUR DOMAIN]/products/caliburn-explorer-replacement-pods">Uwell Caliburn Explorer Pods</a><br></p>
+<p><a title="Uwell Caliburn G2 Coils" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-replacement-coils">Uwell Caliburn G2 Coils</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p>Constructed from durable aluminum alloy, the Uwell Caliburn Explorer delivers outstanding flavor and performance, while ensuring a lightweight and portable form factor. Outfitted with a dual-sided cartridge, the Caliburn Explorer can hold 2mL on each side, accommodating those who love a variety of flavors without needing to change out the cartridge. Powered by an integrated 1000mAh battery, the Uwell Caliburn Explorer Pod System can last throughout the day without needing a recharge, but facilitates recharging via Type-C Port.</p>
+<p>Uwell CALIBURN Explorer 32W Pod System Features:</p>
+<ul>
+<li>Dimensions: 128.1mm x 26mm x 14.6mm</li>
+<li>Chassis Material: Aluminum-Alloy</li>
+<li>Max Wattage: 32W</li>
+<li>Resistance Range: 0.8-1.2ohm</li>
+<li>Battery Capacity: 1000mAh</li>
+<li>Charging Port: USB Type-C</li>
+<li>Output: Variable Voltage</li>
+<li>Operation: Directional Firing-Button Activation / Draw-Activation</li>
+<li>Fill System: Dual Side-Fill - Silicone Stoppers</li>
+<li>Pod Material: PCTG</li>
+<li>Pod Capacity: Dual Sided 4mL (2mL per Side)</li>
+<li>Pod Connection: Plug 'n' Play</li>
+<li>Coil Installation: Press-Fit</li>
+<li>Coil Support: G / G2 Series</li>
+<li>2-Sided Pod</li>
+<li>Supports 2 Coils Simultaneously</li>
+<li>Dual-Flavor Immersion</li>
+<li>4-Leaf Clover Menu Button</li>
+<li>Super Wide ClearView Juice Window</li>
+<li>2A Type-C Charging</li>
+<li>Pro-FOCS Flavor Technology</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 Uwell CALIBURN Explorer Pod System</li>
+<li>1 Uwell CAIBURN Explorer Pod (Preinstalled)</li>
+<li>1 0.8ohm Meshed CALIBURN G Coil (Preinstalled)</li>
+<li>1 1.2ohm CALIBURN G2 Coil (Preinstalled)</li>
+<li>1 0.8ohm Meshed CALIBURN G Coil (Spare)</li>
+<li>1 1.2ohm CALIBURN G2 Coil (Spare)</li>
+<li>1 USB Type-C Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384975638583</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4150.00</s:price>
+      <s:sku>U Cali Explorer Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7384970461239</id>
+    <published>2025-12-09T04:57:47+05:30</published>
+    <updated>2025-12-09T04:57:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-gz2-pod-system"/>
+    <title>Uwell Caliburn GZ2 Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_gz2_pod_system_-_black.webp?v=1765236468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Uwell Caliburn GZ2 17W Pod System, offering an 850mAh battery, 17W max output, and utilizes the Caliburn G2 Pods with Caliburn G Coils.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g2-empty-cartridge" title="Uwell Caliburn G2 Pods">Uwell Caliburn G2 Pods</a><br><a href="https://[YOUR DOMAIN]/products/uwell-caliburn-g-replacement-coils" title="Uwell Caliburn G Coils">Uwell Caliburn G Coils</a></p>
+<p>Uwell Caliburn GZ2 17W Pod System Features:<br></p>
+<ul>
+<li>Dimensions: 68.9mm by 23.8mm by 23.6mm<br>
+</li>
+<li>Battery Capacity: 850mAh<br>
+</li>
+<li>Max Wattage: 17W<br>
+</li>
+<li>Voltage Range: 0.8-1.0ohm<br>
+</li>
+<li>Chassis Material: Aluminum-Alloy<br>
+</li>
+<li>Charging: Type-C Port<br>
+</li>
+<li>Operation: Draw-Activated<br>
+</li>
+<li>Pod Series: Caliburn G2 Pods<br>
+</li>
+<li>Pod Capacity: 2mL<br>
+</li>
+<li>Construction: PCTG<br>
+</li>
+<li>Fill-System: Top Fill System<br>
+</li>
+<li>Coil Support: Caliburn G Coils</li>
+<li>LED Indicator Light</li>
+</ul>
+<p>Includes:<br></p>
+<ul>
+<li>1 GZ2 Device<br>
+</li>
+<li>2 Caliburn G2 Pods<br>
+</li>
+<li>1 0.8ohm Caliburn Coils<br>
+</li>
+<li>1 1.2ohm Caliburn G2 Coils<br>
+</li>
+<li>1 USB-C Cable<br>
+</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7384970461239</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4500.00</s:price>
+      <s:sku>U Cali GZ2 Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373699678263</id>
+    <published>2025-11-18T08:07:37+05:30</published>
+    <updated>2025-11-18T08:07:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/eleaf-istick-100w-tc-vape-system"/>
+    <title>Eleaf iStick 100W TC Vape Mod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Eleaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iStick-TC100W-Vape-Mod-SYstem.webp?v=1763433299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eleaf<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            6585.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Eleaf iStick 100W Box Mod is a powerful and compact device designed for reliable everyday use. Delivering up to 100 watts of output and powered by two high-rate 18650 batteries (not included), it offers long-lasting performance with excellent consistency. Featuring variable wattage, durable stainless steel threads, and a spring-loaded 510 connector, the iStick 100W ensures versatility and durability. With a wide resistance range and enhanced ventilation for heat dissipation, this device is suitable for both beginner and advanced vapers looking for efficiency and style in one box mod.</p>
+<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iStick-TC100W_07.gif?v=1763432778" alt="eleaf istick 100w vape mod - battery area" style="float: none;"></div>
+<p> </p>
+<p>Key Features:<br></p>
+<ul>
+<li>Output wattage range: 5–100W</li>
+<li>Voltage range: 2–10V</li>
+<li>Resistance range: 0.15–5O</li>
+<li>Powered by two 18650 batteries (not included)</li>
+<li>Durable stainless steel 510 connector with spring pin</li>
+<li>Enhanced ventilation for safer performance</li>
+<li>Compact and ergonomic design</li>
+</ul>
+<p>What’s Inside:<br></p>
+<ul>
+<li>1 × Eleaf iStick 100W Box Mod</li>
+<li>1 × USB Cable (for charging and firmware updates)</li>
+<li>1 × User Manual</li>
+<li>2 x Batteries (<em><strong>Separately given</strong></em>)</li>
+</ul>
+<p>Why Choose the Eleaf iStick 100W:<br></p>
+<ul>
+<li>Long battery life with dual 18650 configuration</li>
+<li>Compact yet powerful design</li>
+<li>Easy to use with clear settings and controls</li>
+<li>Built with stainless steel durability</li>
+<li>Trusted brand with proven performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373699678263</id>
+      <title>Default Title</title>
+      <s:price currency="KES">6585.00</s:price>
+      <s:sku>Eleaf iStick TC V Mod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373698400311</id>
+    <published>2025-11-18T07:47:39+05:30</published>
+    <updated>2025-11-18T07:47:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekvape-frenzy-pod-system"/>
+    <title>GeekVape Frenzy Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Geekvape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/geek_vape_frenzy_pod_system_black_carbon_fiber.webp?v=1763432260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geekvape<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Geek Vape FRENZY Pod System is an exquisitely crafted all-in-one vape kit, encapsulating all the of finest qualities such as advanced AS chipset with Power Output / Temperature Control Mode, 950mAh internal battery, and utilize the NS Mesh Coil Technology. Built with a zinc-alloy chassis with resin panels, the FRENZY Pod System adopts a strong and durable chassis to protect the advanced AS Chipset along with top-of-the line ergonomic handling. The chipset can provide an ultra-fast responsive firing time, alongside Intelligent Output Mode with automatic detection for Temperature Control Mode and adjustable Voltage Output Mode. The FRENZY Replacement Pod Cartridge holds up to 2mL of eLiquid, implementing a bottom-fill method with one of the most dynamic airflow design for a pod system.</p>
+<p>Quick Links:<br>Geek Vape NS Coils<br>Geek Vape FRENZY Replacement Pods</p>
+<p>Geek Vape FRENZY Pod System Features:</p>
+<ul>
+<li>AS Chipset</li>
+<li>Dimensions - 86.1mm by 37mm by 15.7mm</li>
+<li>Integrated 950mAh Rechargeable Battery</li>
+<li>Voltage Output Mode: 2.5V / 2.7V / 2.9V</li>
+<li>Temperature Control Mode: 420F / 440F / 460F</li>
+<li>Resistance Range: 0.7-3.0ohm</li>
+<li>Automatic Output Matching Function</li>
+<li>POWER Mode</li>
+<li>BOOST Mode - Temperature Control Only</li>
+<li>Temperature Control Mode</li>
+<li>Coil Dependent Firing Modes</li>
+<li>LED Battery Life Indicator Light</li>
+<li>LED Battery Charging Indicator Light</li>
+<li>Bottom Ventilation Holes</li>
+<li>Precise Temperature Control</li>
+<li>Magnetized Pod Connection</li>
+<li>MicroUSB Port</li>
+</ul>
+<p>Geek Vape FRENZY Pod:</p>
+<ul>
+<li>Fillable Pod System - Replaceable Cartridge</li>
+<li>2.0mL Refillable Juice Capacity</li>
+<li>Bottom Fill System - Dual Ports - Silicone Plug</li>
+<li>Geek Vape NS Coil Technology</li>
+<li>0.7ohm NS KA Mesh Coil - POWER Mode</li>
+<li>1.2ohm NS SS316L Coil - TEMPERATUR CONTROL Mode</li>
+<li>Compatible with FLINT Coils</li>
+<li>Threadless Coil Replacement Mechanism</li>
+<li>Bottom Adjustable Airflow Control Ring</li>
+<li>Propreitary Magnetized Gold-Plated Connection</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 FRENZY Mod Device</li>
+<li>1 FRENZY Pod</li>
+<li>1 1.2ohm Nichrome Coil</li>
+<li>1 MicroUSB Cable<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373698400311</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2599.00</s:price>
+      <s:sku>GeekV Frenzy Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373687881783</id>
+    <published>2025-11-18T07:39:23+05:30</published>
+    <updated>2025-11-18T07:39:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/smok-slm-pod-kit"/>
+    <title>SMOK SLM 16W Pod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/smok_slm_16w_pod_system_black.webp?v=1763431764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SMOK SLM 16W Ultra Portable Pod Kit presents one of the slimmest and lightweight vape pen to-date, integrating a 250mAh rechargeable battery with 0.8mL juice capacity and air-driven coil system for a sensational MTL Nic Salts experience. Leveraging the success of previous pod systems, SMOKTech crafted the SLM with a sleek and thin chassis design with streamline form factor for comfortable all-day use. Internally, SMOK has managed to integrate a 250mAh internal battery within the SLM Stick Thick Vapor, with LED light indicator to provide instant battery life feedback and is conveniently charged via microUSB port.</p>
+<p>Quick Links:<br>SMOK SLM Replacement Pod Cartridges</p>
+<p>SMOK SLM Ultra Portable Pod Kit Features:</p>
+<ul>
+<li>Dimensions - 112mm by 12mm by 9.5mm</li>
+<li>Integrated 250mAh Rechargeable Battery</li>
+<li>Wattage Output Range: 10-16W</li>
+<li>Voltage Input Range: 3.3-4.2V</li>
+<li>Direct Voltage Based Output</li>
+<li>Draw-Activated Firing Mechanism</li>
+<li>LED Light Battery Indicator</li>
+<li>Ultra Slim &amp;amp; Lightweight Design</li>
+<li>Fillable Pod System - Replaceable Cartridge</li>
+<li>0.8mL Juice Capacity - Side-Fill Slot</li>
+<li>Elongated Chimney - Coil Atomizer</li>
+<li>Air-Driven Pod System</li>
+<li>Ergonomically Sleek Mouthpiece</li>
+<li>8 Seconds Cut-Off Protection</li>
+<li>Short-Circuit Protection</li>
+<li>Low Voltage Warning</li>
+<li>MicroUSB Port Charging System</li>
+<li>Proprietary Magnetized Connection<br>
+</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 SLM Vape Pen Battery</li>
+<li>2 SLM Replacement Pods</li>
+<li>1 MicroUSB Cable</li>
+<li>1 Instructional Manual<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373687881783</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2999.00</s:price>
+      <s:sku>Smok SLM Pod Kit</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373683130423</id>
+    <published>2025-11-18T06:07:44+05:30</published>
+    <updated>2025-11-18T06:07:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/voopoo-argus-z-17w-pod-system"/>
+    <title>Voopoo Argus Z 17W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Voopoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/voopoo_argus_z_pod_system_-_side_by_side.png?v=1763426266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voopoo<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            2900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the VOOPOO Argus Z 17W Pod System, offering a 900mAh battery, 17W max wattage output, and is compatible with all Argus Z Replacment Pods. Constructed from durable aluminum-alloy, the chassis of the VOOPOO Argus Z offers a small and portable form factor, allowing the Argus Z to easily fit into the pocket, purse, or bookbag. The Voopoo Argus Z is perfect for those that are constantly on-the-go or traveling. Paired natively with the 0.7ohm Argus POD cartridge, the Argus Z can also be paired up with any other Argus POD cartridge to deliver delicious flavor and vapor from your favorite eJuice or nicotine salts.</p>
+<p><strong><img alt="voopoo argus z pod system infographic" src="https://cdn.shopify.com/s/files/1/0683/3504/2878/files/Voopoo_Argus_Z_Infographic.jpg?v=1674520274"></strong></p>
+<p><strong>VOOPOO Argus Z 17W Pod System Features:</strong><br></p>
+<ul>
+<li>Dimensions: 91mm by 27.5mm by 14.8mm</li>
+<li>Battery Capacity: Built-In 900mAh Battery</li>
+<li>Max Wattage Output: 17W</li>
+<li>Voltage Range: 3.2-3.5V</li>
+<li>Resistance Range: 0.5-3.0ohm</li>
+<li>Chassis Material: Aluminum-Alloy</li>
+<li>Charging: Type-C Cable</li>
+<li>Operation: Draw-Activated Firing Mechanism</li>
+<li>Pod Series: Argus Z Pod Series</li>
+<li>Fill System: Side Fill System - Silicone Stoppered</li>
+<li>Pod Material: PCTG</li>
+<li>Pod Capacity: 2mL</li>
+<li>Pod Connection: Magnetic</li>
+<li>Overtime Protection</li>
+<li>Short-Circuit Protection</li>
+<li>Overcharge Protection</li>
+<li>Low Battery Protection</li>
+<li>Compatible: All Argus POD Cartridges</li>
+</ul>
+<p><strong>Includes:</strong><br></p>
+<ul>
+<li>1 Argus Z Device</li>
+<li>1 0.7ohm Argus POD Cartridge</li>
+<li>1 Type-C Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373683130423</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2900.00</s:price>
+      <s:sku>V Argus Z Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7345124114487</id>
+    <published>2025-09-23T10:15:42+05:30</published>
+    <updated>2025-09-23T10:15:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vaporesso-luxe-q2-pod-system"/>
+    <title>Vaporesso Luxe Q2 Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vaporesso_luxxe_q2_pod_system_-_black.jpg?v=1758602284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the Vaporesso LUXE Q2 Pod System, offering a 1000mAh battery, intelligent wattage selection, and compatible with the LUXE Q Pods to deliver pure flavor.</p>
+<p>Quick Links:<br><a href="https://[YOUR DOMAIN]/products/vaporesso-luxe-q-replacement-pods" title="Vaporesso Luxe Q Replacement Pods" style="font-size: 0.875rem;">Vaporesso LUXE Q Pods</a></p>
+<p>Constructed from durable zinc-alloy, the Luxe Q2 Pod System is wrapped in faux leather to give a luxurious look and feel, elevating the Vaporesso Luxe Q2 Pod System. Adopting the AXON chipset for instantaneous heating and improved functionality, the Luxe Q2 Kit is perfect for those looking for a reliable vaping pod system. Powered by a 1000mAh battery, the Luxe Q2 is ideal, lasting throughout the day and accepting recharges through the Type-C port.</p>
+<p>Vaporesso LUXE Q2 Pod System Features:</p>
+<ul>
+<li>Dimensions: 96.8mm by 26mm by 18.6mm</li>
+<li>Battery Capacity: 1000mAh</li>
+<li>Chassis Material: Zinc-Alloy &amp; Leather</li>
+<li>Charging: Type-C Port</li>
+<li>Operation: Draw-Activated</li>
+<li>Adjustable Airflow - MTL / DTL</li>
+<li>LED Indicator Light</li>
+<li>Pod Series: LUXE Q</li>
+<li>Pod Capacity: 3mL</li>
+<li>Construction: PCTG</li>
+<li>Fill-System: Side Fill</li>
+<li>Coil Support: 0.6ohm, 0.8ohm, 1.0ohm</li>
+<li>Coil Installation: Integrated</li>
+<li>Pod Connection: Magnetic</li>
+<li>AXON Chipset</li>
+</ul>
+<p>Includes:</p>
+<ul>
+<li>1 LUXE Q2 Pod System</li>
+<li>1 0.6ohm LUXE Q Mesh Pod</li>
+<li>1 1.0ohm LUXE Q Mesh Pod</li>
+<li>1 Type-C Charging Cable</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7345124114487</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4450.00</s:price>
+      <s:sku>V Luxe Q2 Pod System</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7341420380215</id>
+    <published>2025-09-15T07:48:14+05:30</published>
+    <updated>2025-09-15T07:48:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/uwell-caliburn-g4-mini-35w-pod-system"/>
+    <title>Uwell Caliburn G4 Mini 35W Pod System</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/uwell_caliburn_g4_mini_pod_system_-_slate_grey.webp?v=1757902695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            4500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop the Uwell Caliburn G4 Mini Pod System, offering an 1100mAh battery, 5-35W range, and a dual airflow system via pod orientation and adjustment slider. Featuring the new Caliburn GPP Pods and cross-compatible with the Caliburn G3 Pods.</p>
+<p>Compatibility:<br><a href="https://[YOUR DOMAIN]/products/caliburn-gpp-replacement-pods" title="Uwell Caliburn GPP replacement pods">Uwell Caliburn GPP Pods</a><br><a href="https://[YOUR DOMAIN]/products/caliburn-g3-replacement-pods" title="Caliburn g3 replacement pods">Uwell Caliburn G3 Pods</a></p>
+<p>Uwell Caliburn G4 Mini 35W Pod System Features:</p>
+<ul>
+<li>DIMENSIONS: 112.7mm by 24.1mm by 14mm</li>
+<li>BATTERY CAPACITY: 1100mAh</li>
+<li>BATTERY CONFIGURATION: Integrated Rechargeable</li>
+<li>WATTAGE RANGE: 5-35W</li>
+<li>CHASSIS MATERIAL: PC + PCTG</li>
+<li>OPERATION: Draw-Activated</li>
+<li>OUTPUT: Variable Voltage</li>
+<li>CHARGING: USB Type-C</li>
+<li>POD CONNECTION: Magnetic</li>
+<li>POD CAPACITY: 3mL</li>
+<li>POD MATERIAL: PCTG</li>
+<li>FILL SYSTEM: Side-Fill</li>
+<li>COIL INSTALLATION: Integrated</li>
+<li>AIRFLOW: Side + Cartridge Orientation</li>
+</ul>
+<p>INCLUDES:</p>
+<ul>
+<li>1 Caliburn G4 Mini</li>
+<li>1 0.6ohm Caliburn GPP Pods</li>
+<li>1 User Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7341420380215</id>
+      <title>Default Title</title>
+      <s:price currency="KES">4500.00</s:price>
+      <s:sku>U Cali G4 Mini Pod System</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

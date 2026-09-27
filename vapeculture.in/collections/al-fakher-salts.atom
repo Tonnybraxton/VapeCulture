@@ -1,0 +1,1216 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/al-fakher-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-07-31T01:46:40+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7321117851703</id>
+    <published>2025-07-31T01:46:40+05:30</published>
+    <updated>2025-07-31T01:46:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-sweet-passion-fruit-nicotine-pouches"/>
+    <title>Al Fakher - Sweet Passion Fruit Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouches-sweet-passion-fruit.webp?v=1753906523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in the tropical delight of Sweet Passionfruit Flavoured Al Fakher <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Nicotine Pouches" style="font-size: 0.875rem;">Nicotine Pouches</a><span style="font-size: 0.875rem;">. Each pouch delivers a burst of exotic passionfruit flavor, perfectly balanced with a smooth nicotine experience. Ideal for those who crave a fruity escape, these pouches offer a satisfying and refreshing option that makes every use a moment of pleasure. </span></p>
+<p>How to Use-</p>
+<ol>
+<li>
+<strong>Place: </strong>Simply take a pouch and place it under your lip.</li>
+<li>
+<strong>Enjoy: </strong>Allow the pouch to release its bold flavour and smooth nicotine, providing a satisfying and enjoyable experience.</li>
+<li>
+<strong>Dispose:</strong> After use, dispose of the pouch responsibly.</li>
+</ol>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7321117851703</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Sweet Passion Fruit</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7321116114999</id>
+    <published>2025-07-31T01:43:13+05:30</published>
+    <updated>2025-07-31T01:43:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-blue-razz-lemonade-nicotine-pouches"/>
+    <title>Al Fakher - Blue Razz Lemonade Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-blue-razz-lemonade.webp?v=1753906057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your nicotine routine with the luxurious taste of Blue Razz Lemonade Al Fakher <a style="font-size: 0.875rem;" title="Nicotine Pouches" href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya">Nicotine Pouches</a><span style="font-size: 0.875rem;">. Experience the perfect harmony of rich coffee and smooth tobacco, whether you’re at home or on the move.</span></p>
+<p>How to Use-</p>
+<ol>
+<li>
+<strong>Place: </strong>Simply take a pouch and place it under your lip.</li>
+<li>
+<strong>Enjoy: </strong>Allow the pouch to release its bold flavour and smooth nicotine, providing a satisfying and enjoyable experience.</li>
+<li>
+<strong>Dispose:</strong> After use, dispose of the pouch responsibly.</li>
+</ol>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7321116114999</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Blue Razz Lemonade</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7321115918391</id>
+    <published>2025-07-31T01:35:05+05:30</published>
+    <updated>2025-07-31T01:35:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-berry-mint-nicotine-pouches"/>
+    <title>Al Fakher - Berry Mint Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-berry-mint.webp?v=1753905846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Al Fakher Berry Mint Nicotine Pouches offer a satisfying, refreshing option for nicotine users in Kenya, providing a balanced burst of flavor and a smooth nicotine experience in a discreet form. Perfect for anytime use!</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7321115918391</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Berry Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7321114705975</id>
+    <published>2025-07-31T01:31:40+05:30</published>
+    <updated>2025-07-31T01:31:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-coffee-tobacco-nicotine-pouches"/>
+    <title>Al Fakher - Coffee Tobacco Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-coffee-tobacco.webp?v=1753905518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Al Fakher Coffee Tobacco Nicotine Pouches offer a satisfying, refreshing option for nicotine users in Kenya, providing a balanced burst of flavor and a smooth nicotine experience in a discreet form. Perfect for anytime use!</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7321114705975</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Coffee Tobacco</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7321101828151</id>
+    <published>2025-07-31T01:26:51+05:30</published>
+    <updated>2025-07-31T01:26:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-lush-ice-nicotine-pouches"/>
+    <title>Al Fakher - Lush Ice Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-lush-ice.webp?v=1753902176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="317" data-start="0">Experience the perfect blend of fruity and icy with Al Fakher Lush Ice Nicotine Pouches in Kenya. These pouches combine the vibrant taste of watermelon with a refreshing ice sensation, delivering a cool, invigorating nicotine hit. Ideal for those who crave a chilled, fruity flavor with their nicotine experience.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="537" data-start="319">Al Fakher Berry Ice Nicotine Pouches offer a satisfying, refreshing option for nicotine users in Kenya, providing a balanced burst of flavor and a smooth nicotine experience in a discreet form. Perfect for anytime use!</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7321101828151</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Lush Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289137528887</id>
+    <published>2025-07-07T02:53:11+05:30</published>
+    <updated>2025-07-07T02:53:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-simply-mint-nicotine-pouch"/>
+    <title>Al Fakher - Simply Mint Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-simply-mint-min.jpg?v=1749422940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the refreshing and invigorating taste of Al Fakher Simply Mint Nicotine Pouches, the perfect choice for mint enthusiasts in Kenya. These premium pouches deliver a cool, crisp mint flavor that offers a burst of freshness with every use, providing a smooth and satisfying nicotine experience.</p>
+<p>Al Fakher Simply Mint <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Nicotine pouches Kenya">nicotine pouches</a> gives you a clean and revitalizing mint flavor that will keep your senses sharp and your cravings in check. Designed for those who appreciate simplicity and convenience, these pouches offer a discreet way to enjoy your favorite nicotine products in Kenya.</p>
+<p>Ideal for daily use, Al Fakher Simply Mint is the perfect nicotine pouch in Kenya, delivering a consistent nicotine experience while keeping you feeling fresh and energized throughout the day.</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289137528887</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Simply Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289138675767</id>
+    <published>2025-07-07T02:49:23+05:30</published>
+    <updated>2025-07-07T02:49:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-mango-freeze-nicotine-pouch"/>
+    <title>Al Fakher - Mango Freeze Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-mango-freeze-min.jpg?v=1749423820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="449" data-start="0">Take your nicotine experience to the next level with Al Fakher Mango Freeze Nicotine Pouches, exclusively designed for nicotine enthusiasts in Kenya. These premium pouches blend the tropical sweetness of ripe mangoes with a cool, menthol kick, offering a refreshing and satisfying nicotine hit. </p>
+<p data-end="723" data-start="451">Experience the perfect balance of juicy mango and crisp menthol, creating a unique and invigorating nicotine experience. Whether you're at home or on the move, these pouches provide a convenient and discreet way to enjoy your favorite nicotine products.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="946" data-start="725">For those seeking high-quality nicotine pouches in Kenya, Al Fakher Mango Freeze is a must-try. Satisfy your cravings with the tropical blend of mango and icy coolness, and enjoy the smooth nicotine hit anytime, anywhere.</p>
+<p>Key Features:</p>
+<ul>
+<li><a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Tobacco free nicotine pouches">Tobacco free nicotine pouches</a></li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289138675767</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Mango Freeze</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289140248631</id>
+    <published>2025-07-07T02:48:06+05:30</published>
+    <updated>2025-07-07T02:48:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-peach-ice-nicotine-pouch"/>
+    <title>Al Fakher - Peach Ice Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-peach-ice-min.jpg?v=1749424053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="390">Take your nicotine experience to the next level with Al Fakher Peace Ice Flavoured Nicotine Pouches, now available for nicotine enthusiasts in Kenya. This premium blend combines a cool menthol kick with a refreshing flavor, offering a revitalizing twist to your nicotine routine. Each pouch provides a crisp, icy sensation, perfect for those who crave a refreshing burst throughout the day.</p>
+<p data-start="392" data-end="722">Al Fakher Peace Ice Nicotine Pouches deliver the ideal balance of cool menthol and satisfying nicotine, making them the perfect choice for anyone looking for an invigorating experience. Whether you’re looking to recharge during a busy day or unwind, these nicotine pouches in Kenya offer the convenience and refreshment you need.</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289140248631</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Peach Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289143656503</id>
+    <published>2025-07-07T02:44:41+05:30</published>
+    <updated>2025-07-07T02:44:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-magic-love-nicotine-pouch"/>
+    <title>Al Fakher - Magic Love Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-magic-love-min.jpg?v=1749425497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="338">Discover the magic of Al Fakher Magic Love Nicotine Pouches in Kenya. This premium blend combines vibrant exotic fruits with a creamy sweetness, offering a unique and satisfying nicotine experience. Perfect for those seeking high-quality nicotine pouches in Kenya, Al Fakher’s Magic Love delivers a smooth, flavorful hit with every pouch.</p>
+<p data-start="340" data-end="591" data-is-last-node="" data-is-only-node="">Ideal for daily use, these nicotine products provide a discreet and convenient way to enjoy a refreshing burst of fruity flavor. Elevate your nicotine pouch experience in Kenya with Al Fakher Magic Love and indulge in a truly magical nicotine journey.</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289143656503</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Magic Love</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289145786423</id>
+    <published>2025-07-07T02:43:28+05:30</published>
+    <updated>2025-07-07T02:43:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-lucid-dream-nicotine-pouch"/>
+    <title>Al Fakher - Lucid Dream Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-lucid-dream-min.jpg?v=1749426555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="359">Discover the ultimate nicotine experience with Al Fakher Lucid Dream Nicotine Pouches, available in Kenya. This unique blend combines sweet, dreamy flavours to provide a smooth, relaxing sensation with every use. Perfect for those seeking high-quality nicotine pouches in Kenya, these pouches offer a satisfying, balanced hit that’s ideal for any time of day.</p>
+<p data-start="361" data-end="635">Al Fakher Lucid Dream Nicotine Pouches are perfect for those looking to enjoy a discreet, flavourful escape. Whether you're a regular user of nicotine products or trying nicotine pouches in Kenya for the first time, this blend promises a refreshing and enjoyable experience.</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289145786423</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Lucid Dream</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289145884727</id>
+    <published>2025-07-07T02:33:37+05:30</published>
+    <updated>2025-07-07T02:33:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-lemon-mint-nicotine-pouch"/>
+    <title>Al Fakher - Lemon Mint Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-lemon-mint-min.jpg?v=1749426967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="285">Refresh your senses with Al Fakher Lemon Mint Nicotine Pouches, a vibrant blend of tangy lemon and cool mint, designed for nicotine enthusiasts in Kenya. These pouches offer a smooth, invigorating experience, perfect for those looking for a refreshing nicotine fix with a citrus twist.</p>
+<p data-start="287" data-end="644">Ideal for everyday use, Al Fakher Lemon Mint Nicotine Pouches provide the perfect balance of flavor and convenience. Enjoy the zesty lemon and cooling mint while satisfying your cravings for nicotine products in Kenya. Whether you’re new to nicotine pouches in Kenya or a regular user, this blend delivers a refreshing, discreet, and satisfying experience.</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Nicotine pouches">nicotine pouches</a>
+</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289145884727</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Lemon Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289146605623</id>
+    <published>2025-07-07T02:23:48+05:30</published>
+    <updated>2025-07-07T02:23:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-gum-mint-nicotine-pouch"/>
+    <title>Al Fakher - Gum Mint Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-gum-mint-min.jpg?v=1749427781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="285">Refresh your senses with Al Fakher Gum Mint Nicotine Pouches, combining the coolness of mint with the sweet flavor of gum. Perfect for nicotine users in Kenya, these pouches offer a smooth and satisfying nicotine hit in a discreet, convenient form. Ideal for those seeking high-quality nicotine pouches in Kenya, Al Fakher’s Gum Mint blend ensures a refreshing and enjoyable experience. Try these top rated nicotine products in Kenya for a unique and flavorful hit whenever you need it!</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289146605623</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Gum Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289146834999</id>
+    <published>2025-07-07T02:22:28+05:30</published>
+    <updated>2025-07-07T02:22:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-grape-mint-nicotine-pouch"/>
+    <title>Al Fakher - Grape Mint Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-grape-mint-min.jpg?v=1749428019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="285">Refresh your senses with Al Fakher Gum Mint Nicotine Pouches, combining the coolness of mint with the sweet flavor of gum. Perfect for nicotine users in Kenya, these pouches offer a smooth and satisfying nicotine hit in a discreet, convenient form. Ideal for those seeking high-quality <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="best nicotine pouches in Kenya">best nicotine pouches in Kenya</a>, Al Fakher’s Gum Mint blend ensures a refreshing and enjoyable experience. Try these top rated nicotine products in Kenya for a unique and flavorful hit whenever you need it!</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289146834999</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Grape Mint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289153388599</id>
+    <published>2025-07-07T02:10:14+05:30</published>
+    <updated>2025-07-07T02:10:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-berry-ice-nicotine-pouch"/>
+    <title>Al Fakher - Berry Ice Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-berry-ice-min.jpg?v=1749428504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="317" data-start="0">Experience the perfect blend of fruity and icy with Al Fakher Berry Ice Nicotine Pouches in Kenya. These pouches combine the vibrant taste of mixed berries with a refreshing ice sensation, delivering a cool, invigorating nicotine hit. Ideal for those who crave a chilled, fruity flavor with their nicotine experience.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="537" data-start="319">Al Fakher Berry Ice Nicotine Pouches offer a satisfying, refreshing option for nicotine users in Kenya, providing a balanced burst of flavor and a smooth nicotine experience in a discreet form. Perfect for anytime use!</p>
+<p>Key Features:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289153388599</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Berry Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289154699319</id>
+    <published>2025-07-07T01:58:08+05:30</published>
+    <updated>2025-07-07T01:58:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-blackcurrant-ice-nicotine-pouch"/>
+    <title>Al Fakher - Blackcurrant Ice Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-blackcurrant-ice-min.jpg?v=1749428967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="371">Discover Al Fakher Blackcurrant Ice Nicotine Pouches, the perfect choice for nicotine enthusiasts in Kenya. These pouches blend the tangy sweetness of blackcurrants with a cool menthol kick, delivering a refreshing and smooth nicotine experience. Ideal for those who crave a burst of fruity freshness with a chill, each pouch provides a satisfying nicotine hit with ease.</p>
+<p data-start="373" data-end="604" data-is-last-node="" data-is-only-node="">Elevate your cravings with Al Fakher Blackcurrant Ice <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Nicotine Pouch">Nicotine Pouch</a>—offering the perfect balance of fruity flavor and menthol refreshment. A must-try nicotine product for anyone looking to enjoy a premium, convenient experience!</p>
+<p data-end="317" data-start="0"><span style="font-size: 0.875rem;">Key Features:</span></p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289154699319</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - Blackcurrant Ice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289156272183</id>
+    <published>2025-07-07T01:17:35+05:30</published>
+    <updated>2025-07-07T01:17:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-cherry-fiesta-nicotine-pouch"/>
+    <title>Al Fakher - Cherry Fiesta Nicotine Pouch</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-cherry-fiesta-min.jpg?v=1749429575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="345">Enhance your nicotine experience with Al Fakher Cherry Fiesta Nicotine Pouches, available for nicotine enthusiasts in Kenya. These pouches offer an exciting twist to your routine with the bold, tangy flavor of ripe cherries. Whether you crave a fruity burst or a satisfying nicotine fix, Cherry Fiesta delivers both in a convenient, smooth form.</p>
+<p data-start="347" data-end="673">Crafted for those who enjoy a rich cherry flavor paired with a steady nicotine release, these nicotine pouches offer a fun and refreshing alternative to traditional nicotine products. Al Fakher Cherry Fiesta nicotine pouches bring a lively, making them a perfect choice for daily enjoyment.</p>
+<p data-start="675" data-end="831" data-is-last-node="" data-is-only-node="">For those searching for premium nicotine pouches in Kenya, Cherry Fiesta is a <em>must-try</em>, combining vibrant taste and smooth nicotine delivery in every pouch.</p>
+<p data-end="317" data-start="0"><span style="font-size: 0.875rem;">Key Features:</span></p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289156272183</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Cherry Fiesta</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289156927543</id>
+    <published>2025-07-07T01:13:09+05:30</published>
+    <updated>2025-07-07T01:13:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-blueberry-gum-nicotine-pouch"/>
+    <title>Al Fakher - Blueberry Gum Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-blueberry-gum-min.jpg?v=1749430222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="277" data-start="0">Experience the perfect blend of juicy blueberries and classic bubblegum with Al Fakher Blueberry Gum <a href="https://[YOUR DOMAIN]/collections/nicotine-pouches-kenya" title="Nicotine pouches">Nicotine Pouches</a>. Designed for nicotine enthusiasts in Kenya, these pouches offer a sweet, fruity, and nostalgic flavor, making each nicotine hit both enjoyable and satisfying.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="594" data-start="279">Ideal for those who want a hassle-free and flavorful way to enjoy nicotine, Al Fakher Blueberry Gum Nicotine Pouches deliver a refreshing burst of taste with every use. A great choice for anyone looking for high-quality nicotine pouches in Kenya, these pouches make satisfying your cravings both easy and delicious.</p>
+<p data-start="0" data-end="317"><span style="font-size: 0.875rem;">Key Features:</span></p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors</li>
+<li>20mg Nicotine Strength</li>
+<li>Slim and comfortable pouch design</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289156927543</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Blueberry Gum</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289134415927</id>
+    <published>2025-07-07T01:00:50+05:30</published>
+    <updated>2025-07-07T01:00:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-white-flash-nicotine-pouch"/>
+    <title>Al Fakher - White Flash Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-white-flash-min.jpg?v=1749421923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="452">Elevate your nicotine experience with Al Fakher White Flash Nicotine Pouches, the perfect choice for those who enjoy a refreshing burst of flavor. Designed for nicotine enthusiasts across Kenya, these premium pouches deliver a clean, smooth sensation, ideal for anyone looking for a crisp, minty hit. The White Flash blend offers a cool, invigorating flavor that refreshes your senses while providing a steady nicotine release, perfect for all-day use.</p>
+<p data-start="454" data-end="755">Whether you’re new to nicotine pouches in Kenya or a seasoned user, Al Fakher White Flash Nicotine Pouches offer an excellent, discreet, and convenient way to enjoy your favorite nicotine products. The cool minty taste will keep you refreshed while you satisfy your cravings, no matter where you are.</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors<br>
+</li>
+<li>20mg Nicotine Strength<br>
+</li>
+<li>Slim and comfortable pouch design<br>
+</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289134415927</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1299.00</s:price>
+      <s:sku>Al Fakher Pouches - White Flash</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289135661111</id>
+    <published>2025-07-07T00:58:33+05:30</published>
+    <updated>2025-07-07T00:58:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-strawberry-punch-nicotine-pouch"/>
+    <title>Al Fakher - Strawberry Punch Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-strawberry-punch-min.jpg?v=1749422655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="326">Treat yourself to a burst of fruity pleasure with Al Fakher Strawberry Punch Flavoured Nicotine Pouches, now available for nicotine enthusiasts in Kenya. This exciting blend combines the sweet, ripe taste of strawberries with a tangy kick, delivering a one-of-a-kind nicotine experience that’s both refreshing and satisfying.</p>
+<p data-start="328" data-end="627">Ideal for those who crave a bold, fruity flavour, these nicotine pouches provide a discreet and convenient way to enjoy your nicotine fix. Whether you're at home or on the move.</p>
+<p data-start="629" data-end="942" data-is-last-node="" data-is-only-node="">Crafted for quality, these pouches provide a satisfying and enjoyable experience, making them a must-have for anyone looking for premium nicotine products in Kenya.</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors<br>
+</li>
+<li>20mg Nicotine Strength<br>
+</li>
+<li>Slim and comfortable pouch design<br>
+</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289135661111</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Strawberry Punch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289134350391</id>
+    <published>2025-07-07T00:31:38+05:30</published>
+    <updated>2025-07-07T00:31:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-two-apple-nicotine-pouch"/>
+    <title>Al Fakher - Two Apple Nicotine Pouches</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-pouch-two-apple-min.jpg?v=1749421082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="355" data-start="0">Looking for a refreshing nicotine experience? Al Fakher Two Apple Nicotine Pouches bring you the perfect blend of crisp, juicy apple flavors, designed to provide a smooth and satisfying nicotine hit. Aimed at nicotine enthusiasts in Kenya, these premium pouches deliver a burst of refreshing apple goodness, perfectly balanced for an enjoyable experience.</p>
+<p data-end="749" data-start="357">Whether you're at home, on the go, or simply looking for a quick burst of sweetness, Al Fakher Two Apple Nicotine Pouches are your ideal choice. With every pouch, you'll enjoy the classic taste of ripe apples, offering a convenient and discreet way to satisfy your cravings. Perfect for daily use, these nicotine pouches are a must-have for anyone seeking quality nicotine products in Kenya.</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li>Tobacco-free nicotine pouches</li>
+<li>Wide range of flavors<br>
+</li>
+<li>20mg Nicotine Strength<br>
+</li>
+<li>Slim and comfortable pouch design<br>
+</li>
+<li>Ideal for discreet, on-the-go use</li>
+<li>Quantity: 20 Pouches per can</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289134350391</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1200.00</s:price>
+      <s:sku>Al Fakher Pouches - Two Apple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289356910647</id>
+    <published>2025-06-10T05:58:25+05:30</published>
+    <updated>2025-06-10T05:58:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-nic-salt-white-flash"/>
+    <title>Al Fakher Nic Salt White Flash</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-salt-eliquid-white-flash-min.jpg?v=1749515306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Whether you crave fruity sweetness or refreshing menthol. Elevate your vaping experience with Al Fakher Nicotine Salt e-liquids and enjoy vaping like never before.</span></p>
+<p><strong>White Flash:</strong><span> This bold flavor combines the sweetness of mixed fruits with a hint of menthol, creating a vaping experience that's both refreshing and invigorating. Each inhale delivers a burst of fruity goodness, while the exhale provides a cool and refreshing finish. </span></p>
+<ul>
+<li>Bottle Size: 30ml</li>
+<li><span>Available in 20mg and 50mg</span></li>
+<li>Chubby unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>Made in USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356910647</id>
+      <title>20MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25fdd0a8d2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356910647</id>
+      <title>50MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25fdd9c3a3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289356877879</id>
+    <published>2025-06-10T05:58:22+05:30</published>
+    <updated>2025-06-10T05:58:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-nic-salt-two-apple"/>
+    <title>Al Fakher Nic Salt Two Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-salt-eliquid-two-apple-min.jpg?v=1749515304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Whether you crave fruity sweetness or refreshing menthol. Elevate your vaping experience with Al Fakher Nicotine Salt e-liquids and enjoy vaping like never before.</span></p>
+<p><strong>Two Apple:</strong><span> This classic flavor combines the sweetness of ripe red apples with the tartness of green apples, offering a flavor profile that's both complex and satisfying. Each inhale delivers a burst of fruity goodness, while the exhale leaves a lingering sweetness on your palate.</span></p>
+<ul>
+<li>Bottle Size: 30ml</li>
+<li><span>Available in 20mg and 50mg</span></li>
+<li>Chubby unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>Made in USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356877879</id>
+      <title>20MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f8315a58</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356877879</id>
+      <title>50MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f83cc2cc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289356845111</id>
+    <published>2025-06-10T05:58:20+05:30</published>
+    <updated>2025-06-10T05:58:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-nic-salt-strawberry-punch"/>
+    <title>Al Fakher Nic Salt Strawberry Punch</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-salt-eliquid-strawberry-punch-min.jpg?v=1749515302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you crave fruity sweetness or refreshing menthol. Elevate your vaping experience with Al Fakher Nicotine Salt e-liquids and enjoy vaping like never before.</p>
+<p><strong>Strawberry Punch:</strong><span> Ripe strawberries are blended to perfection, creating a flavor that's both sweet and tangy. Each inhale delivers the juicy taste of fresh strawberries, while the exhale leaves a lingering sweetness on your palate. It's a delightful flavor that's perfect for satisfying your sweet tooth cravings and leaving you feeling refreshed and satisfied.</span></p>
+<ul>
+<li>Bottle Size: 30ml</li>
+<li><span>Available in 20mg and 50mg</span></li>
+<li>Chubby unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>Made in USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356845111</id>
+      <title>20MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f7e449ae</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356845111</id>
+      <title>50MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f7ecf65f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289356812343</id>
+    <published>2025-06-10T05:58:18+05:30</published>
+    <updated>2025-06-10T05:58:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-nic-salt-mint"/>
+    <title>Al Fakher Nic Salt Simply Mint</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-simply-mint-nic-salt.webp?v=1751462566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the latest addition to the Al Fakher Nicotine Salt Family. Crafted with precision and care, these salts offer a smooth and satisfying vaping experience. Whether you crave fruity sweetness or refreshing menthol. Elevate your vaping experience with <a href="https://[YOUR DOMAIN]/collections/al-fakher-salts" title="Al Fakher Nic Salt">Al Fakher Nicotine Salt</a> e-liquids and enjoy vaping like never before.</p>
+<p><strong>Simply Mint:</strong><span> This classic flavor captures the pure essence of mint leaves, offering a refreshing vaping experience that's perfect for any time of day. It's a simple yet satisfying flavor that's sure to become a staple in your vaping collection.</span></p>
+<ul>
+<li>Bottle Size: 30ml</li>
+<li><span>Available in 20mg and 50mg</span></li>
+<li>Chubby unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>Made in USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356812343</id>
+      <title>20MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f7e0cc4f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356812343</id>
+      <title>50MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f7ead65d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289356779575</id>
+    <published>2025-06-10T05:58:16+05:30</published>
+    <updated>2025-06-10T05:58:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/al-fakher-nic-salt-peach-ice"/>
+    <title>Al Fakher Nic Salt Peach Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Al Fakher</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/al-fakher-nicotine-salt-eliquid-peach-ice-min.jpg?v=1749515297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Fakher<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Whether you crave fruity sweetness or refreshing menthol. Elevate your vaping experience with Al Fakher Nicotine Salt and enjoy vaping like never before.</span></p>
+<p><strong>Peach Ice: </strong><span>Ripe peaches are expertly blended with a hint of menthol, creating a flavor sensation that's both sweet and refreshing. Each inhale delivers the succulent taste of fresh peaches. It's a perfect balance of fruity sweetness and icy coolness that's sure to tantalize your taste buds and leave you feeling refreshed and satisfied.</span></p>
+<ul>
+<li>Bottle Size: 30ml</li>
+<li><span>Available in 20mg and 50mg</span></li>
+<li>Chubby unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>Made in USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356779575</id>
+      <title>20MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f7e0e361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289356779575</id>
+      <title>50MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>69d25f7ea7699</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

@@ -1,0 +1,1866 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/all.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-04-04T06:24:28+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436859768887</id>
+    <published>2026-04-04T06:24:28+05:30</published>
+    <updated>2026-04-04T06:24:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/lost-vape-quest-orion-pod-kit"/>
+    <title>Lost Vape Quest Orion Pod Kit</title>
+    <s:type>Vape</s:type>
+    <s:vendor>Lost Vape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Lost-Vape-Orion.webp?v=1775264069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lost Vape<br>
+        <strong>Type: </strong>Vape<br>
+        <strong>Price: </strong>
+            2700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lost Vape Orion is where cutting-edge technology meets premium craftsmanship. Designed for vapers who demand performance and style, this iconic pod system delivers a powerful, customizable, and ultra-smooth vaping experience in a compact, luxury build.</p>
+<p>Powered by the advanced DNA chipset (in select variants), the Orion ensures precise power control, consistent output, and enhanced flavour delivery—making every puff feel refined and satisfying.</p>
+<p>Lost Vape Orion Q Specs:</p>
+<ul>
+<li>Size: 93 mm x 37 mm x 13.5 mm<br>
+</li>
+<li>Internal Rechargeable Battery: 950mAh<br>
+</li>
+<li>Maximum Wattage Output: 40W – out of the box set to 17w<br>
+</li>
+<li>Pod Capacity: 2ml / 1ohm<br>
+</li>
+<li>Dual Adjustable Airflow<br>
+</li>
+<li>Short-Circuit Protection<br>
+</li>
+<li>Weak Battery Protection<br>
+</li>
+<li>Temperature Protection<br>
+</li>
+<li>Low/High Resistance Protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436859768887</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2700.00</s:price>
+      <s:sku>L V Quest Orion Pod Kit</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436857933879</id>
+    <published>2026-04-04T05:58:21+05:30</published>
+    <updated>2026-04-04T05:58:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/nasty-juice-cubano-nic-salt"/>
+    <title>Nasty Juice - Cubano Nic Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Nasty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/nasty-juice-cubano-nic-salt.webp?v=1775262095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nasty<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the bold sophistication of a classic cigar in a smooth, modern form with Nasty Juice Cubano Nic Salt. Crafted for those who appreciate deep, rich flavours, this blend delivers a luxurious tobacco profile with subtle creamy undertones—perfect for an all-day vape.</p>
+<p><a href="https://[YOUR DOMAIN]/collections/nasty-nic-salts" title="Nasty juice salt">Nasty Juice Salt</a> E-liquid Specifications:</p>
+<ul>
+<li>Brand: Nasty Juice<br>
+</li>
+<li>Category: Salt E-liquid<br>
+</li>
+<li>Bottle Size: 30 ml<br>
+</li>
+<li>Strengths: 35 mg and 50 mg<br>
+</li>
+<li>Blend: 50% VG / 50% PG<br>
+</li>
+<li>E-liquid Type: Nicotine salt for tight MTL use<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436857933879</id>
+      <title>35MG</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>Nasty Juice - Cubano 35 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436857933879</id>
+      <title>50MG</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>Nasty Juice - Cubano 50 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+    <published>2026-04-04T05:42:52+05:30</published>
+    <updated>2026-04-04T05:42:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/olivebar-ocean-60000-puffs"/>
+    <title>Olivebar Ocean (60000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Olivebar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/olivebar-ocean-60000-puffs-vape.webp?v=1775261100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olivebar<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into a next-level vaping experience with the Olivebar Ocean <a href="https://[YOUR DOMAIN]" title="Disposable Vape">Disposable Vape</a>, designed for those who want power, performance, and premium flavour in one sleek device. With an impressive 60000 puffs capacity, this device is built for long-lasting satisfaction without compromising on taste or smoothness.</p>
+<p>Equipped with adjustable airflow, you can customize your inhale style—tight and punchy or smooth and airy. The built-in 900mAh battery ensures reliable, all-day performance, making it perfect for both casual users and heavy vapers.</p>
+<p>Specifications:</p>
+<ul>
+<li>Up to 60000 Puffs<br>
+</li>
+<li>Dual Mesh Coils for enhanced flavour<br>
+</li>
+<li>3 Power Modes – MAX / MID / ECO<br>
+</li>
+<li>Adjustable Airflow Control<br>
+</li>
+<li>900mAh Rechargeable Battery<br>
+</li>
+<li>Premium design with vibrant finishes</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Blueberry Grape Ice</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Blueberry Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Blueberry Mint</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Blueberry Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Frozen Mango</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Frozen Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Frozen Grape</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Frozen Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Blueberry Raspberry</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Blueberry Raspberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Watermelon Berry</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Watermelon Berry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Frozen Lychee</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Frozen Lychee</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Juicy Pineapple Ice</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Juicy Pineapple Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Cola Lemon Soda</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Cola Lemon Soda</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Strawberry Ice Refresher</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Strawberry Ice Refresher</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Juicy Peach Ice</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Juicy Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436849905719</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>Olivebar Ocean (60K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+    <published>2026-04-04T05:06:13+05:30</published>
+    <updated>2026-04-04T05:06:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekpod-2-us-80000-puffs"/>
+    <title>Geekpod 2 US (80000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/olivebar-geekpod-II-80k-puff-vape.webp?v=1775259373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            3100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Geekpod II US 80K delivers a powerful disposable vape experience with up to 80,000 puffs, fruity flavor design, and dual modes for customizable performance. Enjoy a unique blended mode using the Norm and boost mode, while dual airflow ensures a smooth, satisfying draw every time. Shop <a href="https://[YOUR DOMAIN]" title="disposable vape">disposable vape</a> at best price in Kenya, with free shipping.</p>
+<p>Specifications:</p>
+<ul>
+<li>Nicotine Strength: 5%<br>
+</li>
+<li>Puffs: Up to 80,000<br>
+</li>
+<li>Dual airflow system<br>
+</li>
+<li>Battery &amp; e-liquid display screen<br>
+</li>
+<li>Norm Mode: 15W (up to 80,000 puffs)<br>
+</li>
+<li>Boost Mode: 35W (up to 60,000 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Blueberry Watermelon</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Blueberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Frozen Grape</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Frozen Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Juicy Peach Ice</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Juicy Peach Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Strawberry Kiwi</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Lychee Watermelon</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Lychee Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Blackberry B-Pop</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Blackberry B-Pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Strawberry B-Pop</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Strawberry B-Pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436838666295</id>
+      <title>Mexico Mango</title>
+      <s:price currency="KES">3100.00</s:price>
+      <s:sku>Geekpod 2 US (80K P) - Mexico Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+    <published>2026-04-03T07:06:08+05:30</published>
+    <updated>2026-04-03T07:06:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-double-apple"/>
+    <title>VGOD Nicotine Salt - Double Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-saltnic-double-apple-nicotine-salt.webp?v=1775180064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Mix Iced Double Apple 30ml: Savor a robust blend of succulent red and green apples, where sour and sweetness coexist together. The clean, thrilling ice blast elevates the fresh, lively taste of ripe apples in every puff, locking in the flavor and leaving you wanting more. Shop vaping devices at best <a href="https://[YOUR DOMAIN]" title="vape price">vape price</a> in Kenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 25 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>25 mg with Ice</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 25 Mg with Ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>50 mg with ice</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 50 Mg with Ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+    <published>2026-04-03T07:01:55+05:30</published>
+    <updated>2026-04-03T07:01:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-desert-blend"/>
+    <title>VGOD Nicotine Salt - Desert Blend</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Tobacco-Plus-Saltnic-30ml-Desert-Blend.webp?v=1775179793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Tobacco Plus Desert Blend SaltNic delivers the authentic taste of dry tobacco leaves with an earthy, smooth profile enhanced by a hint of spice. This warm and aromatic blend is balanced and clean, making it an excellent choice for an all-day vape. Available in 20mg, 25mg, and 50mg strengths in a 30ml bottle. Shop from vapekenya and get best <a href="https://[YOUR DOMAIN]" title="e cigarette price">e cigarette price</a> in Kenya.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Desert Blend - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Desert Blend - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+    <published>2026-04-03T06:58:09+05:30</published>
+    <updated>2026-04-03T06:58:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-pina-colada"/>
+    <title>VGOD Nicotine Salt - Pina Colada</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-30ml-Iced-Pina-Colada.webp?v=1775179523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transport yourself to a tropical escape with VGOD MIX – Iced Piña Colada, a refreshing nicotine salt blend that delivers the perfect balance of creamy coconut, sweet pineapple, and a crisp icy finish. Each puff captures the iconic beach-inspired cocktail flavor, offering a smooth, cool, and flavorful vape experience ideal for hot days or all-day freshness. Shop from vapekenya and get best <a href="https://[YOUR DOMAIN]" title="e cigarette price">e cigarette price</a> in Kenya.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pina Colada - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pina Colada - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+    <published>2026-04-03T06:27:55+05:30</published>
+    <updated>2026-04-03T06:27:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-lens-50000-puffs"/>
+    <title>Yuoto Lens (50000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/yuoto-lens-peach-ice-50k.webp?v=1775177876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Step into the future of vaping with the Yuoto Lens 50000, a powerhouse disposable designed for users who want extreme longevity, premium performance, and next-level convenience. Built for heavy users and serious enthusiasts, this device delivers an unmatched vaping experience that keeps going… and going.</p>
+<p>Key Features:</p>
+<ul>
+<li>Premium Build &amp; Futuristic Design</li>
+<li>Up to 50,000 Puffs<br>
+</li>
+<li>High E-Liquid Capacity (~25ml)<br>
+</li>
+<li>5% (50mg) Nicotine Salt<br>
+</li>
+<li>Rechargeable Battery (Type-C)<br>
+</li>
+<li>Advanced Mesh Coil Technology<br>
+</li>
+<li>Smart Display Screen<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Peach Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Peach Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Coke Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Coke Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Energy Drink</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Energy Drink</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Mixed Berries</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Mixed Berries</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Peach Mango Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Peach Mango Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Watermelon Bubblegum</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Watermelon Bubblegum</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Mango Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Mango Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Double Apple</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Double Apple</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436346490935</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">2790.00</s:price>
+      <s:sku>Y Lens (50K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+    <published>2026-04-03T05:59:49+05:30</published>
+    <updated>2026-04-03T05:59:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/yuoto-thanos-vape-5000-puffs"/>
+    <title>Yuoto Thanos Vape (5000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>Yuoto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Yuoto-Thanos-5000-Puffs-Disposable-Vape.webp?v=1775176190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yuoto<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            1550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience power, performance, and premium flavor in one compact device with the Yuoto Thanos Disposable Vape. Designed for modern vapers who want convenience without compromising on quality, this high capacity disposable delivers a smooth and satisfying experience from the first puff to the last.</p>
+<ul>
+<li>Up to 5000 Puffs<br>
+</li>
+<li>14ml Pre-Filled E-Liquid<br>
+</li>
+<li>5% (50mg) Nicotine Salt Strength<br>
+</li>
+<li>Rechargeable 650mAh Battery (Type-C)<br>
+</li>
+<li>Advanced Mesh Coil Technology<br>
+</li>
+<li>Draw-Activated Mechanism<br>
+</li>
+<li>Sleek &amp; Portable Design</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Coke Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Coke Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Antonovka Apple</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Antonovka Apple</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Blueberry Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Energy Drink Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Energy Drink Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Grape Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Milk Coffee</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Milk Coffee</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Mint Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Mint Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Strawberry Peach Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Strawberry Peach Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Strawberry Watermelon Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Strawberry Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Watermelon Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Passion Fruit</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Passion Fruit</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436344459319</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">1550.00</s:price>
+      <s:sku>Y Thanos V (5K P) - Strawberry Kiwi Ice</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+    <published>2026-02-25T12:13:23+05:30</published>
+    <updated>2026-02-25T12:13:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/geekpod-us-40000-puffs"/>
+    <title>Geekpod US (40000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/geekpod-vape-us-40000-puffs.webp?v=1772001325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Geekpod US 40K delivers a powerful disposable vape experience with up to 40,000 puffs, fruity flavor design, and dual modes for customizable performance. Enjoy a unique blended mode using the Norm and boost mode, while dual airflow ensures a smooth, satisfying draw every time.</p>
+<p>Specifications:</p>
+<ul>
+<li>Nicotine Strength: 5%<br>
+</li>
+<li>Puffs: Up to 40,000<br>
+</li>
+<li>Dual airflow system<br>
+</li>
+<li>Battery &amp; e-liquid display screen<br>
+</li>
+<li>Norm Mode: 15W (up to 40,000 puffs)<br>
+</li>
+<li>Boost Mode: 35W (up to 20,000 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Strawberry B-pop</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Strawberry B-pop</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Juicy Peach Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Strawberry Kiwi Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Strawberry Kiwi</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Miami Mint</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Miami Mint</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Sakura Grape</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Sakura Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Blueberry Watermelon</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Blueberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Mexico Mango</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Mexico Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419660632119</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2450.00</s:price>
+      <s:sku>GeekP US (40K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+    <published>2026-02-25T07:18:23+05:30</published>
+    <updated>2026-02-25T07:18:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-summer-wave"/>
+    <title>IQOS HEETS Summer Wave</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/summer-wave-heets.webp?v=1771984104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-summer-wave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p>This carton contains 10 packs of HEETS tobacco sticks.</p>
+<p>Each pack contains 20 sticks, for a total of 200 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Summer Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Summer Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418241318967</id>
+    <published>2026-02-20T08:34:00+05:30</published>
+    <updated>2026-02-20T08:34:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-i-one-kit"/>
+    <title>IQOS Iluma i One Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Buy-iQOS-iLUMA-i-ONE-Breeze-Blue.png?v=1771556474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            16500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>IQOS ILUMA</strong> i is the newest generation of tobacco heating devices in the IQOS ILUMA lineup — no ash, no smoke, and no lingering cigarette smell.</p>
+<p>The <strong>IQOS ILUMA i ONE</strong> features a compact, user-friendly design with a sleek aluminum finish that feels smooth and comfortable in hand.</p>
+<p>With intelligent functions like Auto-Start and FlexPuff, it offers an intuitive and effortless tobacco heating experience.</p>
+<p>Enjoy an easier draw*, blade-free technology, and no cleaning needed — consistent with all devices in the IQOS ILUMA series.</p>
+<p>ILUMA i ONE device<br>Power Adapter &amp; Charging Cable</p>
+<p>*TEREA tobacco sticks are not included.</p>
+<p>Suitable for TEREA and DELIA sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418241318967</id>
+      <title>Default Title</title>
+      <s:price currency="KES">16500.00</s:price>
+      <s:sku>Iluma i One Kit</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+    <published>2026-02-20T08:18:29+05:30</published>
+    <updated>2026-02-20T08:18:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-combo-25000-puffs"/>
+    <title>Elfbar Combo (25000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Elf_Bar_COMBO_25000_grape_BLACKCURRANT.webp?v=1771553892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ELF BAR COMBO 25000 delivers a powerful disposable vape experience with up to 25,000 puffs, triple-flavor design, and dual modes for customizable performance. Easily switch between single flavors or enjoy a unique blended mode using the combo switch, while dual airflow ensures a smooth, satisfying draw every time.</p>
+<p>Specifications:</p>
+<ul>
+<li>Battery: 850mAh rechargeable (Type-C)<br>
+</li>
+<li>E-liquid: 22ml pre-filled<br>
+</li>
+<li>Nicotine Strength: 5%<br>
+</li>
+<li>Puffs: Up to 25,000<br>
+</li>
+<li>Dual airflow system<br>
+</li>
+<li>Battery &amp; e-liquid display screen<br>
+</li>
+<li>Lite Mode: 15W (up to 25,000 puffs)<br>
+</li>
+<li>Turbo Mode: 35W (up to 15,000 puffs</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Strawberry + Watermelon Bubblegum</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Strawberry + Watermelon Bubblegum</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Grape + Blackcurrant</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Grape + Blackcurrant</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Peach Mango + Watermelon</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Peach Mango + Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Peach + Mango</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Peach + Mango</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Cherry + Cola</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Cherry + Cola</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Green Grape + Grape</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Green Grape + Grape</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Soursop + Lychee</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Soursop + Lychee</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Apple + Juicy Peach</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Apple + Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418239647799</id>
+      <title>Watermelon + Honeydew</title>
+      <s:price currency="KES">2550.00</s:price>
+      <s:sku>E B Combo (25K P) - Watermelon + Honeydew</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+    <published>2026-02-20T07:17:26+05:30</published>
+    <updated>2026-02-20T07:17:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-orange-soda-salt"/>
+    <title>BLVK Bar - Orange Soda Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/orange-soda-blvk-bar-hyper-ice.webp?v=1771551964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Orange Soda 35 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Orange Soda 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+    <published>2026-02-20T07:15:29+05:30</published>
+    <updated>2026-02-20T07:15:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-peach-salt"/>
+    <title>BLVK Bar - Juicy Peach Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-peach-blvk-bar-hyper-ice.webp?v=1771551858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Peach Salt 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Peach Salt 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+    <published>2026-02-20T07:13:16+05:30</published>
+    <updated>2026-02-20T07:13:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-passion-salt"/>
+    <title>BLVK Bar - Juicy Passion Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-passion-blvk-bar-hyper-ice.webp?v=1771551706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Passion Salt 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Passion Salt 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+    <published>2026-02-20T07:11:01+05:30</published>
+    <updated>2026-02-20T07:11:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-berry-grape-salt"/>
+    <title>BLVK Bar - Berry Grape Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Berry-Grape-blvk-bar-hyper-ice.webp?v=1771551518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Berry Grape 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Berry Grape 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+    <published>2026-02-20T07:07:27+05:30</published>
+    <updated>2026-02-20T07:07:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-passion-peach-salt"/>
+    <title>BLVK Bar - Passion Peach Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/passion-peach-blvk-bar-nicotine-salt.webp?v=1771551379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your senses with the likes of juicy passion fruit, succulent peach, and an intense icy breeze. It's surely a tropical symphony of sweet &amp; exotic joy time and again.<br></p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Passion Peach - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Passion Peach - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+    <published>2026-02-20T07:00:09+05:30</published>
+    <updated>2026-02-20T07:00:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-kiwi-dragon-fruit"/>
+    <title>BLVK Bar - Kiwi Dragon Fruit Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/KIWI-DRAGON-FRUIT-30ML-BY-BLVK-BAR.webp?v=1771550788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Salt Kiwi Dragon Fruit Ice delivers a vibrant tropical blend of tangy kiwi and sweet dragon fruit, finished with a crisp menthol chill. This refreshing combination creates a smooth, icy vape that’s both fruity and invigorating — perfect for those who enjoy cool flavors with an exotic twist.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Kiwi Dragon Fruit - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Kiwi Dragon Fruit - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+    <published>2026-02-20T06:55:38+05:30</published>
+    <updated>2026-02-20T06:55:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-mango"/>
+    <title>BLVK Bar - Juicy Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-mango-blvk-bar-nicotine-salt.webp?v=1771550411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a burst of icy freshness with Juicy Mango Ice BLVK Salt Nic E-Juice. This 30ml blend delivers a succulent burst of sun-kissed mango chunks paired with an intense winter chill deliver a noteworthy tropical getaway experience. Shop now and elevate your vape with this chilling classic.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Mango - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Mango - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+    <published>2026-02-20T06:49:37+05:30</published>
+    <updated>2026-02-20T06:49:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-double-spearmint-salt"/>
+    <title>BLVK Bar - Double Spearmint Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/double-spearmint-blvk-bar-nicotine-salt.webp?v=1771550161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a burst of icy freshness with Double Spearmint Ice BLVK Mint Salt Nic E-Juice. This 30ml blend delivers cool spearmint flavor layered with a crisp menthol finish for a clean, refreshing vape every time. Perfect for mint lovers seeking a smooth, satisfying hit. Shop now and elevate your vape with this chilling classic.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Double Spearmint 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Double Spearmint 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+    <published>2026-02-20T06:44:35+05:30</published>
+    <updated>2026-02-20T06:44:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-american-tobacco-salt"/>
+    <title>BLVK Bar - American Tobacco Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/AMERICAN-TOBACCO-30ML-BY-BLVK-BAR.webp?v=1771549905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience smooth satisfaction with BLVK Bar Saltnic 30ml E-Liquid, crafted for rich flavor and a clean throat hit. This tobacco blend delivers the classis tobacco taste, a bold taste, on every puff. Shop Blvk nicotine salts at best price in Kenya only at vapekenya.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - American Tobacco 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - American Tobacco 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+    <published>2026-02-20T06:40:28+05:30</published>
+    <updated>2026-02-20T06:40:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-watermelon-gummy-salt"/>
+    <title>BLVK Bar - Watermelon Gummy Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/watermelon-gummy-blvk-bar-nicotine-salt.webp?v=1771549690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience smooth satisfaction with BLVK Bar Saltnic 30ml E-Liquid, crafted for rich flavor and a clean throat hit. This fruity blend delivers the tart kick of watermelon, a hint of sweetness, and a refreshing icy finish on every puff.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Watermelon Gummy 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Watermelon Gummy 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+    <published>2026-02-18T06:55:19+05:30</published>
+    <updated>2026-02-18T06:55:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/elfbar-raya-sobo-40000-puffs"/>
+    <title>Elfbar Raya Sobo (40000 Puffs)</title>
+    <s:type>Disposable Device</s:type>
+    <s:vendor>ELF BAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/elfbar-raya-sobo-40000-puffs.webp?v=1771377520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELF BAR<br>
+        <strong>Type: </strong>Disposable Device<br>
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out the latest invention - The Elfbar Raya Sobo is here! Experience up to 40,000 smooth puffs powered by 1100mAh battery built for consistency. Featuring Interactive glow, Normal / Turbo Mode, and Dual Mesh technology for richer flavor and stronger performance, and what not. It gives one of the smoothest hit, a must try only at [YOUR DOMAIN]</p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Latest in Elfbar Raya Series</li>
+<li>Puff: 40000 Puffs<br>
+</li>
+<li>Battery: 1100mAh</li>
+<li>Dual Mesh Technology</li>
+<li>2 Different modes</li>
+<li>Charging: Rechargeable with Type C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blackberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blackberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blackberry Mint Strawberry</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blackberry Mint Strawberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Strawberry Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Strawberry Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blackberry Cranberry</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blackberry Cranberry</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Strawberry Watermelon</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Grape Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Grape Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Lychee Juicy Peach</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Lychee Juicy Peach</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Lemon Lime</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Lemon Lime</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Watermelon Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Watermelon Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Cola Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Cola Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417219416119</id>
+      <title>Blue Razz Ice</title>
+      <s:price currency="KES">2800.00</s:price>
+      <s:sku>E B Raya Sobo (40K P) - Blue Razz Ice</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7417213354039</id>
+    <published>2026-02-18T06:18:02+05:30</published>
+    <updated>2026-02-18T06:18:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pablo-passion-fruit-15mg"/>
+    <title>Pablo - Passion Fruit 50 Mg</title>
+    <s:type>Nicotine Pouches</s:type>
+    <s:vendor>Pablo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pablo-passionfruit-nicotine-pouches.webp?v=1771374258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pablo<br>
+        <strong>Type: </strong>Nicotine Pouches<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pablo Passionfruit nicotine pouches combines the extremely strong 50mg/g (30mg per pouch) hit with a sweet-tart passionfruit flavour. Fruity, vibrant and refreshing — perfect for tropical flavour lovers.</p>
+<p>Why Choose Pablo Passionfruit?</p>
+<ul>
+<li>Flavour: Sweet, tangy passionfruit.<br>
+</li>
+<li>Nicotine Strength: 50mg/g ultra-strong.<br>
+</li>
+<li>Slim &amp; Discreet: All-white and comfortable.<br>
+</li>
+<li>Long-Lasting Enjoyment: Up to 30 minutes.<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7417213354039</id>
+      <title>Default Title</title>
+      <s:price currency="KES">1399.00</s:price>
+      <s:sku>Pablo - Passion Fruit 15mg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

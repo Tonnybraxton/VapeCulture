@@ -1,0 +1,1316 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/dinner-lady-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-12-09T07:02:45+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385006211127</id>
+    <published>2025-12-09T07:02:45+05:30</published>
+    <updated>2025-12-09T07:02:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-sweet-tobacco"/>
+    <title>Dinner Lady Salts Sweet Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Nic-Salts-Sweet-Tobacco_f24216e2-9335-4a54-b2f8-434b8bb408f6.webp?v=1765243923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Tobacco salt nicotine e-liquid by Dinner Lady is a tobacco blend containing a sweet dessert layer. A woody yet smooth tobacco provides the base of the vape, whilst a buttery dark caramel complements throughout.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li>Nicotine Strength: 50mg and 30mg<br>
+</li>
+<li>VG/PG: 50/50</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385006211127</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Sweet Tobacco - 30 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385006211127</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Sweet Tobacco - 50 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385005981751</id>
+    <published>2025-12-09T06:58:41+05:30</published>
+    <updated>2025-12-09T06:58:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-cool-tobacco"/>
+    <title>Dinner Lady Salts Cool Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/cool-tobacco-dinner-lady-salt.webp?v=1765243646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Tobacco by Dinner Lady, in particular, incorporates strong and sharp notes of icy menthol, delivering a chilling sensation alongside the robust notes of woody tobacco. As such, it is tailor-made for ex-smokers with a penchant for mint cigarettes, but with the smooth throat hit you come to expect from Dinner Lady’s products.</p>
+<ul>
+<li>50% VG / 50% PG<br>
+</li>
+<li>Salt Nicotine Blends<br>
+</li>
+<li>Made In The UK<br>
+</li>
+<li>Childproof Cap<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005981751</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Cool Tobacco - 30 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005981751</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Cool Tobacco - 50 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385005850679</id>
+    <published>2025-12-09T06:56:04+05:30</published>
+    <updated>2025-12-09T06:56:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-cola-ice"/>
+    <title>Dinner Lady Salts Cola Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/cola-ice-dinner-lady-salts-30ml-vape-salt.webp?v=1765243496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cola Shades salt nicotine e-liquid by Dinner Lady Summer Holidays features a sugary cola flavour on inhale which has light caramel notes, whilst a combination of lemon and ice gives this e-liquid a tangy and cool finish.</p>
+<ul>
+<li>50% VG / 50% PG<br>
+</li>
+<li>Salt Nicotine Blends<br>
+</li>
+<li>Made In The UK<br>
+</li>
+<li>Childproof Cap<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005850679</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Cola Ice - 30 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005850679</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Cola Ice - 50 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385005522999</id>
+    <published>2025-12-09T06:53:01+05:30</published>
+    <updated>2025-12-09T06:53:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-strawberry-macaroon"/>
+    <title>Dinner Lady Salts Strawberry Macaroon</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-lady-Salt-Nic-Strawberry-Macaroon-30ml.webp?v=1765243292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delve into Strawberry Macaroon SALTS by Vape Dinner Lady capturing a mixture of sweet coconut, cream, and almonds flavored with delicious strawberries.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.<br>
+</li>
+<li>Nicotine Strength: 50mg and 30mg<br>
+</li>
+<li>VG/PG: 50/50</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005522999</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Strawberry Macaroon - 30 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005522999</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Strawberry Macaroon - 50 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7385005129783</id>
+    <published>2025-12-09T06:50:30+05:30</published>
+    <updated>2025-12-09T06:50:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-sweet-fusion"/>
+    <title>Dinner Lady Salts Sweet Fusion</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner_Lady_Sweet_Fusion_30ml.webp?v=1765243158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinner Lady <a title="Nic Salt" href="https://[YOUR DOMAIN]/collections/nic-salts">nicotine salt</a> concentrates are ideal for experienced vapers looking to personalize their vaping experience. A burst of chewy fruits. This multi-coloured sweet sensation is sure to excite your taste buds.<br></p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.<br>
+</li>
+<li>Nicotine Strength: 50mg and 30mg<br>
+</li>
+<li>VG/PG: 50/50</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005129783</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Sweet Fusion - 30 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7385005129783</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Sweet Fusion - 50 MG</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312427319351</id>
+    <published>2025-07-07T07:45:18+05:30</published>
+    <updated>2025-07-07T07:45:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-bubble-mint"/>
+    <title>Dinner Lady Ice Moments - Bubble Mint</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-ice-moments-bubble-mint-salt-likit.jpg?v=1751854520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinner Lady Moments Bubble Mint combines classic sweet bubble gum and a fresh burst of natural mint. Love a “pop” of nostalgia? Then this lip-smacking juicy flavor is for you. Containing PG and food-grade flavourings, Dinner Lady Concentrates are ideal for experienced vapers looking to personalise their vaping experience.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.<br>
+</li>
+<li>Nicotine Strength: 50mg and 30mg<br>
+</li>
+<li>VG/PG: 50/50</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427319351</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d262829f3e9</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427319351</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d262833254c</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312427253815</id>
+    <published>2025-07-07T07:45:16+05:30</published>
+    <updated>2025-07-07T07:45:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-fruit-splash"/>
+    <title>Dinner Lady Ice Moments - Fruit Splash</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Aroma-Fruit-Splash-Dinner-Lady.png?v=1751854517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">
+<div data-mce-fragment="1" class="product-name">
+<div data-mce-fragment="1" class="title">
+<div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">Dinner Lady’s Fruit Splash combines a mixed medley of summer fruits; mainly vocalized by notes of currants, mixed berries, and citric notes. Containing PG and food-grade flavourings, Dinner Lady Concentrates are ideal for experienced vapers looking to personalize their vaping experience.<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427253815</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26283ad9a7</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427253815</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d262843c371</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312427221047</id>
+    <published>2025-07-07T07:45:13+05:30</published>
+    <updated>2025-07-07T07:45:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-razz-blues"/>
+    <title>Dinner Lady Ice Moments - Razz Blues</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/DinnerLady-Moments-RazzBlues-30ml-30MG.jpg?v=1751854515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">
+<div class="product-name" data-mce-fragment="1">
+<div class="title" data-mce-fragment="1">
+<div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">Dinner Lady’s Razz Blues combines bursts of mixed blueberries and ripened raspberries, to create what we would call a ‘perfect berry vape’ flavour. Containing PG and food-grade flavourings, Dinner Lady Concentrates are ideal for experienced vapers looking to personalise their vaping experience.<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427221047</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f88091c4</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427221047</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f889c06a</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312427122743</id>
+    <published>2025-07-07T07:45:11+05:30</published>
+    <updated>2025-07-07T07:45:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-bubble-gum-ice"/>
+    <title>Dinner Lady Salts Bubble Gum Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-ice-salt-bubble-gum-30-ml.jpg?v=1751854512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bubble Trouble by Dinner Lady Salts Wholesale 30ML is a salt nic that will leave your mouth watering for more! Dinner Lady <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nicotine salts">nicotine salt </a>concentrates are ideal for experienced vapers looking to personalize their vaping experience.</span></p>
+<ul>
+<li><span>Quantity: 30ml e liquid concentrated with nicotine.</span></li>
+<li><span>Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><span><em>VG/PG: 50/50</em></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427122743</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f8808ed1</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427122743</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f889c4b1</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312427057207</id>
+    <published>2025-07-07T07:45:08+05:30</published>
+    <updated>2025-07-07T07:45:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-blue-menthol"/>
+    <title>Dinner Lady Salts Blue Menthol</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Blue-Menthol-Dinner-Lady-Salts-30-ml.jpg?v=1751854510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinner Lady’s Blue Menthol flavor combines sweet and fruity berries with a cooling menthol sensation. Dinner Lady <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nic Salt">nicotine salt</a> concentrates are ideal for experienced vapers looking to personalize their vaping experience.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.<br>
+</li>
+<li>Nicotine Strength: 50mg and 30mg<br>
+</li>
+<li>VG/PG: 50/50</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427057207</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26284351c2</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427057207</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26284b8979</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312427024439</id>
+    <published>2025-07-07T07:45:06+05:30</published>
+    <updated>2025-07-07T07:45:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-peach-ice-tea"/>
+    <title>Dinner Lady Salts Peach Mint Iced Tea</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Peach-Ice-Tea-Peach-Nic-Salt-Dinner-Lady.jpg?v=1751854508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">Refreshing peach balanced with the bitter taste of tea and the refreshing undertone of ice. <span><a href="https://[YOUR DOMAIN]/collections/dinner-lady-salts" title="Dinner lady nicotine salts">Dinner Lady nicotine salt </a>concentrates are ideal for experienced vapers looking to personalize their vaping experience.</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span>Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427024439</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2628607a7d</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312427024439</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26286ab335</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426991671</id>
+    <published>2025-07-07T07:45:04+05:30</published>
+    <updated>2025-07-07T07:45:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-mango-ice-tea"/>
+    <title>Dinner Lady Salts Mango Ice Tea</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Mango-Ice-Tea-Mango-Nic-Salt-Dinner-Lady.jpg?v=1751854505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">A refreshing hit of mango balanced with the bitter taste of tea and the refreshing undertone of ice. <span><a href="https://[YOUR DOMAIN]/collections/dinner-lady-salts" title="Dinner lady nic salt">Dinner lady nic salt </a>concentrates are ideal for experienced vapers looking to personalize their vaping experience.</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span>Nicotine Strength:  <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426991671</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f830b3b5</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426991671</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f83a22cd</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426926135</id>
+    <published>2025-07-07T07:45:01+05:30</published>
+    <updated>2025-07-07T07:45:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-lemon-ice-tea"/>
+    <title>Dinner Lady Salts Lemon Ice Tea</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Ice-Tea-Lemon-Nic-Salt-Dinner-Lady.jpg?v=1751854503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">
+<div class="product-name">
+<div class="title">A refreshing hint of lemon balanced with the bitter taste of tea and the refreshing undertone of ice. <span>Dinner Lady <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Vape nic salt">vape nicotine salt</a> concentrates are ideal for experienced vapers looking to personalize their vaping experience.</span>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span>Nicotine Strength:  <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426926135</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f830dac9</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426926135</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f83a6965</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426860599</id>
+    <published>2025-07-07T07:44:59+05:30</published>
+    <updated>2025-07-07T07:44:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-mint-tobacco"/>
+    <title>Dinner Lady Salts Mint Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Mint-Tobacco-Nic-Salt-Dinner-Lady.jpg?v=1751854501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">Mint Tobacco is part of Dinner Lady's Tobacco range which provides existing smokers with a familiar and extensive flavour range as they switch from smoking to vaping. Shop Dinner lady nicotine salts at best price in Kenya with free shipping.<br>
+</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg  and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426860599</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26286092dd</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426860599</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d262869a9c8</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426827831</id>
+    <published>2025-07-07T07:44:57+05:30</published>
+    <updated>2025-07-07T07:44:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-caramel-tobacco"/>
+    <title>Dinner Lady Salts Caramel Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Caramel-Tobacco-Nic-Salt-Dinner-Lady.jpg?v=1751854499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<div class="title">Caramel Tobacco is part of Dinner Lady's Tobacco range which provides existing smokers with a familiar and extensive flavour range as they switch from smoking to vaping. Shop Dinner lady <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="nic salts">nic salts</a> at best price in Kenya with free shipping.</div>
+</div>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span>Nicotine Strength:  <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426827831</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f830bce1</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426827831</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d25f83a2e95</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426762295</id>
+    <published>2025-07-07T07:44:55+05:30</published>
+    <updated>2025-07-07T07:44:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-cafe-tobacco"/>
+    <title>Dinner Lady Salts Cafe Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-cafe-tobacco-salts.jpg?v=1751854496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cafe Tobacco is a combination of rich, robust tastes perfect for those who prefer deep, dark flavours. A woody tobacco provides the base of the vape, fused with a bittersweet yet smooth coffee for a layered e-liquid. Shop Dinner lady <a title="nic salts" href="https://[YOUR DOMAIN]/collections/nic-salts">nic salts</a> at best price in Kenya with free shipping.<br></p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span>Nicotine Strength:  <em>30/50 mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426762295</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600f0baa9</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426762295</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600f9e507</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426663991</id>
+    <published>2025-07-07T07:44:53+05:30</published>
+    <updated>2025-07-07T07:44:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-bubble-trouble-ice"/>
+    <title>Dinner Lady Salts Bubble Trouble Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Ice-Bubble-Trouble-Nic-Salt-Dinner-Lady.jpg?v=1751854494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chewy pink bubble gum is an experience that'll take you down memory lane. Dinner lady Bubble Trouble Ice is a spot-on bubble gum flavor that won't have you looking anywhere else. Shop Dinner lady <a title="nic salt" href="https://[YOUR DOMAIN]/collections/nic-salts">nic salt</a> at best price in Kenya with free shipping.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span>Nicotine Strength:  <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426663991</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600f0eed2</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426663991</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600f9bebf</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426598455</id>
+    <published>2025-07-07T07:44:51+05:30</published>
+    <updated>2025-07-07T07:44:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-apple-sours-ice"/>
+    <title>Dinner Lady Salts Apple Sours Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-lady-apple-sours-ice-nic-salts.png?v=1751854492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Apple Sours Ice is a reinvention of the sour green apple candies with ice, blending together crisp sweet flavoring with complementary sour notes that will leave the mouth puckering.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Quantity: 30ml e liquid concentrated with nicotine.</span></li>
+<li><span data-mce-fragment="1">Nicotine Strength:  50mg<em data-mce-fragment="1"> and 30mg</em></span></li>
+<li><em data-mce-fragment="1">VG/PG: 50/50</em></li>
+</ul>
+<div class="description bottom">
+<p>You can try more flavours from our <a title="nic salts collection" href="https://[YOUR DOMAIN]/collections/nic-salts">nicotine salts collection</a>.<span><strong></strong></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426598455</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600a0a690</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426598455</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600a9f65b</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426565687</id>
+    <published>2025-07-07T07:44:48+05:30</published>
+    <updated>2025-07-07T07:44:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-watermelon-slices-with-ice"/>
+    <title>Dinner Lady Salts Watermelon Slices with Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/DinnerLady-Ice-WaterMelon-Slices-Ice-Salts-30mg-30ml.jpg?v=1751854490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Watermelon Slices Ice</em><span> </span>is a nostalgic treat designed by Dinner Lady’s team of experts to evoke fond childhood memories.</p>
+<p>This tropical fruit nicotine salt highlights the juicy, refreshing sweetness of natural watermelon and adds a blend of other fruits to mimic the eponymous<span> </span><em>Pick ‘N’ Mix </em>candy. The mixture acquires an extra layer of depth with the koolada, which provides a sharp, ice-cold sensation that elevates<span> </span><em>Watermelon Slices Ice </em>to the next level.</p>
+<ul></ul>
+<ul>
+<li>Quantity: 30ml salt concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength:  <em>50mg and 30mg</em></span></li>
+<li>
+<i>50% VG/ 50% Pg</i><em></em>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426565687</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600a0e92b</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426565687</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600a9f35e</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426532919</id>
+    <published>2025-07-07T07:44:46+05:30</published>
+    <updated>2025-07-07T07:44:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-flip-flop-lychee"/>
+    <title>Dinner Lady Salts Flip Flop Lychee</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Salts-Flip-Flop-Lychee-Vape-Shop.jpg?v=1751854487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flip Flop Lychee by Dinner Lady is an exotic blend of Asian Lychees, citrus, and ice. Do you love fruity vape juice flavors? Are you ready to try something that’s a little different? If so, Dinner Lady has a flavor that you are going to love. Flip Flop Lychee vape juice is a succulent blend of sweet lychee flavor, stunning citrus fruits and a cold shot of menthol. This flavor extravaganza will refresh your palate with every inhale and exhale.</p>
+<p>It is the middle of summer, meaning that we are all craving those refreshing fruity flavors more than ever. Thankfully, Dinner Lady has come to our rescue with Flip Flop Lychee vape juice. Flip Flop Lychee is a yummy liquid that is exploding with exotic and bright fruity goodness that will make your palate feel absolutely refreshed and satisfied after just one puff.</p>
+<ul></ul>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><i>50% VG/ 50% PG</i></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426532919</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600a0e568</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426532919</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600a9a6f7</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426500151</id>
+    <published>2025-07-07T07:44:44+05:30</published>
+    <updated>2025-07-07T07:44:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-san-tan-mango"/>
+    <title>Dinner Lady Salts San Tan Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Salts-Sun-Tan-Mango.jpg?v=1751854485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you crave juicy, sweet mango flavor, you need to pick up a bottle of Sun Tan Mango vape juice from Summer Holidays. Sun Tan Mango nic salt is a gorgeous juice that bathes ripe mangoes in sticky honey and tops it all off with cool menthol to soothe your palate. To call Sun Tan Mango salts refreshing would be an understatement.</span></p>
+<ul></ul>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><i>50% VG/ 50% PG</i></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426500151</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600515169</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426500151</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26005aeae4</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426467383</id>
+    <published>2025-07-07T07:44:42+05:30</published>
+    <updated>2025-07-07T07:44:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-strawberry-bikini"/>
+    <title>Dinner Lady Salts Strawberry Bikini</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-salts-strawberry-bikini-30ml-50mg-premium-salt.jpg?v=1751854483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberry and crushed cold ice in lemonade, slightly acidic. Are you tempted? Strawberry Bikini – Dinner Lady Salts is a fruity blend of strawberry and lemonade, Strawberry Bikini incorporates koolada for a refreshing lemon exhale.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li><i>50% VG/ 50% PG</i></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426467383</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600513ca3</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426467383</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26005bc332</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426336311</id>
+    <published>2025-07-07T07:44:39+05:30</published>
+    <updated>2025-07-07T07:44:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-bubble-trouble"/>
+    <title>Dinner Lady Salts Bubble Trouble</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Bubble-Trouble-by-Dinner-Lady-Salts.jpg?v=1751854481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chewy pink bubble gum is an experience that'll take you down memory lane. Dinner lady Bubble Trouble is a spot-on bubble gum flavor that won't have you looking anywhere else.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength:  <em>50mg and 30mg</em></span></li>
+<li><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426336311</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600516c57</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426336311</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26005bf58d</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426303543</id>
+    <published>2025-07-07T07:44:37+05:30</published>
+    <updated>2025-07-07T07:44:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salts-watermelon-slices"/>
+    <title>Dinner Lady Salts Watermelon Slices</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Watermelon-Slices-Dinner-Lady-Nic-Salts.jpg?v=1751854479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Watermelon Slices by Dinner Lady is a tropical blend of watermelon and fruits, with 50:50 e-liquid is great for new vapers.</p>
+<p>Watermelon Slices is a part of the Dinner Lady Fruits range, a collection that includes refreshing fruit combinations inspired by those flavors we fondly remember from times gone by.</p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.<br>
+</li>
+<li>Nicotine Strength: 50mg and 30mg<br>
+</li>
+<li>VG/PG: 50/50</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426303543</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2605f126d7</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426303543</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2605fa3826</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312426270775</id>
+    <published>2025-07-07T07:44:35+05:30</published>
+    <updated>2025-07-07T07:44:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-salt-mango-ice"/>
+    <title>Dinner Lady Salts Mango Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/DinnerLady-Ice-MangoIce-Salts-liquid-nicotine.jpg?v=1751854477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Mango Ice by dinner lady salts is a fruit blend with rich notes. A tropical mango flavour makes up the base with sweet, juicy notes and a tart aftertaste. On exhale, a fusion of ice and honey creates a cool and floral finish.</span></p>
+<ul>
+<li>Quantity: 30ml e liquid concentrated with nicotine.</li>
+<li><span data-mce-fragment="1">Nicotine Strength: <em>50mg and 30mg</em></span></li>
+<li style="font-style: italic;"><em>VG/PG: 50/50</em></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426270775</id>
+      <title>30MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d2600517ca5</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312426270775</id>
+      <title>50MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>69d26005aab9c</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

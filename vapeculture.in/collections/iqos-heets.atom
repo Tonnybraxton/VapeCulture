@@ -1,0 +1,1239 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/iqos-heets.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-02-25T07:18:23+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+    <published>2026-02-25T07:18:23+05:30</published>
+    <updated>2026-02-25T07:18:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-summer-wave"/>
+    <title>IQOS HEETS Summer Wave</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/summer-wave-heets.webp?v=1771984104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-summer-wave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p>This carton contains 10 packs of HEETS tobacco sticks.</p>
+<p>Each pack contains 20 sticks, for a total of 200 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Summer Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Summer Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418241318967</id>
+    <published>2026-02-20T08:34:00+05:30</published>
+    <updated>2026-02-20T08:34:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-i-one-kit"/>
+    <title>IQOS Iluma i One Kit</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Buy-iQOS-iLUMA-i-ONE-Breeze-Blue.png?v=1771556474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            16500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>IQOS ILUMA</strong> i is the newest generation of tobacco heating devices in the IQOS ILUMA lineup — no ash, no smoke, and no lingering cigarette smell.</p>
+<p>The <strong>IQOS ILUMA i ONE</strong> features a compact, user-friendly design with a sleek aluminum finish that feels smooth and comfortable in hand.</p>
+<p>With intelligent functions like Auto-Start and FlexPuff, it offers an intuitive and effortless tobacco heating experience.</p>
+<p>Enjoy an easier draw*, blade-free technology, and no cleaning needed — consistent with all devices in the IQOS ILUMA series.</p>
+<p>ILUMA i ONE device<br>Power Adapter &amp; Charging Cable</p>
+<p>*TEREA tobacco sticks are not included.</p>
+<p>Suitable for TEREA and DELIA sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418241318967</id>
+      <title>Default Title</title>
+      <s:price currency="KES">16500.00</s:price>
+      <s:sku>Iluma i One Kit</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7416625725495</id>
+    <published>2026-02-16T01:47:37+05:30</published>
+    <updated>2026-02-16T01:47:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-provence-pearl"/>
+    <title>IQOS Terea Provence Pearl</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/terea-provence-pearl.webp?v=1771186658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-provence-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover TEREA tobacco sticks, made exclusively for IQOS ILUMA heated tobacco device. Using the innovative SMARTCORE INDUCTION SYSTEM™, TEREA paired with IQOS ILUMA bring you next level heated tobacco experience with improved draw, taste consistency and less smell*, according to most consumers. </p>
+<p>Terea Provence - Grape Menthol Tobacco Flavour</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416625725495</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Provence Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7416625725495</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Provence Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7407374041143</id>
+    <published>2026-01-23T11:51:27+05:30</published>
+    <updated>2026-01-23T11:51:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-tidal-pearl"/>
+    <title>IQOS Terea Tidal Pearl</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-Terea-Tidal-Pearl.webp?v=1769149071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-tidal-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover Terea Tidal Pearl, a sophisticated edition from the Terea range for the IQOS Iluma system. This stick offers a harmonious blend of sweet, woody, and floral notes, designed for a refined, smoke-free tobacco experience.</p>
+<p>Perfect for lovers of delicate tastes, Tidal Pearl offers a subtle balance, ideal for everyday use or for varying the pleasures.</p>
+<p>Compatibility note: TEREA sticks are designed to be used only with IQOS ILUMA devices and are not compatible with blade-based IQOS models (including IQOS 3 DUO and earlier). This product contains nicotine, which is addictive, and is strictly 18+ only. </p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7407374041143</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Tidal Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7407374041143</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Tidal Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7407372599351</id>
+    <published>2026-01-23T11:41:27+05:30</published>
+    <updated>2026-01-23T11:41:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-twilight-pearl"/>
+    <title>IQOS Terea Twilight Pearl</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-Terea_Twilight-Pearl.webp?v=1769148513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-twilight-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twilight Pearl TEREA IQOS sticks are a capsule-style heated tobacco option made for adult smokers using the IQOS ILUMA range. TEREA is designed for ILUMA’s SMARTCORE Induction System™, where tobacco is heated rather than burned — so there is no smoke and no ash during use.</p>
+<p>Twilight Pearl starts with a full-bodied, toasted tobacco blend with malty aroma notes. When you want a change of pace, you can click the pearl (flavour capsule) in the filter to release a cooling blueberry and menthol sensation.</p>
+<p>Compatibility note: TEREA sticks are designed to be used only with IQOS ILUMA devices and are not compatible with blade-based IQOS models (including IQOS 3 DUO and earlier). This product contains nicotine, which is addictive, and is strictly 18+ only. </p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7407372599351</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Twilight Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7407372599351</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Twilight Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382871408695</id>
+    <published>2025-12-03T21:39:04+05:30</published>
+    <updated>2025-12-03T21:39:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-apricity"/>
+    <title>IQOS Terea Apricity</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/terea-apricity-iqos-cigarette-pack.webp?v=1764777933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-apricity">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in the luxurious blend of flavors with the Terea Apricity Dimension, a premium tobacco product that combines the rich taste of tobacco with the subtle sweetness of apricot, the creamy hints of vanilla, and the smooth finish of caramel. This unique flavor profile is designed to cater to discerning smokers looking for a sophisticated smoking experience.</p>
+<p>Compatibility: Exclusively compatible with IQOS ILUMA, ensuring a seamless and enjoyable experience.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382871408695</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Apricity - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382871408695</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Apricity - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382870491191</id>
+    <published>2025-12-03T21:24:01+05:30</published>
+    <updated>2025-12-03T21:24:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-oasis-pearl"/>
+    <title>IQOS Terea Oasis Pearl</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/terea-oasis-pearl-pack.webp?v=1764777105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-oasis-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Terea Oasis Pearl combines a mild tobacco blend with a subtle, exotic fruity note and a hint of menthol. The result is a smooth, balanced taste experience with a hint of holiday – ideal for those who like it pleasantly fresh and not too intense.</p>
+<p>These SMARTCORE STICKS™ have been specially developed for IQOS ILUMA devices and contain an integrated metal heating element. This ensures even heat distribution without combustion – for a clear taste and less odour. </p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382870491191</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Oasis Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382870491191</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Oasis Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382870196279</id>
+    <published>2025-12-03T21:18:42+05:30</published>
+    <updated>2025-12-03T21:18:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-minago-edition"/>
+    <title>IQOS Terea Minago Edition</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS_TEREA_Sticks_Indonesia_10_packs_Minago_Edition.webp?v=1764776849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            900.00 - 7500.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-minago-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enter a new world of tobacco with IQOS TEREA Minago Edition. With the spicy warmth of Indonesian cloves, invigorating cold menthol and fresh green-mint aromas, this TEREA stick is like nothing you’ve ever had before. </p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382870196279</id>
+      <title>PACK</title>
+      <s:price currency="KES">900.00</s:price>
+      <s:sku>Terea Minago Edition - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382870196279</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7500.00</s:price>
+      <s:sku>Terea Minago Edition - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7379753566263</id>
+    <published>2025-12-02T04:35:10+05:30</published>
+    <updated>2025-12-02T04:35:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-iluma-prime-i"/>
+    <title>IQOS Iluma i Prime</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Iqos-Iluma-i-Prime.webp?v=1764630311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            19999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS Iluma i Series - Up to three experiences instead of two on each charge, better battery management, pause function.<br>Philip Morris International has launched IQOS Iluma i, the latest and most innovative addition to its growing portfolio of smoke-free products, in Kenya. IQOS Iluma disrupted the category by introducing induction-heating technology that heats tobacco from within, to provide a consistent taste experience, no tobacco residue, and no need to clean the device.</p>
+<p>Now, IQOS to new heights, with the launch of IQOS Iluma i—the latest innovation in our smoke-free portfolio, offering a range of advanced features for a clean, seamless, and more flexible experience. The new touch screen on the device’s holder allows users to see experience-relevant information quickly and easily.</p>
+<p>The new IQOS Iluma i also includes smart features that help prolong the lifespan of the holder’s battery.</p>
+<p>Buy IQOS Iluma i Prime Series online at best price in Kenya.<br><br><strong>Note: All orders for this product will be accepted on partial payment basis only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7379753566263</id>
+      <title>Default Title</title>
+      <s:price currency="KES">19999.00</s:price>
+      <s:sku>Iluma i Prime</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7369214361655</id>
+    <published>2025-11-03T23:12:05+05:30</published>
+    <updated>2025-11-03T23:12:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-starling-pearl"/>
+    <title>IQOS Terea Starling Pearl</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/starling-pearl-terea-iqos-cigarette-pack.webp?v=1762191726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-starling-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p>TEREA Starling Pearl offer a smooth tobacco experience with a refined combination of strawberry and basil flavors. The menthol capsule inside enhances the taste, delivering a refreshing, cool sensation with every puff.<span> </span></p>
+<p><!--EndFragment --></p>
+<p>These newly designed <a href="https://[YOUR DOMAIN]/collections/terea-cigarette" title="Terea cigarette">terea cigarettes</a> are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369214361655</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Starling Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369214361655</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Starling Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7366908674103</id>
+    <published>2025-11-03T23:09:12+05:30</published>
+    <updated>2025-11-03T23:09:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-sun-pearl"/>
+    <title>IQOS Terea Sun Pearl</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-Terea-Sun-Pearl-indonesia-for-pods.webp?v=1762191553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-sun-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p>Get to know Terea Sun Pearl, where fruity and fresh meets sophisticated. Perfect for the modern palate, whether you’re at home or on the go. With its convenient packaging and compatibility with most devices, Terea Sun Pearl is more than just a product; it’s a lifestyle for flavor lovers in the Kenya.<span> </span></p>
+<p><!--EndFragment --></p>
+<p>These newly designed <a title="Terea cigarette" href="https://[YOUR DOMAIN]/collections/terea-cigarette">terea cigarettes</a> are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7366908674103</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Sun Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7366908674103</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Sun Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7342629388343</id>
+    <published>2025-09-18T12:43:57+05:30</published>
+    <updated>2025-09-18T12:43:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-summer-wave"/>
+    <title>IQOS Terea Summer Wave</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/terea-summer-wave-cigarette.webp?v=1758179638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-summer-wave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span>Terea Summer Wave (Coral Tide) has an aromatic fruity flavor of ripe peach with floral notes and mild menthol freshness. </span></p>
+<p><!--EndFragment --></p>
+<p>These newly designed <a href="https://[YOUR DOMAIN]/collections/terea-cigarette" title="Terea cigarette">terea cigarettes</a> are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342629388343</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Summer Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342629388343</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Summer Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7342625783863</id>
+    <published>2025-09-18T12:35:28+05:30</published>
+    <updated>2025-09-18T12:35:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-silver"/>
+    <title>IQOS Terea Silver</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/terea-silver-for-iqos-iluma.webp?v=1758179129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span>Silver Terea: Balanced blend of toasted tobacco, delicately refined with light aromatic notes of spicy herbs. </span></p>
+<p><!--EndFragment --></p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342625783863</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Silver - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7342625783863</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Silver - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7328588103735</id>
+    <published>2025-08-22T08:35:24+05:30</published>
+    <updated>2025-08-22T08:35:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-turquoise"/>
+    <title>IQOS Terea Turquoise</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-TEREA-Turquoise-carton.webp?v=1755831770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-turquoise">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span>Turquoise Terea are intended for use with the IQOS ILUMA device and have a mild tobacco mix flavour with a spicy menthol finish. </span></p>
+<p><!--EndFragment --></p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328588103735</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Turquoise - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328588103735</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Turquoise - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7328586694711</id>
+    <published>2025-08-22T08:26:58+05:30</published>
+    <updated>2025-08-22T08:26:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-zing-wave"/>
+    <title>IQOS Terea Zing Wave</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-terea-Zing-Wave.jpg?v=1755831419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-zing-wave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span class="cf0">TEREA ZING WAVE brings a refreshing new dimension to the world of </span><span class="cf0">terea</span><span class="cf0">. Designed exclusively for IQOS ILUMA, this flavor combines crisp menthol with a zing of citrus, offering a cool yet energetic sensation with every puff.</span></p>
+<p><!--EndFragment --></p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328586694711</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Zing Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328586694711</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Zing Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7328585449527</id>
+    <published>2025-08-22T08:20:23+05:30</published>
+    <updated>2025-08-22T08:20:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-sun-pearl"/>
+    <title>IQOS HEETS Sun Pearl</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-heets-sun-pearl.jpg?v=1755830943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-sun-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Heets Sun Pearl pack has a laconic design with a red background. HEETS tobacco sticks are designed to be used with a tobacco heating system.</p>
+<p>A balanced, roasted tobacco blend with light hints of spicy herbs. And when you press the button, reveals a pleasantly refreshing taste with hints of summer berries.</p>
+<p><strong>Aromatic notes</strong>: from balanced tobacco to refreshing summer berry and menthol notes.</p>
+<p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328585449527</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Sun Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328585449527</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Sun Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322276233271</id>
+    <published>2025-08-04T05:39:20+05:30</published>
+    <updated>2025-08-04T05:39:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-lil-solid-2-0"/>
+    <title>IQOS Lil Solid 2.0</title>
+    <s:type>IQOS</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/lil-solid-20-stone-grey-super-shipping-2.webp?v=1754265999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>IQOS<br>
+        <strong>Price: </strong>
+            7999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy to use all-in-one device, with 25 sessions on one full charge, and the time of each session is increased to about 5 minutes.</p>
+<p>IQOS introduces Lil Solid 2.0 to bring a smoke-free future even closer.</p>
+<p>Imagine a world where everything is simple, easy and convenient. A world where there is nothing superfluous, but the most important thing remains. A world of enjoying the taste of real tobacco, but without smoke and ash.</p>
+<p>The tobacco in <a title="Iqos devices" href="https://[YOUR DOMAIN]/collections/iqos-iluma">IQOS device</a> Lil Solid 2.0 heats up rather than burns, so there is no fire or ash during use. This means that there is no risk of burning your clothes or furniture, and you do not risk damaging the carpet or upholstery in the car by falling ash.</p>
+<p>Also when using Lil Solid 2.0, tobacco vapor (aerosol) is emitted, so there is no smell of cigarette smoke.</p>
+<p><strong>Specifications:-</strong></p>
+<ul>
+<li>Released: 2021</li>
+<li>Device type: All-in-one</li>
+<li>Manufacturer: KT&amp;G, introduced by PMI</li>
+<li>Charging port type: USB-C</li>
+<li>Dimensions: 106 ? 31 ? 22 mm / 4.17 x 1.22 x 0.87 in</li>
+<li>Weight: 99 g / 3.5 oz</li>
+<li>Battery capacity: 2950 mAh</li>
+<li>Consecutive uses: 3</li>
+<li>Uses per full charge: 25</li>
+<li>Charging time: 2 h</li>
+<li>Heating temperature: 350 °C (660 °F)</li>
+<li>Heating method: Heating pin</li>
+<li>Heating time: 25 sec</li>
+<li>Compatible Sticks type: <a title="Fiit cigarettes" href="https://[YOUR DOMAIN]/collections/iqos-fiit">Fiit cigarettes</a>, &amp; <a title="Heets cigarettes" href="https://[YOUR DOMAIN]/collections/heets-cigarette">Heets cigarettes</a>
+</li>
+<li>Session length: 5 minutes or 14 puff</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322276233271</id>
+      <title>Default Title</title>
+      <s:price currency="KES">7999.00</s:price>
+      <s:sku>Lil Solid 2.0</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322274398263</id>
+    <published>2025-08-04T05:23:03+05:30</published>
+    <updated>2025-08-04T05:23:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-silver-selection"/>
+    <title>IQOS HEETS Silver Selection</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-heets-silver-selection.webp?v=1754265184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-silver-selection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This carton contains 10 packs of HEETS tobacco cigarette. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>HEETS cigarettes are a completely new way to enjoy tobacco. Made from the finest leaf and produced into small 'sticks', they open up a whole new world of taste and flavour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322274398263</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Silver Selection - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322274398263</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Silver Selection - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322271186999</id>
+    <published>2025-08-04T05:19:56+05:30</published>
+    <updated>2025-08-04T05:19:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-turquoise-selection"/>
+    <title>IQOS HEETS Turquoise Selection</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-heets-turquoise-selection-flavor.webp?v=1754264996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-turquoise-selection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>HEETS are a completely new way to enjoy tobacco. Made from the finest leaf and produced into small 'sticks', they open up a whole new world of taste and flavour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322271186999</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Turquoise Selection - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322271186999</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Turquoise Selection - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312955015223</id>
+    <published>2025-07-08T06:12:08+05:30</published>
+    <updated>2025-07-08T06:12:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-golden-edition"/>
+    <title>IQOS Terea Golden Edition</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-terea-cigarette-golden-edition-pack.webp?v=1751935248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            900.00 - 7500.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-golden-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flavour of Terea Golden Edition: Traditional nutty and woody aroma.</p>
+<p>Each Terea Golden Edition ILUMA cigarette comes with a structure equivalent to a traditional cigarette. This flavour is called golden for its excellent balance and harmony. The combination of aromatic Indonesian tobacco, nut and wood notes creates a wonderful smoking experience, transporting the user to the atmosphere of a languid evening. This taste will be appreciated by all lovers of the classics.</p>
+<p>Prefer it if you consider fruit and berry aromas too sweet.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312955015223</id>
+      <title>PACK</title>
+      <s:price currency="KES">900.00</s:price>
+      <s:sku>Terea Golden Edition - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312955015223</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7500.00</s:price>
+      <s:sku>Terea Golden Edition - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312952688695</id>
+    <published>2025-07-08T06:05:54+05:30</published>
+    <updated>2025-07-08T06:05:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-mulint-edition"/>
+    <title>IQOS Terea Mulint Edition</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-Terea-cigarette-Mulint-Edition.webp?v=1751934515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            900.00 - 7500.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-mulint-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flavour of Terea Cigarette Mulint Edition: Mint and mulberry scent combined with cloves.</p>
+<p>Each Terea Mulint Edition ILUMA cigarette comes with a structure equivalent to a traditional cigarette. Users can use the product within 6 minutes. That is, users can use it with 14 continuous puffs. However, this number is only an estimate because each person will have a different time to inhale the cigarette. However, <a href="https://[YOUR DOMAIN]/collections/terea-cigarette" title="Terea Indonesia cigarette">Terea Indonesia cigarettes </a>are still highly appreciated in terms of dosage and usage time.</p>
+<p>The product will appeal to users who love unusual flavour solutions. Moderately sweet and refreshing, it is perfectly complemented by quality Indonesian tobacco. We offer original high-quality sticks.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312952688695</id>
+      <title>PACK</title>
+      <s:price currency="KES">900.00</s:price>
+      <s:sku>Terea Mulint Edition - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312952688695</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7500.00</s:price>
+      <s:sku>Terea Mulint Edition - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312951541815</id>
+    <published>2025-07-08T05:53:53+05:30</published>
+    <updated>2025-07-08T05:53:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-yugen-dimensions"/>
+    <title>IQOS Terea Yugen Dimensions</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/terea-cigarette-dimensions-yugen.webp?v=1751934043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-yugen-dimensions">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS TEREA Dimensions Yugen is the perfect device for a unique and satisfying smoking experience. Carefully crafted with a special blend of tobacco, ripe fruit and floral aromas, the device heats rather than burns resulting in a cleaner and smoother smoking. Enjoy the unique mix of sensations for a truly enjoyable experience.</p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the <a title="Terea Stick" href="https://[YOUR DOMAIN]/collections/terea-cigarette">Terea stick</a> is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312951541815</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Yugen Dimensions - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312951541815</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Yugen Dimension - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312950919223</id>
+    <published>2025-07-08T05:48:59+05:30</published>
+    <updated>2025-07-08T05:48:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-bright-wave"/>
+    <title>IQOS Terea Bright Wave</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-terea-cigarette-bright-wave-pack.webp?v=1751933770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-bright-wave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS TEREA Bright Wave offers an extraordinary tobacco experience with deep menthol cooling sensations and green fruit and fresh aromas. Enjoy the same taste and satisfaction of smoking, but without the smoke and ash thanks to our heat-not-burn technology, which eliminates harmful chemicals and tar. Get a smoother, more enjoyable tobacco experience with <a title="Iqos Terea" href="https://[YOUR DOMAIN]/collections/terea-cigarette">IQOS TEREA</a> Bright Wave!</p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the <a href="https://[YOUR DOMAIN]/collections/terea-cigarette" title="Terea Stick">Terea stick</a> is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312950919223</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Bright Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312950919223</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Bright Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312949346359</id>
+    <published>2025-07-08T05:43:33+05:30</published>
+    <updated>2025-07-08T05:43:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-black-green"/>
+    <title>IQOS Terea Black Green</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-terea-cigarette-Black-Green-pack.webp?v=1751933460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            860.00 - 7250.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-black-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS TEREA Black Green is a revolutionary way to enjoy tobacco - intense menthol cooling sensation complemented by a mellow tobacco blend and highlighted with green fruit aromas. With no smoke or ash, you can enjoy a smoother and more satisfying tobacco experience every time. Heat-not-burn technology ensures harmful chemicals and tar are eliminated from your experience. Get your own <a href="https://[YOUR DOMAIN]/collections/terea-cigarette" title="Iqos Terea">IQOS TEREA</a> Black Green today!</p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312949346359</id>
+      <title>PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Terea Black Green - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312949346359</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7250.00</s:price>
+      <s:sku>Terea Black Green - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7312948232247</id>
+    <published>2025-07-08T05:39:57+05:30</published>
+    <updated>2025-07-08T05:39:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-terea-emerald-edition"/>
+    <title>IQOS Terea Emerald Edition</title>
+    <s:type>Terea</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/IQOS-Terea-Emerald-Edition.webp?v=1751933276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Terea<br>
+        <strong>Price: </strong>
+            900.00 - 7500.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-terea-emerald-edition">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://[YOUR DOMAIN]/collections/terea-cigarette" title="Terea cigarette">Terea Cigarette</a> Emerald Edition - This flavour can become a real gem of your tobacco collection. You will especially like it if you prefer soft, minty freshness without a strong menthol hit. The whole ensemble is complemented by notes of fresh fruits. There is no unnecessary sweetness in the taste. Each stick is designed for about 14 puffs or 6 minutes of smoking.</p>
+<p>These newly designed sticks are to be used only with IQOS Iluma, which features an auto-start function that detects when the Terea stick is inserted and automatically turns on the device.</p>
+<ul>
+<li>Flavour of Terea Emerald Edition Indonesia: Fresh fruity and minty scent.</li>
+<li>1 pack contains 20 sticks.</li>
+<li>1 carton contains 200 sticks.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312948232247</id>
+      <title>PACK</title>
+      <s:price currency="KES">900.00</s:price>
+      <s:sku>Terea Emerald Edition - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7312948232247</id>
+      <title>CARTON</title>
+      <s:price currency="KES">7500.00</s:price>
+      <s:sku>Terea Emerald Edition - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

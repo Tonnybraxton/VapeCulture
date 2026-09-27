@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/iqos-fiit.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-06-16T05:32:57+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290974863415</id>
+    <published>2025-06-16T05:32:57+05:30</published>
+    <updated>2025-06-16T05:32:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-fiit-viola"/>
+    <title>IQOS Fiit - Viola</title>
+    <s:type>Fiit</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/fiit-viola-carton.jpg?v=1750032080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Fiit<br>
+        <strong>Price: </strong>
+            600.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-fiit-viola">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iqos <span>Fiit Viola is a balanced tobacco blend with a cooling menthol effect and juicy berry notes</span>. Made for Lil Solid. Fully compatible with IQOS 3 Duo &amp; earlier devices.</p>
+<p>IQOS Fiit is the discovery of the real taste of tobacco and new sensations. Natural tobacco, processed and pressed under a special technology, provides taste and aroma when heated.</p>
+<p>A special biopolymer film allows to maintain a comfortable level of temperature and humidity of the tobacco vapor generated when the tobacco is heated.</p>
+<p>Price is per carton and pack. 1 carton contains 10 packs x 20 sticks = 200 sticks. Similarly, 1 pack contains 20 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974863415</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>Fiit - Viola - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974863415</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Fiit Viola - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290974830647</id>
+    <published>2025-06-16T05:30:21+05:30</published>
+    <updated>2025-06-16T05:30:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-fiit-crisp"/>
+    <title>IQOS Fiit - Crisp</title>
+    <s:type>Fiit</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/fiit-crisp-carton.jpg?v=1750031926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Fiit<br>
+        <strong>Price: </strong>
+            600.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-fiit-crisp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iqos Fiit Crisp is a mild tobacco blend with refreshing menthol and citrus notes. Made for Lil Solid. Fully compatible with IQOS 3 Duo &amp; earlier devices.</p>
+<p>IQOS Fiit is the discovery of the real taste of tobacco and new sensations. Natural tobacco, processed and pressed under a special technology, provides taste and aroma when heated.</p>
+<p>A special biopolymer film allows to maintain a comfortable level of temperature and humidity of the tobacco vapor generated when the tobacco is heated.</p>
+<p>Price is per carton and pack. 1 carton contains 10 packs x 20 sticks = 200 sticks. Similarly, 1 pack contains 20 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974830647</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>Fiit Crisp - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974830647</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Fiit Crisp - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290974601271</id>
+    <published>2025-06-16T05:27:04+05:30</published>
+    <updated>2025-06-16T05:27:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-fiit-tropic"/>
+    <title>IQOS Fiit - Tropic</title>
+    <s:type>Fiit</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/fiit-tropic-carton.jpg?v=1750031684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Fiit<br>
+        <strong>Price: </strong>
+            600.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-fiit-tropic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iqos Fiit Tropic is a balanced tobacco blend with refreshing menthol and flavour of sunny tropical fruits. Made for Lil Solid. Fully compatible with IQOS 3 Duo &amp; earlier devices.</p>
+<p>IQOS Fiit is the discovery of the real taste of tobacco and new sensations. Natural tobacco, processed and pressed under a special technology, provides taste and aroma when heated.</p>
+<p>A special biopolymer film allows to maintain a comfortable level of temperature and humidity of the tobacco vapor generated when the tobacco is heated.</p>
+<p>Price is per carton and pack. 1 carton contains 10 packs x 20 sticks = 200 sticks. Similarly, 1 pack contains 20 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974601271</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>Fiit Tropic - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974601271</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Fiit Tropic - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290974502967</id>
+    <published>2025-06-16T05:18:30+05:30</published>
+    <updated>2025-06-16T05:18:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-fiit-regular-sky"/>
+    <title>IQOS Fiit - Regular Sky</title>
+    <s:type>Fiit</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/fiit-regular-sky-carton.jpg?v=1750031224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Fiit<br>
+        <strong>Price: </strong>
+            600.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-fiit-regular-sky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iqos Fiit Regular Sky has a pure tobacco taste, light and unobtrusive. Made for Lil Solid. Fully compatible with IQOS 3 Duo &amp; earlier devices.</p>
+<p>IQOS Fiit is the discovery of the real taste of tobacco and new sensations. Natural tobacco, processed and pressed under a special technology, provides taste and aroma when heated.</p>
+<p>A special biopolymer film allows to maintain a comfortable level of temperature and humidity of the tobacco vapor generated when the tobacco is heated.</p>
+<p>Price is per carton and pack. 1 carton contains 10 packs x 20 sticks = 200 sticks. Similarly, 1 pack contains 20 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974502967</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>Fiit - Regular Sky - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974502967</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Fiit - Regular Sky - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290974240823</id>
+    <published>2025-06-16T05:13:25+05:30</published>
+    <updated>2025-06-16T05:13:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-fiit-regular"/>
+    <title>IQOS Fiit - Regular</title>
+    <s:type>Fiit</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/fiit-regular-carton.jpg?v=1750030832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Fiit<br>
+        <strong>Price: </strong>
+            600.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-fiit-regular">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS Fiit Regular is an aromatic tobacco blend with nutty notes. Made for Lil Solid. Fully compatible with IQOS 3 Duo &amp; earlier devices.</p>
+<p>IQOS Fiit is the discovery of the real taste of tobacco and new sensations. Natural tobacco, processed and pressed under a special technology, provides taste and aroma when heated.</p>
+<p>A special biopolymer film allows to maintain a comfortable level of temperature and humidity of the tobacco vapor generated when the tobacco is heated.</p>
+<p>Price is per carton and pack. 1 carton contains 10 packs x 20 sticks = 200 sticks. Similarly, 1 pack contains 20 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974240823</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">600.00</s:price>
+      <s:sku>Fiit Regular - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290974240823</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Fiit Regular- Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

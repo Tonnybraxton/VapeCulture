@@ -1,0 +1,751 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vladdin-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-07-14T14:36:50+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662635063</id>
+    <published>2025-07-14T14:36:50+05:30</published>
+    <updated>2025-07-14T14:36:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-mint-chocolate"/>
+    <title>Vladdin Nic Salt - Mint Chocolate</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Mint-Chocolate-Salt-min.jpg?v=1752484012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span><strong>Mint Chocolate</strong>: Indulge in the rich harmony of cool mint and decadent chocolate, delivering a luxurious and satisfying flavor combination.</span></div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>
+<a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nicotine Salt">Nicotine Salt</a> Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662635063</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Mint Chocolate 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662635063</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Mint Chocolate 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662602295</id>
+    <published>2025-07-14T14:36:48+05:30</published>
+    <updated>2025-07-14T14:36:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-green-apple"/>
+    <title>Vladdin Nic Salt - Green Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Green-Apple-Nic-Salt-30ml-min.jpg?v=1752484009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Green Apple:</strong><span> Crisp, tangy, and irresistibly fresh, Green Apple delivers the quintessential taste of biting into a perfectly ripe Granny Smith. Each puff floods the palate with the tartness of green apples, while subtle undertones of sweetness linger on the exhale. It's a flavor that captures the essence of a crisp autumn day, offering a refreshing vaping experience that's both familiar and delightful.</span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>Brand: <a href="https://[YOUR DOMAIN]/collections/vladdin-salts" title="Vladdin nic salts">Vladdin</a>
+</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662602295</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Green Apple 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662602295</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Green Apple 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662569527</id>
+    <published>2025-07-14T14:36:45+05:30</published>
+    <updated>2025-07-14T14:36:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-green-mango"/>
+    <title>Vladdin Nic Salt - Green Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Green-Mango-Nic-Salt-30ml-min.jpg?v=1752484007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Green Mango:</strong><span> Embark on a tropical escapade with Green Mango. This exotic flavor combines the tangy sweetness of unripe mangoes with a hint sour lime, offering a refreshing and invigorating vaping experience. Each inhale is like biting into a juicy mango, with its vibrant flavor tantalizing your taste buds and leaving you craving more.</span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>
+<a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nicotine Salt">Nicotine Salt</a> Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662569527</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Green Mango 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662569527</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Green Mango 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662536759</id>
+    <published>2025-07-14T14:36:43+05:30</published>
+    <updated>2025-07-14T14:36:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-grape-peach"/>
+    <title>Vladdin Nic Salt - Grape Peach</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vladdin-Grape-peach-nic-salt-30ml-min.jpg?v=1752484004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Grape Peach:</strong><span> Delight in the perfect harmony of Grape Peach. This tantalizing blend combines the succulent sweetness of ripe peaches with the bold, fruity notes of grapes, offering a symphony of flavor with every inhale. Each puff is like sipping on a refreshing fruit cocktail, with its juicy goodness enveloping your palate and leaving you feeling utterly satisfied. </span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662536759</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Grape Peach 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662536759</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Grape Peach 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662503991</id>
+    <published>2025-07-14T14:36:41+05:30</published>
+    <updated>2025-07-14T14:36:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-aloe-grape"/>
+    <title>Vladdin Nic Salt - Aloe Grape</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-aloe-grape-nic-salt-30ml-min.jpg?v=1752484002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Aloe Grape:</strong><span> Transport yourself to a verdant vineyard oasis with Aloe Grape. This unique fusion blends the soothing essence of aloe vera with the luscious sweetness of ripe grapes, creating a vape experience that's both refreshing and invigorating. Each inhale bathes your palate in a cool wave of aloe-infused grape goodness, leaving you feeling rejuvenated and satisfied. It's a harmonious dance of floral and fruity notes that tantalizes the taste buds and transports you to a world of natural bliss.</span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662503991</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Aloe Grape 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662503991</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Aloe Grape 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662471223</id>
+    <published>2025-07-14T14:36:38+05:30</published>
+    <updated>2025-07-14T14:36:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-mixed-berry"/>
+    <title>Vladdin Nic Salt - Mixed Berry</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-mix-berry-salt-30ml-min.jpg?v=1752484000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Mixed Berry:</strong><span> Indulge in a medley of fruity goodness with Mixed Berries. This delightful blend combines the sweet and tart flavors of assorted berries, offering a burst of freshness with every puff. Each inhale is like biting into a handful of ripe berries, with its vibrant flavor tantalizing your taste buds and leaving you craving more. It's the perfect choice for vapers seeking a fruity vape experience that's as satisfying as it is delicious.</span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662471223</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Mixed Berry 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662471223</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Mixed Berry 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662438455</id>
+    <published>2025-07-14T14:36:36+05:30</published>
+    <updated>2025-07-14T14:36:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-fresh-lychee"/>
+    <title>Vladdin Nic Salt - Fresh Lychee</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Fresh-Lychee-Nic-Salt-30ml-min.jpg?v=1752483998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Fresh Lychee:</strong><span> Delight in the exotic allure of Fresh Lychee. This unique flavor captures the sweet and floral taste of ripe lychees, offering a refreshing and invigorating vaping experience. Each inhale is like biting into a juicy lychee, with its distinctive flavor tantalizing your taste buds and leaving you craving more. It's the perfect choice for vapers seeking an exotic vape experience that's as satisfying as it is delicious.</span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662438455</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Fresh Lychee 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662438455</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Fresh Lychee 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662405687</id>
+    <published>2025-07-14T14:36:34+05:30</published>
+    <updated>2025-07-14T14:36:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-honeydew-ice"/>
+    <title>Vladdin Nic Salt - Honeydew Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Honeydew-Ice-Nic-Salt-30ml-min.jpg?v=1752483995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<strong>Honeydew Ice:</strong><span> Cool off with the icy sweetness of Honeydew Ice. This refreshing flavor combines the juicy sweetness of ripe honeydew melon with a hint of menthol, offering a crisp and invigorating vaping experience. Each inhale is like biting into a chilled slice of honeydew, with its coolness enveloping your palate and leaving you feeling utterly satisfied. It's the perfect choice for vapers seeking a refreshing vape experience that's both sweet and cooling.</span>
+</div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662405687</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Honeydew Ice 30 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662405687</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Honeydew Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662372919</id>
+    <published>2025-07-14T14:36:32+05:30</published>
+    <updated>2025-07-14T14:36:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-gummy-bear"/>
+    <title>Vladdin Nic Salt - Gummy Bear</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Gummy-Bear-Nic-Salt-30ml-min.jpg?v=1752483993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Indulge your sweet tooth with the fruity goodness of Gummy Bear. This playful flavor captures the nostalgic taste of your favorite gummy candies, offering a sweet and satisfying vaping experience. Each inhale is like biting into a handful of chewy gummy bears, with its vibrant flavor enveloping your palate and leaving you craving more.</span></div>
+<div>
+<span style="font-size: 0.875rem;"></span><br>
+</div>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>Brand: <a href="https://[YOUR DOMAIN]/collections/vladdin-salts" title="Vladdin Nic Salt">Vladdin</a>
+</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662372919</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Gummy Bear 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662372919</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Gummy Bear 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662340151</id>
+    <published>2025-07-14T14:36:29+05:30</published>
+    <updated>2025-07-14T14:36:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-strawberry-kiwi"/>
+    <title>Vladdin Nic Salt - Strawberry Kiwi</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vladdin-strawberry-kiwi-nic-salts.jpg?v=1752483991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vapers who adore the Salt Nic Pod System are likely familiar with Vladdin Strawberry Kiwi NicSalt E-Liquids 30ml. Vladdin’s Strawberry Kiwi flavor is the greatest scrumptious combination of juicy strawberries and Kiwis.</p>
+<p>A range of salt nicotine essential oils by Vladdin with a blend of tropical fruits and a distinctive, all-natural flavor is now available in 30mg strengths. Enjoy a variety of flavors all at once.</p>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg<br>
+</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662340151</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Strawberry Kiwi 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662340151</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Strawberry Kiwi 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662274615</id>
+    <published>2025-07-14T14:36:27+05:30</published>
+    <updated>2025-07-14T14:36:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-peach-mango"/>
+    <title>Vladdin Nic Salt - Peach Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vladdin-mango-peach-nic-salts.jpg?v=1752483988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vapers who adore the Salt Nic Pod System are likely familiar with Vladdin Mango Peach NicSalt E-Liquids 30ml. Vladdin’s Mango Peach flavor is the greatest scrumptious combination of juicy mangoes and peaches, with a gummy candy base and menthol!<br data-mce-fragment="1"><br data-mce-fragment="1">A range of salt nicotine essential oils by <a href="https://[YOUR DOMAIN]/collections/vladdin-salts" title="Vladdin salts">Vladdin</a> with a blend of tropical fruits and a distinctive, all-natural flavor is now available in 30mg strengths. Enjoy a variety of flavors all at once.</p>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg<br>
+</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662274615</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Peach Mango 30 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662274615</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Peach Mango 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662241847</id>
+    <published>2025-07-14T14:36:25+05:30</published>
+    <updated>2025-07-14T14:36:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-cool-grape"/>
+    <title>Vladdin Nic Salt - Cool Grape</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Cool-Grape-Saltnic-30ml.png?v=1752483986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vladdin Cool Grape Salt nic 30ml, a brand familiar to vapers who love the salt nic Pod System. Cool Grape by Vladdin gives you the best mouthwatering flavor of purple grapes with smoothing ice.</p>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662241847</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Cool Grape 30 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662241847</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Cool Grape 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662209079</id>
+    <published>2025-07-14T14:36:22+05:30</published>
+    <updated>2025-07-14T14:36:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-lush-ice"/>
+    <title>Vladdin Nic Salt - Lush Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Lush-Ice-Saltnic-30ml.jpg?v=1752483983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vladdin Lush Ice Saltnic 30ml, a brand familiar to vapers who love the salt nic Pod System. Lush Ice by Vladdin gives you the best mouthwatering flavor of watermelon with smoothing ice.</p>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662209079</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Lush Ice 30 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662209079</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Lush Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7315662176311</id>
+    <published>2025-07-14T14:36:19+05:30</published>
+    <updated>2025-07-14T14:36:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vladdin-nic-salt-tobacco"/>
+    <title>Vladdin Nic Salt - Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Vladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vladdin-Tobacco-Saltnic-30ml.jpg?v=1752483981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vladdin<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vladdin Tobacco Saltnic 30ml, a brand familiar to vapers who love the salt nic Pod System. Tobacco by <a href="https://[YOUR DOMAIN]/collections/vladdin-salts" title="Vladdin salts">Vladdin</a> gives you the best mouthwatering flavor of tobacco with a cinnamon touch.</p>
+<p>Features:<br></p>
+<ul>
+<li>Nicotine Strength: 30mg &amp; 50mg</li>
+<li>PG/VG: 50/50</li>
+<li>Bottle Size: 30ml Chubby Gorilla Bottle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662176311</id>
+      <title>30mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Tobacco 30 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7315662176311</id>
+      <title>50mg</title>
+      <s:price currency="KES">1490.00</s:price>
+      <s:sku>Vladdin Tobacco 50 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

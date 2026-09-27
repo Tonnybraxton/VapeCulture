@@ -1,0 +1,1375 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/blvk-nicotine-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-02-20T07:17:26+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+    <published>2026-02-20T07:17:26+05:30</published>
+    <updated>2026-02-20T07:17:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-orange-soda-salt"/>
+    <title>BLVK Bar - Orange Soda Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/orange-soda-blvk-bar-hyper-ice.webp?v=1771551964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Orange Soda 35 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Orange Soda 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+    <published>2026-02-20T07:15:29+05:30</published>
+    <updated>2026-02-20T07:15:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-peach-salt"/>
+    <title>BLVK Bar - Juicy Peach Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-peach-blvk-bar-hyper-ice.webp?v=1771551858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Peach Salt 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Peach Salt 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+    <published>2026-02-20T07:13:16+05:30</published>
+    <updated>2026-02-20T07:13:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-passion-salt"/>
+    <title>BLVK Bar - Juicy Passion Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-passion-blvk-bar-hyper-ice.webp?v=1771551706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Passion Salt 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Passion Salt 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+    <published>2026-02-20T07:11:01+05:30</published>
+    <updated>2026-02-20T07:11:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-berry-grape-salt"/>
+    <title>BLVK Bar - Berry Grape Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Berry-Grape-blvk-bar-hyper-ice.webp?v=1771551518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Berry Grape 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Berry Grape 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+    <published>2026-02-20T07:07:27+05:30</published>
+    <updated>2026-02-20T07:07:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-passion-peach-salt"/>
+    <title>BLVK Bar - Passion Peach Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/passion-peach-blvk-bar-nicotine-salt.webp?v=1771551379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your senses with the likes of juicy passion fruit, succulent peach, and an intense icy breeze. It's surely a tropical symphony of sweet &amp; exotic joy time and again.<br></p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Passion Peach - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Passion Peach - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+    <published>2026-02-20T07:00:09+05:30</published>
+    <updated>2026-02-20T07:00:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-kiwi-dragon-fruit"/>
+    <title>BLVK Bar - Kiwi Dragon Fruit Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/KIWI-DRAGON-FRUIT-30ML-BY-BLVK-BAR.webp?v=1771550788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Salt Kiwi Dragon Fruit Ice delivers a vibrant tropical blend of tangy kiwi and sweet dragon fruit, finished with a crisp menthol chill. This refreshing combination creates a smooth, icy vape that’s both fruity and invigorating — perfect for those who enjoy cool flavors with an exotic twist.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Kiwi Dragon Fruit - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Kiwi Dragon Fruit - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+    <published>2026-02-20T06:55:38+05:30</published>
+    <updated>2026-02-20T06:55:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-mango"/>
+    <title>BLVK Bar - Juicy Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-mango-blvk-bar-nicotine-salt.webp?v=1771550411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a burst of icy freshness with Juicy Mango Ice BLVK Salt Nic E-Juice. This 30ml blend delivers a succulent burst of sun-kissed mango chunks paired with an intense winter chill deliver a noteworthy tropical getaway experience. Shop now and elevate your vape with this chilling classic.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Mango - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Mango - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+    <published>2026-02-20T06:49:37+05:30</published>
+    <updated>2026-02-20T06:49:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-double-spearmint-salt"/>
+    <title>BLVK Bar - Double Spearmint Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/double-spearmint-blvk-bar-nicotine-salt.webp?v=1771550161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a burst of icy freshness with Double Spearmint Ice BLVK Mint Salt Nic E-Juice. This 30ml blend delivers cool spearmint flavor layered with a crisp menthol finish for a clean, refreshing vape every time. Perfect for mint lovers seeking a smooth, satisfying hit. Shop now and elevate your vape with this chilling classic.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Double Spearmint 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Double Spearmint 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+    <published>2026-02-20T06:44:35+05:30</published>
+    <updated>2026-02-20T06:44:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-american-tobacco-salt"/>
+    <title>BLVK Bar - American Tobacco Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/AMERICAN-TOBACCO-30ML-BY-BLVK-BAR.webp?v=1771549905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience smooth satisfaction with BLVK Bar Saltnic 30ml E-Liquid, crafted for rich flavor and a clean throat hit. This tobacco blend delivers the classis tobacco taste, a bold taste, on every puff. Shop Blvk nicotine salts at best price in Kenya only at vapekenya.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - American Tobacco 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - American Tobacco 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+    <published>2026-02-20T06:40:28+05:30</published>
+    <updated>2026-02-20T06:40:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-watermelon-gummy-salt"/>
+    <title>BLVK Bar - Watermelon Gummy Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/watermelon-gummy-blvk-bar-nicotine-salt.webp?v=1771549690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience smooth satisfaction with BLVK Bar Saltnic 30ml E-Liquid, crafted for rich flavor and a clean throat hit. This fruity blend delivers the tart kick of watermelon, a hint of sweetness, and a refreshing icy finish on every puff.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Watermelon Gummy 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Watermelon Gummy 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322162364471</id>
+    <published>2025-08-03T23:41:15+05:30</published>
+    <updated>2025-08-03T23:41:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-nic-salt-havana-tobacco"/>
+    <title>BLVK Nic Salt - Havana Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk-nic-salt-havana-tobacco.webp?v=1754244585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in the rich and bold flavor of Havana Tobacco Nic Salt by BLVK 30ml. This premium nicotine salt captures the essence of traditional Cuban tobacco, offering a deep, earthy flavor with subtle sweetness. Whether you’re transitioning from cigarettes or enjoy classic tobacco notes, Havana Tobacco delivers an authentic experience with smooth, satisfying hits.</p>
+<p>BLVK Nic Salt Features:<br></p>
+<ul>
+<li>BLVK Tobacco Line</li>
+<li>30mL Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% VG/50% PG</li>
+<li>Made in USA</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted for Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Available in 35mg, 50mg</li>
+</ul>
+<p>Warning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322162364471</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Havana Tobacco - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322162364471</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Havana Tobacco - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442221111</id>
+    <published>2025-05-20T08:04:09+05:30</published>
+    <updated>2025-05-20T08:04:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-fusion-salt-kiwi-pom-berry-ice"/>
+    <title>BLVK Fusion Salt - Kiwi POM Berry Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk-fusion-kiwi-pom-berry-ice-with-box-min.jpg?v=1747708450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out Kiwi Berry Pom Ice by BLVK Fusion, introducing tangy kiwi, zesty pomegranate, and sweet strawberries served over ice in a nicotine salt blend.<br><br>BLVK Unicorn Fusion - Kiwi POM Berry Ice Features:<br></p>
+<ul>
+<li>BLVK Fusion Line</li>
+<li>30mL Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% VG/50% PG</li>
+<li>Made in USA</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted for Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Available in 35mg, 50mg</li>
+</ul>
+<p>Warning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442221111</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Kiwi POM Berry Ice 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442221111</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Kiwi POM Berry Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442188343</id>
+    <published>2025-05-20T08:04:06+05:30</published>
+    <updated>2025-05-20T08:04:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-pink-series-nicotine-salt-iced-berry-banana"/>
+    <title>BLVK Pink Series Nicotine Salt - Iced Berry Banana</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_iced_berry_banana_-_box_bottle.png?v=1747708448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover ICED Berry BANANA Salts by BLVK Unicorn, featuring a frozen banana base accented with delicious notes of sweet strawberry in nicotine salts.<br><strong>Features:</strong></p>
+<ul>
+<li>Bottle Size – 30 ML</li>
+<li>Nicotine Level – 35 MG, 50 MG</li>
+<li>VG/PG – 50 /50</li>
+<li>Ingredients – Propylene Glycol, Vegetable Glycerin, Natural &amp; Artificial Flavors, Nicotine.</li>
+</ul>
+<p>WARNING: THIS PRODUCT IS NOT DESIGNED FOR USE THAT REACH SUB-OHM RESISTANCE. IT IS MADE FOR THE USE IN POD DEVICES.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442188343</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Iced Berry Banana 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442188343</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Iced Berry Banana 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442155575</id>
+    <published>2025-05-20T08:04:04+05:30</published>
+    <updated>2025-05-20T08:04:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-salt-plus-ice-pineapple"/>
+    <title>BLVK Salt Plus - Ice Pineapple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_salt_plus_salts_pineapple.png?v=1747708446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Savor the flavor of Salt Plus - Pineapple Ice by BLVK Unicorn, capturing heaven sent notes of tangy pineapple enhanced with a splash of menthol for a deliciously fruity iced concoction that will dazzle the taste buds.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Warning:</strong> This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.<br data-mce-fragment="1"><br data-mce-fragment="1">BLVK Unicorn - Salt Plus - Ice  Pineapple Features:<br data-mce-fragment="1"></p>
+<ul>
+<li>30mL Chubby Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% PG</li>
+<li>50% VG</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted For Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Made in USA</li>
+<li>Available in 35mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442155575</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Ice Pineapple 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442155575</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Ice Pineapple 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442122807</id>
+    <published>2025-05-20T08:04:02+05:30</published>
+    <updated>2025-05-20T08:04:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-unicorn-nicotine-salt-vanilla-custard"/>
+    <title>BLVK Unicorn Nicotine Salt - Vanilla Custard</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_salt_series_salts_vanilla_custard_box_bottle.png?v=1747708443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vanilla Custard SALT by BLVK Unicorn blends together generous helping of premium nicotine salts and vanilla notes followed by a heavy overtone of custard to create a mouth-watering dessert vape experience that is sure going to energize the spirit and liven the taste buds.</p>
+<p>BLVK Unicorn – Vanilla Custard NICOTINE SALT Features:</p>
+<ul>
+<li>30mL Unicorn Bottle</li>
+<li>40% PG<strong>/</strong>60% VG</li>
+<li>Made in USA</li>
+<li>Available in 35mg, 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442122807</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Vanilla Custard 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442122807</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Vanilla Custard 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442090039</id>
+    <published>2025-05-20T08:04:00+05:30</published>
+    <updated>2025-05-20T08:04:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-unicorn-nicotine-salt-strawberry-cream"/>
+    <title>BLVK Unicorn Nicotine Salt - Strawberry Cream</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_salt_series_salts_strawberry_cream_box_bottle.png?v=1747708441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberry Cream <a href="https://[YOUR DOMAIN]/collections/blvk-nicotine-salts" title="Salt by BLVK">SALT by BLVK </a>Unicorn E-Liquid is a nicotine salt recreation of a thick decadent slice of strawberry shortcake combining a light airy strawberry cake base topped with a dollop of sweet rich cream and honey-touched graham cracker crumble.</p>
+<p>BLVK Unicorn – Strawberry Cream NICOTINE SALT Features:</p>
+<ul>
+<li>30mL Unicorn Bottle</li>
+<li>40% PG<strong>/</strong>60% VG</li>
+<li>Made in USA</li>
+<li>Available in 35mg, 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442090039</id>
+      <title>35mg</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>BLVK Unicorn - Strawberry Cream 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442090039</id>
+      <title>50mg</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>BLVK Unicorn - Strawberry Cream 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442057271</id>
+    <published>2025-05-20T08:03:58+05:30</published>
+    <updated>2025-05-20T08:03:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-unicorn-nicotine-salt-apple"/>
+    <title>BLVK Unicorn Nicotine Salt - Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_salt_series_salts_apple_box_bottle.png?v=1747708439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apple <a href="https://[YOUR DOMAIN]/collections/blvk-nicotine-salts" title="Blvk Nic Salts">Nicotine Salt by BLVK</a> Unicorn delivers the taste of crisp red and green apples collide with a menthol breeze to completely satisfy your senses.<br></p>
+<p>BLVK Unicorn – Apple NICOTINE SALT Features:</p>
+<ul>
+<li>30mL Unicorn Bottle</li>
+<li>40% PG<strong>/</strong>60% VG</li>
+<li>Made in USA</li>
+<li>Available in 35mg, 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442057271</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Unicorn - Apple 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442057271</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Unicorn - Apple 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283442024503</id>
+    <published>2025-05-20T08:03:55+05:30</published>
+    <updated>2025-05-20T08:03:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-unicorn-nicotine-salt-grape"/>
+    <title>BLVK Unicorn Nicotine Salt - Grape</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_salt_series_salts_grape_box_bottle.png?v=1747708437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grape Nicotine Salt by BLVK Unicorn blends fresh plump purple grapes for a full spectrum of subtle and bold fruit notes with every vape.</p>
+<p>BLVK Unicorn – Grape <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Nicotine salt features">NICOTINE SALT Features</a>:</p>
+<ul>
+<li>30mL Unicorn Bottle</li>
+<li>40% PG<strong>/</strong>60% VG</li>
+<li>Made in USA</li>
+<li>Available in 35mg, 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442024503</id>
+      <title>35mg</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>BLVK Unicorn - Grape 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283442024503</id>
+      <title>50mg</title>
+      <s:price currency="KES">1500.00</s:price>
+      <s:sku>BLVK Unicorn - Grape 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441991735</id>
+    <published>2025-05-20T08:03:53+05:30</published>
+    <updated>2025-05-20T08:03:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-fusion-salt-lemon-tangerine-ice"/>
+    <title>BLVK Fusion Salt - Lemon Tangerine Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_fusion_-_lemon_tangerine_ice_-_packaging.png?v=1747708434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dive into Lemon Tangerine Ice by BLVK Fusion, a tasty nicotine salt blend of zesty lemons and tangy tangerines with menthol to revitalize the senses. Shop best variety of nic salts only at <a href="https://[YOUR DOMAIN]/" title="vapekenya Kenya">vapekenya Kenya</a><br><br>BLVK Unicorn Fusion - Lemon Tangerine Ice Features:<br></p>
+<ul>
+<li>BLVK Fusion Line</li>
+<li>30mL Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% VG</li>
+<li>50% PG</li>
+<li>Made in USA</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted for Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Available in 35mg, 50mg</li>
+</ul>
+<p>Warning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441991735</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Lemon Tangerine Ice 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441991735</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Lemon Tangerine Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441958967</id>
+    <published>2025-05-20T08:03:51+05:30</published>
+    <updated>2025-05-20T08:03:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-fusion-salt-grape-apple-ice"/>
+    <title>BLVK Fusion Salt - Grape Apple Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_fusion_salts_grape_apple_ice_box_bottle.png?v=1747708432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Check out Grape Apple Ice by BLVK Unicorn, featuring notes of sweet grapes enhanced with crisp apple served over ice in a delicious nicotine salt.<br><br>BLVK Unicorn Fusion - Grape Apple Ice Features:<br></p>
+<ul>
+<li>BLVK Fusion Line</li>
+<li>30mL Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% VG/50% PG</li>
+<li>Made in USA</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted for Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Available in 35mg, 50mg</li>
+</ul>
+<p>Warning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441958967</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK  - Grape Apple Ice 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441958967</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK  - Grape Apple Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441926199</id>
+    <published>2025-05-20T08:03:48+05:30</published>
+    <updated>2025-05-20T08:03:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-fusion-salt-citrus-strawberry-ice"/>
+    <title>BLVK Fusion Salt - Citrus Strawberry Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_fusion_-_citrus_strawberry_ice.png?v=1747708430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shop Citrus Strawberry Ice - BLVK Fusion, featuring a nicotine salt blend of sweet strawberry with a twist of citrus on ice that will refresh the senses.<br><br>BLVK Unicorn Fusion - Citrus Strawberry Ice Features:<br></p>
+<ul>
+<li>BLVK Fusion Line</li>
+<li>30mL Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% VG/50% PG</li>
+<li>Made in USA</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted for Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Available in 35mg, 50mg</li>
+</ul>
+<p>Warning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441926199</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Citrus Strawberry Ice 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441926199</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Citrus Strawberry Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441893431</id>
+    <published>2025-05-20T08:03:44+05:30</published>
+    <updated>2025-05-20T08:03:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-unicorn-nicotine-salt-honeydew"/>
+    <title>BLVK Unicorn Nicotine Salt - Honeydew</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_salt_series_-_salts_-_honeydew_-_box_bottle.png?v=1747708428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Honeydew Nicotine Salt by BLVK Unicorn presents juicy honeydew melon chunks combined with a plethora of mixed berries for a flavor explosion.<br><br>BLVK Unicorn SALT - Honeydew Features:<br></p>
+<ul>
+<li>30mL Unicorn Bottle</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted For Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Available Nicotine: 35mg, 50mg</li>
+<li>Made in USA</li>
+</ul>
+<p><strong>Warning:</strong> This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in pod-based, closed systems devices, and ultra low-output atomizers/mods. Every salt-based nicotine e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441893431</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Honeydew 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441893431</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Honeydew 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441860663</id>
+    <published>2025-05-20T08:03:39+05:30</published>
+    <updated>2025-05-20T08:03:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-salt-plus-ice-sour-apple"/>
+    <title>BLVK Salt Plus - Ice Sour Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_salt_plus_-_salts_-_sour_apple.png?v=1747708423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the frigid flavor of Salt Plus - ICED Sour Apple by BLVK Unicorn, capturing the mouth-puckering flavor of green apples augmented with a deluge of menthol for a sensational vape.<br><br>BLVK Unicorn - Salt Plus - Sour Apple Ice Features:<br></p>
+<ul>
+<li>30mL Chubby Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% PG/50% VG</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted For Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Made in USA</li>
+<li>Available in 35mg</li>
+</ul>
+<p><strong>Warning:</strong> This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441860663</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Ice Sour Apple 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441860663</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Ice Sour Apple 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441795127</id>
+    <published>2025-05-20T08:03:35+05:30</published>
+    <updated>2025-05-20T08:03:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-salt-plus-ice-banana"/>
+    <title>BLVK Salt Plus - Ice Banana</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_salt_plus_-_salts_-_banana.png?v=1747708418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="value-content">
+<div data-element="main" data-appearance="contained" data-content-type="row">
+<div data-element="inner" data-background-images="{}" data-parallax-speed="0.5" data-enable-parallax="0">
+<div data-element="main" data-appearance="default" data-content-type="text">
+<p><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.</span></p>
+<p><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'><strong>Warning:</strong> This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</span></p>
+<p><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'><strong>BLVK Unicorn - Salt Plus - Banana Ice Features:</strong><br></span></p>
+<ul>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>30mL Chubby Unicorn Bottle</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>Child Resistant Cap</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>50% PG</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>50% VG</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>Nicotine Salts Formulation</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>Crafted For Ultra-Low Wattage &amp; Pod-Based System</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>Made in USA</span></li>
+<li><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}' data-sheets-value='{"1":2,"2":"Discover the flavor of Salt Plus - Banana Ice by BLVK Unicorn, a nicotine salt blend mixing together notes of sweet ripe banana with the uplifting chill of menthol for a deliciously frigid flavor.\n\nWarning: This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience."}'>Available in 35mg</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441795127</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Ice Banana 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441795127</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Ice Banana 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283441762359</id>
+    <published>2025-05-20T08:03:30+05:30</published>
+    <updated>2025-05-20T08:03:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-salt-plus-ice-red-orange"/>
+    <title>BLVK Salt Plus - Ice Red Orange</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blvk_unicorn_-_salt_plus_-_salts_-_red_orange.png?v=1747708414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delight in the flavor of Salt Plus - Red Orange Ice by BLVK Unicorn, capturing notes of tangy red oranges enhanced with an frosted chill that will uplift the spirits.<br><br>BLVK Unicorn - Salt Plus - Red Orange Ice Features:<br></p>
+<ul>
+<li>30mL Chubby Unicorn Bottle</li>
+<li>Child Resistant Cap</li>
+<li>50% PG</li>
+<li>50% VG</li>
+<li>Nicotine Salts Formulation</li>
+<li>Crafted For Ultra-Low Wattage &amp; Pod-Based System</li>
+<li>Made in USA</li>
+<li>Available in 35mg</li>
+</ul>
+<p><strong>Warning:</strong> This product is not meant for use in devices that reach sub-ohm resistance. We recommend this liquid to be used in vape pod system and ultra low-output atomizers/mods. Every nicotine salts e-juice contains significantly higher levels of nicotine per milliliter, optimal for beginners or experienced vapers looking for a travel-friendly experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441762359</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Iced Red Orange 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283441762359</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK - Iced Red Orange 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

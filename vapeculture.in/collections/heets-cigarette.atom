@@ -1,0 +1,1020 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/heets-cigarette.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-02-25T07:18:23+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+    <published>2026-02-25T07:18:23+05:30</published>
+    <updated>2026-02-25T07:18:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-summer-wave"/>
+    <title>IQOS HEETS Summer Wave</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/summer-wave-heets.webp?v=1771984104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-summer-wave">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p>This carton contains 10 packs of HEETS tobacco sticks.</p>
+<p>Each pack contains 20 sticks, for a total of 200 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Summer Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7419641790519</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Summer Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7328585449527</id>
+    <published>2025-08-22T08:20:23+05:30</published>
+    <updated>2025-08-22T08:20:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-sun-pearl"/>
+    <title>IQOS HEETS Sun Pearl</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-heets-sun-pearl.jpg?v=1755830943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-sun-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Heets Sun Pearl pack has a laconic design with a red background. HEETS tobacco sticks are designed to be used with a tobacco heating system.</p>
+<p>A balanced, roasted tobacco blend with light hints of spicy herbs. And when you press the button, reveals a pleasantly refreshing taste with hints of summer berries.</p>
+<p><strong>Aromatic notes</strong>: from balanced tobacco to refreshing summer berry and menthol notes.</p>
+<p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328585449527</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Sun Pearl - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7328585449527</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Sun Pearl - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322274398263</id>
+    <published>2025-08-04T05:23:03+05:30</published>
+    <updated>2025-08-04T05:23:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-silver-selection"/>
+    <title>IQOS HEETS Silver Selection</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-heets-silver-selection.webp?v=1754265184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-silver-selection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This carton contains 10 packs of HEETS tobacco cigarette. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>HEETS cigarettes are a completely new way to enjoy tobacco. Made from the finest leaf and produced into small 'sticks', they open up a whole new world of taste and flavour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322274398263</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Silver Selection - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322274398263</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Silver Selection - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322271186999</id>
+    <published>2025-08-04T05:19:56+05:30</published>
+    <updated>2025-08-04T05:19:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-turquoise-selection"/>
+    <title>IQOS HEETS Turquoise Selection</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/iqos-heets-turquoise-selection-flavor.webp?v=1754264996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-turquoise-selection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>HEETS are a completely new way to enjoy tobacco. Made from the finest leaf and produced into small 'sticks', they open up a whole new world of taste and flavour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322271186999</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Turquoise Selection - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322271186999</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Turquoise Selection - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289359958071</id>
+    <published>2025-06-10T06:41:16+05:30</published>
+    <updated>2025-06-10T06:41:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-ruby-fuse"/>
+    <title>IQOS HEETS Ruby Fuse</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-ruby-fuse.jpg?v=1749517879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-ruby-fuse">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p data-mce-fragment="1">IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p data-mce-fragment="1"><strong>Ruby Fuse Heets</strong> is a gentle and fragrant tobacco blend complemented by impressive berry notes with a light floral shade. For use with IQOS devices.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289359958071</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Ruby Fuse - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289359958071</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Ruby Fuse - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289359892535</id>
+    <published>2025-06-10T06:41:00+05:30</published>
+    <updated>2025-06-10T06:41:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-creations-twilight"/>
+    <title>IQOS HEETS Creations Twilight</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-creations-twilight-carton-min.jpg?v=1749517864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            725.00 - 6900.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-creations-twilight">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p data-mce-fragment="1">IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p data-mce-fragment="1"><span>Heets Creations Twilight sticks with wild berry flavored capsule and woody notes for the Iqos tobacco heating system.</span></p>
+<p data-mce-fragment="1">Each HEETS stick contains 0.5mg of nicotine and other flavor options are available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289359892535</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">725.00</s:price>
+      <s:sku>Heets Creations Twilight - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289359892535</id>
+      <title>CARTON</title>
+      <s:price currency="KES">6900.00</s:price>
+      <s:sku>Heets Creations Twilight - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7289359859767</id>
+    <published>2025-06-10T06:40:42+05:30</published>
+    <updated>2025-06-10T06:40:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-gold-label"/>
+    <title>IQOS HEETS Gold Label</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-gold.jpg?v=1749517844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/heets-gold-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description" data-mce-fragment="1">Gold Selection Label IQOS HEETS Gold Selection (previously known as Gold Label) flavor has strong tobacco flavour with a taste almost heavy as cigars. For use only with IQOS devices. Buy Heets in Kenya at your doorstep.</div>
+<div class="short-description" data-mce-fragment="1">
+<p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289359859767</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Gold Label - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7289359859767</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Gold Label - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284128546871</id>
+    <published>2025-05-22T05:43:10+05:30</published>
+    <updated>2025-05-22T05:43:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-creations-apricity"/>
+    <title>IQOS HEETS Creations Apricity</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/HEETS_CREATIONS_APRICITY.jpg?v=1747872792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            635.00 - 5450.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-creations-apricity">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">HEETS Creations Apricity has a Rich and Creamy taste with a tobacco blend also it has a woody and sweet fruity touch, ending with a taste of velvet creamy touch. Philip Morris international created the IQOS Heated Tobacco technology to give adult smokers a better alternative to smoking</span>.</p>
+<ul>
+<li>Carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</li>
+<li>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</li>
+</ul>
+<p><span>Also check are whole collection of</span><span> </span><a title="Iqos cigarette" href="https://[YOUR DOMAIN]/collections/iqos-heets" target="_blank" rel="noopener">Iqos cigarette</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128546871</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">635.00</s:price>
+      <s:sku>Heets Creations Apricity - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128546871</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5450.00</s:price>
+      <s:sku>Heets Creations Apricity - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284128481335</id>
+    <published>2025-05-22T05:43:06+05:30</published>
+    <updated>2025-05-22T05:43:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-yugen"/>
+    <title>IQOS HEETS Dimensions Yugen</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-kenya-dimensions-yugen.jpg?v=1747872789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            635.00 - 5450.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-yugen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iqos Heets Dimensions Yugen is made of fresh chords of aromatic herbs and floral tinge will keep you amazed. You will feel the fruity tones with the creaminess of tobacco.</p>
+<ul>
+<li>Carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</li>
+<li>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</li>
+</ul>
+<p>There are 2 more<span> </span><em>unique taste<span> </span></em>in HEETS Dimensions collection:<span> </span><a title="Heets Kenya Dimensions Ammil" href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-ammil" target="_blank" rel="noopener">HEETS AMMIL</a><span> </span>(fresh, herbal) and<span> <a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-noor" title="Heets dimensions noor" data-mce-fragment="1">HEETS NOOR</a> (citrus, spicy).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128481335</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">635.00</s:price>
+      <s:sku>Heets Dimensions Yugen - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128481335</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5450.00</s:price>
+      <s:sku>Heets Dimensions Yugen - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284128415799</id>
+    <published>2025-05-22T05:43:03+05:30</published>
+    <updated>2025-05-22T05:43:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-sienna-label"/>
+    <title>IQOS HEETS Sienna Label</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heetssiennacart.jpg?v=1747872785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            860.00 - 8400.00
+            <a href="https://[YOUR DOMAIN]/products/heets-sienna-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sienna Label HEETS - An intense tobacco blend.</span></p>
+<p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is not intended for non smokers or ex smokers and is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p>Each HEETS stick contains 0.5mg of nicotine and other flavour options are available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128415799</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">860.00</s:price>
+      <s:sku>Heets Sienna Label - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128415799</id>
+      <title>CARTON</title>
+      <s:price currency="KES">8400.00</s:price>
+      <s:sku>Heets Sienna Label - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284128350263</id>
+    <published>2025-05-22T05:43:00+05:30</published>
+    <updated>2025-05-22T05:43:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-blue-label"/>
+    <title>IQOS HEETS Blue Label</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-blue.jpg?v=1747872782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            635.00 - 5450.00
+            <a href="https://[YOUR DOMAIN]/products/heets-blue-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p><span>Blue Label HEETS - <em>Deep Menthol.</em></span></p>
+<p>Each HEETS stick contains 0.5mg of nicotine and other flavour options are available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128350263</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">635.00</s:price>
+      <s:sku>Heets Blue Label - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284128350263</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5450.00</s:price>
+      <s:sku>Heets Blue Label - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284127105079</id>
+    <published>2025-05-22T05:32:49+05:30</published>
+    <updated>2025-05-22T05:32:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-green-zing"/>
+    <title>IQOS HEETS Green Zing</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/BEST-IQOS-HEETS-GREEN-ZING-Kenya.png?v=1747872170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-green-zing">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spicy and fresh tobacco from Green Label HEETS delights with a feeling of cool menthol taste, filled with citrus and spicy herbal notes. HEETS Green Zing Label flavor has a peppermint flavor of roasted tobacco blend with citrus and spicy herbs.</p>
+<ul>
+<li>Carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</li>
+<li>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127105079</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Green Zing - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127105079</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Green Zing - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284127072311</id>
+    <published>2025-05-22T05:32:46+05:30</published>
+    <updated>2025-05-22T05:32:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-tropical-swift"/>
+    <title>IQOS HEETS Tropical Swift</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-tropical-swift-selection-kenya.png?v=1747872168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-tropical-swift">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Not all smokers like the taste of tobacco or menthol. Try the fantastic blend of juiced fruit and fruity odor of Heets Tropical Swift for Iqos Kenya. If you are searching for awesome fresh flavour in Iqos heets, Tropical swift will pleasure delivering the fruity scents and will satisfy you with deep juicy flavor and the light fresh after taste</span></p>
+<ul>
+<li>Carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</li>
+<li>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</li>
+</ul>
+<p><span>Also check are whole collection of </span><a title="Marlboro Iqos" href="https://[YOUR DOMAIN]/collections/iqos-heets" target="_blank" rel="noopener">Marlboro Iqos</a><span> &amp; </span><a title="Marlboro heets" href="https://[YOUR DOMAIN]/collections/iqos-heets" target="_blank" rel="noopener">Iqos Heets</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127072311</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Tropical Swift - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127072311</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Tropical Swift - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284127039543</id>
+    <published>2025-05-22T05:32:44+05:30</published>
+    <updated>2025-05-22T05:32:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-noor"/>
+    <title>IQOS HEETS Dimensions Noor</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets_kenya_dimensions_noor.jpg?v=1747872165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-noor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heets Dimensions Noor - Elegant blend with a warm nutty flavor and delicate citrus and fruity notes.</p>
+<ul>
+<li>Carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</li>
+<li>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</li>
+</ul>
+<p>There are 2 more <em>unique taste </em>in HEETS Dimensions collection: <a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-ammil" title="Heets Kenya Dimensions Ammil" target="_blank" rel="noopener">HEETS AMMIL</a> (fresh, herbal) and <a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-yugen" title="Heets Kenya Dimensions Yugen" target="_blank" rel="noopener">HEETS YUGEN</a> (floral, herbs).</p>
+<p>Also check are whole collection of <a href="https://[YOUR DOMAIN]/collections/iqos-heets" title="Marlboro Iqos" target="_blank" rel="noopener">Marlboro Iqos</a> &amp; <a href="https://[YOUR DOMAIN]/collections/iqos-heets" title="Marlboro heets" target="_blank" rel="noopener">Iqos Heets</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127039543</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Dimensions Noor - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127039543</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Dimensions Noor - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284127006775</id>
+    <published>2025-05-22T05:32:38+05:30</published>
+    <updated>2025-05-22T05:32:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-ammil"/>
+    <title>IQOS HEETS Dimensions Ammil</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-dimensions-ammil_e8105ab7-204f-485f-af39-6091043f3276.jpg?v=1750030368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-ammil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HEETS Dimensions AMMIL is a rich blend that harmoniously combines soft fruit shades and woody notes, offering a velvety creamy feel.</p>
+<ul>
+<li>Carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</li>
+<li>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</li>
+</ul>
+<p>There are 2 more<span> </span><em>unique taste<span> </span></em>in HEETS Dimensions collection:<span> </span><a href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-noor" title="Heets dimensions noor">HEETS NOOR</a><span> </span>(<span data-mce-fragment="1">citrus, spicy</span>) and<span> </span><a title="Heets Kenya Dimensions Yugen" href="https://[YOUR DOMAIN]/products/iqos-heets-dimensions-yugen" rel="noopener" target="_blank">HEETS YUGEN</a><span> </span>(floral, herbs).</p>
+<p><span>Also check are whole collection of </span><a title="Marlboro Iqos" href="https://[YOUR DOMAIN]/collections/iqos-heets" rel="noopener" target="_blank">Marlboro Iqos</a><span> &amp; </span><a title="Marlboro heets" href="https://[YOUR DOMAIN]/collections/iqos-heets" rel="noopener" target="_blank">Iqos Heets</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127006775</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Dimensions Ammil - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284127006775</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Dimensions Ammil - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126974007</id>
+    <published>2025-05-22T05:32:36+05:30</published>
+    <updated>2025-05-22T05:32:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-purple-label"/>
+    <title>IQOS HEETS Purple Wave</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-purple.png?v=1747872157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/heets-purple-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description" data-mce-fragment="1">Purple Wave Selection Label IQOS HEETS Purple Wave (previously known as Purple Label) flavor has strong tobacco flavour with a taste almost heavy as cigars. For use only with IQOS devices. Buy IQOS Purple Heets Kenya at your doorstep.</div>
+<div class="short-description" data-mce-fragment="1"></div>
+<div class="short-description" data-mce-fragment="1">
+<p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126974007</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Purple Wave - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126974007</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Purple Wave - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126941239</id>
+    <published>2025-05-22T05:32:33+05:30</published>
+    <updated>2025-05-22T05:32:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-bronze-label"/>
+    <title>IQOS HEETS Bronze Label</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-bronze-label-iqos-cigarette.webp?v=1756169422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/heets-bronze-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description" data-mce-fragment="1">Bronze Selection Label IQOS HEETS Bronze Selection (previously known as Bronze Label) flavor has strong tobacco flavour with a taste almost heavy as cigars. For use only with IQOS devices.</div>
+<div class="short-description" data-mce-fragment="1">
+<p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126941239</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Bronze Label - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126941239</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Bronze Label - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126908471</id>
+    <published>2025-05-22T05:32:31+05:30</published>
+    <updated>2025-05-22T05:32:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-green-label"/>
+    <title>IQOS HEETS Green Selection</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-green.jpg?v=1747872153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            635.00 - 5450.00
+            <a href="https://[YOUR DOMAIN]/products/heets-green-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p>IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p>Green Label HEETS - Toasted tobacco blend with a cooling green mint and menthol kick.</p>
+<p>IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is not intended for non smokers or ex smokers and is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p>Each HEETS stick contains 0.5mg of nicotine and other flavour options are available.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126908471</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">635.00</s:price>
+      <s:sku>Heets Green Selection - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126908471</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5450.00</s:price>
+      <s:sku>Heets Green Selection - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126842935</id>
+    <published>2025-05-22T05:32:28+05:30</published>
+    <updated>2025-05-22T05:32:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/heets-amber-label"/>
+    <title>IQOS HEETS Amber Label</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-amber.jpg?v=1747872150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/heets-amber-label">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p data-mce-fragment="1">IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p data-mce-fragment="1">Amber Label HEETS - A rich tobacco blend.</p>
+<p data-mce-fragment="1">IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is not intended for non smokers or ex smokers and is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p data-mce-fragment="1">Each HEETS stick contains 0.5mg of nicotine and other flavor options are available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126842935</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Amber Label - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126842935</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Amber Label - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126810167</id>
+    <published>2025-05-22T05:32:25+05:30</published>
+    <updated>2025-05-22T05:32:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-summer-breeze"/>
+    <title>IQOS HEETS Summer Breeze</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/heets-summer-breeze.jpg?v=1747872147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-summer-breeze">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p data-mce-fragment="1">IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p data-mce-fragment="1">Summer Breeze HEETS - New menthol cooling sensation enriched with bold fruity aroma notes and floral nuances is HEETS Summer Breeze in a peach-colored pack.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">IQOS have created an alternative for adult smokers who would otherwise continue to smoke cigarettes and want to enjoy real tobacco taste without the smoke or ash of cigarettes. This product is not intended for non smokers or ex smokers and is compatible only with the IQOS device. Do not smoke or use with other devices.</p>
+<p data-mce-fragment="1">Each HEETS stick contains 0.5mg of nicotine and other flavor options are available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126810167</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Summer Breeze - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126810167</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Summer Breeze - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7284126744631</id>
+    <published>2025-05-22T05:32:20+05:30</published>
+    <updated>2025-05-22T05:32:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/iqos-heets-slate-selection"/>
+    <title>IQOS HEETS Slate Selection</title>
+    <s:type>Heets</s:type>
+    <s:vendor>IQOS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Heets-Parliament-Slate-Selection.jpg?v=1747872144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IQOS<br>
+        <strong>Type: </strong>Heets<br>
+        <strong>Price: </strong>
+            590.00 - 5000.00
+            <a href="https://[YOUR DOMAIN]/products/iqos-heets-slate-selection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This carton contains 10 packs of HEETS tobacco sticks. Each pack contains 20 sticks, for a total of 200 sticks.</p>
+<p data-mce-fragment="1">IQOS HEETS are real tobacco sticks made for IQOS 'Heat Not Burn' products.</p>
+<p data-mce-fragment="1"><span>Heets Slate Selection (ex Yellow Selection) flavor is soft and fragrant mellow tobacco blend with some spicy notes. For use with IQOS devices.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126744631</id>
+      <title>1 PACK</title>
+      <s:price currency="KES">590.00</s:price>
+      <s:sku>Heets Slate Selection - Pack</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7284126744631</id>
+      <title>CARTON</title>
+      <s:price currency="KES">5000.00</s:price>
+      <s:sku>Heets Slate Selection - Carton</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

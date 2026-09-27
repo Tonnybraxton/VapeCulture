@@ -1,0 +1,1423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vgod-nic-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-04-03T07:06:08+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+    <published>2026-04-03T07:06:08+05:30</published>
+    <updated>2026-04-03T07:06:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-double-apple"/>
+    <title>VGOD Nicotine Salt - Double Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-saltnic-double-apple-nicotine-salt.webp?v=1775180064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Mix Iced Double Apple 30ml: Savor a robust blend of succulent red and green apples, where sour and sweetness coexist together. The clean, thrilling ice blast elevates the fresh, lively taste of ripe apples in every puff, locking in the flavor and leaving you wanting more. Shop vaping devices at best <a href="https://[YOUR DOMAIN]" title="vape price">vape price</a> in Kenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 25 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>25 mg with Ice</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 25 Mg with Ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>50 mg with ice</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 50 Mg with Ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+    <published>2026-04-03T07:01:55+05:30</published>
+    <updated>2026-04-03T07:01:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-desert-blend"/>
+    <title>VGOD Nicotine Salt - Desert Blend</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Tobacco-Plus-Saltnic-30ml-Desert-Blend.webp?v=1775179793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Tobacco Plus Desert Blend SaltNic delivers the authentic taste of dry tobacco leaves with an earthy, smooth profile enhanced by a hint of spice. This warm and aromatic blend is balanced and clean, making it an excellent choice for an all-day vape. Available in 20mg, 25mg, and 50mg strengths in a 30ml bottle. Shop from vapekenya and get best <a href="https://[YOUR DOMAIN]" title="e cigarette price">e cigarette price</a> in Kenya.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Desert Blend - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Desert Blend - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+    <published>2026-04-03T06:58:09+05:30</published>
+    <updated>2026-04-03T06:58:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-pina-colada"/>
+    <title>VGOD Nicotine Salt - Pina Colada</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-30ml-Iced-Pina-Colada.webp?v=1775179523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transport yourself to a tropical escape with VGOD MIX – Iced Piña Colada, a refreshing nicotine salt blend that delivers the perfect balance of creamy coconut, sweet pineapple, and a crisp icy finish. Each puff captures the iconic beach-inspired cocktail flavor, offering a smooth, cool, and flavorful vape experience ideal for hot days or all-day freshness. Shop from vapekenya and get best <a href="https://[YOUR DOMAIN]" title="e cigarette price">e cigarette price</a> in Kenya.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pina Colada - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pina Colada - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399972143159</id>
+    <published>2026-01-15T02:04:59+05:30</published>
+    <updated>2026-01-15T02:04:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-tropical-reserve"/>
+    <title>VGOD Nicotine Salt - Tropical Reserve</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD_TROPICAL_RESERVE_VAPE_JUICE_30ml_SaltNic.webp?v=1768422837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing VGOD Salt Nic Labs Tobacco+ Tropical Reserve, a captivating e-liquid that masterfully blends the essence of rich, smoky tobacco with an enticing medley of tropical fruits. This exquisite flavor profile features juicy pineapple, succulent mango, and a hint of zesty citrus, creating a vibrant and refreshing twist on the classic tobacco experience.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399972143159</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Tropical Reserve 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399972143159</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Tropical Reserve 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399971520567</id>
+    <published>2026-01-15T02:02:37+05:30</published>
+    <updated>2026-01-15T02:02:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-mango-passion-fruit"/>
+    <title>VGOD Nicotine Salt - Iced Mango Passion Fruit</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Mango-Passionfruit.webp?v=1768422629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delight in the tropical duo of VGOD Iced Mango Passionfruit, a SaltNic e-liquid that combines the sweet, juicy taste of ripe mango with tangy passionfruit and a refreshing icy finish. Each puff is smooth, fruity, and invigorating.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399971520567</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Passion Fruit 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399971520567</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Passion Fruit 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399970537527</id>
+    <published>2026-01-15T01:57:07+05:30</published>
+    <updated>2026-01-15T01:57:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-black-cherry"/>
+    <title>VGOD Nicotine Salt - Iced Black Cherry</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Black-Cherry.webp?v=1768422350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a vape juice that has the unique VGOD smoothness and a cool, iced fruit flavor ? Vapers who enjoy a cold, fruity punch with each inhalation are the ideal market for VGOD Iced Mix Series Salt. This blend, created by VGOD Saltnic Labs, is ideal for daily vaping, especially in the heat of the Kenya, as it highlights crisp fruit traits coupled with a clean menthol coolness.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970537527</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Black Cherry 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970537527</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Black Cherry 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399970078775</id>
+    <published>2026-01-15T01:54:55+05:30</published>
+    <updated>2026-01-15T01:54:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-strawberry-apple"/>
+    <title>VGOD Nicotine Salt - Iced Strawberry Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Strawberry-Apple.webp?v=1768422196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a vape juice that has the unique VGOD smoothness and a cool, iced fruit flavor ? Vapers who enjoy a cold, fruity punch with each inhalation are the ideal market for VGOD Iced Mix Series Salt. This blend, created by VGOD Saltnic Labs, is ideal for daily vaping, especially in the heat of the Kenya, as it highlights crisp fruit traits coupled with a clean menthol coolness.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970078775</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Strawberry Apple 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970078775</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Strawberry Apple 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399880622135</id>
+    <published>2026-01-14T23:16:30+05:30</published>
+    <updated>2026-01-14T23:16:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-berry-pomegranate"/>
+    <title>VGOD Nicotine Salt - Iced Berry Pomegranate</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Berry-Pomegranate.jpg?v=1768412617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a vape juice that has the unique VGOD smoothness and a cool, iced fruit flavor ? Vapers who enjoy a cold, fruity punch with each inhalation are the ideal market for VGOD Iced Mix Series Salt. This blend, created by VGOD Saltnic Labs, is ideal for daily vaping, especially in the heat of the Kenya, as it highlights crisp fruit traits coupled with a clean menthol coolness.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399880622135</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Berry Pomegranate 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399880622135</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Berry Pomegranate 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399711965239</id>
+    <published>2026-01-14T20:12:37+05:30</published>
+    <updated>2026-01-14T20:12:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-blue-razz"/>
+    <title>VGOD Nicotine Salt - Iced Blue Razz</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Blue-Razz-SaltNic-E-Liquid.webp?v=1768401483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the invigorating rush of VGOD Salt Nic Labs Iced MIX Blue Razz vape liquid, where every puff delivers a symphony of tantalizing flavors. Crafted to perfection, this e-liquid combines the essence of ripe, juicy blueberries with the tangy allure of crisp raspberries.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399711965239</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Blue Razz 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399711965239</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Blue Razz 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399409451063</id>
+    <published>2026-01-13T06:14:12+05:30</published>
+    <updated>2026-01-13T06:14:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-mango-honeydew"/>
+    <title>VGOD Nicotine Salt - Iced Mango Honeydew</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Mango-Honeydew.webp?v=1768264870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Mix Iced Mango Honeydew 30mL Salt Nic vape flavour offers a vibrant and refreshing blend that perfectly balances tropical sweetness with a crisp, cooling finish. Experience the luscious, juicy sweetness of ripe mango paired with the mellow, subtly sweet flavor of honeydew melon, all wrapped up with a cool menthol breeze that refreshes your palate.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409451063</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Honeydew 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409451063</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Honeydew 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399410171959</id>
+    <published>2026-01-13T06:06:54+05:30</published>
+    <updated>2026-01-13T06:06:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-american-black-woods"/>
+    <title>VGOD Nicotine Salt - American Black Woods</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-American-black-woods-SaltNic-E-Liquid.jpg?v=1768264384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Full-bodied and bold, American Back Tobacco vape flavour refill delivers authentic dry tobacco flavor with a hint of smoky edge. Strong, smooth, and classic—built for those who want their vape as rugged and real as it gets.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399410171959</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - American Black Woods 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399410171959</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - American Black Woods 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399409156151</id>
+    <published>2026-01-13T05:58:22+05:30</published>
+    <updated>2026-01-13T05:58:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-bubble-grape"/>
+    <title>VGOD Nicotine Salt - Bubble Grape Iced</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Bubble-Grape-SaltNic-E-Liquid.webp?v=1768264032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iced Bubble Grapes by VGOD SaltNic Mix is the vape juice equivalent of blowing a grape-flavored bubble, but with an icy twist. VGOD captures the essence of your favorite grape gum with an icy finish for a cooling effect. If you’re looking for a nostalgic <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Vape refill">vape refill</a> flavor or something refreshing, Iced Bubble Grapes is your new go-to.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409156151</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Bubble Grape Iced 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409156151</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Bubble Grape Iced 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399408107575</id>
+    <published>2026-01-13T05:48:46+05:30</published>
+    <updated>2026-01-13T05:48:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-belgian-butterscotch-tobacco"/>
+    <title>VGOD Nicotine Salt - Belgian Butterscotch Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Belgian-Butter-Scotch-SaltNic-E-Liquid_3cb680a1-0d33-418e-bdd9-c696d5566d6c.webp?v=1768263331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smooth, rich tobacco infused with the creamy decadence of Belgian butterscotch. Each inhale is buttery and sweet, while the tobacco base keeps things grounded and satisfying. It’s comfort and character in perfect harmony. Optimized for low-watt pod <a href="https://[YOUR DOMAIN]/collections/vape-kenya" title="vape system">vape system</a>, it’s an ideal choice for vapers who crave a cool tropical twist.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399408107575</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Belgian Butterscotch Tobacco 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399408107575</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Belgian Butterscotch Tobacco 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399407812663</id>
+    <published>2026-01-13T05:41:02+05:30</published>
+    <updated>2026-01-13T05:41:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-banana-bomb"/>
+    <title>VGOD Nicotine Salt - Iced Banana Bomb</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Banana-Bomb-SaltNic-E-Liquid.webp?v=1768262957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p2">VGOD Iced Banana Bomb Salt Nic combines sweet, creamy banana flavor with a refreshing minty menthol finish for a perfectly blended fruit-ice profile. This 30ml e-liquid features a nicotine salt formula that ensures smoothness and fast satisfaction, supported by a 45PG/55VG ratio for excellent flavor delivery. Optimized for low-watt pod systems, it’s an ideal choice for vapers who crave a cool tropical twist.</p>
+<p>Free Doorstep Delivery Available in Kenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399407812663</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Banana Bomb 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399407812663</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Banana Bomb 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399407255607</id>
+    <published>2026-01-13T05:35:55+05:30</published>
+    <updated>2026-01-13T05:35:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-cherry-lime"/>
+    <title>VGOD Nicotine Salt - Iced Cherry Lime</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-mix-cherry-lime-iced-30ml.webp?v=1768262565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in a burst of sweet and tangy flavor with VGOD Mix Cherry Lime Iced 30ml. This flavor delivers a refreshing blend of cherry and lime that will tantalize your taste buds. Perfect for those who crave a little excitement in their vape. Try it now and experience a delicious rush of fruity goodness! </p>
+<p>Free Doorstep Delivery Available!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399407255607</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Cherry Lime 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399407255607</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Cherry Lime 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399406207031</id>
+    <published>2026-01-13T05:30:30+05:30</published>
+    <updated>2026-01-13T05:30:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-bubble-watermelon"/>
+    <title>VGOD Nicotine Salt - Iced Bubble Watermelon</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-saltnic-iced-bubble-watermelon.webp?v=1768262278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD's MIX Iced Bubble Watermelon flavor provides a refreshing taste of summer, blending juicy watermelon sweetness with bubblegum effervescence. The cool inhale and icy finish make it a perfect choice for a fruity vape, ideal for all-day enjoyment with an invigorating and satisfying flavor profile. Also, shop the latest devices at best <a href="https://[YOUR DOMAIN]/collections/vape-kenya" title="Vape price">vape price</a> in Kenya from vapekenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399406207031</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Bubble Watermelon 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399406207031</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Bubble Watermelon 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399405682743</id>
+    <published>2026-01-13T05:25:50+05:30</published>
+    <updated>2026-01-13T05:25:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-peach-mango"/>
+    <title>VGOD Nicotine Salt - Iced Peach Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-saltnic-iced-peach-mango.webp?v=1768262104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Explore the Iced Peach Mango by VGOD Salts, a 30mL nicotine salt e-liquid blending sun-ripened peaches and juicy mango with a cool menthol finish for a tropical, frosty vape.</span> Also, shop the latest devices at best <a title="Vape price" href="https://[YOUR DOMAIN]/collections/vape-kenya">vape price</a> in Kenya from vapekenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399405682743</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Peach Mango 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399405682743</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Peach Mango 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399403913271</id>
+    <published>2026-01-13T05:19:33+05:30</published>
+    <updated>2026-01-13T05:19:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-dry-tobacco"/>
+    <title>VGOD Nicotine Salt - Iced Dry Tobacco</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Vgod-iced-dry-tobacco-salt.webp?v=1768261627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover Iced Dry Tobacco by VGOD, featuring a nic salt vape refill blend of classic dry tobacco infused with a blast of refreshing menthol for a bold and chilling vape. Also, shop the latest devices at best <a href="https://[YOUR DOMAIN]/collections/vape-kenya" title="Vape price">vape price</a> in Kenya from vapekenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Cubano Black Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399403913271</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Dry Tobacco 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399403913271</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Dry Tobacco 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428294711</id>
+    <published>2025-05-20T06:11:47+05:30</published>
+    <updated>2025-05-20T06:11:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-pink-cakes"/>
+    <title>VGOD Nicotine Salt - Pink Cakes</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-salt-pink-cakes-min.jpg?v=1747701709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pink Cakes by VGOD SaltNic is a masterpiece blend that combines the exotic flavors of passion fruit and guava with the sweetness of lime chiffon cake. Topped with a hint of buttercream frosting, this e-liquid takes you on a journey to Hawaiian Paradise. The smooth and creamy texture enhances the vaping experience, delivering a tropical symphony with every puff.</span></p>
+<p><strong>Nic Salt Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: <span data-mce-fragment="1">Pink Cakes </span>Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 55/45</em></strong></li>
+<li>Flavor Profile: Passion fruit, Guava and Lime Chiffon Cake</li>
+<li>Made in USA</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428294711</id>
+      <title>25MG</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pink Cakes - 25mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428294711</id>
+      <title>50MG</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pink Cakes - 50mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428229175</id>
+    <published>2025-05-20T06:11:42+05:30</published>
+    <updated>2025-05-20T06:11:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-melon-mix"/>
+    <title>VGOD Nicotine Salt - Melon Mix</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/melon_mix_-_vgod_saltnic_-_30ml_-_bottle_and_box.jpg?v=1747701704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Melon Mix by VGOD SaltNic takes the very essence of a cool bowl of freshly cut melons and blends it with nicotine salt for a tasty and powerful vaping experience.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Nic Salt Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Melon Mix Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 45/55</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428229175</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Melon Mix - 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428229175</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Melon Mix - 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428196407</id>
+    <published>2025-05-20T06:11:40+05:30</published>
+    <updated>2025-05-20T06:11:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-apple-bomb"/>
+    <title>VGOD Nicotine Salt - Apple Bomb</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD_Apple_Bomb_SaltNic-Purple-Bomb.webp?v=1769148240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apple Bomb by VGOD SaltNic is a vapable rendition of sour apple belts dusted in sweet sugar, reduced down to a sensational elixir that will befuddle the senses with tasty apple flavored clouds.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Nic Salt Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Iced Apple Bomb Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 45/55</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428196407</id>
+      <title>25MG (ICED)</title>
+      <s:price currency="KES">1350.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 25mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428196407</id>
+      <title>50MG (ICED)</title>
+      <s:price currency="KES">1350.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 50mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428196407</id>
+      <title>25MG (Without Ice)</title>
+      <s:price currency="KES">1350.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 25mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428196407</id>
+      <title>50MG (Without Ice)</title>
+      <s:price currency="KES">1350.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 50mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428163639</id>
+    <published>2025-05-20T06:11:38+05:30</published>
+    <updated>2025-05-20T06:11:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-cubano"/>
+    <title>VGOD Nicotine Salt - Cubano</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/cubano-product-saltnic.png?v=1747701699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your favorite Cigar topped off with a drizzle of Vanilla Cream is now available for your pod mod in both 25mg and 50mg SaltNic for a rich and satisfying vape.</p>
+<p><strong>Nic Salt Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Cubano Silver Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 55/45</em></strong></li>
+<li>Flavor Profile: <span data-mce-fragment="1">Smooth cigar tobacco &amp; vanilla</span>
+</li>
+<li>Made in USA</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428163639</id>
+      <title>25MG</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Cubano - 25mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428163639</id>
+      <title>50MG</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Cubano - 50mg</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428130871</id>
+    <published>2025-05-20T06:11:34+05:30</published>
+    <updated>2025-05-20T06:11:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-cubano-silver"/>
+    <title>VGOD Nicotine Salt - Cubano Silver</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-cubano-silver-30ml-nic-salt-juice-25mg.jpg?v=1747701697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The smoothest version of Cubano that VGOD has to offer, this Cubano Silver Nic Salt Juice takes the iconic flavor of cigar tobacco and complements it with notes of warm vanilla to create this complex and medium-bodied tobacco blend. Perfect for those who enjoy lighter varieties of traditional tobaccos, as well as Cuban cigars.<br data-mce-fragment="1"><br data-mce-fragment="1">VGOD’s Cubano Silver Nic Salt Juice comes in a 30ml bottle of nicotine salt juice with your choice between a 25mg (2.5%) and 50mg (5.0%) nicotine strength. Not craving Cubano Silver? Be sure to check out VGOD’s full selection of nicotine salt juices.</p>
+<p><strong>Nic Salt Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Cubano Silver Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 55/45</em></strong></li>
+<li>Flavor Profile: <span data-mce-fragment="1">Smooth cigar tobacco &amp; vanilla</span>
+</li>
+<li>Made in USA</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428130871</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Cubano Silver - 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428130871</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Cubano Silver - 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428098103</id>
+    <published>2025-05-20T06:11:30+05:30</published>
+    <updated>2025-05-20T06:11:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-lush-ice"/>
+    <title>VGOD Nicotine Salt - Lush Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-lush-ice-30ml-nic-salt-juice.jpg?v=1747701693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A perfect choice for those who enjoy juicy and refreshing iced fruit flavors, VGOD’s Lush Ice Nic Salt Juice serves up a mouthwatering flavor profile that will keep your tastebuds happy, regardless of this season. Try VGOD’s Lush Ice Nic Salt Juice today if you enjoy succulent, smooth, and icy watermelon flavors.</p>
+<p>VGOD’s Lush Ice Nic Salt Juice comes in a 30ml bottle of nicotine salt juice with your choice between a 25mg (2.5%) and 50mg (5.0%) nicotine strength. Not simping for Lush Ice? Be sure to check out VGOD’s full selection of nicotine salt juices.</p>
+<p><br data-mce-fragment="1"><strong>Nic Salt Details:</strong></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Lush Ice Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 55/45</em></strong></li>
+<li>Flavor Profile: <span data-mce-fragment="1">Watermelon &amp; mint</span>
+</li>
+<li>Made in USA</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428098103</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Lush Ice - 25</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428098103</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Lush Ice - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428065335</id>
+    <published>2025-05-20T06:11:26+05:30</published>
+    <updated>2025-05-20T06:11:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-mighty-mint"/>
+    <title>VGOD Nicotine Salt - Mighty Mint</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-mighty-mint-30ml-nic-salt-e-juice.jpg?v=1747701689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Not for the faint of heart, VGOD’s Mighty Mint Nic Salt Juice is frequently praised for its smooth yet substantial flavor, making it a perfect choice for those looking for a powerfully clean and invigorating vape. Refreshing, straightforward, and never too sweet, if you’ve been searching for a brawny new e-liquid to make your next ADV, then VGOD’s Mighty Mint Nic Salt Juice just might be a match that was mint to be.</p>
+<p>VGOD’s Mighty Mint Nic Salt Juice comes in a 30ml bottle of nicotine salt juice with your choice between a 25mg (2.5%) and 50mg (5.0%) nicotine strength. Not simping for Mighty Mint? Be sure to check out VGOD’s full selection of nicotine salt juices.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Nic Salt Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Mighty Mint Salt Nic</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 55/45</em></strong></li>
+<li>Flavor Profile: <span data-mce-fragment="1">Super Mint</span>
+</li>
+<li>Made in USA</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428065335</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Mighty Mint - 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428065335</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Mighty Mint - 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

@@ -1,0 +1,1289 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/juul-kenya.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-01-14T22:17:34+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399861289015</id>
+    <published>2026-01-14T22:17:34+05:30</published>
+    <updated>2026-01-14T22:17:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-mint"/>
+    <title>Juul Pods Mint</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul-pods-mint-5.webp?v=1768407484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JUUL e-liquid contains a proprietary formulation that combines glycerol, propylene glycol, natural oils, extracts and flavour, nicotine and benzoic acid. Together with temperature-regulated vapour technology, this proprietary chemistry enables JUUL to deliver a vapour experience like no other.</p>
+<p>Contents:</p>
+<ul>
+<li>4 x JUUL Mint e-liquid pods</li>
+<li>Mint flavour</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399861289015</id>
+      <title>5%</title>
+      <s:price currency="KES">2700.00</s:price>
+      <s:sku>JL Mint 5%</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382865739831</id>
+    <published>2025-12-03T20:49:47+05:30</published>
+    <updated>2025-12-03T20:49:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-mango-pods-2-pods"/>
+    <title>JUUL2 Mango Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/JUUL2-Pods-Mango-18mg_8379b26f-522e-4f90-93d5-9973e21b895f.jpg?v=1764775062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Savour the tropical delight of Mango pods by JUUL, packed with succulent notes of ripe mango. Each draw delivers a smooth, fruity richness that evokes exotic sunlit orchards in a perfectly balanced vape.<br></p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Watermelon flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382865739831</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Mango Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382865281079</id>
+    <published>2025-12-03T20:47:02+05:30</published>
+    <updated>2025-12-03T20:47:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-apple-pods-2-pods"/>
+    <title>JUUL2 Apple Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/JUUL2-Pods-Apple-18mg.jpg?v=1764773673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apple JUUL2 pods feature a classic red apple fruit flavour.<br></p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Watermelon flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382865281079</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Apple</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382865018935</id>
+    <published>2025-12-03T20:44:56+05:30</published>
+    <updated>2025-12-03T20:44:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-watermelon-pods-2-pods"/>
+    <title>JUUL2 Watermelon Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/JUUL2-Pods-Watermelon-18mg_732d01f1-e52f-44cb-b180-57fbbca5944d.jpg?v=1764774790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Watermelon JUUL2 pods feature a fresh, classic watermelon fruit flavour.<br></p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Watermelon flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382865018935</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Watermelon</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7382862626871</id>
+    <published>2025-12-03T20:36:14+05:30</published>
+    <updated>2025-12-03T20:36:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-lychee-pods-2-pods"/>
+    <title>JUUL2 Lychee Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/JUUL2-Pods-Lychee-18mg.webp?v=1764773673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lychee JUUL2 pods is an exotic and juicy offering of sweet and refreshing lychee to tantalise your tastebuds.</p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Lychee flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7382862626871</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Lychee</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+    <published>2025-09-05T18:30:20+05:30</published>
+    <updated>2025-09-05T18:30:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/ziip-labs-pods-juul-compatible-pods"/>
+    <title>Ziip Labs Pods (Juul Compatible Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Ziip-Pods-Juul-Compatible-Pods.webp?v=1757077221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            1390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience bold and satisfying flavor with Ziip Juul Compatible Pods, crafted to deliver a smooth and flavorful vaping session with every puff. Each pod is filled with 1ml of premium nicotine salt e-liquid, offering a strong 5% nicotine strength by weight. Designed for convenience and performance, these pods provide a consistent hit that caters to your cravings.</p>
+<p>Fully compatible with Juul devices, Ziip Pods are the perfect choice for those who want quality, flavor, and reliability in one compact design.</p>
+<p>Ziip Juul Pods Features:</p>
+<ul>
+<li>1ml pods</li>
+<li>5% salt nic</li>
+<li>Pack of four pods</li>
+<li>Nicotine salt formula</li>
+<li>JUUL-compatible pods</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Mango</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Mango</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Iced Watermelon</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Iced Watermelon</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Energy Drink</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Energy Drink</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Iced Pina Colada</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Iced Pina Colada</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Iced Blueberry</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Iced Blueberry</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Cappuccino</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Cappuccino</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Iced Cola</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Iced Cola</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Peach</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Peach</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Spearmint</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Spearmint</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Mint</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Mint</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Iced Apple</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Iced Apple</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7334532907063</id>
+      <title>Iced Strawberry</title>
+      <s:price currency="KES">1390.00</s:price>
+      <s:sku>Ziip (J C P) - Iced Strawberry</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7333972672567</id>
+    <published>2025-09-03T13:44:35+05:30</published>
+    <updated>2025-09-03T13:44:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-arctic-breeze-pods"/>
+    <title>JUUL2 Arctic Breeze Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul2-pods-arctic-breeze-pod.webp?v=1756887054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arctic Breeze JUUL2 pods feature a pure peppermint flavour with a creamy smooth finish.</p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Tropical Medley flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7333972672567</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Arctic Breeze Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7333967855671</id>
+    <published>2025-09-03T13:36:21+05:30</published>
+    <updated>2025-09-03T13:36:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-tropical-medley-pods"/>
+    <title>JUUL2 Tropical Medley Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul2-pods-tropical-medley-pod.webp?v=1756886700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tropical Medley is a vibrant blend of exotic fruits with a smooth finish. Juicy, refreshing, and easier to vape than most fruity mixes.</p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Tropical Medley flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7333967855671</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Tropical Medley Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279502393399</id>
+    <published>2025-05-07T21:09:41+05:30</published>
+    <updated>2025-05-07T21:09:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-crisp-menthol-pods"/>
+    <title>JUUL2 Crisp Menthol Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juulpods-2-crisp-menthol-pod-2-pack.webp?v=1756169949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crisp menthol JUUL2 pods feature a fresh green menthol flavour with a brisk, cooling finish. Each pack contains 2 18mg/mL nicotine strength pods.</p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Crisp Menthol flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279502393399</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Crisp Menthol Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279502360631</id>
+    <published>2025-05-07T21:09:32+05:30</published>
+    <updated>2025-05-07T21:09:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-polar-menthol-pods"/>
+    <title>JUUL2 Polar Menthol Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juulpods-2-polar-menthol-pod-2-pack.jpg?v=1746632380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polar menthol JUUL2 pods feature a bold, icy menthol flavour with an intensely cooling finish.</p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Polar Menthol flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p>
+<p>18 mg/ml nicotine strength. Each pack contains 2 pods. </p>
+<p>Our e-liquid contains a proprietary formulation which includes Vegetable glycerin, Propylene glycol, Water, Nicotine, Benzoic acid, flavourings. You should not use this product if you are allergic to nicotine or to any other ingredient that it contains. See JUUL2 pods packaging for additional ingredient and safety information. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279502360631</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Polar Menthol Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279502295095</id>
+    <published>2025-05-07T21:09:25+05:30</published>
+    <updated>2025-05-07T21:09:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-ruby-menthol-pods"/>
+    <title>JUUL2 Ruby Menthol Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juulpods-2-ruby-menthol-pod.jpg?v=1746632372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ruby Menthol JUUL2 pods feature a wild blush medley flavour with a fresh, wintry finish.</p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Ruby Menthol flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p>
+<p>18 mg/ml nicotine strength. Each pack contains 2 pods. </p>
+<p>Our e-liquid contains a proprietary formulation which includes Vegetable glycerin, Propylene glycol, Water, Nicotine, Benzoic acid, flavourings. You should not use this product if you are allergic to nicotine or to any other ingredient that it contains. See JUUL2 pods packaging for additional ingredient and safety information. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279502295095</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Ruby Menthol Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279502262327</id>
+    <published>2025-05-07T21:09:17+05:30</published>
+    <updated>2025-05-07T21:09:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-summer-menthol-pods-2-pods"/>
+    <title>JUUL2 Summer Menthol Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/hov-juulpods-2-summer-menthol-pod-2-pack.jpg?v=1746632364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Summer Menthol JUUL2 pods feature a lush, tropical flavour with a breezy cooling exhale.</span></p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Summer Menthol flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p>
+<p>18 mg/ml nicotine strength. Each pack contains 2 pods. </p>
+<p>Our e-liquid contains a proprietary formulation which includes Vegetable glycerin, Propylene glycol, Water, Nicotine, Benzoic acid, flavourings. You should not use this product if you are allergic to nicotine or to any other ingredient that it contains. See JUUL2 pods packaging for additional ingredient and safety information. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279502262327</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Summer Menthol Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279502196791</id>
+    <published>2025-05-07T21:09:08+05:30</published>
+    <updated>2025-05-07T21:09:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-virginia-tobacco-pods"/>
+    <title>JUUL2 Virginia Tobacco Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juulpods-2-virginia-tobacco-pod-2-pack.jpg?v=1746632356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Virginia tobacco JUUL2 pods feature a fresh green menthol flavour with a brisk, cooling finish. Each pack contains 2 18mg/mL nicotine strength pods.</span></p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Virginia Tobacco flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em>JUUL2 pods contain their uniquely satisfying e-liquid.</em></p>
+<p>18 mg/ml nicotine strength. Each pack contains 2 pods. </p>
+<p>Our e-liquid contains a proprietary formulation which includes Vegetable glycerin, Propylene glycol, Water, Nicotine, Benzoic acid, flavourings. You should not use this product if you are allergic to nicotine or to any other ingredient that it contains. See JUUL2 pods packaging for additional ingredient and safety information. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279502196791</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 VT Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279502131255</id>
+    <published>2025-05-07T21:09:06+05:30</published>
+    <updated>2025-05-07T21:09:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-blackcurrant-tobacco-pods"/>
+    <title>JUUL2 Blackcurrant Tobacco Pods (2 Pods)</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul2-blackcurrant-tobacco.jpg?v=1746632348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Blackcurrant Tobacco JUUL2 pods feature mellow tobacco flavour with a twist of fresh blackcurrant to provide a smoky, yet fruity vape.</span></p>
+<p>JUUL2 pods are only to be used with a JUUL2 Device. The JUUL2 Device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs.</p>
+<p><strong>What's In The Box?</strong></p>
+<ul>
+<li>2 x JUUL2 pods</li>
+<li>Virginia Tobacco flavour</li>
+<li>1 JUUL2 pod contains: ~1.2 mL </li>
+<li>Nicotine concentration: ~18 mg/mL </li>
+<li>Total nicotine content: ~21.6 mg/JUUL2 pod</li>
+</ul>
+<p><em><a href="https://[YOUR DOMAIN]/collections/juul-kenya">JUUL2 pods</a> contain their uniquely satisfying e-liquid.</em></p>
+<p>18 mg/ml nicotine strength. Each pack contains 2 pods. </p>
+<p>Our e-liquid contains a proprietary formulation which includes Vegetable glycerin, Propylene glycol, Water, Nicotine, Benzoic acid, flavourings. You should not use this product if you are allergic to nicotine or to any other ingredient that it contains. See JUUL2 pods packaging for additional ingredient and safety information. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279502131255</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2000.00</s:price>
+      <s:sku>JL2 Blackcurrant Tobacco Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501475895</id>
+    <published>2025-05-07T21:04:32+05:30</published>
+    <updated>2025-05-07T21:04:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-mint-18"/>
+    <title>Juul Pods Mint 1.8%</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul-mint-18mg.jpg?v=1746632073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Mint is a bold and crisp mint flavour with an icy finish.<br data-mce-fragment="1"><br data-mce-fragment="1">JUULpods are designed to fit the JUUL Vapouriser. Only use JUULpods in your JUUL Vapouriser.<br data-mce-fragment="1"><br data-mce-fragment="1">Our JUULsalts e-liquid contain nicotine salts found in the tobacco leaf, rather than free-base nicotine used in most e-cigarettes and vapourizers. Together with temperature-regulated vapour technology, this proprietary chemistry enables JUUL to deliver a vapour experience like no other.<br><br>These pods have 18mg nicotine strength and deliver approximately 300 puffs per pod.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501475895</id>
+      <title>Default Title</title>
+      <s:price currency="KES">2490.00</s:price>
+      <s:sku>JL Pods Mint 1.8%</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501443127</id>
+    <published>2025-05-07T21:04:25+05:30</published>
+    <updated>2025-05-07T21:04:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-menthol-18"/>
+    <title>Juul Pods Menthol</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Juul-Menthol-5mg-min.jpg?v=1746632071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bold menthol flavour with an icy finish.</p>
+<p>18mg, 30mg and 50mg nicotine strength. Each pack contains 4 pods.</p>
+<p>JUUL e-liquid contains a proprietary formulation that combines glycerol, propylene glycol, natural oils, extracts and flavour, nicotine and benzoic acid. Together with temperature-regulated vapour technology, this proprietary chemistry enables JUUL to deliver a vapour experience like no other.</p>
+<p>Contents:</p>
+<ul>
+<li>4 x JUUL Menthol e-liquid pods</li>
+<li>Menthol flavour</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501443127</id>
+      <title>5%</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>JL Pods Menthol - 5%</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501443127</id>
+      <title>3%</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>JL Pods Menthol - 3%</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501443127</id>
+      <title>1.8%</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>JL Pods Menthol - 1.8%</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501410359</id>
+    <published>2025-05-07T21:04:20+05:30</published>
+    <updated>2025-05-07T21:04:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-multipack"/>
+    <title>Juul Pods Multipack</title>
+    <s:type>Juul</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Multi-Pack.png?v=1746632065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul<br>
+        <strong>Price: </strong>
+            2750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you enjoy switching up your vaping flavors on a regular basis or you aren’t sure which flavor you really like and want to explore some options before committing to a pack of <em><a title="Juul pods Kenya" href="https://[YOUR DOMAIN]/collections/juul-kenya">JUUL pods in Kenya</a></em> that features just one flavor, then JUUL Pod Multipack is a great choice for you. This package of JUUL pods features four of the most popular JUUL flavors, including classic Virginia Tobacco and refreshing Cool Mint. All pods are compatible with the JUUL device that comes with the Starter Kit, the Basic Kit, or the Silver Basic Kit Limited Edition. Just connect the pod flavor of your choice to your device and you’re ready to start enjoying truly remarkable flavor and the stratifying rush of nicotine.</p>
+<p>Also, buy <a title="Juul basic kit" href="https://[YOUR DOMAIN]/products/juul-basic-kit">juul basic kit</a> and make a complete set of your juul.</p>
+<p><strong>Key Details of the JUUL Pod Multipack</strong></p>
+<ul>
+<li>A package of four premium-quality JUUL salt e-liquid pods in four unique flavors, including Virginia Tobacco and Cool Mint.</li>
+<li>Each pod is pre-filled with 0.7ml of JUULs e-liquid nicotine salt, which contains 5%</li>
+<li>Each pod offers approximately 200 puffs</li>
+<li>4 Pack Includes Crème Brulee and Mango Flavors</li>
+</ul>
+<p><strong>Pre-Filled Cartridges in 5% Multi Pack-</strong></p>
+<ol>
+<li>
+<a href="https://[YOUR DOMAIN]/products/juul-pods-virginia-tobacco" title="Juul virginia tobacco pod">Virginia Tobacco</a><span> </span>(5%)</li>
+<li>Mint(5%)</li>
+</ol>
+<p><strong>Pre- Filled Cartridges in 18mg Multi Pack-</strong></p>
+<ol>
+<li>Golden Tobacco (18mg)</li>
+<li>Mint (18mg)</li>
+<li>Menthol (18mg)</li>
+<li>Mango (18mg)</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501410359</id>
+      <title>Juul Pods Multipack 5%</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>JL Pods Multipack 5%</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501410359</id>
+      <title>Juul Pods Multipack 18mg</title>
+      <s:price currency="KES">2750.00</s:price>
+      <s:sku>JL Pods Multipack 1.8%</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501377591</id>
+    <published>2025-05-07T21:04:17+05:30</published>
+    <updated>2025-05-07T21:04:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-usb-charger"/>
+    <title>Juul Device USB Charger</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul-usb-charger_1.jpg?v=1746632060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>About the JUUL USB Charger</b></p>
+<p><span>Have you misplaced or damaged the USB charger that your <em><a href="https://[YOUR DOMAIN]/collections/juul-kenya" title="juul">JUUL device </a></em>came with? Do you just want to have another USB charger to keep in your car, office, or anywhere else that you frequent? If so, then the JUUL USB replacement charger is exactly what you need.</span></p>
+<p><b>Key Details of the JUUL USB Charger</b></p>
+<ul>
+<li> Magnetic USB charger that’s compatible with JUUL devices</li>
+<li> Magnetic charging device</li>
+<li> Fully charges JUUL devices in about an hour</li>
+<li> No messy cables</li>
+<li> Charge from your Mac, PC, or any USB port<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501377591</id>
+      <title>Default Title</title>
+      <s:price currency="KES">999.00</s:price>
+      <s:sku>JL Device USB Charger</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501344823</id>
+    <published>2025-05-07T21:04:15+05:30</published>
+    <updated>2025-05-07T21:04:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-cucumber"/>
+    <title>Juul Pods Cucumber</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/JUUL-Pods-Cucumber.png?v=1746632056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Cucumber pods are a true testament to the one-of-a-kind experience that they provide. Their Cucumber pods offer a truly unique flavor. It’s the perfect blend of refreshing taste combined with the exhilarating rush of nicotine. </span> Juul Pods have different strength according to one's consumption. You can choose nicotine strength above according to your body need.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501344823</id>
+      <title>5%</title>
+      <s:price currency="KES">3000.00</s:price>
+      <s:sku>JL Pods Cucumber 5%</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501180983</id>
+    <published>2025-05-07T21:04:09+05:30</published>
+    <updated>2025-05-07T21:04:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-virginia-tobacco"/>
+    <title>Juul Pods Virginia Tobacco</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/virginia_tobacco_juul.jpg?v=1746632050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Juul Virginia Tobacco Pod with an unique Virginia taste as of cigarette tobacco. Juul Pods have different strength according to one's consumption. You can choose nicotine strength above according to your body need.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501180983</id>
+      <title>5%</title>
+      <s:price currency="KES">2850.00</s:price>
+      <s:sku>JL Pods VT 5%</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501180983</id>
+      <title>3%</title>
+      <s:price currency="KES">2850.00</s:price>
+      <s:sku>JL Pods VT 3%</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501148215</id>
+    <published>2025-05-07T21:04:07+05:30</published>
+    <updated>2025-05-07T21:04:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-pods-classic-tobacco"/>
+    <title>Juul Pods Classic Tobacco</title>
+    <s:type>Juul Pods</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Juul-Pods-Classic-Tobacco-Kenya.jpg?v=1746632048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul Pods<br>
+        <strong>Price: </strong>
+            2299.00 - 3200.00
+            <a href="https://[YOUR DOMAIN]/products/juul-pods-classic-tobacco">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Juul Classic Tobacco Pod with an unique classic taste as of cigarette. Juul Pods have different strength according to one's consumption. You can choose nicotine strength above according to your body need.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501148215</id>
+      <title>5%</title>
+      <s:price currency="KES">3200.00</s:price>
+      <s:sku>69d25d58570d2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501148215</id>
+      <title>3%</title>
+      <s:price currency="KES">2299.00</s:price>
+      <s:sku>69d25d57b9ba9</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501082679</id>
+    <published>2025-05-07T21:04:02+05:30</published>
+    <updated>2025-05-07T21:04:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-basic-kit"/>
+    <title>JUUL Basic Kit</title>
+    <s:type>Juul</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul-basic-kit.jpg?v=1746632045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul<br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!--StartFragment --></p>
+<p><span class="cf0">The Juul device is a sleek and compact vaporizer that is designed to be easy to use and comfortable to hold. It features a simple one-button design that activates the device and delivers a smooth vaping experience. The device is also equipped with a battery indicator light that lets users know when it needs to be recharged.</span></p>
+<p><!--EndFragment --></p>
+<p>The JUUL Basic Kit includes:<br></p>
+<ul>
+<li>Rechargeable JUUL Device</li>
+<li>USB Charging Dock</li>
+</ul>
+<p>Note: Juul Basic Kit doesn't includes pods and is only compatible with Juul pods only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501082679</id>
+      <title>Default Title</title>
+      <s:price currency="KES">3500.00</s:price>
+      <s:sku>JL Basic Kit</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501049911</id>
+    <published>2025-05-07T21:03:59+05:30</published>
+    <updated>2025-05-07T21:03:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-starter-kit-juul-2-pods-kit"/>
+    <title>JUUL Starter Kit - Juul 2 Pods Kit</title>
+    <s:type>Juul</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Juul-2-POD-Starter-Kit-2.jpg?v=1746632042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul<br>
+        <strong>Price: </strong>
+            5300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JUUL Starter Kit includes:<br data-mce-fragment="1"></p>
+<ul>
+<li>Rechargeable JUUL Device</li>
+<li>USB Charging Dock</li>
+<li>Two JUUL pods (Menthol Pods)</li>
+</ul>
+<p>We also have <a href="https://[YOUR DOMAIN]/products/juul-starter-kit" title="juul starter kit Kenya"><em>Juul Starter Kit with 4 Pods</em></a> and <a href="https://[YOUR DOMAIN]/products/juul-basic-kit" title="juul basic kit"><em>Juul Basic Kit</em></a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501049911</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5300.00</s:price>
+      <s:sku>JL Starter Kit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279501017143</id>
+    <published>2025-05-07T21:03:52+05:30</published>
+    <updated>2025-05-07T21:03:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul-starter-kit"/>
+    <title>JUUL Starter Kit - Juul 4 Pods Kit</title>
+    <s:type>Juul</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul-starter-kit.jpg?v=1746632038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul<br>
+        <strong>Price: </strong>
+            5559.00 - 5599.00
+            <a href="https://[YOUR DOMAIN]/products/juul-starter-kit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">About JUUL Pod Mod Starter Kit –</h2>
+<p data-mce-fragment="1">Juul is designed and developed keeping smokers habits and health activities in mind, which makes JUUL the finest brand in technical terms of Vaping Kenya. The Main function JUUL did to its vaping pods is “Removed all complicated operations from JUUL Pod Mod Starter Kits”. Above <em><a title="Vaporizer Kenya" href="https://www.[YOUR DOMAIN]/collections/vape-kenya">Vaporizer </a></em>is just operated with no buttons but the mouth of the vape users.</p>
+<p data-mce-fragment="1">JUUL device is very simple to use as compare to Vaporizers available in market. No heavy weights and bulky devices anymore with <em><a href="https://[YOUR DOMAIN]/collections/juul-kenya" title="Juul pods Kenya">JUUL pods online</a></em> by <em><a href="https://[YOUR DOMAIN]/" title="Vape Kenya">[YOUR BRAND]</a></em>. The Pod devices are clean and easy to operate with “Plug and Play” Function.</p>
+<h2 data-mce-fragment="1">Functions and Impressions of JUUL Kenya –</h2>
+<p data-mce-fragment="1">The JUUL has user friendly design which results only pros and not a single<span data-mce-fragment="1"> </span><span class="ILfuVd NA6bn" data-mce-fragment="1">contra. JUUL broker Vape market due to its tiny size and weight less than a Pen Drive.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Main Technical Features-</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">Automatic Temperature Control and Longs lasting battery</li>
+<li data-mce-fragment="1">Double Tap battery life check indicator (Green Light – Full Charge | Yellow Light – Low Battery)</li>
+<li data-mce-fragment="1">Default Fast charging  (One hour charging time for a day uses)</li>
+<li data-mce-fragment="1">No nearby competitors with JUUL technology.</li>
+</ol>
+<h3 data-mce-fragment="1">JUUL Pre-filled Cartridges Details-</h3>
+<p data-mce-fragment="1">Switching E liquid flavor in Other Vaporizers and E cigarettes is messy and time consuming or sometimes changing e liquid many cause spending of extra bucks on Flavors. JUUL Device comes with 4 Pre-filled cartridges with Nicotine strength of 5% or 1.7% by weight.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Pre-Filled Cartridges in 5% Multi Pack-</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">
+<a href="https://[YOUR DOMAIN]/products/juul-pods-virginia-tobacco" title="Juul virginia tobacco pod">Virginia Tobacco</a> (5%)</li>
+<li data-mce-fragment="1">Mint (5%)</li>
+<li data-mce-fragment="1">Creme (5%)</li>
+<li data-mce-fragment="1">Mango (5%), or</li>
+</ol>
+<p><strong>Pre- Filled Cartridges in 18mg Multi Pack-</strong></p>
+<ol>
+<li>Golden Tobacco (18mg)</li>
+<li>Mint (18mg)</li>
+<li>Menthol (18mg)</li>
+<li>Mango (18mg)</li>
+</ol>
+<p><strong>Pre- Filled Cartridges in 1.7% Multi Pack-</strong></p>
+<ol>
+<li>Glacier Mint (1.7%)</li>
+<li>Golden Tobacco <span data-mce-fragment="1">(1.7%)</span>
+</li>
+<li>Royal Creme <span data-mce-fragment="1">(1.7%)</span>
+</li>
+<li>Mango Nectar <span data-mce-fragment="1">(1.7%)</span>
+</li>
+</ol>
+<p data-mce-fragment="1">ALso you can buy, <em><a href="https://[YOUR DOMAIN]/products/juul-basic-kit" title="Juul kit Kenya">JUUL basic kit</a></em> comes with a JUUL device and USB charging dock, pods not included. For smokers seeking a genuine alternative to cigarettes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501017143</id>
+      <title>5% MULTI PACK</title>
+      <s:price currency="KES">5599.00</s:price>
+      <s:sku>JL Starter Kit - 4 Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279501017143</id>
+      <title>1.7% MULTI PACK</title>
+      <s:price currency="KES">5559.00</s:price>
+      <s:sku>JL Starter Kit - 4 Pods</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7279500984375</id>
+    <published>2025-05-07T21:03:38+05:30</published>
+    <updated>2025-05-07T21:03:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/juul2-starter-kit-with-2-pods"/>
+    <title>JUUL2 Starter Kit with 2 Pods</title>
+    <s:type>Juul</s:type>
+    <s:vendor>Juul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juul2-starter-kit-new.jpg?v=1746632031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juul<br>
+        <strong>Type: </strong>Juul<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now with more cigarette-like satisfaction, JUUL2 is an easy-to-use, next generation JUUL Device designed for adult smokers looking for an alternative to cigarettes.</p>
+<p>The JUUL2 starter kit comes with a device, charging dock and 2 pods: Virginia tobacco and crisp menthol. Each pack contains 2 x 18 mg / ml nicotine strength pods.</p>
+<p>The JUUL2 device is designed to only function with authentic JUUL2 pods manufactured by Juul Labs. JUUL2 pods contain nicotine.</p>
+<p><strong>Only compatible with JUUL2pods.</strong></p>
+<div>
+<p><strong>Kit includes:</strong></p>
+<ul>
+<li>1 x JUUL2 device</li>
+<li>1 x USB Charging Dock</li>
+<li>2 x JUUL2 pods (1 x Virginia Tobacco and 1 x Crisp Menthol) 18 mg / ml nicotine strength</li>
+</ul>
+<p><strong>Features</strong></p>
+<ul>
+<li>Built-In Battery: 250mAh</li>
+<li>Indicator lights for charge status, battery level, e-liquid level and pod authenticity</li>
+<li>Pods Nicotine Level: 18mg/ml nicotine salts</li>
+<li>Compatible with the JUUL APP only available for Android™ platform</li>
+</ul>
+</div>
+<p>We also have <a href="https://[YOUR DOMAIN]/products/juul-starter-kit" title="Juul starter kit with pods"><em>Juul Starter Kit with 4 Pods</em></a> and <a href="https://[YOUR DOMAIN]/products/juul-basic-kit" title="Juul basic kit"><em>Juul Basic Kit</em></a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7279500984375</id>
+      <title>Default Title</title>
+      <s:price currency="KES">5999.00</s:price>
+      <s:sku>JL2 Starter Kit</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+
+

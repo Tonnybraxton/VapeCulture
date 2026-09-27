@@ -1,0 +1,1416 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/dinner-lady-e-liquid.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-11-03T23:25:25+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+    <published>2025-11-03T23:25:25+05:30</published>
+    <updated>2025-11-03T23:25:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-sweet-fusion"/>
+    <title>Dinner Lady E Liquid - Sweet Fusion</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-e-liquid-sweet-fusion.webp?v=1762192443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Fusion Ice e-liquid by Dinner Lady is a complex candy blend with underlying fruity notes. Mixed to taste like the classic tutti frutti candy, it has sweet and sharp notes.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7369217310775</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+    <published>2025-10-08T03:42:32+05:30</published>
+    <updated>2025-10-08T03:42:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-bubble-trouble"/>
+    <title>Dinner Lady E Liquid - Bubble Trouble Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-eliquid-bubble-trouble-min.jpg?v=1759875154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This delightful blend captures the essence of classic bubblegum flavor, offering a sweet and fruity taste that's both familiar and exciting. As you exhale, the flavor intensifies, leaving a lingering bubblegum taste on your palate. Bubble Trouble is perfect for vapers who enjoy fun and flavorful e-liquids that evoke memories of carefree days.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Trouble Ice - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Trouble Ice - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350650011703</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Trouble Ice - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+    <published>2025-10-08T03:42:31+05:30</published>
+    <updated>2025-10-08T03:42:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-grape-star"/>
+    <title>Dinner Lady E Liquid - Grape Star</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-eliquid-grape-star-min.jpg?v=1759875153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Grape Star <a href="https://www.[YOUR DOMAIN]/collections/vape-liquid" title="Vape liquid">vape liquid </a>is a delightful blend that captures the essence of plump, juicy grapes freshly picked from the vineyard. The addition of a subtle hint of candy adds a playful sweetness to the overall flavor profile, making Grape Star a truly irresistible choice for grape enthusiasts.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Grape Star - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Grape Star - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649978935</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Grape Star - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+    <published>2025-10-08T03:42:30+05:30</published>
+    <updated>2025-10-08T03:42:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-purple-rain"/>
+    <title>Dinner Lady E Liquid - Purple Rain</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-e-liquid-purple-rain.jpg?v=1759875152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple Rain shortfill e-liquid by Dinner Lady never meant to cause you any sorrow, with a fusion of rich, dark flavours. A tangy blueberry is complemented by a sweet raspberry and zesty lemon on exhale for a balanced vape.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Purple Rain - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Purple Rain - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649913399</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Purple Rain - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+    <published>2025-10-08T03:42:30+05:30</published>
+    <updated>2025-10-08T03:42:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-flip-flop-lychee"/>
+    <title>Dinner Lady E Liquid - Flip Flop Lychee Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-vape-liquid-flip-flop-lychee.jpg?v=1759875152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Flip Flop Lychee e-liquid by Summer Holidays features a combination of sweet and tart notes throughout. A delicate lychee flavour gets things started, countered on exhale by a combination of citrus and ice for a sharp endnote.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Flip Flop Lychee Ice - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady -  Flip Flop Lychee Ice - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649847863</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady -  Flip Flop Lychee Ice - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+    <published>2025-10-08T03:42:29+05:30</published>
+    <updated>2025-10-08T03:42:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-berry-blast"/>
+    <title>Dinner Lady E Liquid - Berry Blast</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-berry-blast-e-liquid.jpg?v=1759875151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Try out Berry Blast by <a href="https://www.[YOUR DOMAIN]/" title="Vape">Vape </a>Dinner Lady, capturing a sweet blend of tangy raspberries accented with a splash of cherry juice for a decadent vape juice.</span></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Berry Blast - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Berry Blast - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649815095</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Berry Blast - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+    <published>2025-10-08T03:42:28+05:30</published>
+    <updated>2025-10-08T03:42:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-pink-berry"/>
+    <title>Dinner Lady E Liquid - Pink Berry</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pinkberry_-_vape_dinner_lady_e-liquid_-_60ml_bottle.jpg?v=1759875150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the flavors of Pinkberry by Vape Dinner Lady <a href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" title="E-liquid">E-Liquid</a>, presenting a sweet citrus blend enhanced with the tangy overtone of mixed berries to create a delectable eJuice that will dazzle the senses.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Pink Berry - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Pink Berry - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649782327</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Pink Berry - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+    <published>2025-10-08T03:42:27+05:30</published>
+    <updated>2025-10-08T03:42:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-strawberry-bikini"/>
+    <title>Dinner Lady E Liquid - Strawberry Bikini</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Strawberry-Bikini-Ice-by-Dinner-Lady.jpg?v=1759875150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberries smashed with ice and dropped into a cloudy lemonade, bursting at the seams with sharp lemony goodness</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Strawberry Bikini - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Strawberry Bikini - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649716791</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Strawberry Bikini - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+    <published>2025-10-08T03:42:27+05:30</published>
+    <updated>2025-10-08T03:42:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-apple-sours"/>
+    <title>Dinner Lady E Liquid - Apple Sours</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Apple-Sours-Ice.jpg?v=1759875149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sour blend of apples with icy cool koolada for a fresh intake. Dinner Lady Apple Sours Ice contains 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Apple Sours - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Apple Sours - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649684023</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Apple Sours - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+    <published>2025-10-08T03:42:26+05:30</published>
+    <updated>2025-10-08T03:42:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-razz-blues"/>
+    <title>Dinner Lady Ice Moments E Liquid - Razz Blues</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-longfill-razz-blues-ice-aroma.png?v=1759875148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dinner Lady’s Razz Blues combines bursts of mixed blueberries, ripened raspberries and ice to create what we would call a ‘perfect berry vape’ flavour. T</span>his Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady vape juices" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady vape juices</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Ice Moments - Razz Blues - 0mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Ice Moments - Razz Blues - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649618487</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady Ice Moments - Razz Blues - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+    <published>2025-10-08T03:42:25+05:30</published>
+    <updated>2025-10-08T03:42:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-blue-mint"/>
+    <title>Dinner Lady Ice Moments E Liquid - Bubble Mint</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-moments-aroma-bubble-mint-ice.jpg?v=1759875147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bubble Mint e-liquid by Dinner Lady is a classic candy shop flavour that pairs a sugary bubblegum base note with a burst of fresh-tasting mint for an all-day vape. T</span>his Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady juices" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady juices</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Mint - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Mint - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649585719</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Bubble Mint - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+    <published>2025-10-08T03:42:24+05:30</published>
+    <updated>2025-10-08T03:42:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-peach-bubble"/>
+    <title>Dinner Lady Ice Moments E Liquid - Peach Bubble</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-longfill-peach-bubble-ice-aroma.png?v=1759875147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dinner Lady’s Peach Bubble combines ripe peaches fused with a taste of sweet bubble gum and ice. T</span>his Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady juices" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady juices</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Bubble - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Bubble - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649552951</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Bubble - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+    <published>2025-10-08T03:42:24+05:30</published>
+    <updated>2025-10-08T03:42:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-ice-moments-e-liquid-fruit-splash"/>
+    <title>Dinner Lady Ice Moments E Liquid - Fruit Splash</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/dinner-lady-longfill-fruit-splash-ice-aroma.png?v=1759875146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinner Lady’s Fruit Splash combines a mixed medley of summer fruits; mainly vocalised by notes of currants, mixed berries, and citric notes with ice, this Dinner Lady E Juice combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li><em><strong>Content : 60ml</strong></em></li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady liquids" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-e-liquid" target="_blank" rel="noopener">dinner lady liquids</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Fruit Splash - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Fruit Splash - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649487415</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Fruit Splash - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649454647</id>
+    <published>2025-10-08T03:42:23+05:30</published>
+    <updated>2025-10-08T03:42:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-lemon-ice-tea"/>
+    <title>Dinner Lady E Liquid - Lemon Ice Tea</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Drinks-Lemon-Iced-tea.jpg?v=1759875145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinner Lady combine 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy <a href="https://www.[YOUR DOMAIN]/collections/disposable-vapes" title="Disposable vape">disposable vape</a> at best price from [YOUR BRAND]!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649454647</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Lemon Ice Tea - 0 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649454647</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Lemon Ice Tea - 3 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649454647</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Lemon Ice Tea - 6 mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649421879</id>
+    <published>2025-10-08T03:42:22+05:30</published>
+    <updated>2025-10-08T03:42:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-cola-shades-ice"/>
+    <title>Dinner Lady E Liquid - Cola Shades Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/e-liquid-dinner-lady-ice-cola-shades.jpg?v=1759875145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the classic beverage, Cola Shades incorporates koolada for a refreshing lemon exhale. Dinner Lady combine 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649421879</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Cola Shades Ice - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649421879</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Cola Shades Ice - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649421879</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Cola Shades Ice - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649356343</id>
+    <published>2025-10-08T03:42:21+05:30</published>
+    <updated>2025-10-08T03:42:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-mango-iced-tea"/>
+    <title>Dinner Lady E Liquid - Mango Iced Tea</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Drinks-Mango-Iced-tea.jpg?v=1759875143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A refreshing hit of mango balanced with the bitter taste of tea and the refreshing undertone of ice. Dinner Lady’s Mango Iced Tea contains 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649356343</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Mango Iced Tea - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649356343</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Mango Iced Tea - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649356343</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Mango Iced Tea - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649290807</id>
+    <published>2025-10-08T03:42:21+05:30</published>
+    <updated>2025-10-08T03:42:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-lemon-sherbets-ice"/>
+    <title>Dinner Lady E Liquid - Lemon Sherbets Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Ice-Lemon-Sherbets.jpg?v=1759875143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A fizzy sherbet flavour combined with tart lemon and icy cool koolada for a fresh intake, the Lemon Sherbet Ice contains 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649290807</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Lemon Sherbets Ice - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649290807</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Lemon Sherbets Ice - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649290807</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Lemon Sherbets Ice - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649258039</id>
+    <published>2025-10-08T03:42:20+05:30</published>
+    <updated>2025-10-08T03:42:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-sweet-fusion-ice"/>
+    <title>Dinner Lady E Liquid - Sweet Fusion Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Ice-Sweet-Fusion-Ice.jpg?v=1759875142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Fusion Ice e-liquid by Dinner Lady is a complex candy blend with underlying fruity notes. Mixed to taste like the classic tutti frutti candy, it has sweet and sharp notes, with an icy taste on exhale.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649258039</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion Ice - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649258039</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion Ice - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649258039</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Fusion Ice - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649192503</id>
+    <published>2025-10-08T03:42:19+05:30</published>
+    <updated>2025-10-08T03:42:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-peach-mint-iced-tea"/>
+    <title>Dinner Lady E Liquid - Peach Mint Iced Tea</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Dinner-Lady-Drinks-Peach-Mint-Iced-tea.jpg?v=1759875141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Refreshing peach balanced with the bitter taste of tea and the refreshing undertone of ice. Dinner Lady’s Peach Mint Iced Tea contains 70% VG and 30% PG to create impressive, dense clouds with a rich flavour.</p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60mL</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. Now, buy <a href="https://www.[YOUR DOMAIN]/" title="Vape online">vape online</a> at best prices in Kenya with cash on delivery service.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649192503</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Mint Iced Tea - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649192503</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Mint Iced Tea - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649192503</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Peach Mint Iced Tea - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649159735</id>
+    <published>2025-10-08T03:42:18+05:30</published>
+    <updated>2025-10-08T03:42:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-blue-mint"/>
+    <title>Dinner Lady E Liquid - Blue Menthol</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/blue_menthol_-_vape_dinner_lady_e-liquid_-_60ml_bottle.jpg?v=1759875140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chill the senses with Blue Menthol by Vape Dinner Lady E-Liquids, capturing the cool refreshing sensation of sweet mint enhanced with menthol for a frigid vape experience.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. Now shop from Kenya's biggest <a href="https://www.[YOUR DOMAIN]/" title="Vape shop">vape shop</a> with cash on delivery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649159735</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Blue Menthol - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649159735</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Blue Menthol - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649159735</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Blue Menthol - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350649094199</id>
+    <published>2025-10-08T03:42:18+05:30</published>
+    <updated>2025-10-08T03:42:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-watermelon-slices"/>
+    <title>Dinner Lady E Liquid - Watermelon Slices Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Watermelon-Slices-Ice-Dinner-Lady-60mL.jpg?v=1759875140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Watermelon Slices Ice by Dinner Lady vape juice is a tropical blend of watermelon and fruits combined with icy cool koolada for a fresh intake. Dinner Lady Watermelon Slices Ice contains 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> <a href="https://www.[YOUR DOMAIN]/" title="Vape Kenya online">vape kenya online</a> </span>at best price in Kenya!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649094199</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Watermelon Slices Ice - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649094199</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Watermelon Slices Ice - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350649094199</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Watermelon Slices Ice - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350648995895</id>
+    <published>2025-10-08T03:42:17+05:30</published>
+    <updated>2025-10-08T03:42:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-blackberry-crumble"/>
+    <title>Dinner Lady E Liquid - Blackberry Crumble</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Blackberry-Crumble-Dinner-Lady-60mL.jpg?v=1759875139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blackberry Crumble by Dinner Lady vape juice Reminiscent of a blackberry pie with a short crust pastry, this Dinner Lady Blackberry Crumble Short fill combines 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648995895</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Blackberry Crumble - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648995895</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Blackberry Crumble - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648995895</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Blackberry Crumble - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350648963127</id>
+    <published>2025-10-08T03:42:16+05:30</published>
+    <updated>2025-10-08T03:42:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-sweet-tobacco"/>
+    <title>Dinner Lady E Liquid - Sweet Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Sweet-Tobacco-Dinner-Lady-60mL.jpg?v=1759875138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Tobacco is part of Dinner Lady’s Tobacco range which provides existing smokers with a familiar and extensive flavor range as they switch from smoking to vaping.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648963127</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Tobacco - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648963127</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Tobacco - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648963127</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Sweet Tobacco - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350648930359</id>
+    <published>2025-10-08T03:42:15+05:30</published>
+    <updated>2025-10-08T03:42:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-e-liquid-smooth-tobacco"/>
+    <title>Dinner Lady E Liquid - Smooth Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Smooth-Tobacco-Dinner-Lady-60mL.jpg?v=1759875138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smooth Tobacco by Dinner Lady vape juice combines sweet and woody flavors within a formulation containing 70% VG and 30% PG to create impressive, dense clouds with a rich flavor.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a title="dinner lady salts" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-salts" target="_blank" rel="noopener">dinner lady salts</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648930359</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Smooth Tobacco - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648930359</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Smooth Tobacco - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648930359</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Smooth Tobacco - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350648897591</id>
+    <published>2025-10-08T03:42:15+05:30</published>
+    <updated>2025-10-08T03:42:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/dinner-lady-desserts-e-liquid-cool-tobacco"/>
+    <title>Dinner Lady E Liquid - Cool Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>Dinner Lady</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Cool-Tobacco-Dinner-Lady-60mL.jpg?v=1759875137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dinner Lady<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cool Tobacco is part of Dinner Lady’s Tobacco range which provides existing smokers with a familiar and extensive flavor range as they switch from smoking to vaping.<br></p>
+<ul>
+<li>Blend : 70/30</li>
+<li>Content : 60ml</li>
+<li>Strength : 3mg | 6mg</li>
+</ul>
+<p>Dinner Lady from the UK has won numerous prestigious international awards and has products flying off the shelves in 96 countries. You can also buy<span> </span><a rel="noopener" href="https://www.[YOUR DOMAIN]/collections/dinner-lady-salts" title="dinner lady salts" target="_blank">dinner lady salts</a><span> </span>from us!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648897591</id>
+      <title>0MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Cool Tobacco - 0 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648897591</id>
+      <title>3MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Cool Tobacco - 3 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350648897591</id>
+      <title>6MG</title>
+      <s:price currency="KES">1499.00</s:price>
+      <s:sku>Dinner Lady - Cool Tobacco - 6 Mg</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+
+

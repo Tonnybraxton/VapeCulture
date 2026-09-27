@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/vgod-e-liquid.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2025-05-20T06:11:45+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+    <published>2025-05-20T06:11:45+05:30</published>
+    <updated>2025-05-20T06:11:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-iced-purple-bomb"/>
+    <title>VGOD E Liquid - Iced Purple Bomb</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-iced-purple-bomb-eliquid.jpg?v=1756300723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The VGOD Purple Bomb E-Liquid is an explosion of the juiciest Concord grapes that have just been crushed, combined with a touch additional sweetness to resemble your favorite grape candies. Dark grape juice effusion Purple Bomb will entice taste buds that want for premium grape enjoyment! Blast your taste buds with a bottle of VGOD’s Purple Bomb Iced today in 0mg, 3mg, 6mg, 12mg, or 18mg nicotine strengths!<br></p>
+<p><br><strong>E-Liquid Details:</strong><br></p>
+<ul>
+<li>
+<strong>Brand: </strong>VGOD</li>
+<li>Flavor: ICED PURPLE BOMB E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA</li>
+<li>
+<strong>Nicotine Type:</strong> Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>3mg (Iced)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 3Mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>6mg (Iced)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 6Mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>12mg (Iced)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 12Mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>3mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 3Mg withouticed</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>6mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 6Mg without iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>12mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 12Mg without iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283428261943</id>
+      <title>0 Mg (Iced)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Purple Bomb - 0Mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427704887</id>
+    <published>2025-05-20T06:10:57+05:30</published>
+    <updated>2025-05-20T06:10:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-cubano-black"/>
+    <title>VGOD E Liquid - Cubano Black</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod_cubanoblack_3mg_eliquid.jpg?v=1756300732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cubano Black is a crafted specialty and has been aged to perfection. It is handcrafted in limited quantities and pre-steeped for months to coalesce to perfection. BOLD is the word you will envision when the robust Cuban cigar flavor hits your palate commingling perfectly with hints of rich creamy custard. The only thing that you will be thinking of as you exhale this smooth, well-balanced flavor, is the anticipation of your next draw of Cubano Black by VGOD.</p>
+<p><strong>E-Liquid Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: <a title="Vgod E liquid" href="https://[YOUR DOMAIN]/collections/vgod-e-liquid">VGOD E liquid</a>
+</li>
+<li>Flavor: Cubano Black E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 50/50</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427704887</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano Black - 3mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427704887</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano Black - 6mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427704887</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano Black - 12mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427672119</id>
+    <published>2025-05-20T06:10:54+05:30</published>
+    <updated>2025-05-20T06:10:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-cubano"/>
+    <title>VGOD E Liquid - Cubano</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod_cubano_3mg_eliquid.jpg?v=1756300732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview">
+<div class="value" itemprop="description">VGOD's Cubano is a full flavor Cuban cigar topped off with a drizzle of soft creamy vanilla undertones. Richly robust Cuban tobacco with such a smooth finish, the Cubano is an instant classic that you will want on hand all throughout your day.</div>
+</div>
+<p><br><strong>E-Liquid Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Cubano E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 50/50</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427672119</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano - 3mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427672119</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano - 6mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427672119</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano - 12mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427639351</id>
+    <published>2025-05-20T06:10:51+05:30</published>
+    <updated>2025-05-20T06:10:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-cubano-silver"/>
+    <title>VGOD E Liquid - Cubano Silver</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod_cubano-silver-eliquid.jpg?v=1756300731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview">
+<div class="value">Under the buttery bright vanilla summer moon on the creamy coast of Santa Maria del Mar, you’re watching the warm waves roll in. With sweet sounds of rumba in the distance, you reach for your mod to relish in the rarity of a truly classic full flavored Cuban cigar infused with a warm top note of buttery vanilla custard, rounded off with a hint of spice, sweet caramelized brown sugar and honey for the finish. In a flash, you take another deep pull and instantly you’re ready for whatever the night brings. Cubano Silver, you chillin’ yet?<br>
+</div>
+</div>
+<p><br><strong><a href="https://[YOUR DOMAIN]/collections/vape-liquid" title="Vape e liquids">E-Liquid</a> Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Cubano Silver E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 50/50</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427639351</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano Silver - 3mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427639351</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano Silver - 6mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427639351</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Cubano Silver - 12mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427606583</id>
+    <published>2025-05-20T06:10:49+05:30</published>
+    <updated>2025-05-20T06:10:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-lush-ice"/>
+    <title>VGOD E Liquid - Lush Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod_lushice_3mg_e_juice.webp?v=1756170494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview">
+<div class="value" itemprop="description">Lush Ice is VGOD's signature watermelon candy flavor infused with a fresh breeze of menthol. Upon exhale a mixture of melon flavors infiltrate your taste buds that provides a smooth, cool and fruity all-day vaping experience!<br>
+</div>
+</div>
+<p><br><strong>E-Liquid Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: Lush Ice E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 50/50</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427606583</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Lush Ice - 3mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427606583</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Lush Ice - 6mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427606583</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Lush Ice - 12mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+    <published>2025-05-20T06:10:46+05:30</published>
+    <updated>2025-05-20T06:10:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-iced-apple-bomb"/>
+    <title>VGOD E Liquid - Iced Apple Bomb</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-iced-apple-bomb-eliquid.jpg?v=1756300732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product attribute overview">
+<div class="value" itemprop="description"><img alt="vgod iced apple bomb" src="https://cdn.shopify.com/s/files/1/0683/3504/2878/files/iced-apple-bomb-logo.png?v=1685909859"></div>
+<div class="value" itemprop="description">Apple Bomb Iced offers you the semblance of a green, glossy ripened Granny Smith apple that is crisp at every bite. It’s dripping with fruity juiciness of the flesh from the apple at the forefront of the inhale. It is an impeccable pucker inducing crunch of a green sour apple with menthol that is mellow yet revitalizing for any palate. VGOD’s Apple Bomb Iced will detonate your taste buds all day long in 0mg, 3mg, 6mg, 12mg, or 18mg nicotine strengths!<br>
+</div>
+</div>
+<p><br><strong>E-Liquid Details:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Brand: VGOD</li>
+<li>Flavor: ICED APPLE BOMB E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li><strong><em>VG/PG: 50/50</em></strong></li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 3mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 6mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 12mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+      <title>3 mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 3mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+      <title>6 mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 6mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427573815</id>
+      <title>12 mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Apple Bomb - 12mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+    <published>2025-05-20T06:10:44+05:30</published>
+    <updated>2025-05-20T06:10:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-iced-berry-bomb"/>
+    <title>VGOD E Liquid - Iced Berry Bomb</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-iced-berry-bomb-eliquid.jpg?v=1756300732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0683/3504/2878/files/iced-berry-bomb-logo-min.png?v=1685910242" alt="vgod iced berry bomb"></p>
+<p>Berry Bomb Iced delivers true sensory elicitation of zesty red ripened strawberries wrapped in a soft sour strawberry belt candy mixed with a refreshing icy menthol finish. Berry Bomb Iced is super smooth, erupting with fruity tart sweetness and an icy chill that makes it absolutely delicious at every pull. Blast your taste buds with a bottle of VGOD’s Berry Bomb Iced today in 0mg, 3mg, 6mg, 12mg, or 18mg nicotine strengths!<br><br><strong>E-Liquid Details:</strong><br></p>
+<ul>
+<li>
+<strong>Brand: </strong>VGOD</li>
+<li>Flavor: ICED BERRY BOMB E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA</li>
+<li>
+<strong>Nicotine Type:</strong> Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD E Liquid - Berry Bomb - 3mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD E Liquid - Berry Bomb - 6mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD E Liquid - Berry Bomb - 12mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+      <title>3mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD E Liquid - Berry Bomb - 3mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+      <title>6mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD E Liquid - Berry Bomb - 6mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427541047</id>
+      <title>12mg (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD E Liquid - Berry Bomb - 12mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+    <published>2025-05-20T06:10:41+05:30</published>
+    <updated>2025-05-20T06:10:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-e-liquid-iced-mango-bomb"/>
+    <title>VGOD E Liquid - Iced Mango Bomb</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-iced-mango-bomb-eliquid.jpg?v=1756300731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="iced mango bomb logo" src="https://cdn.shopify.com/s/files/1/0683/3504/2878/files/iced-mangobomb-logo.png?v=1685910549"></p>
+<p>Mango Bomb Iced is a harmoniously balanced flavor that transports you directly to soft ripened yellow slices of a freshly peeled juicy mangoes with a frosty mentholated finish. The primary note of the mango fruit is delicately sweet and silky throughout the inhale straight through to the chilly exhale. It is an outright smooth mango menthol blast that offers maximum satisfaction in 0mg, 3mg, 6mg, 12mg, or 18mg nicotine strengths.<br><br><strong>E-Liquid Details:</strong><br></p>
+<ul>
+<li>
+<strong>Brand: </strong>VGOD</li>
+<li>Flavor: ICED BERRY BOMB E Liquid</li>
+<li>Bottle Size: 60mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA</li>
+<li>
+<strong>Nicotine Type:</strong> Freebase E liquid</li>
+<li>Available Nicotine Levels: 6mg / 12mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+      <title>3mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Mango Bomb - 3mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+      <title>6mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Mango Bomb - 6mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+      <title>12mg</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Mango Bomb - 12mg iced</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+      <title>3mg  (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Mango Bomb - 3mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+      <title>6mg  (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Mango Bomb - 6mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7283427508279</id>
+      <title>12mg  (Without Ice)</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>VGOD - Mango Bomb - 12mg without ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+

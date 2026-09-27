@@ -1,0 +1,1363 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/pod-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-01-14T21:02:45+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+    <published>2026-01-14T21:02:45+05:30</published>
+    <updated>2026-01-14T21:02:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-sour-blue-raspberry"/>
+    <title>POD SALT - Sour Blue Raspberry</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-vape-juice-sour-blue-raspberry.webp?v=1768404540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This candy inspired Nexus of tastes delivers all things sweet and sour. A ripe blend of sweet and sour raspberries for a zingy delight with each puff. Shop more <a title="Pod salt vape" href="https://[YOUR DOMAIN]/collections/pod-salts">Pod salt vape</a> favours from vapekenya.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sour Blue Raspberry 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sour Blue Raspberry 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sour Blue Raspberry 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+    <published>2026-01-14T20:52:23+05:30</published>
+    <updated>2026-01-14T20:52:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-sweet-strawberry-lemonade"/>
+    <title>POD SALT - Sweet Strawberry Lemonade</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-vape-liquid-sweet-strawberry-lemonade.webp?v=1768403829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Strawberry lemonade POD SALT NEXUS is sweet and reviving sensations is created by the combination of bubbly and fruity ingredients. For a refreshing vapour, we’ve blended luscious, sweet strawberries with zesty lemonade. zesty, sweet, and light. Shop more <a href="https://[YOUR DOMAIN]/collections/pod-salts" title="Pod salt vape">Pod salt vape</a> favours from vapekenya.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sweet Strawberry Lemonade 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sweet Strawberry Lemonade 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sweet Strawberry Lemonade 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7397896224823</id>
+    <published>2026-01-10T21:50:19+05:30</published>
+    <updated>2026-01-10T21:50:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-berry-melon-ice"/>
+    <title>POD SALT - Berry Lemon Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-berry-lemon-ice.webp?v=1768061809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Berry Lemon Ice Nic Salts vape juice brings nature’s finest together in a citrus, berry Nexus that tantalises with sweet, zingy, and refreshing waves. We’ve combined fresh lemons with fragrant sweet raspberries, dashed with an icy breeze, shop <a href="https://[YOUR DOMAIN]/collections/vape-kenya" title="Vape online">vape online</a> from [YOUR BRAND].</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7397896224823</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Berry Lemon Ice - 20mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7397896224823</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Berry Lemon Ice - 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7397896224823</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Berry Lemon Ice - 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373717536823</id>
+    <published>2025-11-18T09:25:30+05:30</published>
+    <updated>2025-11-18T09:25:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-red-apple-ice"/>
+    <title>Pod Salt Freebase - Red Apple Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-red-apple-ice.webp?v=1763437944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Core Freebase Red Apple Ice offers a delightfully classic and fresh vaping experience, with crisp red apples delivering signature sweetness in every puff. Enhanced by a cooling ice breeze, this blend is perfected with our award-winning freebase, providing a smooth and satisfying finish. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures leak-free refilling and a smooth, flavorful vape with every puff.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Red Apple with a Cool Breeze</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Cooling Effect: Light menthol icy finish<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717536823</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Red Apple Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717536823</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Red Apple Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373717241911</id>
+    <published>2025-11-18T09:20:52+05:30</published>
+    <updated>2025-11-18T09:20:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-blue-razapple-ice"/>
+    <title>Pod Salt Freebase - Blue Razapple Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-blue-raz-apple-ice.webp?v=1763437629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Razzapple Ice freebase vape juice is the cool take on the classic ice slushy flavour. Blending a sweet mix of juicy berries and Red’s famous, crisp apples, with refreshing ice. Blended with our award-winning Nicotine Salts for a truly satisfying vape and the smoothest experience available. Available in 3mg and 6mg nicotine strengths, it ensures a satisfying throat hit in a durable Gorilla bottle for all-day vaping enjoyment.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Berries &amp; Red Apples with Ice</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Rich flavor with a smooth throat hit<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717241911</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Blue Razapple Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717241911</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Blue Razapple Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373717012535</id>
+    <published>2025-11-18T09:14:27+05:30</published>
+    <updated>2025-11-18T09:14:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-cuban-creme"/>
+    <title>Pod Salt Freebase - Cuban Creme</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-cuban-creme.webp?v=1763437347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Cuban Creme 60ml is a premium blend that captures the bold essence of Cuban tobacco infused with a velvety cream finish. Designed for vapers who crave a smooth yet robust tobacco profile, this e-liquid delivers deep flavor and satisfying nicotine hits. Available in 3mg and 6mg, it comes in a Gorilla bottle, ensuring freshness and long-lasting performance.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Cuban Tobacco with Creamy Notes</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Strong flavor, smooth throat hit</li>
+<li>Experience: Rich, creamy, and satisfying tobacco blend</li>
+<li>Ideal For: Tobacco lovers looking for a premium creamy twist</li>
+<li>Aroma: Warm, smooth, and full-bodied</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717012535</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Cuban Creme - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373717012535</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Cuban Creme - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373716750391</id>
+    <published>2025-11-18T09:11:23+05:30</published>
+    <updated>2025-11-18T09:11:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-coffee"/>
+    <title>Pod Salt Freebase - Coffee</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-coffee.webp?v=1763437239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Coffee 60ml captures the authentic taste of rich, roasted coffee beans for an invigorating vape experience. Designed for coffee enthusiasts, this smooth freebase e-liquid delivers deep flavor with a satisfying throat hit. Available in 3mg and 6mg nicotine strengths, it provides consistent vapor production and an aromatic finish in a high-quality Gorilla bottle.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Freshly Brewed Coffee</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Intense flavor with smooth inhale</li>
+<li>Aroma: Strong coffee essence</li>
+<li>Experience: Perfect for coffee lovers seeking rich flavor satisfaction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716750391</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Coffee - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716750391</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Coffee - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373716521015</id>
+    <published>2025-11-18T09:09:37+05:30</published>
+    <updated>2025-11-18T09:09:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-caramel-tobacco"/>
+    <title>Pod Salt Freebase - Caramel Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-caramel-tobacco.webp?v=1763437134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the indulgent taste of Pod Salt Freebase Caramel Tobacco. This premium 60ml e-liquid combines the rich, earthy notes of classic tobacco with a silky caramel finish. Available in 3mg and 6mg nicotine strengths, it provides a smooth inhale and satisfying exhale, making it ideal for both transitioning smokers and dessert-tobacco flavor enthusiasts.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Classic Tobacco with Sweet Caramel</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg Available</li>
+<li>Freebase Formula: Strong flavor &amp; smooth inhale</li>
+<li>Taste Experience: Tobacco richness with creamy caramel sweetness</li>
+<li>Premium Quality: Consistent and satisfying hit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716521015</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Caramel Tobacco - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373716521015</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Caramel Tobacco - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715996727</id>
+    <published>2025-11-18T09:07:43+05:30</published>
+    <updated>2025-11-18T09:07:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-virginia-tobacco"/>
+    <title>Pod Salt Freebase - Virginia Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-virginia-tobacco.webp?v=1763436983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the authentic and refined taste of traditional Virginia tobacco with Pod Salt Freebase Virginia Tobacco. This premium 60ml e-liquid offers earthy, slightly sweet tobacco notes with a smooth exhale. Available in 3mg and 6mg nicotine strengths, it delivers a satisfying throat hit and consistent flavor, packaged in a leak-proof Gorilla bottle for easy refilling.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Classic Virginia Tobacco with earthy sweetness</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg available</li>
+<li>Freebase Formula: Smooth throat hit with rich vapor production</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715996727</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Virginia Tobacco - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715996727</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Virginia Tobacco - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715865655</id>
+    <published>2025-11-18T09:05:37+05:30</published>
+    <updated>2025-11-18T09:05:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-smooth-tobacco"/>
+    <title>Pod Salt Freebase - Smooth Tobacco</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-smooth-tobacco.webp?v=1763436877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Smooth Tobacco delivers the classic taste of premium tobacco with a smooth, mellow finish for an authentic vaping experience. This 60ml e-liquid is available in 3mg and 6mg nicotine strengths, perfectly crafted for those who enjoy a rich tobacco flavor without harshness. Packaged in a Gorilla bottle, it ensures easy refilling and consistent performance.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Smooth and Rich Tobacco</li>
+<li>Bottle Size: 60ml Gorilla Bottle (leak-proof design)</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Designed for realistic tobacco satisfaction</li>
+<li>Vaping Style: Ideal for DTL and restricted DTL vaping</li>
+<li>Premium Quality: Authentic taste, perfect for smokers switching to vaping</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715865655</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Smooth Tobacco - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715865655</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Smooth Tobacco - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715734583</id>
+    <published>2025-11-18T09:03:16+05:30</published>
+    <updated>2025-11-18T09:03:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-watermelon-breeze"/>
+    <title>Pod Salt Freebase - Watermelon Breeze</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-watermelon-breeze.webp?v=1763436729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the crisp and juicy taste of ripe watermelon with a cool menthol twist in Pod Salt Freebase Watermelon Breeze. This refreshing 60ml e-liquid offers a perfect balance of fruity sweetness and breezy coolness. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures leak-free refilling and a smooth, flavorful vape with every puff.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Sweet Watermelon with a Cool Breeze</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Cooling Effect: Light menthol icy finish</li>
+<li>Freebase Formula: Ideal for rich flavor and dense clouds</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715734583</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Watermelon Breeze - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715734583</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Watermelon Breeze - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373715537975</id>
+    <published>2025-11-18T09:00:59+05:30</published>
+    <updated>2025-11-18T09:00:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-spearmint"/>
+    <title>Pod Salt Freebase - Spearmint</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-spearmint.webp?v=1763436560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the perfect balance of freshness and smoothness with Pod Salt Freebase Spearmint. This premium 60ml e-liquid delivers a clean, minty flavor that refreshes your senses with every puff. Available in 3mg and 6mg nicotine strengths, it provides a silky inhale and cool exhale. The Gorilla bottle ensures easy handling and a leak-proof vaping experience.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Refreshing Spearmint</li>
+<li>Bottle Size: 60ml Gorilla Bottle (leak-resistant)</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg options</li>
+<li>Freebase Formula: Smooth throat hit with rich vapor<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715537975</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Spearmint - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373715537975</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Spearmint - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373714718775</id>
+    <published>2025-11-18T08:58:24+05:30</published>
+    <updated>2025-11-18T08:58:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-grape"/>
+    <title>Pod Salt Freebase - Grape</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-grape.webp?v=1763436416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the bold, juicy taste of ripe grapes with Pod Salt Freebase Grape. This premium 60ml e-liquid offers a naturally sweet grape flavor with smooth throat hit and dense vapor production. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures easy refilling and a mess-free vaping experience, perfect for everyday use.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Sweet and juicy grape</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Designed for rich flavor and cloud production</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714718775</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Grape - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714718775</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Grape - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373714620471</id>
+    <published>2025-11-18T08:55:45+05:30</published>
+    <updated>2025-11-18T08:55:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-strawberry-kiwi-ice"/>
+    <title>Pod Salt Freebase - Strawberry Kiwi Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-strawberry-kiwi-ice.webp?v=1763436285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the refreshing blend of ripe strawberries and tangy kiwi with Pod Salt Freebase Strawberry Kiwi Ice. This 60ml e-liquid delivers a fruity burst followed by a cool icy exhale, perfect for vapers who enjoy balanced sweetness with menthol freshness. Available in 3mg and 6mg nicotine strengths, the Gorilla bottle ensures easy refilling and leak-free vaping for all-day enjoyment.</p>
+<p>Features:<br></p>
+<ul>
+<li>Flavour Profile: Strawberry &amp; Kiwi with Ice</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Perfect for cloud production and smooth hit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714620471</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Strawberry Kiwi Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373714620471</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Strawberry Kiwi Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7373712130103</id>
+    <published>2025-11-18T08:52:02+05:30</published>
+    <updated>2025-11-18T08:52:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-freebase-mango-ice"/>
+    <title>Pod Salt Freebase - Mango Ice</title>
+    <s:type>E Liquid</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-freebase-eliquid-mango-ice.webp?v=1763436015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>E Liquid<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Freebase Mango Ice Cream 60ml offers a luxurious blend of juicy mangoes and creamy ice cream with a refreshing icy twist. This premium freebase e-liquid delivers smooth vapor, rich dessert flavor, and a cool finish. Available in 3mg and 6mg nicotine strengths, it ensures a satisfying throat hit in a durable Gorilla bottle for all-day vaping enjoyment.</p>
+<p>Features:</p>
+<ul>
+<li>Flavour Profile: Tropical Mango with Creamy Ice Cream &amp; Ice</li>
+<li>Bottle Size: 60ml Gorilla Bottle</li>
+<li>Nicotine Strengths: 3mg &amp; 6mg</li>
+<li>Freebase Formula: Rich flavor with a smooth throat hit</li>
+<li>Experience: Dessert-style vape with icy refreshment</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373712130103</id>
+      <title>3MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Mango Ice - 3 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7373712130103</id>
+      <title>6MG</title>
+      <s:price currency="KES">1699.00</s:price>
+      <s:sku>Pod S - Mango Ice - 6 MG</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350681632823</id>
+    <published>2025-10-08T05:11:30+05:30</published>
+    <updated>2025-10-08T05:11:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-blueberry-pomegranate"/>
+    <title>POD SALT - Blueberry Pomegranate</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Blueberry_Pomegranate_Nic_Salt_E-Liquid_by_Pod_Salt.webp?v=1759879899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blueberry Pomegranate by Pod Salt Core is fuses tart notes of blueberry with a delicate sweetness of pomegranate. A rich blueberry inhale is joined with slight exotic notes of pomegranate.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350681632823</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Blueberry Pomegranate - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350681632823</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Blueberry Pomegranate - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350681632823</id>
+      <title>20mg/ml ( 2.0% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Blueberry Pomegranate - 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350681272375</id>
+    <published>2025-10-08T05:09:07+05:30</published>
+    <updated>2025-10-08T05:09:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-pear-apple-raspberry"/>
+    <title>POD SALT - Pear Apple Raspberry</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod_salt_pear_apple_raspberry_salt_f8425c11-bb1d-447d-ac8c-507453bd93e6.webp?v=1759880216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Nexus Pear Apple Raspberry captures the essence of a classic British garden in every puff. Mellow pears, crisp apples, and sweet raspberries combine for a fresh and fruity blend. A subtle hint of tartness adds the perfect finishing touch to this vibrant and flavorful <a href="https://www.[YOUR DOMAIN]" title="Vape">vape</a>.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350681272375</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Pear Apple Raspberry -  25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350681272375</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Pear Apple Raspberry -  50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350681272375</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Pear Apple Raspberry -  20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7350679404599</id>
+    <published>2025-10-08T05:06:06+05:30</published>
+    <updated>2025-10-08T05:06:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-grape"/>
+    <title>POD SALT - Grape</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Pod-Salt-NicSalt-Core-Grape.webp?v=1759879900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A tangy delight that’s fresh and bursting with juicy notes, Grape Ice Core Nic Salts vape juice is a fun and fruity flavour you can enjoy all day. Fragrant, mouth-watering grapes blend with chilling ice.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. Have a look at our <a href="https://www.[YOUR DOMAIN]/" title="latest vape">latest vape</a> collection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350679404599</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Grape - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350679404599</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Grape - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7350679404599</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Grape - 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7322163019831</id>
+    <published>2025-08-04T04:07:22+05:30</published>
+    <updated>2025-08-04T04:07:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-strawberry-marshmallow"/>
+    <title>POD SALT - Strawberry Marshmallow</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-marshmallow-strawberry-marshmallow-salts-30ml.webp?v=1754245514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A smooth and creamy blend of POD SALT Marshmallow and strawberries for an indulgent and fruity vape. Finished with a touch of sweet vanilla. If you like your dessert vapes, you’re going to love this combination of strawberry and marshmallow.<br></p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322163019831</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Strawberry Marshmallow - 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7322163019831</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Strawberry Marshmallow - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290979811383</id>
+    <published>2025-06-16T06:57:07+05:30</published>
+    <updated>2025-06-16T06:57:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-fresh-raspberry-mint"/>
+    <title>POD SALT - Fresh Raspberry Mint</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/fresh_raspberry_mint_podsalt_kenya.jpg?v=1750036938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pod Salt Nexus Fresh Raspberry Mint offers a classic minty vape with a sweet, fruity twist. Juicy raspberries blend seamlessly with refreshing mint and a hint of citrus. This cool and invigorating combination delivers a perfectly balanced and delightful vaping experience.<br></p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 20mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290979811383</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Fresh Raspberry Mint 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290979811383</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Fresh Raspberry Mint 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290978992183</id>
+    <published>2025-06-16T06:47:55+05:30</published>
+    <updated>2025-06-16T06:47:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-blue-ice"/>
+    <title>POD SALT - Blue Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-blue-ice.jpg?v=1750036500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feel the freeze with Blue Ice Nic Salts vape juice, a sweet, icy flavour that’s a great all day vape. A delightful blend of juicy Blueberry and refreshing ice. Blended with our award-winning Nicotine Salt formula.<br></p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290978992183</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Blue Ice 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290978992183</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Blue Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290768162871</id>
+    <published>2025-06-14T21:30:35+05:30</published>
+    <updated>2025-06-14T21:30:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-orange-mango-lime"/>
+    <title>POD SALT - Orange Mango Lime</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-nexus-orange-mango-lime-min.jpg?v=1749916836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">Orange Mango Lime</strong><span data-mce-fragment="1">: A zesty blend of citrus and tropical flavors, this e-liquid combines the sweet, tangy taste of oranges and mangoes with a sharp lime finish. It's a bright, refreshing mix that offers a juicy, flavorful vaping experience, with a perfect balance of sweetness and acidity that's sure to tantalize your taste buds.</span><br data-mce-fragment="1"></p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 20mg/30mg/50mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best <a title="Pod Salt" href="https://[YOUR DOMAIN]/collections/pod-salts">Pod Salt</a> experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768162871</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Orange Mango Lime 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768162871</id>
+      <title>30mg/ml ( 3% Nicotine)</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Orange Mango Lime 30 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768162871</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Orange Mango Lime 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290768130103</id>
+    <published>2025-06-14T21:30:33+05:30</published>
+    <updated>2025-06-14T21:30:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-pineapple-passion-lime"/>
+    <title>POD SALT - Pineapple Passion Lime</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Pod-salt-pineapple-passion-lime-min.jpg?v=1749916834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">Pineapple Passion Lime</strong><span data-mce-fragment="1">: An exotic fusion of juicy pineapple, tart passionfruit, and zesty lime. This e-liquid offers a tropical taste sensation, with each puff delivering a burst of fruity flavors that are both sweet and tangy.</span><br data-mce-fragment="1"></p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 20mg/30mg/50mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best <a title="Pod Salt" href="https://[YOUR DOMAIN]/collections/pod-salts">Pod Salt</a> experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768130103</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Pineapple Passion Lime 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768130103</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Pineapple Passion Lime 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768130103</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Pineapple Passion Lime 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290768097335</id>
+    <published>2025-06-14T21:30:31+05:30</published>
+    <updated>2025-06-14T21:30:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-red-apple-ice"/>
+    <title>POD SALT - Red Apple Ice</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Pod-salt-red-apple-ice-min.jpg?v=1749916832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">Red Apple Ice</strong><span data-mce-fragment="1">: A crisp, refreshing blend that marries the sweet taste of ripe red apples with a cool menthol exhale. This e-liquid delivers a perfectly balanced flavor profile, combining the natural sweetness of apples with an icy kick, making it an ideal choice</span><br data-mce-fragment="1"></p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 20mg/25mg/50mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod Salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768097335</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Red Apple Ice 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768097335</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Red Apple Ice 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768097335</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Red Apple Ice 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7290768064567</id>
+    <published>2025-06-14T21:30:29+05:30</published>
+    <updated>2025-06-14T21:30:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-virginia-gold"/>
+    <title>POD SALT - Virginia Gold</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-virginia-gold-min.jpg?v=1749916830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong data-mce-fragment="1">Virginia Gold</strong><span data-mce-fragment="1">: Capturing the essence of golden Virginia tobacco, this e-liquid exudes a smooth, mellow flavor with a touch of natural sweetness. It's a refined choice for those who appreciate the subtle complexities of Virginia tobacco, offering a light, aromatic vaping experience that's both satisfying and sophisticated.</span><br data-mce-fragment="1">
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 20mg/30mg/50mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod Salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768064567</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Virginia Gold 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768064567</id>
+      <title>30mg/ml ( 3% Nicotine)</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Virginia Gold 30 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7290768064567</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Virginia Gold 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+
+

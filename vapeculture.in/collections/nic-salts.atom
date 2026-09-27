@@ -1,0 +1,1419 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://[YOUR DOMAIN]/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://[YOUR DOMAIN]/collections/nic-salts.atom"/>
+  <title>[YOUR BRAND]</title>
+  <updated>2026-04-04T05:58:21+05:30</updated>
+  <author>
+    <name>[YOUR BRAND]</name>
+  </author>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436857933879</id>
+    <published>2026-04-04T05:58:21+05:30</published>
+    <updated>2026-04-04T05:58:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/nasty-juice-cubano-nic-salt"/>
+    <title>Nasty Juice - Cubano Nic Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>Nasty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/nasty-juice-cubano-nic-salt.webp?v=1775262095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nasty<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the bold sophistication of a classic cigar in a smooth, modern form with Nasty Juice Cubano Nic Salt. Crafted for those who appreciate deep, rich flavours, this blend delivers a luxurious tobacco profile with subtle creamy undertones—perfect for an all-day vape.</p>
+<p><a href="https://[YOUR DOMAIN]/collections/nasty-nic-salts" title="Nasty juice salt">Nasty Juice Salt</a> E-liquid Specifications:</p>
+<ul>
+<li>Brand: Nasty Juice<br>
+</li>
+<li>Category: Salt E-liquid<br>
+</li>
+<li>Bottle Size: 30 ml<br>
+</li>
+<li>Strengths: 35 mg and 50 mg<br>
+</li>
+<li>Blend: 50% VG / 50% PG<br>
+</li>
+<li>E-liquid Type: Nicotine salt for tight MTL use<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436857933879</id>
+      <title>35MG</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>Nasty Juice - Cubano 35 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436857933879</id>
+      <title>50MG</title>
+      <s:price currency="KES">1750.00</s:price>
+      <s:sku>Nasty Juice - Cubano 50 mg</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+    <published>2026-04-03T07:06:08+05:30</published>
+    <updated>2026-04-03T07:06:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-double-apple"/>
+    <title>VGOD Nicotine Salt - Double Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/vgod-saltnic-double-apple-nicotine-salt.webp?v=1775180064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Mix Iced Double Apple 30ml: Savor a robust blend of succulent red and green apples, where sour and sweetness coexist together. The clean, thrilling ice blast elevates the fresh, lively taste of ripe apples in every puff, locking in the flavor and leaving you wanting more. Shop vaping devices at best <a href="https://[YOUR DOMAIN]" title="vape price">vape price</a> in Kenya!</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 25 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>25 mg with Ice</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 25 Mg with Ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348751927</id>
+      <title>50 mg with ice</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Double Apple - 50 Mg with Ice</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+    <published>2026-04-03T07:01:55+05:30</published>
+    <updated>2026-04-03T07:01:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-desert-blend"/>
+    <title>VGOD Nicotine Salt - Desert Blend</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Tobacco-Plus-Saltnic-30ml-Desert-Blend.webp?v=1775179793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Tobacco Plus Desert Blend SaltNic delivers the authentic taste of dry tobacco leaves with an earthy, smooth profile enhanced by a hint of spice. This warm and aromatic blend is balanced and clean, making it an excellent choice for an all-day vape. Available in 20mg, 25mg, and 50mg strengths in a 30ml bottle. Shop from vapekenya and get best <a href="https://[YOUR DOMAIN]" title="e cigarette price">e cigarette price</a> in Kenya.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Desert Blend - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348555319</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Desert Blend - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+    <published>2026-04-03T06:58:09+05:30</published>
+    <updated>2026-04-03T06:58:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-pina-colada"/>
+    <title>VGOD Nicotine Salt - Pina Colada</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-30ml-Iced-Pina-Colada.webp?v=1775179523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transport yourself to a tropical escape with VGOD MIX – Iced Piña Colada, a refreshing nicotine salt blend that delivers the perfect balance of creamy coconut, sweet pineapple, and a crisp icy finish. Each puff captures the iconic beach-inspired cocktail flavor, offering a smooth, cool, and flavorful vape experience ideal for hot days or all-day freshness. Shop from vapekenya and get best <a href="https://[YOUR DOMAIN]" title="e cigarette price">e cigarette price</a> in Kenya.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pina Colada - 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7436348260407</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Pina Colada - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+    <published>2026-02-20T07:17:26+05:30</published>
+    <updated>2026-02-20T07:17:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-orange-soda-salt"/>
+    <title>BLVK Bar - Orange Soda Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/orange-soda-blvk-bar-hyper-ice.webp?v=1771551964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Orange Soda 35 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237911095</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Orange Soda 50 Mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+    <published>2026-02-20T07:15:29+05:30</published>
+    <updated>2026-02-20T07:15:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-peach-salt"/>
+    <title>BLVK Bar - Juicy Peach Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-peach-blvk-bar-hyper-ice.webp?v=1771551858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Peach Salt 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237812791</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Peach Salt 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+    <published>2026-02-20T07:13:16+05:30</published>
+    <updated>2026-02-20T07:13:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-passion-salt"/>
+    <title>BLVK Bar - Juicy Passion Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-passion-blvk-bar-hyper-ice.webp?v=1771551706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Passion Salt 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237681719</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Passion Salt 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+    <published>2026-02-20T07:11:01+05:30</published>
+    <updated>2026-02-20T07:11:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-berry-grape-salt"/>
+    <title>BLVK Bar - Berry Grape Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/Berry-Grape-blvk-bar-hyper-ice.webp?v=1771551518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Bar Hyper Ice Salt Nic Liquid delivers an ultra-intense cooling sensation paired with bold, vibrant fruit flavors. Inspired by disposable vape profiles, this 30ml e-liquid brings a punchy, ice-cold experience to refillable pod systems. With a balanced VG/PG ratio for low-wattage devices and strong 35mg &amp; 50mg nicotine options, it provides smooth throat hits and fast satisfaction.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Berry Grape 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237485111</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Berry Grape 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+    <published>2026-02-20T07:07:27+05:30</published>
+    <updated>2026-02-20T07:07:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-passion-peach-salt"/>
+    <title>BLVK Bar - Passion Peach Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/passion-peach-blvk-bar-nicotine-salt.webp?v=1771551379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your senses with the likes of juicy passion fruit, succulent peach, and an intense icy breeze. It's surely a tropical symphony of sweet &amp; exotic joy time and again.<br></p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Passion Peach - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418237091895</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Passion Peach - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+    <published>2026-02-20T07:00:09+05:30</published>
+    <updated>2026-02-20T07:00:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-kiwi-dragon-fruit"/>
+    <title>BLVK Bar - Kiwi Dragon Fruit Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/KIWI-DRAGON-FRUIT-30ML-BY-BLVK-BAR.webp?v=1771550788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BLVK Salt Kiwi Dragon Fruit Ice delivers a vibrant tropical blend of tangy kiwi and sweet dragon fruit, finished with a crisp menthol chill. This refreshing combination creates a smooth, icy vape that’s both fruity and invigorating — perfect for those who enjoy cool flavors with an exotic twist.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>Nicotine Salt Formulation</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Kiwi Dragon Fruit - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418236665911</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Kiwi Dragon Fruit - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+    <published>2026-02-20T06:55:38+05:30</published>
+    <updated>2026-02-20T06:55:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-juicy-mango"/>
+    <title>BLVK Bar - Juicy Mango</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/juicy-mango-blvk-bar-nicotine-salt.webp?v=1771550411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a burst of icy freshness with Juicy Mango Ice BLVK Salt Nic E-Juice. This 30ml blend delivers a succulent burst of sun-kissed mango chunks paired with an intense winter chill deliver a noteworthy tropical getaway experience. Shop now and elevate your vape with this chilling classic.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Mango - 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235945015</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Juicy Mango - 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+    <published>2026-02-20T06:49:37+05:30</published>
+    <updated>2026-02-20T06:49:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-double-spearmint-salt"/>
+    <title>BLVK Bar - Double Spearmint Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/double-spearmint-blvk-bar-nicotine-salt.webp?v=1771550161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a burst of icy freshness with Double Spearmint Ice BLVK Mint Salt Nic E-Juice. This 30ml blend delivers cool spearmint flavor layered with a crisp menthol finish for a clean, refreshing vape every time. Perfect for mint lovers seeking a smooth, satisfying hit. Shop now and elevate your vape with this chilling classic.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Double Spearmint 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235846711</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Double Spearmint 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+    <published>2026-02-20T06:44:35+05:30</published>
+    <updated>2026-02-20T06:44:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-american-tobacco-salt"/>
+    <title>BLVK Bar - American Tobacco Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/AMERICAN-TOBACCO-30ML-BY-BLVK-BAR.webp?v=1771549905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience smooth satisfaction with BLVK Bar Saltnic 30ml E-Liquid, crafted for rich flavor and a clean throat hit. This tobacco blend delivers the classis tobacco taste, a bold taste, on every puff. Shop Blvk nicotine salts at best price in Kenya only at vapekenya.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - American Tobacco 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418235682871</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - American Tobacco 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+    <published>2026-02-20T06:40:28+05:30</published>
+    <updated>2026-02-20T06:40:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/blvk-bar-watermelon-gummy-salt"/>
+    <title>BLVK Bar - Watermelon Gummy Salt</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>BLVK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/watermelon-gummy-blvk-bar-nicotine-salt.webp?v=1771549690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLVK<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience smooth satisfaction with BLVK Bar Saltnic 30ml E-Liquid, crafted for rich flavor and a clean throat hit. This fruity blend delivers the tart kick of watermelon, a hint of sweetness, and a refreshing icy finish on every puff.</p>
+<p>Features:</p>
+<ul>
+<li>50/50 VG/PG — ideal for pod systems<br>
+</li>
+<li>30 mL bottle with child-resistant cap<br>
+</li>
+<li>Pre-steeped and ready to vape<br>
+</li>
+<li>Available in 35 mg &amp; 50 mg nicotine<br>
+</li>
+<li>Made in the USA by BLVK Bar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+      <title>35mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Watermelon Gummy 35 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7418234929207</id>
+      <title>50mg</title>
+      <s:price currency="KES">1650.00</s:price>
+      <s:sku>BLVK Bar - Watermelon Gummy 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399972143159</id>
+    <published>2026-01-15T02:04:59+05:30</published>
+    <updated>2026-01-15T02:04:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-tropical-reserve"/>
+    <title>VGOD Nicotine Salt - Tropical Reserve</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD_TROPICAL_RESERVE_VAPE_JUICE_30ml_SaltNic.webp?v=1768422837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing VGOD Salt Nic Labs Tobacco+ Tropical Reserve, a captivating e-liquid that masterfully blends the essence of rich, smoky tobacco with an enticing medley of tropical fruits. This exquisite flavor profile features juicy pineapple, succulent mango, and a hint of zesty citrus, creating a vibrant and refreshing twist on the classic tobacco experience.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399972143159</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Tropical Reserve 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399972143159</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Tropical Reserve 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399971520567</id>
+    <published>2026-01-15T02:02:37+05:30</published>
+    <updated>2026-01-15T02:02:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-mango-passion-fruit"/>
+    <title>VGOD Nicotine Salt - Iced Mango Passion Fruit</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Mango-Passionfruit.webp?v=1768422629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delight in the tropical duo of VGOD Iced Mango Passionfruit, a SaltNic e-liquid that combines the sweet, juicy taste of ripe mango with tangy passionfruit and a refreshing icy finish. Each puff is smooth, fruity, and invigorating.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399971520567</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Passion Fruit 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399971520567</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Passion Fruit 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399970537527</id>
+    <published>2026-01-15T01:57:07+05:30</published>
+    <updated>2026-01-15T01:57:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-black-cherry"/>
+    <title>VGOD Nicotine Salt - Iced Black Cherry</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Black-Cherry.webp?v=1768422350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a vape juice that has the unique VGOD smoothness and a cool, iced fruit flavor ? Vapers who enjoy a cold, fruity punch with each inhalation are the ideal market for VGOD Iced Mix Series Salt. This blend, created by VGOD Saltnic Labs, is ideal for daily vaping, especially in the heat of the Kenya, as it highlights crisp fruit traits coupled with a clean menthol coolness.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970537527</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Black Cherry 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970537527</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Black Cherry 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399970078775</id>
+    <published>2026-01-15T01:54:55+05:30</published>
+    <updated>2026-01-15T01:54:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-strawberry-apple"/>
+    <title>VGOD Nicotine Salt - Iced Strawberry Apple</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Strawberry-Apple.webp?v=1768422196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a vape juice that has the unique VGOD smoothness and a cool, iced fruit flavor ? Vapers who enjoy a cold, fruity punch with each inhalation are the ideal market for VGOD Iced Mix Series Salt. This blend, created by VGOD Saltnic Labs, is ideal for daily vaping, especially in the heat of the Kenya, as it highlights crisp fruit traits coupled with a clean menthol coolness.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970078775</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Strawberry Apple 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399970078775</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Strawberry Apple 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399880622135</id>
+    <published>2026-01-14T23:16:30+05:30</published>
+    <updated>2026-01-14T23:16:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-berry-pomegranate"/>
+    <title>VGOD Nicotine Salt - Iced Berry Pomegranate</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Berry-Pomegranate.jpg?v=1768412617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a vape juice that has the unique VGOD smoothness and a cool, iced fruit flavor ? Vapers who enjoy a cold, fruity punch with each inhalation are the ideal market for VGOD Iced Mix Series Salt. This blend, created by VGOD Saltnic Labs, is ideal for daily vaping, especially in the heat of the Kenya, as it highlights crisp fruit traits coupled with a clean menthol coolness.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 50/50</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399880622135</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Berry Pomegranate 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399880622135</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Berry Pomegranate 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+    <published>2026-01-14T21:02:45+05:30</published>
+    <updated>2026-01-14T21:02:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-sour-blue-raspberry"/>
+    <title>POD SALT - Sour Blue Raspberry</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-vape-juice-sour-blue-raspberry.webp?v=1768404540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This candy inspired Nexus of tastes delivers all things sweet and sour. A ripe blend of sweet and sour raspberries for a zingy delight with each puff. Shop more <a title="Pod salt vape" href="https://[YOUR DOMAIN]/collections/pod-salts">Pod salt vape</a> favours from vapekenya.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sour Blue Raspberry 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sour Blue Raspberry 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399854178359</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sour Blue Raspberry 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+    <published>2026-01-14T20:52:23+05:30</published>
+    <updated>2026-01-14T20:52:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/pod-salt-sweet-strawberry-lemonade"/>
+    <title>POD SALT - Sweet Strawberry Lemonade</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>POD SALT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/pod-salt-vape-liquid-sweet-strawberry-lemonade.webp?v=1768403829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>POD SALT<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Strawberry lemonade POD SALT NEXUS is sweet and reviving sensations is created by the combination of bubbly and fruity ingredients. For a refreshing vapour, we’ve blended luscious, sweet strawberries with zesty lemonade. zesty, sweet, and light. Shop more <a href="https://[YOUR DOMAIN]/collections/pod-salts" title="Pod salt vape">Pod salt vape</a> favours from vapekenya.</p>
+<ul>
+<li>Bottle size: 30ml</li>
+<li>Nicotine Strength: 25mg</li>
+<li>Ratio: 50VG/50PG</li>
+<li>Made in the UK</li>
+<li>TPD Compliant</li>
+</ul>
+<p>For the best Pod nic salt experience, we recommend MTL style vaping, and any low-wattage device using 10-20 watts with medium to tight draw, 0.8-1.2ohm resistance. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+      <title>20mg/ml ( 2% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sweet Strawberry Lemonade 20 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+      <title>25mg/ml ( 2.5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sweet Strawberry Lemonade 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399848247351</id>
+      <title>50mg/ml ( 5% Nicotine )</title>
+      <s:price currency="KES">1599.00</s:price>
+      <s:sku>POD S - Sweet Strawberry Lemonade 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399711965239</id>
+    <published>2026-01-14T20:12:37+05:30</published>
+    <updated>2026-01-14T20:12:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-iced-blue-razz"/>
+    <title>VGOD Nicotine Salt - Iced Blue Razz</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Blue-Razz-SaltNic-E-Liquid.webp?v=1768401483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the invigorating rush of VGOD Salt Nic Labs Iced MIX Blue Razz vape liquid, where every puff delivers a symphony of tantalizing flavors. Crafted to perfection, this e-liquid combines the essence of ripe, juicy blueberries with the tangy allure of crisp raspberries.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399711965239</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Blue Razz 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399711965239</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Blue Razz 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399409451063</id>
+    <published>2026-01-13T06:14:12+05:30</published>
+    <updated>2026-01-13T06:14:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-mango-honeydew"/>
+    <title>VGOD Nicotine Salt - Iced Mango Honeydew</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Iced-Mix-Series-Salt-Iced-Mango-Honeydew.webp?v=1768264870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VGOD Mix Iced Mango Honeydew 30mL Salt Nic vape flavour offers a vibrant and refreshing blend that perfectly balances tropical sweetness with a crisp, cooling finish. Experience the luscious, juicy sweetness of ripe mango paired with the mellow, subtly sweet flavor of honeydew melon, all wrapped up with a cool menthol breeze that refreshes your palate.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409451063</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Honeydew 25 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409451063</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Iced Mango Honeydew 50 mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399410171959</id>
+    <published>2026-01-13T06:06:54+05:30</published>
+    <updated>2026-01-13T06:06:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-american-black-woods"/>
+    <title>VGOD Nicotine Salt - American Black Woods</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-American-black-woods-SaltNic-E-Liquid.jpg?v=1768264384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Full-bodied and bold, American Back Tobacco vape flavour refill delivers authentic dry tobacco flavor with a hint of smoky edge. Strong, smooth, and classic—built for those who want their vape as rugged and real as it gets.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399410171959</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - American Black Woods 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399410171959</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - American Black Woods 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://[YOUR DOMAIN]/products/7399409156151</id>
+    <published>2026-01-13T05:58:22+05:30</published>
+    <updated>2026-01-13T05:58:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://[YOUR DOMAIN]/products/vgod-nicotine-salt-bubble-grape"/>
+    <title>VGOD Nicotine Salt - Bubble Grape Iced</title>
+    <s:type>NIC SALTS</s:type>
+    <s:vendor>VGOD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/6799/5959/files/VGOD-Bubble-Grape-SaltNic-E-Liquid.webp?v=1768264032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VGOD<br>
+        <strong>Type: </strong>NIC SALTS<br>
+        <strong>Price: </strong>
+            1525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iced Bubble Grapes by VGOD SaltNic Mix is the vape juice equivalent of blowing a grape-flavored bubble, but with an icy twist. VGOD captures the essence of your favorite grape gum with an icy finish for a cooling effect. If you’re looking for a nostalgic <a href="https://[YOUR DOMAIN]/collections/nic-salts" title="Vape refill">vape refill</a> flavor or something refreshing, Iced Bubble Grapes is your new go-to.</p>
+<p><strong>Nic Salt Details:</strong><br></p>
+<ul>
+<li>Brand: VGOD<br>
+</li>
+<li>Bottle Size: 30mL</li>
+<li>Bottle Type: Chubby Unicorn Bottle</li>
+<li>VG/PG: 45/55</li>
+<li>Made in USA<br>
+</li>
+<li>Nicotine Type: Salt Nicotine</li>
+<li>Available Nicotine Levels: 25mg / 50mg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409156151</id>
+      <title>25mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Bubble Grape Iced 25mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://[YOUR DOMAIN]/products/7399409156151</id>
+      <title>50mg</title>
+      <s:price currency="KES">1525.00</s:price>
+      <s:sku>VGOD - Bubble Grape Iced 50mg</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
+
+
+
+
