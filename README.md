@@ -11,6 +11,14 @@
 
 ## 📸 Screenshots
 
+### Updated storefront collections
+
+![Vape collection](screenshots/vape-collection.png)
+
+![E-liquid collection](screenshots/eliquid-collection.png)
+
+![All products](screenshots/all-products.png)
+
 ### 🏠 Storefront Homepage & Hero
 ![Homepage](screenshots/homepage.jpg)
 
